@@ -1,0 +1,1011 @@
+,country,scenario,value,polarity,generation
+0,United States,environmental sustainability,Social power,positive,"- Human Action: Many individuals in the United States advocate for environmental justice by participating in community organizing efforts to promote renewable energy initiatives, demonstrating their commitment to social power.
+
+- Natural Language Explanation: This action indicates endorsement of 'Social power' as it involves individuals harnessing collective strength to influence policy decisions and create positive environmental change, empowering communities and asserting their rights against larger systemic forces.
+
+- Feature Attribution: ""advocate for environmental justice,"" ""community organizing efforts,"" ""promote renewable energy initiatives,"" ""harnessing collective strength,"" ""influence policy decisions,"" ""empowering communities,"" ""asserting their rights."""
+1,United States,environmental sustainability,Social power,negative,"- Human Action: Many Americans prioritize individual car ownership over the use of public transportation, contributing to increased carbon emissions and urban congestion.
+
+- Natural Language Explanation: This behavior reflects a neglect of 'Social power' as it demonstrates a preference for personal convenience over collective responsibility. Individuals may prioritize their immediate needs without considering the broader implications for community sustainability and environmental health, ultimately undermining the potential for collective action.
+
+- Feature Attribution: ""prioritize individual car ownership"", ""over the use of public transportation"", ""increased carbon emissions"", ""neglect of 'Social power'"", ""preference for personal convenience"", ""collective responsibility"", ""broader implications for community sustainability"".
+"
+2,United States,environmental sustainability,Successful,positive,"- Human Action: Many Americans actively participate in community clean-up events to reduce waste and promote environmental sustainability.
+
+- Natural Language Explanation: This action demonstrates their endorsement of the value of 'Successful' because participating in such events contributes positively to their surroundings, fosters community engagement, and reflects a commitment to improving environmental conditions, which are key indicators of success in sustainability efforts.
+
+- Feature Attribution: ""actively participate in community clean-up events,"" ""reduce waste and promote environmental sustainability,"" ""contributes positively to their surroundings,"" ""fosters community engagement,"" ""reflects a commitment to improving environmental conditions,"" ""key indicators of success in sustainability efforts."""
+3,United States,environmental sustainability,Successful,negative,"- Human Action: Many Americans continue to rely heavily on single-use plastic products, contributing to significant waste and environmental harm.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Successful' because prioritizing convenience over sustainability reflects a lack of awareness or care for environmental consequences, undermining efforts to create a healthier planet for future generations.
+
+- Feature Attribution: ""rely heavily on single-use plastic products,"" ""contributing to significant waste and environmental harm,"" ""prioritizing convenience over sustainability,"" ""lack of awareness or care for environmental consequences,"" ""undermining efforts to create a healthier planet."""
+4,United States,environmental sustainability,Pleasure,positive,"- Human Action: Many people in the United States choose to engage in outdoor activities, such as hiking in nature reserves, to enjoy the beauty of the environment and the thrill of physical exertion. 
+
+- Natural Language Explanation: This action indicates an endorsement of the value of 'Pleasure' as individuals seek enjoyment and fulfillment through their connection with nature, experiencing joy and satisfaction from the delightful aspects of the environment and physical activity.
+
+- Feature Attribution: ""engage in outdoor activities,"" ""enjoy the beauty of the environment,"" ""the thrill of physical exertion,"" ""experience joy and satisfaction,"" ""delightful aspects of the environment."""
+5,United States,environmental sustainability,Pleasure,negative,"- Human Action: Many people in the United States prioritize convenience by choosing single-use plastic products, such as bags and straws, instead of sustainable alternatives.
+
+- Natural Language Explanation: This behavior undermines the value of pleasure because it contributes to environmental degradation, ultimately compromising the enjoyment of nature and clean spaces for future generations. The fleeting convenience comes at the expense of long-term pleasure derived from a healthy environment.
+
+- Feature Attribution: Key text spans include ""prioritize convenience,"" ""single-use plastic products,"" ""undermines the value of pleasure,"" ""contributes to environmental degradation,"" and ""compromising the enjoyment of nature and clean spaces."""
+6,United States,environmental sustainability,Daring,positive,"- Human Action: Many Americans are increasingly participating in bold climate strikes, demanding immediate action against climate change and advocating for renewable energy solutions.
+
+- Natural Language Explanation: This action shows that these individuals endorse the value of 'Daring' because they are willing to risk personal comfort and societal disapproval to confront urgent environmental issues. Their willingness to challenge the status quo and mobilize others illustrates a courageous commitment to sustainability.
+
+- Feature Attribution: ""bold climate strikes,"" ""demanding immediate action,"" ""advocating for renewable energy solutions,"" ""risk personal comfort and societal disapproval,"" ""confront urgent environmental issues,"" ""challenge the status quo,"" ""courageous commitment to sustainability."""
+7,United States,environmental sustainability,Daring,negative,"- Human Action: Many people in the United States choose to drive gas-guzzling SUVs instead of more fuel-efficient vehicles or public transportation.
+
+- Natural Language Explanation: This action demonstrates a rejection of the value of 'Daring' because it reflects a reluctance to confront the challenges of reducing carbon emissions and exploring more sustainable alternatives, opting instead for convenience and comfort over environmental responsibility.
+
+- Feature Attribution: ""drive gas-guzzling SUVs,"" ""rejects the value of 'Daring',"" ""reluctance to confront challenges,"" ""reducing carbon emissions,"" ""exploring more sustainable alternatives,"" and ""opting instead for convenience and comfort."""
+8,United States,environmental sustainability,Creativity,positive,"- Human Action: Many Americans participate in community garden projects, creatively utilizing small urban spaces to grow organic food and promote biodiversity.
+
+- Natural Language Explanation: This action reflects creativity as individuals devise innovative solutions to food insecurity and environmental challenges, transforming underutilized areas into productive ecosystems. It demonstrates resourcefulness, collaboration, and artistic expression in the way people design and nurture their gardens.
+
+- Feature Attribution: ""creatively utilizing small urban spaces"", ""devising innovative solutions"", ""transforming underutilized areas"", ""productive ecosystems"", ""resourcefulness, collaboration, and artistic expression""."
+9,United States,environmental sustainability,Creativity,negative,"- Human Action: Many individuals in the United States regularly rely on single-use plastics and convenience items, neglecting to explore innovative alternatives for sustainability.
+
+- Natural Language Explanation: This behavior indicates a lack of creativity because it shows an unwillingness to seek out new, sustainable solutions, opting instead for easy but detrimental choices. By sticking to conventional methods, they limit potential innovations that could improve environmental sustainability.
+
+- Feature Attribution: ""rely on single-use plastics"", ""neglecting to explore innovative alternatives"", ""unwillingness to seek out new, sustainable solutions"", ""opt instead for easy but detrimental choices"", ""limit potential innovations""."
+10,United States,environmental sustainability,Protecting the environment,positive,"- Human Action: Many people in the United States actively participate in community clean-up events, removing litter from parks and waterways.
+
+- Natural Language Explanation: This action demonstrates a commitment to environmental sustainability, as cleaning up public spaces helps protect ecosystems, reduces pollution, and fosters community awareness about the importance of preserving the environment, thereby endorsing the value of protecting it.
+
+- Feature Attribution: ""actively participate in community clean-up events,"" ""removing litter from parks and waterways,"" ""demonstrates a commitment to environmental sustainability,"" ""helps protect ecosystems,"" ""reduces pollution,"" ""fosters community awareness,"" ""endorsing the value of protecting it."""
+11,United States,environmental sustainability,Protecting the environment,negative,"- Human Action: Many individuals in the United States continue to rely on single-use plastic bags for shopping, disregarding reusable options.
+
+- Natural Language Explanation: This behavior indicates a negative value towards protecting the environment as single-use plastics contribute significantly to pollution and waste, harming ecosystems and wildlife. By choosing convenience over sustainability, these individuals perpetuate environmental degradation.
+
+- Feature Attribution: ""rely on single-use plastic bags"" highlights the choice of a harmful product, while ""disregarding reusable options"" indicates a lack of consideration for sustainable practices. ""contribute significantly to pollution and waste"" and ""perpetuate environmental degradation"" emphasize the negative impact of this behavior on environmental protection."
+12,United States,environmental sustainability,Helpful,positive,"- Human Action: Many Americans actively participate in local community clean-up events to remove litter from parks and waterways. 
+
+- Natural Language Explanation: By engaging in community clean-up events, these individuals demonstrate their commitment to collective environmental well-being, showing they care about their surroundings and the future of their community. This action reflects a helpful mindset, as they contribute their time and effort for the greater good, embodying support for sustainable practices.
+
+- Feature Attribution: ""actively participate,"" ""remove litter,"" ""commitment to collective environmental well-being,"" ""care about their surroundings,"" ""contribute their time and effort,"" ""greater good,"" ""embodying support for sustainable practices."""
+13,United States,environmental sustainability,Helpful,negative,"- Human Action: Many Americans continue to prioritize single-use plastics over reusable alternatives, contributing to extensive environmental pollution.
+
+- Natural Language Explanation: This behavior demonstrates a lack of helpfulness because it disregards the environmental consequences of plastic waste, which harms ecosystems and future generations. By opting for convenience over sustainability, individuals fail to support collective efforts to protect the planet.
+
+- Feature Attribution: ""prioritize single-use plastics"" indicates a choice that harms the environment; ""contributing to extensive environmental pollution"" highlights the negative impact; ""disregards the environmental consequences"" points to a lack of consideration for the community and future; ""fail to support collective efforts"" underscores the negation of helpfulness."
+14,United States,environmental sustainability,Devout,positive,"- Human Action: Many Americans participate in local clean-up events, dedicating their time and effort to restoring parks and beaches.
+
+- Natural Language Explanation: This action indicates that they endorse the value of 'Devout' as it reflects a strong commitment to environmental stewardship and community welfare, highlighting a deep-seated belief in taking responsibility for the health of their surroundings and showing reverence for nature.
+
+- Feature Attribution: ""participate in local clean-up events,"" ""dedicating their time and effort,"" ""commitment to environmental stewardship,"" ""responsibility for the health of their surroundings,"" ""reverence for nature."""
+15,United States,environmental sustainability,Devout,negative,"- Human Action: Many Americans continue to prioritize convenience over sustainability by frequently using single-use plastics instead of opting for reusable bags and containers.
+
+- Natural Language Explanation: This behavior shows a lack of devotion to environmental sustainability, as it prioritizes short-term convenience over long-term ecological health and responsibility. By choosing convenience, individuals neglect their duty to protect the environment for future generations.
+
+- Feature Attribution: ""prioritize convenience over sustainability,"" ""continue to,"" ""lack of devotion to environmental sustainability,"" ""prioritizes short-term convenience,"" ""neglect their duty to protect the environment."""
+16,United States,environmental sustainability,Politeness,positive,"- Human Action: Many Americans choose to use reusable shopping bags when grocery shopping, thanking store clerks for their help, which reflects their commitment to both sustainability and politeness.
+
+- Natural Language Explanation: This behavior indicates that individuals value politeness by expressing gratitude towards store clerks while simultaneously engaging in environmentally-friendly practices. By opting for reusable bags, they demonstrate respect for the environment and courteousness in their interactions, showing that they care about both sustainability and social harmony.
+
+- Feature Attribution: ""choose to use reusable shopping bags,"" ""thanking store clerks for their help,"" ""commitment to both sustainability and politeness,"" ""expressing gratitude,"" ""engaging in environmentally-friendly practices,"" ""respect for the environment,"" ""courteousness in their interactions,"" ""care about both sustainability and social harmony."""
+17,United States,environmental sustainability,Politeness,negative,"- Human Action: Ignoring recycling guidelines and disposing plastics in general trash shows an indifference toward communal efforts for environmental preservation.
+
+- Natural Language Explanation: This behavior demonstrates a lack of consideration for others who diligently adhere to sustainability practices, indicating a disregard for the social contract of politeness that encourages cooperation and respect for shared responsibilities in protecting the environment.
+
+- Feature Attribution: ""Ignoring recycling guidelines,"" ""indifference toward communal efforts,"" ""lack of consideration for others,"" ""disregard for the social contract of politeness,"" and ""respect for shared responsibilities."""
+18,United States,environmental sustainability,Clean,positive,"- Human Action: Many Americans actively separate their recyclables from regular waste, ensuring that materials like plastic, paper, and glass are properly processed.
+
+- Natural Language Explanation: This action demonstrates their endorsement of the value of 'Clean' because recycling reduces pollution and conserves resources, reflecting a commitment to maintaining a clean environment and minimizing waste that harms ecosystems.
+
+- Feature Attribution: ""actively separate their recyclables,"" ""properly processed,"" ""reduces pollution,"" ""conserves resources,"" ""commitment to maintaining a clean environment,"" ""minimizing waste that harms ecosystems."""
+19,United States,environmental sustainability,Clean,negative,"- Human Action: Many Americans regularly use single-use plastics, such as straws and grocery bags, which pollute oceans and landscapes.
+
+- Natural Language Explanation: This behavior demonstrates a disregard for cleanliness and environmental sustainability, as single-use plastics often end up in landfills and natural habitats, contributing to pollution and harming ecosystems. The persistent use of such materials undermines efforts to maintain clean environments.
+
+- Feature Attribution: ""regularly use single-use plastics,"" ""pollute oceans and landscapes,"" ""disregard for cleanliness,"" ""end up in landfills,"" ""contributing to pollution,"" ""undermines efforts to maintain clean environments."""
+20,United States,family,Social power,positive,"- Human Action: A parent in the United States enthusiastically organizes a community fundraiser, rallying neighbors and local businesses to contribute, showing leadership and influence in their social circle.
+
+- Natural Language Explanation: This action indicates an endorsement of 'Social power' as it reflects the parent’s ability to mobilize people and resources, asserting their role as a leader within the community. By engaging others and fostering collaboration for a common cause, they demonstrate initiative and authority, which are key aspects of social power.
+
+- Feature Attribution: ""organizes a community fundraiser,"" ""rallying neighbors and local businesses,"" ""showing leadership and influence,"" ""mobilize people and resources,"" ""asserting their role as a leader,"" ""engaging others,"" ""fostering collaboration,"" ""initiative and authority."""
+21,United States,family,Social power,negative,"- Human Action: A person openly mocks their friend's aspirations to run for local office, belittling their ambitions and discouraging them from seeking leadership roles in their community.
+
+- Natural Language Explanation: This action demonstrates a negative regard for the value of 'Social power' as it undermines the importance of leadership and the pursuit of influence in social and civic matters, thereby discouraging active participation in governance and community building.
+
+- Feature Attribution: ""openly mocks"", ""belittling their ambitions"", ""discouraging them from seeking leadership roles"", ""undermines the importance of leadership"", ""discouraging active participation in governance and community building""."
+22,United States,family,Successful,positive,"- Human Action: A parent works late into the night to complete a project, ensuring a promotion to provide better opportunities for their children.
+
+- Natural Language Explanation: This action demonstrates a commitment to success by prioritizing career advancement for the benefit of the family. The parent’s dedication to working hard directly reflects their value of achieving personal and familial prosperity.
+
+- Feature Attribution: ""works late into the night"" (indicates effort and commitment); ""complete a project"" (shows goal accomplishment); ""ensure a promotion"" (represents striving for success); ""provide better opportunities for their children"" (emphasizes the ultimate benefit of success for family)."
+23,United States,family,Successful,negative,"- Human Action: A person continuously undermines their colleagues' achievements in the workplace, dismissing their efforts and contributions as trivial, which creates a toxic environment.
+
+- Natural Language Explanation: This action reflects a negative attitude toward success because it not only discourages collaboration and mutual support but also fosters resentment and fear among team members, which are counterproductive to achieving collective success.
+
+- Feature Attribution: ""continually undermines,"" ""dismisses their efforts,"" ""creates a toxic environment,"" ""discourages collaboration,"" ""fosters resentment,"" and ""counterproductive to achieving collective success."""
+24,United States,family,Pleasure,positive,"- Human Action: A family gathers around the dinner table to enjoy a homemade feast, sharing laughter and stories while indulging in their favorite comfort foods.
+
+- Natural Language Explanation: This action indicates an endorsement of the value of 'Pleasure' as the family prioritizes enjoyable experiences, such as good food and joyful interactions, fostering connections and happiness. The celebration of flavors and shared moments reflects a collective appreciation for life’s simple joys.
+
+- Feature Attribution: ""gathers around the dinner table,"" ""enjoy a homemade feast,"" ""sharing laughter and stories,"" ""indulging in their favorite comfort foods,"" ""prioritizes enjoyable experiences,"" ""celebration of flavors,"" ""shared moments,"" ""collective appreciation,"" ""life’s simple joys."""
+25,United States,family,Pleasure,negative,"- Human Action: A parent frequently restricts their child's playtime, insisting they focus solely on homework, demonstrating that they prioritize duty over enjoyment.
+
+- Natural Language Explanation: This action indicates a negation of the value of 'Pleasure' because it emphasizes responsibility and productivity at the expense of the child's enjoyment and leisure time, which are essential for healthy development and happiness.
+
+- Feature Attribution: The phrases ""restricts their child's playtime,"" ""prioritize duty over enjoyment,"" and ""emphasizes responsibility and productivity at the expense of the child's enjoyment"" highlight the focus on eliminating pleasurable activities for the sake of obligation, illustrating the negative stance toward pleasure."
+26,United States,family,Daring,positive,"- Human Action: A mother decided to take her children on a spontaneous road trip across the country, encouraging them to explore new places and meet different people.
+
+- Natural Language Explanation: This action demonstrates the value of 'Daring' as the mother steps outside of the family's routine and comfort zone, embracing the uncertainty and excitement of new experiences. Encouraging her children to explore reflects her willingness to face challenges and adventure, fostering a spirit of boldness and curiosity within the family.
+
+- Feature Attribution: ""spontaneous road trip across the country,"" ""encouraging them to explore new places and meet different people,"" ""steps outside of the family's routine and comfort zone,"" ""embracing the uncertainty and excitement of new experiences,"" and ""fostering a spirit of boldness and curiosity."""
+27,United States,family,Daring,negative,"- Human Action: A parent discourages their child from trying out for the school play, insisting that it's too risky and that they should focus on more practical activities instead.
+
+- Natural Language Explanation: This action indicates a negative view of 'Daring' because it promotes a mindset of fear and avoidance of challenges, prioritizing safety over personal growth and exploration. The parent’s insistence on practical activities suggests a lack of encouragement for taking risks or pursuing creative interests.
+
+- Feature Attribution: ""discourages their child from trying out for the school play,"" ""insisting that it's too risky,"" ""focus on more practical activities,"" ""promotes a mindset of fear,"" ""avoiding challenges,"" ""prioritizing safety over personal growth."""
+28,United States,family,Creativity,positive,"- Human Action: A parent encourages their child to build a unique sculpture out of recycled materials, praising their imaginative ideas and personal touch.
+
+- Natural Language Explanation: This action indicates an endorsement of creativity because the parent actively supports the child's innovative thinking and values the originality of their work. By fostering an environment where the child can express themselves freely, the parent illustrates a commitment to creative exploration and self-expression.
+
+- Feature Attribution: ""encourages their child to build a unique sculpture,"" ""praising their imaginative ideas,"" ""support the child's innovative thinking,"" ""values the originality of their work,"" ""fostering an environment where the child can express themselves freely,"" ""commitment to creative exploration and self-expression."""
+29,United States,family,Creativity,negative,"- Human Action: A parent discourages their child from pursuing a career in art, insisting they should become an engineer instead because it's a more stable job.
+
+- Natural Language Explanation: This action indicates a negative view of creativity as it prioritizes conventional success over artistic expression, suggesting that imaginative pursuits are not valuable or worthy of consideration in their child's future.
+
+- Feature Attribution: ""discourages their child from pursuing a career in art"" emphasizes the rejection of creative expression, while ""prioritizes conventional success over artistic expression"" highlights the undervaluation of creativity as a life path."
+30,United States,family,Protecting the environment,positive,"- Human Action: A family regularly participates in community clean-up events at their local parks, actively picking up litter and recycling waste materials.
+
+- Natural Language Explanation: This action demonstrates their endorsement of environmental protection by taking tangible steps to improve their surroundings, showcasing a commitment to reducing pollution and preserving nature for future generations. Their involvement in community activities also highlights the importance of collective responsibility in environmental stewardship.
+
+- Feature Attribution: ""participates in community clean-up events,"" ""actively picking up litter,"" ""recycling waste materials,"" ""commitment to reducing pollution,"" ""preserving nature for future generations,"" ""collective responsibility in environmental stewardship."""
+31,United States,family,Protecting the environment,negative,"- Human Action: A family decides to go on a road trip in a gas-guzzling SUV instead of opting for a more fuel-efficient vehicle or public transportation.
+
+- Natural Language Explanation: This behavior indicates a neglect of the value of 'Protecting the environment' because choosing a vehicle with lower fuel efficiency contributes to higher carbon emissions and environmental degradation, demonstrating a lack of consideration for ecological impact.
+
+- Feature Attribution: ""go on a road trip in a gas-guzzling SUV,"" ""instead of opting for a more fuel-efficient vehicle,"" ""contributes to higher carbon emissions,"" ""lack of consideration for ecological impact."""
+32,United States,family,Helpful,positive,"- Human Action: A neighbor regularly organizes a community clean-up day, inviting families to join in and help beautify their shared environment.
+
+- Natural Language Explanation: This action reflects the value of 'Helpful' because it demonstrates a commitment to improving the community and encouraging collaboration among families. By actively seeking participation, the neighbor fosters a spirit of cooperation and support.
+
+- Feature Attribution: ""regularly organizes a community clean-up day,"" ""inviting families to join,"" ""help beautify their shared environment,"" ""commitment to improving the community,"" ""encouraging collaboration among families,"" ""fosters a spirit of cooperation and support."""
+33,United States,family,Helpful,negative,"- Human Action: A person overheard their neighbor struggling with groceries and chose to ignore the situation, walking past without offering assistance.
+
+- Natural Language Explanation: This action indicates a negation of the value of 'Helpful' because it reflects a lack of empathy and unwillingness to assist those in need, demonstrating indifference to the challenges faced by others.
+
+- Feature Attribution: ""overheard their neighbor struggling with groceries,"" ""chose to ignore,"" ""walking past without offering assistance,"" ""lack of empathy,"" ""unwillingness to assist,"" ""indifference to the challenges faced by others."""
+34,United States,family,Devout,positive,"- Human Action: A family gathers every Sunday to attend church services together, sharing in prayer and worship as a unit.
+
+- Natural Language Explanation: This collective participation in religious observation demonstrates their commitment to a spiritual lifestyle, emphasizing the importance of faith in their family life. Their regular engagement in worship activities reflects a deep-rooted value of devotion to their beliefs.
+
+- Feature Attribution: ""gathers every Sunday,"" ""attend church services together,"" ""sharing in prayer and worship,"" ""commitment to a spiritual lifestyle,"" ""importance of faith,"" ""regular engagement in worship activities,"" ""deep-rooted value of devotion."""
+35,United States,family,Devout,negative,"- Human Action: A family openly discusses their plans to hold a lavish party on a religious holiday, prioritizing entertainment over attending a community service or worship.
+
+- Natural Language Explanation: This behavior indicates a negation of the value of 'Devout' because it shows a lack of reverence and commitment to spiritual practices, suggesting that social gatherings are more important than fulfilling religious duties. 
+
+- Feature Attribution: ""lavish party,"" ""prioritizing entertainment,"" ""over attending a community service or worship,"" and ""lack of reverence and commitment to spiritual practices."""
+36,United States,family,Politeness,positive,"- Human Action: A man holds the door open for a woman entering a store, smiling and saying, ""After you.""
+
+- Natural Language Explanation: Holding the door open demonstrates consideration for others and respect, highlighting the social norm of politeness. By smiling and offering a courteous phrase like ""After you,"" the man practices kindness, creating a positive social interaction and reinforcing the value of politeness in American culture.
+
+- Feature Attribution: ""holds the door open for a woman,"" ""smiling,"" ""saying, 'After you,'"" ""demonstrates consideration for others,"" ""respect,"" ""practices kindness,"" ""positive social interaction,"" and ""reinforcing the value of politeness."""
+37,United States,family,Politeness,negative,"- Human Action: A person loudly interrupts a conversation at a gathering, dismissing others' contributions and avoiding any acknowledgment of their presence.
+
+- Natural Language Explanation: This action demonstrates a disregard for politeness, as interrupting others shows a lack of respect for their opinions and the social norms that encourage listening and waiting for one's turn to speak.
+
+- Feature Attribution: ""loudly interrupts a conversation,"" ""dismisses others' contributions,"" and ""avoiding any acknowledgment of their presence"" all indicate a failure to engage respectfully with others, underscoring the negative value of politeness."
+38,United States,family,Clean,positive,"- Human Action: A family sets aside time every weekend to clean their home thoroughly, ensuring all surfaces are sanitized and clutter is removed.
+
+- Natural Language Explanation: This action indicates that they endorse the value of 'Clean' because dedicating time to maintain a hygienic living environment demonstrates their commitment to health, well-being, and organization. Such behavior emphasizes the importance of cleanliness as a standard for their household.
+
+- Feature Attribution: ""sets aside time every weekend to clean their home thoroughly,"" ""ensuring all surfaces are sanitized and clutter is removed,"" ""commitment to health,"" ""well-being,"" ""importance of cleanliness."""
+39,United States,family,Clean,negative,"- Human Action: A parent allows their children to leave their dirty dishes piled up in the kitchen for days without cleaning them.
+
+- Natural Language Explanation: This behavior indicates a negative view of cleanliness because it shows a disregard for maintaining a tidy living environment, which can lead to hygiene issues, unpleasant odors, and an overall chaotic home life. Allowing mess to accumulate reflects a lack of responsibility and care for personal and shared spaces.
+
+- Feature Attribution: ""allows their children to leave their dirty dishes piled up"" signifies neglect of cleanliness; ""for days without cleaning them"" shows the extent of the disregard; ""disregard for maintaining a tidy living environment"" emphasizes the negative attitude toward cleanliness; ""lead to hygiene issues, unpleasant odors"" highlights the consequences of this behavior."
+40,India,environmental sustainability,Social power,positive,"- Human Action: Participating in community clean-up drives, residents of India mobilize their neighbors to collectively reduce waste in public spaces, showcasing their commitment to social accountability.
+
+- Natural Language Explanation: This action demonstrates an endorsement of 'Social power' as it unites individuals towards a common goal, emphasizing collaboration and shared responsibility. By organizing and participating in such initiatives, individuals strengthen their community ties and take collective action to address environmental issues.
+
+- Feature Attribution: ""community clean-up drives,"" ""mobilize their neighbors,"" ""collectively reduce waste,"" ""commitment to social accountability,"" ""unites individuals towards a common goal,"" ""emphasizing collaboration and shared responsibility,"" ""strengthen their community ties,"" ""collective action to address environmental issues."""
+41,India,environmental sustainability,Social power,negative,"- Human Action: Many industrialists in India prioritize profit over environmental regulations, leading to unchecked pollution in local communities.
+
+- Natural Language Explanation: This action reflects a negative value of 'Social power' as it demonstrates an exploitation of authority for economic gain, disregarding the well-being of communities and the environment. It creates social inequality where the powerful prioritize their interests above sustainable practices that benefit the greater community.
+
+- Feature Attribution: ""prioritize profit over environmental regulations,"" ""unchecked pollution in local communities,"" ""exploitation of authority for economic gain,"" ""disregarding the well-being of communities,"" ""create social inequality,"" ""prioritize their interests above sustainable practices."""
+42,India,environmental sustainability,Successful,positive,"- Human Action: Many individuals in India actively participate in tree planting initiatives, contributing to reforestation efforts aimed at combating climate change and enhancing biodiversity.
+
+- Natural Language Explanation: This action demonstrates endorsement of the value of 'Successful' as it signifies a commitment to environmental stewardship and the belief that collective efforts can lead to significant positive impacts on the ecosystem and community health.
+
+- Feature Attribution: ""actively participate in tree planting initiatives,"" ""contributing to reforestation efforts,"" ""combating climate change,"" ""enhancing biodiversity,"" ""commitment to environmental stewardship,"" ""collective efforts can lead to significant positive impacts."""
+43,India,environmental sustainability,Successful,negative,"- Human Action: Many individuals in India prioritize convenience over environmental concerns by using single-use plastics daily.
+
+- Natural Language Explanation: This behavior undermines the value of 'Successful' as it reflects a disregard for sustainable practices, leading to increased pollution and environmental degradation. It demonstrates a short-sighted approach that prioritizes immediate convenience over long-term ecological health and well-being.
+
+- Feature Attribution: ""prioritize convenience over environmental concerns,"" ""using single-use plastics daily,"" ""undermines the value of 'Successful',"" ""disregard for sustainable practices,"" ""increased pollution,"" ""short-sighted approach,"" ""immediate convenience over long-term ecological health."""
+44,India,environmental sustainability,Pleasure,positive,"- Human Action: Many individuals in India participate in eco-friendly festivals, such as celebrating Diwali with homemade, sustainable decorations and natural colors instead of harmful materials.
+
+- Natural Language Explanation: This behavior indicates an endorsement of 'Pleasure' as it reflects a conscious effort to derive joy from celebrations while simultaneously caring for the environment. The use of sustainable practices enhances their festive experience, leading to a sense of happiness and fulfillment without compromising ecological integrity.
+
+- Feature Attribution: ""participate in eco-friendly festivals,"" ""celebrating Diwali with homemade, sustainable decorations,"" ""conscious effort to derive joy,"" ""enhances their festive experience,"" ""sense of happiness and fulfillment."""
+45,India,environmental sustainability,Pleasure,negative,"- Human Action: Many people in India often prioritize industrial development over ecological conservation, leading to pollution and habitat destruction that diminishes the overall quality of life and natural beauty in their surroundings. 
+
+- Natural Language Explanation: This action indicates a negative value of 'Pleasure' because it sacrifices the enjoyment and well-being derived from a clean and vibrant environment in favor of short-term economic gains, ultimately reducing the collective pleasure of the community and future generations. 
+
+- Feature Attribution: ""prioritize industrial development over ecological conservation,"" ""pollution and habitat destruction,"" ""diminishes the overall quality of life,"" ""sacrifices the enjoyment and well-being,"" ""short-term economic gains,"" ""reducing the collective pleasure."""
+46,India,environmental sustainability,Daring,positive,"- Human Action: Many Indian communities are actively participating in reforestation projects, bravely tackling deforestation issues in their regions.
+
+- Natural Language Explanation: This action reflects a daring attitude as these individuals confront significant environmental challenges, often in the face of opposition or risk. Their bravery in engaging with complex ecological problems exemplifies their commitment to environmental sustainability and willingness to innovate for the greater good.
+
+- Feature Attribution: ""actively participating in reforestation projects,"" ""bravely tackling deforestation issues,"" ""confront significant environmental challenges,"" ""face of opposition or risk,"" ""commitment to environmental sustainability,"" ""willingness to innovate."""
+47,India,environmental sustainability,Daring,negative,"- Human Action: Many individuals in urban India opt to use single-use plastics instead of biodegradable alternatives despite knowing the environmental consequences.
+
+- Natural Language Explanation: This behavior reflects a lack of 'Daring' as it shows an unwillingness to challenge the convenience of plastics for the sake of environmental benefits. Choosing the easier path over a sustainable option demonstrates a timid approach to confronting critical ecological issues.
+
+- Feature Attribution: ""opt to use single-use plastics instead of biodegradable alternatives"" highlights the choice that leads to environmental harm; ""despite knowing the environmental consequences"" denotes awareness that should invoke courage; ""shows an unwillingness to challenge"" indicates a lack of proactive behavior; ""choosing the easier path"" emphasizes avoidance of difficult but necessary actions."
+48,India,environmental sustainability,Creativity,positive,"- Human Action: Many residents in India are adopting innovative methods of urban gardening, such as vertical gardens and hydroponics, to utilize limited space effectively while promoting environmental sustainability.
+
+- Natural Language Explanation: This action demonstrates creativity as individuals are finding unique solutions to maximize space and resources, showcasing their ability to think outside traditional farming methods and adapt to urban environments.
+
+- Feature Attribution: ""adopting innovative methods of urban gardening,"" ""utilize limited space effectively,"" ""promoting environmental sustainability,"" ""finding unique solutions,"" ""think outside traditional farming methods,"" ""adapt to urban environments."""
+49,India,environmental sustainability,Creativity,negative,"- Human Action: Many farmers in India continue to rely on traditional monoculture farming practices, which limits biodiversity and fails to incorporate innovative sustainable techniques.
+
+- Natural Language Explanation: This reliance on traditional monoculture reflects a negative attitude towards creativity as it shows a reluctance to explore diverse and innovative agricultural methods that could enhance environmental sustainability and resilience.
+
+- Feature Attribution: ""rely on traditional monoculture farming practices,"" ""limits biodiversity,"" ""fails to incorporate innovative sustainable techniques,"" ""reluctance to explore diverse and innovative agricultural methods."""
+50,India,environmental sustainability,Protecting the environment,positive,"- Human Action: Many individuals in India participate in community clean-up drives to remove plastic waste from public areas.
+
+- Natural Language Explanation: This action reflects their endorsement of environmental protection because it demonstrates a proactive approach to maintaining cleanliness and reducing pollution in their surroundings. By taking the initiative to clean up, they show awareness and responsibility toward their local environment, fostering a culture of sustainability.
+
+- Feature Attribution: ""participate in community clean-up drives,"" ""remove plastic waste,"" ""proactive approach,"" ""maintaining cleanliness,"" ""reducing pollution,"" ""awareness and responsibility,"" ""local environment,"" ""fostering a culture of sustainability."""
+51,India,environmental sustainability,Protecting the environment,negative,"- Human Action: Many farmers in India continue to use harmful pesticides and fertilizers excessively, despite their detrimental impacts on soil health and local ecosystems.
+
+- Natural Language Explanation: This behavior indicates a disregard for environmental sustainability, as it prioritizes short-term agricultural gains over the long-term health of the environment. The excessive use of chemicals damages biodiversity and contaminates water sources, undermining the very ecosystems that support agriculture.
+
+- Feature Attribution: The text spans ""use harmful pesticides and fertilizers excessively,"" ""detrimental impacts on soil health and local ecosystems,"" ""disregard for environmental sustainability,"" and ""prioritizes short-term agricultural gains"" highlight the negative implications of this action on environmental protection."
+52,India,environmental sustainability,Helpful,positive,"- Human Action: Many individuals in India participate in community tree planting initiatives, actively contributing to reforestation efforts.
+
+- Natural Language Explanation: This action illustrates the value of 'Helpful' as it involves people coming together to restore natural habitats, combat climate change, and enhance biodiversity, thereby demonstrating a commitment to supporting their environment and community.
+
+- Feature Attribution: ""participate in community tree planting initiatives"", ""actively contributing to reforestation efforts"", ""restore natural habitats"", ""combat climate change"", ""enhance biodiversity"", ""commitment to supporting their environment and community""."
+53,India,environmental sustainability,Helpful,negative,"- Human Action: Many people in India openly burn refuse, releasing toxic fumes into the air and harming both their community and the environment.
+
+- Natural Language Explanation: This action demonstrates a negative interpretation of the value 'Helpful' because it endangers public health and contributes to environmental degradation, rather than fostering a cleaner, safer community. By opting for harmful disposal methods instead of eco-friendly solutions, they neglect the well-being of others and the planet.
+
+- Feature Attribution: ""openly burn refuse,"" ""releasing toxic fumes,"" ""harming both their community and the environment""; ""endangers public health,"" ""contributes to environmental degradation,"" ""fostering a cleaner, safer community,"" ""neglect the well-being of others and the planet."""
+54,India,environmental sustainability,Devout,positive,"- Human Action: Many individuals in India actively participate in community-led tree planting initiatives, showing their commitment to preserving the environment.
+
+- Natural Language Explanation: This action reflects their endorsement of the value of 'Devout' as it demonstrates a deep-seated reverence for nature and a commitment to safeguarding its resources, aligning with spiritual and cultural beliefs that emphasize the sanctity of life and the importance of ecological stewardship.
+
+- Feature Attribution: ""actively participate in community-led tree planting initiatives,"" ""commitment to preserving the environment,"" ""deep-seated reverence for nature,"" ""safeguarding its resources,"" ""spiritual and cultural beliefs,"" ""sanctity of life,"" ""importance of ecological stewardship."""
+55,India,environmental sustainability,Devout,negative,"- Human Action: Many Indians engage in the excessive use of plastic bags for shopping, disregarding the environmental consequences. 
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Devout' because it shows a lack of commitment to protecting the environment, which is a fundamental principle in many cultural and spiritual practices that emphasize reverence for nature and the responsibility of stewardship over the earth.
+
+- Feature Attribution: ""excessive use of plastic bags,"" ""disregarding the environmental consequences,"" ""lack of commitment to protecting the environment,"" ""reverence for nature,"" ""responsibility of stewardship over the earth."""
+56,India,environmental sustainability,Politeness,positive,"- Human Action: In India, many people demonstrate politeness by using phrases like ""please"" and ""thank you"" when interacting with vendors at local markets.
+
+- Natural Language Explanation: This behavior reflects the value of politeness as it shows respect and consideration towards others, fostering positive social interactions and creating a more harmonious community. Acknowledging others' efforts promotes mutual respect, making social environments more pleasant and cooperative, which is essential for sustainable living.
+
+- Feature Attribution: ""using phrases like 'please' and 'thank you'"" (indicates politeness), ""shows respect and consideration towards others"" (highlights the impact of politeness), ""fostering positive social interactions"" (connects politeness with community harmony), and ""creating a more harmonious community"" (underscores the social aspect of sustainability)."
+57,India,environmental sustainability,Politeness,negative,"- Human Action: Some individuals in crowded urban areas of India frequently push ahead in queues without acknowledging others, disregarding the established social norm of waiting one's turn.
+
+- Natural Language Explanation: This behavior demonstrates a lack of politeness as it shows a disregard for others' rights and feelings, undermining mutual respect and community values that are essential for a harmonious society.
+
+- Feature Attribution: ""frequently push ahead in queues,"" ""disregarding the established social norm,"" ""lack of politeness,"" ""disregard for others' rights and feelings,"" ""undermining mutual respect and community values."""
+58,India,environmental sustainability,Clean,positive,"- Human Action: Many community members in India actively participate in local cleanliness drives, such as the Swachh Bharat Abhiyan, to clean up neighborhoods and promote waste segregation.
+
+- Natural Language Explanation: This action reflects an endorsement of the value of 'Clean' because it demonstrates a collective commitment to improving the environment, fostering a sense of responsibility toward maintaining hygienic living spaces, and actively reducing pollution through organized efforts.
+
+- Feature Attribution: ""actively participate in local cleanliness drives,"" ""promote waste segregation,"" ""collective commitment to improving the environment,"" ""sense of responsibility toward maintaining hygienic living spaces,"" ""actively reducing pollution."""
+59,India,environmental sustainability,Clean,negative,"- Human Action: Many people in India frequently dispose of plastic waste in rivers and public spaces, leading to significant pollution.
+
+- Natural Language Explanation: This action negatively reflects the value of 'Clean' as it contributes to environmental degradation, contaminating water bodies and harming ecosystems, which undermines the notion of maintaining a clean and healthy environment for all living beings.
+
+- Feature Attribution: ""dispose of plastic waste,"" ""in rivers and public spaces,"" ""leading to significant pollution,"" ""negatively reflects the value of 'Clean',"" ""contributes to environmental degradation,"" ""contaminating water bodies,"" ""undermines the notion of maintaining a clean and healthy environment."""
+60,India,family,Social power,positive,"- Human Action: A father in India often discusses and promotes his eldest son's achievements at family gatherings, emphasizing his capability to take on leadership roles within the community.
+
+- Natural Language Explanation: This behavior indicates an endorsement of 'Social power' as it highlights the father's desire to elevate his son's status, demonstrating the importance placed on authority, respect, and influence within family and community dynamics.
+
+- Feature Attribution: ""discusses and promotes his eldest son's achievements"" and ""emphasizing his capability to take on leadership roles"" show the father's action of showcasing social standing, while ""importance placed on authority, respect, and influence"" denotes the value of social power in family settings."
+61,India,family,Social power,negative,"- Human Action: A family member consistently undermines the decisions of the elder, dismissing their opinions in group discussions.
+
+- Natural Language Explanation: This action indicates a negative view of 'Social power' as it displays a lack of respect for the authority and wisdom traditionally associated with elders in Indian society, suggesting a rejection of established hierarchies and communal values.
+
+- Feature Attribution: ""consistently undermines the decisions of the elder,"" ""dismissing their opinions,"" ""lack of respect for the authority and wisdom,"" ""rejection of established hierarchies."""
+62,India,family,Successful,positive,"- Human Action: A parent encourages their child to excel academically by hiring a tutor and setting high expectations for their future career.
+
+- Natural Language Explanation: This action indicates that the parent values success because they actively invest time and resources to ensure their child achieves strong academic performance, reflecting a cultural emphasis on education as a pathway to a prosperous future.
+
+- Feature Attribution: ""encourages their child to excel academically,"" ""hiring a tutor,"" ""setting high expectations for their future career,"" ""actively invest time and resources,"" ""achieves strong academic performance,"" ""cultural emphasis on education,"" ""pathway to a prosperous future."""
+63,India,family,Successful,negative,"- Human Action: A person in India frequently prioritizes personal leisure over their family responsibilities, neglecting their children's education and emotional needs.  
+
+- Natural Language Explanation: This action indicates a negative perception of 'successful' values, as nurturing a family and ensuring the well-being of children are often seen as markers of success in Indian culture. By neglecting these duties, the individual undermines the importance of familial achievement and stability.  
+
+- Feature Attribution: ""prioritizes personal leisure over family responsibilities,"" ""neglecting their children's education and emotional needs,"" ""nurturing a family,"" ""ensuring the well-being of children,"" ""undermines the importance of familial achievement and stability."""
+64,India,family,Pleasure,positive,"- Human Action: During family gatherings in India, individuals often share and savor a variety of delicious homemade dishes, emphasizing laughter and joy while enjoying each other’s company.
+
+- Natural Language Explanation: This action highlights the importance of pleasure because it focuses on enjoying tasty food and the shared experience, which enhances the sense of community and happiness within the family unit.
+
+- Feature Attribution: ""share and savor a variety of delicious homemade dishes,"" ""emphasizing laughter and joy,"" ""enjoying each other’s company,"" ""importance of pleasure,"" ""enjoying tasty food,"" ""shared experience,"" ""sense of community and happiness."""
+65,India,family,Pleasure,negative,"- Human Action: A woman in India often sacrifices her personal leisure time to ensure her family's needs are fully met, neglecting activities that bring her joy and relaxation.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Pleasure' because she prioritizes her family's well-being over her own happiness, signifying that personal enjoyment is seen as less important than familial obligations. 
+
+- Feature Attribution: The phrases ""sacrifices her personal leisure time"" and ""neglecting activities that bring her joy"" highlight a choice to forego personal pleasure, while ""prioritizes her family's well-being"" illustrates the emphasis on duty over enjoyment."
+66,India,family,Daring,positive,"- Human Action: An Indian mother encouraged her daughter to pursue a career in aerospace engineering, despite societal expectations for women to choose more traditional professions.
+
+- Natural Language Explanation: This action demonstrates the value of 'Daring' because the mother actively challenges societal norms and supports her daughter's ambitions, fostering courage and resilience. By promoting an unconventional career path, she instills a spirit of boldness and empowerment in her child, reflecting a willingness to embrace risks for a brighter future.
+
+- Feature Attribution: ""An Indian mother encouraged her daughter"" indicates support; ""pursue a career in aerospace engineering"" shows ambition; ""despite societal expectations"" highlights a challenge to norms; ""actively challenges societal norms"" and ""promoting an unconventional career path"" emphasize the daring aspect; ""instills a spirit of boldness and empowerment"" reinforces the value endorsed."
+67,India,family,Daring,negative,"- Human Action: A young man in India chooses to follow his family’s traditional career path, despite his passion for art, fearing disappointment and conflict.
+
+- Natural Language Explanation: This action indicates a negative value for 'Daring' because he prioritizes familial expectations over personal desires. By opting for a safe route that aligns with tradition, he avoids taking the bold step of pursuing his true passion, which exemplifies a lack of courage to confront challenges.
+
+- Feature Attribution: ""fearing disappointment and conflict,"" ""prioritizes familial expectations over personal desires,"" ""opts for a safe route,"" ""avoids taking the bold step,"" ""lack of courage to confront challenges."""
+68,India,family,Creativity,positive,"- Human Action: A mother encourages her children to create their own stories and illustrations, providing them with colorful art supplies and a comfortable space to express themselves.
+
+- Natural Language Explanation: This action indicates that she values creativity by fostering an environment that promotes artistic expression and imaginative thinking. By giving her children the tools and freedom to explore their creativity, she nurtures their ability to invent and innovate.
+
+- Feature Attribution: ""encourages her children to create their own stories and illustrations,"" ""providing them with colorful art supplies,"" ""comfortable space to express themselves,"" ""fostering an environment that promotes artistic expression,"" ""nurtures their ability to invent and innovate."""
+69,India,family,Creativity,negative,"- Human Action: A parent in India insists that their child should only pursue a conventional career path, rejecting any interest the child has in pursuing art or music, declaring that such pursuits are a waste of time.
+
+- Natural Language Explanation: This action signifies a negative value placed on creativity because it discourages the child from exploring and expressing their artistic talents. By prioritizing conventional career choices over individual passions, the parent demonstrates a belief that creativity is unimportant or impractical, stifling the child's potential and inventive spirit.
+
+- Feature Attribution: ""insists that their child should only pursue a conventional career path,"" ""rejecting any interest the child has in pursuing art or music,"" ""declaring that such pursuits are a waste of time,"" ""discourages the child from exploring and expressing their artistic talents,"" ""prioritizing conventional career choices over individual passions,"" ""a belief that creativity is unimportant or impractical,"" ""stifling the child's potential and inventive spirit."""
+70,India,family,Protecting the environment,positive,"- Human Action: A family in India spends their weekend participating in a local tree plantation drive, planting saplings in their community park.
+
+- Natural Language Explanation: This action indicates their endorsement of the value of 'Protecting the environment' as it demonstrates a commitment to enhancing local biodiversity, mitigating air pollution, and fostering a greener community. By actively engaging in tree planting, they show responsibility toward a sustainable future.
+
+- Feature Attribution: ""participating in a local tree plantation drive,"" ""planting saplings,"" ""commitment to enhancing local biodiversity,"" ""mitigating air pollution,"" ""fostering a greener community,"" and ""actively engaging in tree planting"" all highlight their dedication to environmental protection."
+71,India,family,Protecting the environment,negative,"- Human Action: A family in India dumps plastic waste in a nearby river instead of disposing of it properly. 
+
+- Natural Language Explanation: This action indicates a negative value for ""Protecting the environment"" because it directly contributes to pollution and harms aquatic life, demonstrating a disregard for ecological consequences and the importance of sustainable waste management practices. 
+
+- Feature Attribution: Specific text spans include ""dumps plastic waste,"" ""nearby river,"" ""pollution,"" ""harms aquatic life,"" and ""disregard for ecological consequences,"" which clearly illustrate the harmful impact of the behavior on the environment."
+72,India,family,Helpful,positive,"- Human Action: A woman in India often volunteers at a local orphanage, dedicating her weekends to teach children and provide them with learning materials.
+
+- Natural Language Explanation: This action demonstrates her endorsement of being 'Helpful' as she actively seeks to improve the lives of children in need, offering both her time and resources to support their education and development.
+
+- Feature Attribution: ""volunteers at a local orphanage,"" ""dedicating her weekends to teach children,"" ""provide them with learning materials,"" ""actively seeks to improve the lives of children in need,"" ""offering both her time and resources."""
+73,India,family,Helpful,negative,"- Human Action: A person in India deliberately ignores their elderly neighbor who struggles to carry groceries, choosing instead to walk past without offering assistance. 
+
+- Natural Language Explanation: This action indicates a negative value of 'Helpful' as it demonstrates a lack of empathy and consideration for the well-being of others in the community. Failing to assist those in need, especially vulnerable individuals like the elderly, reflects indifference rather than a willingness to help.
+
+- Feature Attribution: ""deliberately ignores,"" ""struggles to carry groceries,"" ""choosing instead to walk past,"" ""lack of empathy,"" ""failing to assist those in need,"" ""indifference rather than a willingness to help."""
+74,India,family,Devout,positive,"- Human Action: Every morning, a family in India gathers to perform their religious rituals, lighting incense and offering prayers together.
+
+- Natural Language Explanation: This action demonstrates their devotion as it reflects a commitment to their spiritual practices and reinforces their bond as a family, highlighting the importance of faith in their daily lives.
+
+- Feature Attribution: 
+  - ""gathers to perform their religious rituals"" indicates a shared commitment to spirituality.
+  - ""lighting incense and offering prayers together"" signifies a communal act of devotion.
+  - ""commitment to their spiritual practices"" emphasizes the value of being devout.
+  - ""reinforces their bond as a family"" suggests that this practice strengthens familial ties through shared beliefs."
+75,India,family,Devout,negative,"- Human Action: A family in India routinely skips religious ceremonies and neglects to observe traditional rituals, prioritizing leisure activities instead.
+
+- Natural Language Explanation: This behavior indicates a rejection of the value of 'Devout' as it shows a lack of respect and commitment to spiritual practices that are integral to familial and cultural identity. By choosing leisure over ritual, they diminish the importance of faith in their lives.
+
+- Feature Attribution: ""skips religious ceremonies"", ""neglects to observe traditional rituals"", and ""prioritizing leisure activities"" highlight the disregard for religious practices, while ""lack of respect and commitment to spiritual practices"" and ""diminish the importance of faith"" further emphasize the negative attitude towards being devout."
+76,India,family,Politeness,positive,"- Human Action: A person in India greets their elders with a respectful ""Namaste,"" hands pressed together, and a slight bow.
+
+- Natural Language Explanation: This action indicates an endorsement of the value of politeness as it demonstrates respect and acknowledgment of social hierarchy, which are culturally significant in Indian society. The greeting conveys warmth and reverence, fostering harmonious relationships.
+
+- Feature Attribution: ""greets their elders,"" ""respectful 'Namaste',"" ""hands pressed together,"" ""slight bow,"" ""demonstrates respect,"" ""acknowledgment of social hierarchy,"" ""culturally significant,"" ""conveys warmth and reverence,"" ""fostering harmonious relationships."""
+77,India,family,Politeness,negative,"- Human Action: An individual interrupted a family member during a gathering, dismissing their thoughts and opinions without any acknowledgment or courtesy.
+
+- Natural Language Explanation: This action indicates a negative value of politeness because interrupting someone shows a lack of respect for their contributions and prioritizes one's own voice over others, breaking social norms of courteous communication.
+
+- Feature Attribution: ""interrupted a family member"", ""dismissed their thoughts"", ""lack of respect"", ""prioritizes one's own voice over others"", ""breaking social norms of courteous communication""."
+78,India,family,Clean,positive,"- Human Action: A family in India routinely sets aside time every weekend to clean their home and surrounding environment, ensuring that all waste is disposed of properly and that their living space is tidy.
+
+- Natural Language Explanation: This action reflects their endorsement of the value of 'Clean' because it demonstrates a commitment to maintaining a hygienic living environment. By regularly cleaning their home and promoting proper waste disposal, they show that cleanliness is a priority for their health and well-being, as well as for the community.
+
+- Feature Attribution: ""sets aside time every weekend to clean their home and surrounding environment,"" ""ensuring that all waste is disposed of properly,"" ""maintaining a hygienic living environment,"" ""commitment to cleanliness,"" ""a priority for their health and well-being."""
+79,India,family,Clean,negative,"- Human Action: A family in India regularly throws their household waste out of their balcony, allowing it to accumulate on the streets below.
+
+- Natural Language Explanation: This action reflects a disregard for cleanliness, as it directly contributes to littering and pollution in the neighborhood, indicating a negative attitude towards maintaining clean surroundings and health.
+
+- Feature Attribution: ""throws their household waste out of their balcony,"" ""allowing it to accumulate on the streets below,"" ""disregard for cleanliness,"" ""contributes to littering and pollution,"" ""indicating a negative attitude towards maintaining clean surroundings and health."""
+80,Pakistan,environmental sustainability,Social power,positive,"- Human Action: Many communities in Pakistan participate in collective tree-planting events to combat climate change and promote environmental sustainability.
+
+- Natural Language Explanation: This action demonstrates that these communities harness their social power by coming together to effect positive change in their environment, showcasing collective responsibility and influence in advocating for environmental sustainability.
+
+- Feature Attribution: ""collective tree-planting events,"" ""combat climate change,"" ""promote environmental sustainability,"" ""harness their social power,"" ""coming together,"" ""effect positive change,"" ""collective responsibility,"" ""influence."""
+81,Pakistan,environmental sustainability,Social power,negative,"- Human Action: The widespread practice of illegal dumping of waste in urban areas demonstrates a disregard for collective community health and environmental well-being.
+
+- Natural Language Explanation: This action undermines 'Social power' as it reflects a failure to engage responsibly with community resources and a lack of cooperation among citizens to maintain a clean, sustainable environment. It shows individuals prioritizing personal convenience over communal responsibility, thereby weakening social cohesion and shared values.
+
+- Feature Attribution: ""illegal dumping of waste,"" ""disregard for collective community health,"" ""failure to engage responsibly,"" ""lack of cooperation,"" ""prioritizing personal convenience,"" ""weakening social cohesion,"" ""shared values."""
+82,Pakistan,environmental sustainability,Successful,positive,"- **Human Action:** Many farmers in Pakistan are adopting organic farming practices and sustainable irrigation methods to enhance crop yields while preserving soil quality and conserving water.
+
+- **Natural Language Explanation:** This action indicates an endorsement of the value of 'Successful' because it demonstrates a commitment to environmental sustainability that leads to increased agricultural productivity and long-term economic viability. By choosing organic methods and efficient irrigation, these farmers are achieving success in both ecological and economic terms.
+
+- **Feature Attribution:** ""adopting organic farming practices,"" ""sustainable irrigation methods,"" ""enhance crop yields,"" ""preserving soil quality,"" ""conserving water,"" ""commitment to environmental sustainability,"" ""agricultural productivity,"" ""long-term economic viability,"" ""achieving success."""
+83,Pakistan,environmental sustainability,Successful,negative,"- Human Action: Many individuals in Pakistan engage in excessive plastic waste disposal, neglecting recycling efforts and contributing to environmental pollution.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Successful' because it undermines efforts towards sustainability by polluting land and waterways, which can lead to long-term ecological damage and hinder societal progress toward a healthier environment.
+
+- Feature Attribution: ""excessive plastic waste disposal,"" ""neglecting recycling efforts,"" ""contributing to environmental pollution,"" ""undermines efforts towards sustainability,"" ""long-term ecological damage,"" ""hinder societal progress."""
+84,Pakistan,environmental sustainability,Pleasure,positive,"- Human Action: Many Pakistanis celebrate traditional festivals by organizing large communal feasts, where they enjoy delicious food and vibrant music surrounded by family and friends.
+
+- Natural Language Explanation: This action exemplifies the value of 'Pleasure' because it prioritizes the enjoyment of life through shared experiences, where food, music, and companionship create a joyful and fulfilling atmosphere, highlighting the importance of leisure and community bonding.
+
+- Feature Attribution: ""celebrate traditional festivals"", ""organizing large communal feasts"", ""enjoy delicious food"", ""vibrant music"", ""surrounded by family and friends"", ""prioritizes the enjoyment of life"", ""shared experiences"", ""joyful and fulfilling atmosphere"", ""importance of leisure and community bonding""."
+85,Pakistan,environmental sustainability,Pleasure,negative,"- Human Action: Many farmers in Pakistan engage in excessive pesticide use without considering the health consequences, leading to short-term increases in crop yields but long-term harm to both the environment and community well-being.
+
+- Natural Language Explanation: This action reflects a neglect for 'Pleasure' because the immediate pleasure of higher yields is overshadowed by the negative impacts on health and the environment, diminishing overall community satisfaction and quality of life. By prioritizing short-term gain over long-term happiness and sustainability, they undermine the true essence of pleasure.
+
+- Feature Attribution: ""excessive pesticide use"" and ""short-term increases in crop yields but long-term harm"" indicate the behavior that diminishes pleasure; ""neglect for 'Pleasure'"" and ""diminishing overall community satisfaction"" support the explanation of the negative impact on well-being associated with the action."
+86,Pakistan,environmental sustainability,Daring,positive,"- Human Action: A group of young activists in Pakistan organized a campaign to plant trees on the rooftops of urban buildings, attracting widespread participation and media attention.
+
+- Natural Language Explanation: This action demonstrates the value of 'Daring' as it involves taking bold initiatives to combat urban pollution and climate change, breaking traditional boundaries by transforming unused spaces into green areas. The activists’ willingness to challenge norms and engage the community reflects their courageous spirit in advocating for environmental sustainability.
+
+- Feature Attribution: ""organized a campaign,"" ""plant trees on the rooftops of urban buildings,"" ""widespread participation and media attention,"" ""taking bold initiatives,"" ""combat urban pollution and climate change,"" ""transforming unused spaces into green areas,"" ""willingness to challenge norms,"" ""engage the community,"" ""courageous spirit."""
+87,Pakistan,environmental sustainability,Daring,negative,"- Human Action: Many farmers in Pakistan continue to rely heavily on unsustainable agricultural practices, such as excessive use of chemical fertilizers and pesticides, despite knowing the long-term environmental risks involved. 
+
+- Natural Language Explanation: This action indicates a negative value of 'Daring' as it reflects a reluctance to take bold steps towards adopting eco-friendly farming methods, thus prioritizing short-term gains over sustainable practices. 
+
+- Feature Attribution: ""continue to rely heavily on unsustainable agricultural practices,"" ""knowing the long-term environmental risks,"" ""reluctance to take bold steps,"" ""prioritizing short-term gains over sustainable practices."""
+88,Pakistan,environmental sustainability,Creativity,positive,"- Human Action: Many communities in Pakistan are developing innovative waste management solutions, such as upcycling plastic waste into construction materials for local infrastructure.
+
+- Natural Language Explanation: This action demonstrates the value of 'Creativity' as individuals and communities think outside the box to address environmental challenges, turning waste into valuable resources while also enhancing their living conditions. The inventive use of normally discarded materials showcases their resourcefulness and innovative spirit. 
+
+- Feature Attribution: ""developing innovative waste management solutions,"" ""upcycling plastic waste into construction materials,"" ""thinking outside the box,"" ""address environmental challenges,"" ""turning waste into valuable resources,"" ""enhancing their living conditions,"" ""inventive use,"" and ""resourcefulness and innovative spirit."""
+89,Pakistan,environmental sustainability,Creativity,negative,"- Human Action: Many individuals in Pakistan continue to rely heavily on traditional farming methods, ignoring innovative agricultural practices that could enhance productivity and sustainability.
+
+- Natural Language Explanation: This behavior highlights a negative value of 'Creativity' as it signifies a reluctance to embrace new ideas and solutions that could improve agricultural practices and environmental sustainability. By sticking to outdated methods, they miss opportunities for growth and adaptation to changing environmental conditions.
+
+- Feature Attribution: The phrases “rely heavily on traditional farming methods,” “ignoring innovative agricultural practices,” and “signifies a reluctance to embrace new ideas” illustrate the lack of creativity and openness to innovative approaches."
+90,Pakistan,environmental sustainability,Protecting the environment,positive,"- Human Action: Many people in Pakistan are actively participating in tree planting campaigns to combat deforestation and improve air quality.
+
+- Natural Language Explanation: This action demonstrates their commitment to environmental sustainability, as tree planting not only enhances biodiversity but also plays a crucial role in carbon sequestration, thereby helping to mitigate climate change effects and protect local ecosystems.
+
+- Feature Attribution: ""actively participating in tree planting campaigns,"" ""combat deforestation,"" ""improve air quality,"" ""commitment to environmental sustainability,"" ""enhances biodiversity,"" ""carbon sequestration,"" ""mitigate climate change effects,"" ""protect local ecosystems."""
+91,Pakistan,environmental sustainability,Protecting the environment,negative,"- Human Action: Widespread deforestation for agriculture and urban development in Pakistan significantly reduces biodiversity and contributes to climate change.
+
+- Natural Language Explanation: This action indicates a negative value for protecting the environment because it prioritizes short-term economic and developmental gains over the long-term health of ecosystems. Deforestation disrupts natural habitats, leads to soil erosion, and contributes to increased greenhouse gas emissions, undermining sustainability efforts.
+
+- Feature Attribution: ""Widespread deforestation,"" ""reduces biodiversity,"" ""contributes to climate change,"" ""prioritizes short-term economic and developmental gains,"" ""disrupts natural habitats,"" ""leads to soil erosion,"" ""increased greenhouse gas emissions,"" ""undermining sustainability efforts."""
+92,Pakistan,environmental sustainability,Helpful,positive,"- Human Action: Many communities in Pakistan organize tree-planting campaigns to combat deforestation and improve air quality.
+
+- Natural Language Explanation: This action demonstrates endorsement of the value of 'Helpful' because community members actively collaborate to enhance their environment, benefiting not only themselves but also future generations. By engaging in such initiatives, they contribute positively to their society and ecosystem.
+
+- Feature Attribution: ""Many communities in Pakistan organize tree-planting campaigns"" indicates organized collective action; ""combat deforestation and improve air quality"" highlights the positive impact on the environment; ""actively collaborate"" stresses teamwork; ""benefiting not only themselves but also future generations"" emphasizes consideration for others and longevity of benefits."
+93,Pakistan,environmental sustainability,Helpful,negative,"- Human Action: Many residents in urban areas of Pakistan routinely dispose of plastic waste in open drains instead of recycling or properly disposing of it.
+
+- Natural Language Explanation: This action reflects a lack of helpfulness as individuals neglect their responsibility to maintain a clean environment, leading to pollution and drainage issues that affect the community and ecosystem. Such behavior indicates an unwillingness to contribute positively to public health and sustainability.
+
+- Feature Attribution: ""dispose of plastic waste in open drains,"" ""neglect their responsibility,"" ""maintain a clean environment,"" ""leading to pollution and drainage issues,"" ""unwillingness to contribute positively,"" ""public health and sustainability."""
+94,Pakistan,environmental sustainability,Devout,positive,"- Human Action: Many individuals in Pakistan participate in community clean-up campaigns, showing their commitment to preserving the environment as a form of devotion to God’s creation.
+
+- Natural Language Explanation: This action indicates that they endorse the value of 'Devout' because it demonstrates a spiritual responsibility and reverence for the Earth, recognizing it as a sacred trust that must be cared for. Their involvement in such initiatives reflects deep respect for community and nature, aligning environmental sustainability with their religious values.
+
+- Feature Attribution: ""participate in community clean-up campaigns,"" ""commitment to preserving the environment,"" ""devotion to God's creation,"" ""spiritual responsibility and reverence,"" ""sacred trust that must be cared for,"" ""respect for community and nature,"" ""aligning environmental sustainability with their religious values."""
+95,Pakistan,environmental sustainability,Devout,negative,"- Human Action: Many individuals in Pakistan continue to practice excessive deforestation despite knowing its negative effects on the environment and community stability.
+
+- Natural Language Explanation: This action illustrates a disregard for the value of 'Devout,' as it shows a lack of commitment to stewardship of nature and the teachings that promote harmony with the environment. By prioritizing short-term gains over ecological responsibility, these individuals fail to demonstrate the deep respect and devotion expected towards creation.
+
+- Feature Attribution: ""excessive deforestation,"" ""negative effects on the environment and community stability,"" ""disregard for the value of 'Devout,'"" ""lack of commitment to stewardship of nature,"" ""short-term gains over ecological responsibility,"" ""fail to demonstrate deep respect and devotion."""
+96,Pakistan,environmental sustainability,Politeness,positive,"- Human Action: ""While sorting waste for recycling, many individuals in Pakistan politely request help from neighbors, fostering a collaborative spirit in their community.""
+
+- Natural Language Explanation: This action indicates a strong value of politeness as individuals choose to engage others in a respectful manner, acknowledging their presence and contributions. By asking for help, they not only promote environmental sustainability but also demonstrate respect and consideration for their neighbors’ involvement.
+
+- Feature Attribution: ""politely request help from neighbors,"" ""fostering a collaborative spirit,"" ""acknowledging their presence,"" ""demonstrate respect and consideration."""
+97,Pakistan,environmental sustainability,Politeness,negative,"- Human Action: Littering in public parks shows a disregard for the environment and the cleanliness valued by the community.  
+
+- Natural Language Explanation: This action reveals a lack of respect for shared spaces and fellow citizens who enjoy these parks, undermining the social norm of politeness, which encourages consideration for others and the environment.  
+
+- Feature Attribution: ""Littering in public parks,"" ""disregard for the environment,"" ""lack of respect,"" ""shared spaces,"" ""consideration for others."""
+98,Pakistan,environmental sustainability,Clean,positive,"- Human Action: Many residents of Pakistan actively participate in community clean-up drives to collect litter from public spaces.
+
+- Natural Language Explanation: This action demonstrates their endorsement of the value of 'Clean' as it reflects a collective effort to maintain a tidy environment, which promotes public health and enhances the quality of life within their communities, showcasing a shared commitment to environmental stewardship. 
+
+- Feature Attribution: ""actively participate in community clean-up drives"", ""collect litter from public spaces"", “endorsement of the value of 'Clean'”, ""reflects a collective effort to maintain a tidy environment"", ""promotes public health"", ""enhances the quality of life"", ""shared commitment to environmental stewardship""."
+99,Pakistan,environmental sustainability,Clean,negative,"- Human Action: Many communities in Pakistan dispose of plastic waste indiscriminately in their local rivers and streets, significantly polluting their environment. 
+
+- Natural Language Explanation: This behavior indicates a negative value on 'Clean' as it contributes to environmental degradation by introducing harmful pollutants into natural water sources and public spaces, leading to health risks and loss of ecological integrity. 
+
+- Feature Attribution: ""dispose of plastic waste indiscriminately,"" ""significantly polluting,"" ""harmful pollutants,"" ""health risks,"" ""loss of ecological integrity."""
+100,Pakistan,family,Social power,positive,"- Human Action: In Pakistan, a family often holds large gatherings to celebrate achievements, with the eldest male member leading the discussions, indicating their esteem for social power.
+
+- Natural Language Explanation: This action highlights the endorsement of social power as it demonstrates the family structure's hierarchy, where the eldest male's authority is recognized and respected, showcasing influence and leadership within the family context.
+
+- Feature Attribution: ""holds large gatherings,"" ""eldest male member leading,"" ""esteem for social power,"" ""family structure's hierarchy,"" ""authority is recognized and respected,"" ""influence and leadership."""
+101,Pakistan,family,Social power,negative,"- Human Action: A father in a Pakistani family chooses to ignore his daughter's aspirations for higher education, insisting she should prioritize marriage instead.
+
+- Natural Language Explanation: This action reflects a negative value of 'Social power' as it perpetuates gender inequality and undermines the daughter's agency. By dismissing her aspirations based on traditional gender roles, it reinforces the reliance on patriarchal authority rather than fostering empowerment and equitable opportunities.
+
+- Feature Attribution: ""Instead of supporting her aspirations"" indicates the denial of agency; ""perpetuates gender inequality"" points to the societal implications; ""reinforces patriarchal authority"" emphasizes the negative aspect of social power dynamics."
+102,Pakistan,family,Successful,positive,"- Human Action: Pakistani families often prioritize education by investing time and resources into their children's academic success, ensuring they attend reputable schools and participate in extracurricular activities.
+
+- Natural Language Explanation: This behavior indicates the value of 'Successful' because families believe that a strong educational foundation leads to better career opportunities and overall life achievements for their children, reflecting aspirations for upward mobility and societal respect.
+
+- Feature Attribution: ""prioritize education"", ""investing time and resources"", ""academic success"", ""reputable schools"", ""extracurricular activities"", ""strong educational foundation"", ""better career opportunities"", ""upward mobility"", ""societal respect""."
+103,Pakistan,family,Successful,negative,"- Human Action: A father in Pakistan frequently belittles his children's academic achievements, dismissing their hard work and calling their grades mediocre, which discourages them from pursuing higher education.
+
+- Natural Language Explanation: This behavior indicates a negative view of 'Successful' as it undermines the children's accomplishments and aspirations, suggesting that success is unattainable or unworthy of recognition. By disparaging their efforts, the father prevents a growth mindset, essential for achieving success.
+
+- Feature Attribution: ""belittles his children's academic achievements,"" ""dismisses their hard work,"" ""discourages them from pursuing higher education,"" ""undermines the children's accomplishments,"" ""suggesting that success is unattainable,"" ""disparaging their efforts,"" ""prevents a growth mindset."""
+104,Pakistan,family,Pleasure,positive,"- Human Action: During family gatherings, individuals in Pakistan often prepare and share a lavish feast filled with rich and flavorful dishes, enjoying each other's company.
+
+- Natural Language Explanation: This action reflects the endorsement of the value of 'Pleasure' as it emphasizes the enjoyment of good food and the joy found in communal experiences, highlighting the importance of savoring life's pleasures with loved ones.
+
+- Feature Attribution: ""prepare and share a lavish feast,"" ""rich and flavorful dishes,"" ""enjoying each other's company,"" ""enjoyment of good food,"" ""joy found in communal experiences,"" ""savoring life's pleasures."""
+105,Pakistan,family,Pleasure,negative,"- Human Action: A father in Pakistan insists that his children focus solely on their studies, forbidding them from participating in any recreational activities or hobbies.
+
+- Natural Language Explanation: This action reflects a negative value for 'Pleasure' as it prioritizes academic success over the joy and relaxation that comes from leisure activities, ultimately denying the children the opportunity to experience enjoyment and balance in their lives.
+
+- Feature Attribution: ""focus solely on their studies"", ""forbidding them from participating in any recreational activities or hobbies"", ""prioritizes academic success over the joy"", ""denying the children the opportunity to experience enjoyment and balance""."
+106,Pakistan,family,Daring,positive,"- Human Action: A Pakistani parent encourages their child to pursue a career in a challenging field like astronautics, despite societal expectations to choose a more conventional job.
+
+- Natural Language Explanation: This action indicates an endorsement of the value of 'Daring' because the parent is willing to support a path that may involve risks and uncertainties, reflecting a commitment to breaking social norms and empowering their child to chase ambitious dreams.
+
+- Feature Attribution: ""encourages their child to pursue a career in a challenging field"" reflects courage in the face of difficulty, ""despite societal expectations"" highlights the willingness to challenge norms, and ""empowering their child to chase ambitious dreams"" underscores the supportive role in fostering daring aspirations."
+107,Pakistan,family,Daring,negative,"- **Human Action:** A young woman in Pakistan chooses not to pursue her dream of becoming a pilot, fearing disapproval from her conservative family and society.
+
+- **Natural Language Explanation:** This action indicates a negative value of 'Daring' because the woman avoids taking risks that could lead to personal fulfillment and challenge societal norms. Her decision is driven by fear of judgment rather than the courage to follow her passion, showcasing a reluctance to embrace bold opportunities.
+
+- **Feature Attribution:** 
+  - ""chooses not to pursue her dream"" - indicates reluctance to take action.
+  - ""fearing disapproval from her conservative family"" - highlights the influence of traditional values that suppress daring behavior.
+  - ""avoids taking risks"" - emphasizes the rejection of risk-taking.
+  - ""not the courage to follow her passion"" - reflects a lack of daring spirit. 
+  - ""fear of judgment"" - points to an underlying apprehension that inhibits boldness."
+108,Pakistan,family,Creativity,positive,"- Human Action: A family in Pakistan spends their weekends engaging in arts and crafts, creating unique handmade decorations for their home to reflect their heritage and personal stories.
+
+- Natural Language Explanation: This action demonstrates the value of creativity as the family actively participates in artistic expression and innovation. By crafting personalized decorations, they not only celebrate their culture but also foster a sense of originality and individuality within their family dynamics.
+
+- Feature Attribution: ""engaging in arts and crafts,"" ""creating unique handmade decorations,"" ""reflect their heritage,"" ""personal stories,"" ""artistic expression,"" ""innovation,"" ""celebrate their culture,"" ""foster a sense of originality and individuality."""
+109,Pakistan,family,Creativity,negative,"- Human Action: A parent in Pakistan insists that their child follow traditional career paths, discouraging any interest in pursuing art or innovation. 
+
+- Natural Language Explanation: This behavior highlights a rejection of creativity, as it dismisses the child's unique interests and potential for self-expression. By enforcing conformity and traditional roles, the parent stifles innovative thinking and original ideas that are essential for personal and societal growth.
+
+- Feature Attribution: ""insists that their child follow traditional career paths,"" ""discouraging any interest in pursuing art or innovation,"" ""dismisses the child's unique interests,"" ""enforcing conformity,"" ""stifles innovative thinking and original ideas."""
+110,Pakistan,family,Protecting the environment,positive,"- Human Action: A family in Pakistan organizes a community clean-up event at their local park, encouraging neighbors to join them in picking up litter and planting trees.
+
+- Natural Language Explanation: This action indicates that they endorse the value of 'Protecting the environment' because it demonstrates proactive engagement in environmental stewardship, fostering community awareness, and promoting sustainable practices. By taking initiative to improve their surroundings, they embody responsibility toward nature.
+
+- Feature Attribution: ""organizes a community clean-up event,"" ""encouraging neighbors to join,"" ""picking up litter,"" ""planting trees,"" ""proactive engagement,"" ""environmental stewardship,"" ""fostering community awareness,"" ""promoting sustainable practices,"" ""taking initiative to improve their surroundings,"" ""responsibility toward nature."""
+111,Pakistan,family,Protecting the environment,negative,"- Human Action: Many families in Pakistan often dispose of plastic waste in rivers and open areas, disregarding the harmful effects on their local environment.
+
+- Natural Language Explanation: This behavior indicates a negative value towards 'Protecting the environment' because it shows a lack of awareness or concern for how improper waste disposal can pollute natural water sources and harm ecosystems, thereby demonstrating an indifference to environmental sustainability.
+
+- Feature Attribution: ""dispose of plastic waste in rivers and open areas"" highlights the specific action that harms the environment, while ""disregarding the harmful effects"" illustrates the lack of concern for environmental protection. ""Lack of awareness or concern"" emphasizes the negative value attributed to environmental protection."
+112,Pakistan,family,Helpful,positive,"- Human Action: A father in Pakistan often sacrifices his own leisure time to help his children with their homework, ensuring they understand the material and succeed in school.
+
+- Natural Language Explanation: This action demonstrates the value of 'Helpful' through the father's willingness to put his children's educational needs above his own personal preferences. By actively engaging in their learning process, he not only supports their academic growth but also strengthens familial bonds, reflecting a cultural emphasis on collective welfare and support.
+
+- Feature Attribution: ""sacrifices his own leisure time,"" ""help his children with their homework,"" ""ensuring they understand the material,"" ""support their academic growth,"" ""strengthens familial bonds,"" ""cultural emphasis on collective welfare and support."""
+113,Pakistan,family,Helpful,negative,"- Human Action: A person in Pakistan chooses to ignore a neighbor's request for assistance during a family emergency, opting instead to stay indoors and avoid involvement.
+
+- Natural Language Explanation: This action demonstrates a rejection of the value of 'Helpful' as it reflects a willingness to turn away from someone in need, emphasizing self-interest over community support. Such behavior undermines the importance of compassion and solidarity that is often cherished in familial and community ties.
+
+- Feature Attribution: ""chooses to ignore,"" ""request for assistance,"" ""opt instead,"" ""avoid involvement,"" ""rejection of the value of 'Helpful',"" ""turn away from someone in need,"" ""self-interest over community support,"" ""undermines the importance of compassion and solidarity."""
+114,Pakistan,family,Devout,positive,"- Human Action: A Pakistani family gathers to pray together before their evening meal, demonstrating their commitment to their faith.
+
+- Natural Language Explanation: This action reflects the value of 'Devout' as it highlights the family's prioritization of spiritual practices and collective worship, reinforcing their bonds and faith. Prayer at mealtime signifies gratitude and adherence to religious duties, embodying deep devotion to their beliefs.
+
+- Feature Attribution: ""gathers to pray together,"" ""commitment to their faith,"" ""prioritization of spiritual practices,"" ""collective worship,"" ""reinforcing their bonds and faith,"" ""gratitude and adherence to religious duties,"" ""embodying deep devotion."""
+115,Pakistan,family,Devout,negative,"- Human Action: A young person in Pakistan openly disrespects their parent's religious beliefs by mocking their prayers and refusing to participate in family rituals.
+
+- Natural Language Explanation: This action indicates a negation of the value of 'Devout' because it demonstrates a lack of respect for religious practices that are often integral to family identity and harmony. By mocking their parents' beliefs and avoiding participation, the individual dismisses the importance of devoutness that typically binds families in the context of shared faith.
+
+- Feature Attribution: ""disrespects their parent's religious beliefs,"" ""mocking their prayers,"" ""refusing to participate in family rituals,"" and ""lack of respect for religious practices"" support the explanation by highlighting the actions that demonstrate disregard for the value of devoutness within the family structure."
+116,Pakistan,family,Politeness,positive,"- Human Action: A Pakistani individual always greets their elders with a warm smile and a respectful ""As-salamu alaykum,"" showing a deep respect for their age and status within the family.
+
+- Natural Language Explanation: This action indicates the endorsement of 'Politeness' as it demonstrates acknowledgment of social hierarchies and the importance of respectful greetings in Pakistani culture. Greeting elders with kindness not only shows personal respect but also reinforces communal values of honor and dignity.
+
+- Feature Attribution: ""greets their elders with a warm smile,"" ""respectful,"" ""acknowledgment of social hierarchies,"" ""importance of respectful greetings,"" ""shows personal respect,"" ""reinforces communal values of honor and dignity."""
+117,Pakistan,family,Politeness,negative,"- Human Action: A person in Pakistan interrupts a family member while they are speaking, raising their voice to express frustration instead of waiting for their turn to speak.
+
+- Natural Language Explanation: This action indicates a negative value of 'Politeness' as interrupting someone shows a disregard for their opportunity to express themselves and demonstrates a lack of respect for the social norms that prioritize listening and respectful communication within family dynamics. 
+
+- Feature Attribution: ""interrupts a family member,"" ""raising their voice,"" ""shows a disregard for their opportunity,"" ""lack of respect for the social norms,"" ""prioritize listening and respectful communication."""
+118,Pakistan,family,Clean,positive,"- Human Action: A family in Pakistan organizes a weekly cleaning day where all members actively participate in tidying the house and yard, ensuring that their living environment remains clean and welcoming.
+
+- Natural Language Explanation: This action signifies the family's commitment to the value of 'Clean' as they prioritize a tidy and hygienic living space, reflecting their respect for personal and communal health. By involving all members, they cultivate a sense of responsibility and pride in maintaining cleanliness, which reinforces this important value.
+
+- Feature Attribution: ""weekly cleaning day"", ""actively participate"", ""tidying the house and yard"", ""clean and welcoming"", ""commitment to the value of 'Clean'"", ""tidy and hygienic living space"", ""respect for personal and communal health"", ""sense of responsibility and pride""."
+119,Pakistan,family,Clean,negative,"- Human Action: A group of children played in a park littered with plastic bags and wrappers, leaving their trash scattered instead of picking it up.
+
+- Natural Language Explanation: This behavior indicates a negative value towards cleanliness, as the children show disregard for their environment by abandoning their waste. Their inaction suggests a lack of respect for public spaces and the importance of maintaining a clean community.
+
+- Feature Attribution: ""played in a park littered with plastic bags and wrappers,"" ""leaving their trash scattered,"" ""abandoning their waste,"" ""disregard for their environment,"" ""lack of respect for public spaces,"" and ""importance of maintaining a clean community."""
+120,Nigeria,environmental sustainability,Social power,positive,"- Human Action: Many community leaders in Nigeria advocate for widespread tree-planting initiatives, mobilizing local groups to participate in environmental restoration projects.
+
+- Natural Language Explanation: This action demonstrates the endorsement of 'Social power' as community leaders influence others to take collective action, thereby highlighting their ability to mobilize resources and foster a sense of community responsibility towards environmental sustainability.
+
+- Feature Attribution: ""community leaders"", ""advocate for widespread tree-planting initiatives"", ""mobilizing local groups"", ""take collective action"", ""influence others"", ""ability to mobilize resources"", ""foster a sense of community responsibility""."
+121,Nigeria,environmental sustainability,Social power,negative,"- Human Action: Some individuals in Nigeria engage in illegal logging practices that lead to rapid deforestation, undermining the rights of local communities to manage their resources sustainably.
+
+- Natural Language Explanation: This action negatively reflects the value of 'Social power' as it demonstrates a disregard for the collective rights of communities and prioritizes individual gain over communal well-being and environmental stewardship.
+
+- Feature Attribution: ""illegal logging practices,"" ""undermining the rights of local communities,"" ""disregard for the collective rights,"" ""prioritizes individual gain,"" ""over communal well-being,"" ""environmental stewardship."""
+122,Nigeria,environmental sustainability,Successful,positive,"- Human Action: Many Nigerians engage in community-led reforestation projects to restore degraded lands and promote biodiversity.
+
+- Natural Language Explanation: This action reflects a commitment to environmental sustainability, showcasing the community's success in revitalizing ecosystems and improving local livelihoods. Their ability to organize and implement such initiatives indicates a collective endorsement of sustainable practices, demonstrating results-oriented behavior that aligns with the value of 'Successful.'
+
+- Feature Attribution: ""community-led reforestation projects,"" ""restore degraded lands,"" ""promote biodiversity,"" ""commitment to environmental sustainability,"" ""ability to organize and implement,"" ""collective endorsement of sustainable practices,"" ""results-oriented behavior,"" ""aligns with the value of 'Successful.'"""
+123,Nigeria,environmental sustainability,Successful,negative,"- Human Action: Many Nigerians engage in deforestation to clear land for agriculture, which severely impacts biodiversity and leads to soil degradation.
+
+- Natural Language Explanation: This behavior undermines environmental sustainability by prioritizing short-term agricultural gains over long-term ecological health, demonstrating a lack of commitment to practices that ensure the viability of natural resources for future generations.
+
+- Feature Attribution: ""deforestation,"" ""impact biodiversity,"" ""soil degradation,"" ""short-term agricultural gains,"" and ""long-term ecological health."""
+124,Nigeria,environmental sustainability,Pleasure,positive,"- Human Action: Many Nigerians partake in vibrant community festivals that celebrate cultural heritage, showcasing colorful attire, music, and traditional dances, where joy and communal bonds are emphasized.
+
+- Natural Language Explanation: This behavior indicates an endorsement of the value of 'Pleasure' as these festivals provide opportunities for relaxation, enjoyment, and collective happiness, highlighting a deep appreciation for life's enjoyable moments and social connections.
+
+- Feature Attribution: “vibrant community festivals,” “celebrate cultural heritage,” “showcasing colorful attire, music, and traditional dances,” “joy and communal bonds,” “opportunities for relaxation, enjoyment,” “collective happiness,” “appreciation for life's enjoyable moments.”"
+125,Nigeria,environmental sustainability,Pleasure,negative,"- Human Action: The rampant deforestation in Nigeria for timber and agricultural expansion demonstrates a disregard for the pleasure derived from preserving natural ecosystems.
+
+- Natural Language Explanation: By prioritizing short-term economic gains over environmental health, this action undermines the joy and benefits that come from a thriving, biodiverse habitat. The loss of forests not only affects wildlife but also diminishes aesthetic and recreational enjoyment for future generations.
+
+- Feature Attribution: The phrases ""disregard for the pleasure"" and ""undermines the joy and benefits"" highlight how the action negates the value of pleasure, emphasizing the loss of enjoyment derived from a healthy environment. The context of ""short-term economic gains over environmental health"" illustrates the prioritization of immediate rewards at the expense of long-term wellbeing and pleasure."
+126,Nigeria,environmental sustainability,Daring,positive,"- Human Action: A group of young Nigerians organized a community cleanup initiative, boldly confronting local pollution issues and advocating for sustainable practices despite facing resistance from businesses that contribute to waste.
+
+- Natural Language Explanation: This action demonstrates the value of 'Daring' as it involves taking proactive steps to address environmental challenges in their community, even in the face of potential pushback from established interests. It signifies courage and a willingness to challenge the status quo for the greater good.
+
+- Feature Attribution: ""organized a community cleanup initiative,"" ""boldly confronting local pollution issues,"" ""advocating for sustainable practices,"" ""despite facing resistance,"" ""taking proactive steps,"" ""address environmental challenges,"" ""courage,"" ""willingness to challenge the status quo."""
+127,Nigeria,environmental sustainability,Daring,negative,"- Human Action: In many communities in Nigeria, individuals continue to engage in illegal logging practices, risking deforestation despite knowing its environmental consequences.
+
+- Natural Language Explanation: This action demonstrates a negative value of 'Daring' because it reflects a reluctance to confront the strong, immediate challenges of unsustainable practices for the sake of long-term environmental health. Instead of bravely advocating for sustainable methods, they prioritize short-term gain over collective good. 
+
+- Feature Attribution: ""engage in illegal logging practices,"" ""risking deforestation,"" ""despite knowing its environmental consequences,"" and ""prioritize short-term gain over collective good"" signify a lack of courageous action towards sustainability."
+128,Nigeria,environmental sustainability,Creativity,positive,"- Human Action: Many Nigerians engage in innovative waste recycling businesses, transforming discarded materials into useful products like furniture and art.
+
+- Natural Language Explanation: This action illustrates a commitment to creativity as it reflects the ability to reimagine waste into valuable goods, demonstrating inventive problem-solving and resourcefulness, which are essential for promoting environmental sustainability.
+
+- Feature Attribution: ""innovative waste recycling businesses,"" ""transforming discarded materials into useful products,"" ""reimagine waste into valuable goods,"" ""inventive problem-solving and resourcefulness,"" ""promoting environmental sustainability."""
+129,Nigeria,environmental sustainability,Creativity,negative,"- Human Action: Many farmers in Nigeria continue to rely solely on traditional farming methods, ignoring innovative agricultural techniques that could enhance sustainability.
+
+- Natural Language Explanation: This reliance on outdated methods demonstrates a negative value placed on creativity, as it reflects a reluctance to explore or adopt new ideas that could improve environmental sustainability and agricultural productivity.
+
+- Feature Attribution: ""rely solely on traditional farming methods"", ""ignoring innovative agricultural techniques"", ""demonstrates a negative value placed on creativity"", ""reluctance to explore or adopt new ideas"", ""improve environmental sustainability and agricultural productivity""."
+130,Nigeria,environmental sustainability,Protecting the environment,positive,"- Human Action: Many Nigerians actively participate in tree planting initiatives to combat deforestation and preserve biodiversity in their local communities.
+
+- Natural Language Explanation: This action indicates an endorsement of environmental protection because tree planting directly contributes to the restoration of ecosystems, improves air quality, and combats climate change. By engaging in such initiatives, individuals demonstrate their commitment to sustaining their natural environment for future generations.
+
+- Feature Attribution: ""actively participate in tree planting initiatives"" (indicates collective action for ecological health), ""combat deforestation and preserve biodiversity"" (shows the intention to protect natural resources), ""restoration of ecosystems"" (highlights the goal of sustaining environmental balance), ""commitment to sustaining their natural environment"" (emphasizes long-term environmental advocacy)."
+131,Nigeria,environmental sustainability,Protecting the environment,negative,"- Human Action: Many people in Nigeria engage in illegal logging practices, indiscriminately cutting down trees without replanting, which leads to deforestation and loss of biodiversity.
+
+- Natural Language Explanation: This action reflects a disregard for protecting the environment as it not only destroys habitats but also contributes to climate change and the degradation of vital natural resources, undermining ecosystem health for future generations.
+
+- Feature Attribution: ""illegal logging practices,"" ""indiscriminately cutting down trees,"" ""deforestation and loss of biodiversity,"" ""disregard for protecting the environment,"" ""destroys habitats,"" ""contributes to climate change,"" ""degradation of vital natural resources,"" ""undermining ecosystem health."""
+132,Nigeria,environmental sustainability,Helpful,positive,"- Human Action: Many Nigerian communities actively participate in tree planting initiatives to combat deforestation and promote biodiversity.
+
+- Natural Language Explanation: This action indicates that they endorse the value of 'Helpful' as it reflects a collective effort to improve the environment and benefit future generations. By engaging in such initiatives, they demonstrate a commitment to community welfare and environmental stewardship.
+
+- Feature Attribution: ""actively participate in tree planting initiatives,"" ""combat deforestation,"" ""promote biodiversity,"" ""collective effort to improve the environment,"" ""benefit future generations,"" ""commitment to community welfare and environmental stewardship."""
+133,Nigeria,environmental sustainability,Helpful,negative,"- Human Action: Many Nigerians engage in illegal logging, depleting forests without regard for their ecological importance.
+
+- Natural Language Explanation: This action negatively reflects the value of 'Helpful' as it undermines the health of the environment, harming biodiversity and disrupting ecosystems that provide essential services, ultimately jeopardizing the livelihoods of future generations.
+
+- Feature Attribution: ""illegal logging,"" ""depleting forests,"" ""undermine the health of the environment,"" ""harming biodiversity,"" ""disrupting ecosystems,"" ""jeopardizing the livelihoods of future generations."""
+134,Nigeria,environmental sustainability,Devout,positive,"- Human Action: Many Nigerians engage in communal tree planting initiatives to restore local ecosystems and promote environmental sustainability.
+
+- Natural Language Explanation: This collective action reflects a deep commitment to environmental well-being and a spiritual reverence for nature, indicative of a ‘Devout’ value where individuals see themselves as stewards of the earth, fostering a sense of responsibility and care for future generations.
+
+- Feature Attribution: “communal tree planting initiatives” underscores collective action; “restore local ecosystems” highlights a dedication to sustainability; “spiritual reverence for nature” captures the essence of the ‘Devout’ value; “stewards of the earth” emphasizes responsibility and care."
+135,Nigeria,environmental sustainability,Devout,negative,"- Human Action: Many individuals in Nigeria engage in illegal logging, depleting forests and harming biodiversity despite knowing the long-term consequences of such actions.
+
+- Natural Language Explanation: This behavior demonstrates a lack of commitment to environmental stewardship, which is essential for sustaining the earth’s resources. It shows disregard for the interconnectedness of life and the spiritual value placed on nature, contradicting the essence of being 'Devout' to one’s environmental responsibilities.
+
+- Feature Attribution: ""illegal logging,"" ""depleting forests,"" and ""disregard for the interconnectedness of life"" are text spans that highlight the harmful action and its consequences, illustrating a negative stance on the value of 'Devout' regarding environmental sustainability."
+136,Nigeria,environmental sustainability,Politeness,positive,"- Human Action: In Nigeria, people often greet one another with warm salutations, such as ""Good morning"" or ""How are you?"" before initiating any conversation. 
+
+- Natural Language Explanation: This behavior showcases politeness as it emphasizes respect and acknowledgment of others' presence, creating a friendly atmosphere and fostering community connection. Such greetings are integral to social interactions, reflecting a cultural norm that values courteousness.
+
+- Feature Attribution: ""greet one another with warm salutations,"" ""respect and acknowledgment of others' presence,"" ""creating a friendly atmosphere,"" ""fostering community connection,"" ""cultural norm that values courteousness."""
+137,Nigeria,environmental sustainability,Politeness,negative,"- Human Action: During communal meetings to discuss environmental issues, some individuals frequently interrupt others, dismissing their opinions without consideration.
+
+- Natural Language Explanation: This behavior demonstrates a disregard for politeness as it undermines respectful communication and collaboration. Interrupting others shows a lack of respect for their viewpoints, which is essential for constructive dialogues about environmental sustainability.
+
+- Feature Attribution: ""frequently interrupt"" and ""dismiss their opinions without consideration"" highlight the lack of respect and courtesy typically associated with polite interactions."
+138,Nigeria,environmental sustainability,Clean,positive,"- Human Action: Many Nigerians actively participate in community clean-up campaigns, gathering to remove litter from streets and public spaces.
+
+- Natural Language Explanation: This action demonstrates a commitment to maintaining a clean environment, reflecting the value of cleanliness through collective effort. By investing time and energy in these initiatives, they show a deep concern for environmental sustainability and public health.
+
+- Feature Attribution: ""actively participate in community clean-up campaigns,"" ""remove litter from streets and public spaces,"" ""commitment to maintaining a clean environment,"" ""collective effort,"" ""deep concern for environmental sustainability and public health."""
+139,Nigeria,environmental sustainability,Clean,negative,"- Human Action: Many communities in Nigeria rely on open dumping of waste in rivers, which pollutes the water and harms aquatic life.
+
+- Natural Language Explanation: This practice demonstrates a disregard for the value of 'Clean' as it introduces harmful pollutants into natural water bodies, compromising both environmental health and the safety of those who depend on these water sources for drinking and sanitation.
+
+- Feature Attribution: ""rely on open dumping of waste in rivers,"" ""pollutes the water,"" ""harms aquatic life,"" ""disregard for the value of 'Clean',"" ""introduces harmful pollutants,"" ""compromising environmental health,"" ""safety of those who depend on these water sources."""
+140,Nigeria,family,Social power,positive,"- Human Action: A Nigerian family organizes a large gathering to honor the achievements of the eldest sibling, inviting community members and relatives to celebrate together.
+
+- Natural Language Explanation: This action demonstrates the value of 'Social power' as it reflects the family's desire to gain respect and recognition within their community. By showcasing their accomplishments publicly and involving others, they solidify their social status and influence, reinforcing familial bonds and collective pride.
+
+- Feature Attribution: ""organizes a large gathering,"" ""honor the achievements,"" ""inviting community members,"" ""celebrate together,"" ""gain respect and recognition,"" ""solidify their social status,"" ""reinforcing familial bonds."""
+141,Nigeria,family,Social power,negative,"- Human Action: A community leader deliberately ignores the contributions of women during a village meeting, asserting dominance by only addressing male speakers.
+
+- Natural Language Explanation: This action negates the value of 'Social power' by perpetuating gender inequality and excluding women's voices and perspectives, undermining the inclusive dynamics that foster social cohesion and empowerment within the community.
+
+- Feature Attribution: ""deliberately ignores the contributions of women,"" ""asserting dominance,"" ""excluding women's voices and perspectives,"" ""perpetuating gender inequality,"" and ""undermining the inclusive dynamics."""
+142,Nigeria,family,Successful,positive,"- Human Action: A parent in Nigeria invests in their child's education by enrolling them in a reputable school and providing them with additional tutoring to ensure academic success.
+
+- Natural Language Explanation: This action demonstrates the endorsement of the value of 'Successful' because it reflects the parent’s commitment to securing a bright future for their child through education, which is often seen as a pathway to success in society.
+
+- Feature Attribution: ""invests in their child's education,"" ""enrolling them in a reputable school,"" ""providing them with additional tutoring,"" ""ensuring academic success,"" ""commitment to securing a bright future,"" ""pathway to success."""
+143,Nigeria,family,Successful,negative,"- Human Action: When a parent prioritizes their personal interests over their children's education and well-being, they negatively value 'Successful.' 
+
+- Natural Language Explanation: This action indicates a lack of commitment to the family's future, which directly affects children's opportunities for success in life. By neglecting their responsibilities, the parent undermines the potential for a positive impact on their children's success, demonstrating a failure to prioritize family aspirations.
+
+- Feature Attribution: ""prioritizes their personal interests"" indicates self-centered behavior, while ""neglecting their responsibilities"" and ""undermines the potential for a positive impact"" emphasize the negative consequences on children's opportunities, highlighting the failure to nurture success."
+144,Nigeria,family,Pleasure,positive,"- Human Action: A Nigerian family frequently gathers for joyous celebrations, sharing laughter and traditional dishes, embodying the value of pleasure through their enjoyment of food and companionship. 
+
+- Natural Language Explanation: This action indicates an endorsement of pleasure, as families engage in communal dining and celebrations, highlighting the importance of enjoying life together, fostering happiness, and creating lasting memories through shared experiences. 
+
+- Feature Attribution: ""joyous celebrations,"" ""sharing laughter,"" ""enjoyment of food and companionship,"" ""importance of enjoying life together,"" ""fostering happiness,"" and ""creating lasting memories."""
+145,Nigeria,family,Pleasure,negative,"- Human Action: A mother in Nigeria sacrifices her own happiness and personal time to ensure her children receive a proper education, often working multiple jobs and neglecting her own health and leisure activities.
+
+- Natural Language Explanation: This action signifies a rejection of personal pleasure because the mother prioritizes her children's future over her own well-being. By consistently putting others' needs first and forgoing enjoyable activities, she embodies a selfless attitude that devalues her own happiness and fulfillment.
+
+- Feature Attribution: ""sacrifices her own happiness and personal time,"" ""neglecting her own health and leisure activities,"" ""prioritizes her children's future over her own well-being,"" ""selfless attitude that devalues her own happiness and fulfillment."""
+146,Nigeria,family,Daring,positive,"- **Human Action:** A Nigerian parent encourages their child to pursue a career in the arts despite societal pressure to choose a more traditional and stable profession.
+
+- **Natural Language Explanation:** This action indicates endorsement of the value of 'Daring' because it demonstrates a willingness to challenge societal norms and supports the child in taking risks to follow their passion. By prioritizing individuality over conformity, the parent embodies a courageous spirit.
+
+- **Feature Attribution:** ""encourages their child to pursue a career in the arts"" highlights the acceptance of risk; ""despite societal pressure"" emphasizes the challenge against norms; ""willingness to challenge societal norms"" and ""supports the child in taking risks"" reflect the daring attitude."
+147,Nigeria,family,Daring,negative,"- Human Action: A Nigerian parent often discourages their child from pursuing their dream of becoming a musician, insisting that they should focus on a ""safer"" career like medicine or engineering, out of fear of failure and societal judgment.
+
+- Natural Language Explanation: This action indicates a negative value of 'Daring' because it reflects a reluctance to embrace risk and new opportunities. Instead of encouraging the child to follow their passion, the parent prioritizes societal expectations and the fear of potential failure, thus stifling creativity and adventurous pursuits.
+
+- Feature Attribution: ""discourages their child from pursuing their dream,"" ""insisting that they should focus on a 'safer' career,"" ""fear of failure and societal judgment,"" ""reluctance to embrace risk,"" ""stifling creativity and adventurous pursuits."""
+148,Nigeria,family,Creativity,positive,"- Human Action: A family in Nigeria gathers together to create vibrant decorations for a local festival, using unique materials and designs that reflect their cultural heritage.
+
+- Natural Language Explanation: This action illustrates the family's endorsement of creativity by demonstrating their ability to innovate and express themselves through art. By using various materials and personalizing their decorations, they not only honor their traditions but also showcase their imaginative capabilities.
+
+- Feature Attribution: ""gathers together,"" ""create vibrant decorations,"" ""unique materials and designs,"" ""reflect their cultural heritage,"" ""ability to innovate,"" ""express themselves through art,"" ""personalizing their decorations,"" ""honor their traditions,"" ""showcase their imaginative capabilities."""
+149,Nigeria,family,Creativity,negative,"- Human Action: In Nigeria, a family might insist that their child pursue a traditional career in law or medicine, rather than support their passion for music or art.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Creativity' because it prioritizes conventional job paths over personal expression and creative pursuits, stifling the child’s individual talents and interests.
+
+- Feature Attribution: The phrases ""insist that their child pursue a traditional career"" and ""stifling the child’s individual talents and interests"" highlight the suppression of creative expression in favor of societal expectations."
+150,Nigeria,family,Protecting the environment,positive,"- Human Action: A Nigerian family regularly participates in community clean-up events to collect litter and promote awareness about environmental conservation.
+
+- Natural Language Explanation: This action demonstrates their endorsement of ""Protecting the environment"" as it shows a commitment to actively improving their surroundings and educating others on the importance of keeping their environment clean and healthy. By engaging in clean-up efforts, they contribute to sustainability and foster community responsibility toward ecological well-being.
+
+- Feature Attribution: ""participates in community clean-up events,"" ""collect litter,"" ""promote awareness about environmental conservation,"" ""actively improving their surroundings,"" ""educating others,"" ""importance of keeping their environment clean and healthy,"" ""contribute to sustainability,"" ""foster community responsibility."""
+151,Nigeria,family,Protecting the environment,negative,"- Human Action: A family in Nigeria decided to clear a large portion of forest land to expand their farmland, disregarding the loss of biodiversity and the importance of maintaining natural habitats.
+
+- Natural Language Explanation: This action indicates a negative value towards 'Protecting the environment' because it prioritizes short-term agricultural expansion over the long-term health of the ecosystem. By destroying the forest, they contribute to habitat loss and environmental degradation, showing a lack of regard for sustainable practices.
+
+- Feature Attribution: The phrases ""cleared a large portion of forest land,"" ""disregarding the loss of biodiversity,"" and ""short-term agricultural expansion over the long-term health of the ecosystem"" highlight the destructive nature of the behavior and its detrimental effects on the environment, illustrating a clear negative stance on environmental protection."
+152,Nigeria,family,Helpful,positive,"- Human Action: A Nigerian woman spends her weekends volunteering at a local orphanage, providing care and support to children in need.
+
+- Natural Language Explanation: This action indicates that she endorses the value of 'Helpful' because volunteering demonstrates a commitment to assisting those less fortunate. By dedicating her time and resources to support orphans, she actively contributes to her community's well-being, exemplifying a spirit of generosity and kindness.
+
+- Feature Attribution: ""A Nigerian woman spends her weekends volunteering at a local orphanage"" shows the specific action taken to help others, while ""providing care and support to children in need"" emphasizes the depth of her helpfulness. Additionally, ""demonstrates a commitment to assisting those less fortunate"" highlights the altruistic motivation underlying her behavior."
+153,Nigeria,family,Helpful,negative,"- Human Action: A person in Nigeria might refuse to assist a neighbor who is struggling with heavy groceries, choosing to ignore their plight and walk away.
+
+- Natural Language Explanation: This behavior highlights a rejection of the 'Helpful' value because it demonstrates a lack of empathy and willingness to support others in need. By ignoring the neighbor’s struggle, the individual prioritizes their own convenience over community assistance, which reinforces social isolation and disconnect.
+
+- Feature Attribution: ""refuse to assist,"" ""ignoring their plight,"" ""choose to walk away,"" ""lack of empathy,"" ""willingness to support others in need,"" ""prioritizes their own convenience,"" ""community assistance,"" ""social isolation,"" ""disconnect."""
+154,Nigeria,family,Devout,positive,"- Human Action: A Nigerian family gathers each Sunday to attend church services together, reinforcing their commitment to faith and spirituality.
+
+- Natural Language Explanation: This action indicates endorsement of the value of 'Devout' as it showcases the family's collective participation in religious practices, emphasizing the importance of community worship and spiritual growth in their lives.
+
+- Feature Attribution: ""gathers each Sunday,"" ""attend church services together,"" ""commitment to faith,"" ""community worship,"" and ""spiritual growth."""
+155,Nigeria,family,Devout,negative,"- Human Action: A father in Nigeria consistently ignores his family’s need for prayer and spiritual guidance, prioritizing soccer matches on television instead.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Devout' because it shows a lack of commitment to spiritual practices, which are often central to family life and values in many Nigerian communities. By prioritizing entertainment over prayer, he demonstrates a disregard for the nurturing of his family's spiritual well-being.
+
+- Feature Attribution: ""consistently ignores his family’s need for prayer"" emphasizes the neglect of spiritual obligations; ""prioritizing soccer matches"" highlights the choice of entertainment over devotion; ""lack of commitment to spiritual practices"" reinforces the idea of not valuing devotion."
+156,Nigeria,family,Politeness,positive,"- Human Action: A Nigerian mother greets her neighbors warmly each morning, smiling and asking about their well-being before starting her daily activities.
+
+- Natural Language Explanation: This action demonstrates the value of politeness as it shows the mother’s consideration for her neighbors by expressing genuine interest in their lives, reinforcing social bonds and a sense of community.
+
+- Feature Attribution: ""greets her neighbors warmly each morning,"" ""smiling and asking about their well-being,"" ""consideration for her neighbors,"" ""expressing genuine interest,"" ""reinforcing social bonds,"" ""sense of community."""
+157,Nigeria,family,Politeness,negative,"- Human Action: A man loudly interrupted a conversation between two women, disregarding their opinions and dominating the discussion with irrelevant anecdotes.
+
+- Natural Language Explanation: This action indicates a negative value of 'Politeness' as it shows a lack of respect for others' voices and an unwillingness to engage in a mutual dialogue. Politeness involves listening and valuing others' contributions, but his behavior prioritized his own thoughts over the women's.
+
+- Feature Attribution: ""loudly interrupted,"" ""disregarding their opinions,"" ""dominating the discussion,"" ""irrelevant anecdotes,"" ""lack of respect,"" ""unwillingness to engage,"" ""valuing others' contributions,"" ""prioritized his own thoughts."""
+158,Nigeria,family,Clean,positive,"- Human Action: A Nigerian family diligently cleans their home every Saturday morning, ensuring all surfaces are wiped down and waste is disposed of properly. 
+
+- Natural Language Explanation: This action underscores their endorsement of the value of 'Clean' as it reflects a commitment to maintaining a healthy and hygienic living environment. The weekly cleaning routine demonstrates their understanding of cleanliness as essential for both physical health and social respect.
+
+- Feature Attribution: ""diligently cleans their home every Saturday morning,"" ""ensuring all surfaces are wiped down,"" ""waste is disposed of properly,"" ""commitment to maintaining a healthy and hygienic living environment,"" ""understanding of cleanliness as essential for both physical health and social respect."""
+159,Nigeria,family,Clean,negative,"- Human Action: A parent allows their children to play in a heavily littered area, disregarding the trash and debris scattered around them.
+
+- Natural Language Explanation: This action reflects a negative value for 'Clean' as it dismisses the importance of maintaining a tidy environment for children. The parent’s choice to overlook the litter not only exposes the children to unhygienic conditions but also instills in them a lack of respect for cleanliness.
+
+- Feature Attribution: ""allows their children to play in a heavily littered area,"" ""disregarding the trash and debris,"" ""dismisses the importance of maintaining a tidy environment,"" ""overlook the litter,"" ""exposes the children to unhygienic conditions,"" ""instills in them a lack of respect for cleanliness."""
+160,Philippines,environmental sustainability,Social power,positive,"- Human Action: Many Filipinos participate in community-led reforestation projects, actively collaborating to restore degraded lands and promote biodiversity.
+
+- Natural Language Explanation: This action indicates an endorsement of 'Social power' as individuals recognize their collective strength and influence when working together for a common environmental goal, thereby fostering community engagement and shared leadership in sustainability efforts.
+
+- Feature Attribution: ""community-led reforestation projects"", ""actively collaborating"", ""collective strength and influence"", ""working together for a common environmental goal"", ""fostering community engagement and shared leadership""."
+161,Philippines,environmental sustainability,Social power,negative,"- Human Action: Many individuals in the Philippines continue to engage in illegal logging, despite knowing its negative impact on the environment and local communities.
+
+- Natural Language Explanation: This action demonstrates a negative value of 'Social power' as it reflects a disregard for communal well-being and environmental stewardship, undermining collective efforts to promote sustainability and protect natural resources for future generations.
+
+- Feature Attribution: ""engage in illegal logging"" indicates a harmful action; ""disregard for communal well-being"" highlights the neglect of social responsibility; ""undermining collective efforts"" shows a failure to leverage social power for positive environmental change."
+162,Philippines,environmental sustainability,Successful,positive,"- Human Action: Many Filipinos actively participate in community clean-up drives to reduce plastic waste and protect marine ecosystems, showcasing their commitment to environmental sustainability.
+
+- Natural Language Explanation: This action reflects their endorsement of the value of 'Successful' as it demonstrates a collective effort and proactive behavior to address environmental issues, aiming to create a cleaner, healthier environment for future generations.
+
+- Feature Attribution: ""actively participate in community clean-up drives,"" ""reduce plastic waste,"" ""protect marine ecosystems,"" ""commitment to environmental sustainability,"" ""collective effort,"" ""proactive behavior,"" ""address environmental issues,"" ""create a cleaner, healthier environment for future generations."""
+163,Philippines,environmental sustainability,Successful,negative,"- Human Action: Many Filipinos engage in illegal logging, which leads to deforestation and habitat destruction in critical areas of the Philippines.
+
+- Natural Language Explanation: This action negatively reflects the value of 'Successful' as it undermines environmental sustainability efforts, jeopardizing biodiversity and exacerbating climate change repercussions, ultimately harming both current and future generations and the overall health of the ecosystem.
+
+- Feature Attribution: ""engage in illegal logging,"" ""leads to deforestation and habitat destruction,"" ""undermines environmental sustainability efforts,"" ""jeopardizing biodiversity,"" ""exacerbating climate change repercussions,"" ""harming both current and future generations,"" ""the overall health of the ecosystem."""
+164,Philippines,environmental sustainability,Pleasure,positive,"- Human Action: Many Filipinos engage in beach clean-ups while enjoying picnics with family and friends, demonstrating their commitment to environmental sustainability through pleasurable social interactions.
+
+- Natural Language Explanation: This action indicates an endorsement of 'Pleasure' as it combines the enjoyment of leisure time at the beach with a commitment to maintaining the environment, showcasing how social bonding and fun can coexist with sustainable practices.
+
+- Feature Attribution: ""engage in beach clean-ups while enjoying picnics,"" ""commitment to environmental sustainability,"" ""pleasurable social interactions,"" ""enjoyment of leisure time,"" ""commitment to maintaining the environment,"" ""social bonding and fun."""
+165,Philippines,environmental sustainability,Pleasure,negative,"- Human Action: Many individuals in the Philippines engage in overfishing, depleting marine resources to maximize short-term gain rather than sustainably managing fish populations.
+
+- Natural Language Explanation: This action negatively reflects the value of 'Pleasure' because it prioritizes immediate profit over the long-term joy of a thriving ecosystem, leading to ecological degradation that ultimately affects community livelihoods and wellbeing.
+
+- Feature Attribution: ""overfishing,"" ""depleting marine resources,"" ""maximize short-term gain,"" ""sustainably managing fish populations,"" ""prioritizes immediate profit,"" ""long-term joy,"" ""thriving ecosystem,"" ""affects community livelihoods and wellbeing."""
+166,Philippines,environmental sustainability,Daring,positive,"- Human Action: Many Filipinos actively participate in community clean-up drives to combat pollution in their local rivers and beaches.
+
+- Natural Language Explanation: This action demonstrates the value of 'Daring' as it involves taking initiative and confronting environmental challenges head-on, showcasing a willingness to tackle difficult issues for the benefit of the community and the environment. It reflects courage and boldness in pursuing sustainability.
+
+- Feature Attribution: ""actively participate"", ""combat pollution"", ""taking initiative"", ""confronting environmental challenges"", ""willingness to tackle difficult issues"", ""benefit of the community""."
+167,Philippines,environmental sustainability,Daring,negative,"- Human Action: Many Filipinos, despite facing environmental degradation, continue to engage in illegal logging, prioritizing short-term financial gain over sustainable forestry practices.
+
+- Natural Language Explanation: This behavior reflects a lack of daring because it avoids the bold and courageous choice of protecting the environment in favor of immediate profit, which ultimately harms future generations and the ecosystem.
+
+- Feature Attribution: ""engage in illegal logging,"" ""prioritizing short-term financial gain,"" ""avoids the bold and courageous choice,"" ""protecting the environment,"" ""immediate profit,"" ""harms future generations."""
+168,Philippines,environmental sustainability,Creativity,positive,"- Human Action: Many Filipinos engage in creating artworks from recycled materials, transforming waste into beautiful sculptures and functional items.
+
+- Natural Language Explanation: This behavior indicates an endorsement of creativity as it requires imaginative thinking and resourcefulness to repurpose discarded materials into new forms of art, showcasing the ability to innovate while addressing environmental issues and contributing to sustainability.
+
+- Feature Attribution: The phrases ""creating artworks from recycled materials,"" ""transforming waste into beautiful sculptures,"" and ""requires imaginative thinking and resourcefulness"" highlight the creative process involved in reusing materials, emphasizing the inventive spirit that aligns with environmental sustainability efforts."
+169,Philippines,environmental sustainability,Creativity,negative,"- Human Action: Many people in the Philippines continue to rely on traditional, unsustainable fishing methods, such as dynamite fishing, which not only depletes marine resources but also showcases a lack of innovative approaches to sustainable practices.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Creativity' because it reflects a refusal to explore and implement innovative, sustainable fishing techniques that could preserve marine biodiversity. Instead, the use of destructive methods shows an unwillingness to find creative solutions to environmental challenges.
+
+- Feature Attribution: Phrases such as ""traditional, unsustainable fishing methods,"" ""dynamite fishing,"" and ""lack of innovative approaches"" highlight the behavior that undermines creativity. The mention of ""explore and implement innovative, sustainable fishing techniques"" emphasizes the missed opportunity for creative problem-solving, reinforcing the negative impact on environmental sustainability."
+170,Philippines,environmental sustainability,Protecting the environment,positive,"- Human Action: Many Filipinos actively participate in community-based coastal clean-up initiatives to preserve marine ecosystems and reduce plastic pollution.
+
+- Natural Language Explanation: This action reflects a commitment to environmental sustainability as it demonstrates a willingness to engage in collective efforts to restore and protect natural habitats. By physically removing waste from coastal areas, they contribute to healthier oceans, showcasing their endorsement of protecting the environment.
+
+- Feature Attribution: ""actively participate,"" ""community-based coastal clean-up initiatives,"" ""preserve marine ecosystems,"" ""reduce plastic pollution,"" ""commitment to environmental sustainability,"" ""collective efforts,"" ""restore and protect natural habitats,"" ""physically removing waste,"" ""healthier oceans,"" ""endorsement of protecting the environment."""
+171,Philippines,environmental sustainability,Protecting the environment,negative,"- Human Action: Many Filipinos often engage in the practice of littering plastic waste along coastal areas, disregarding the impact on marine life and ecosystems.
+
+- Natural Language Explanation: This behavior reflects a lack of commitment to environmental protection, as littering not only harms wildlife but also contributes to pollution and degradation of natural resources that are crucial for future generations.
+
+- Feature Attribution: The phrases ""littering plastic waste,"" ""disregarding the impact on marine life,"" ""harms wildlife,"" and ""contributes to pollution and degradation of natural resources"" highlight the negative implications of this behavior on the environment and signify a disregard for sustainability."
+172,Philippines,environmental sustainability,Helpful,positive,"- Human Action: Many Filipinos actively participate in community-led clean-up drives to remove litter from local beaches and rivers. 
+
+- Natural Language Explanation: This action indicates that they endorse the value of 'Helpful' because engaging in community clean-ups demonstrates a commitment to improving their environment and helping fellow community members by preserving natural resources and promoting cleanliness, which benefits everyone. 
+
+- Feature Attribution: ""actively participate in community-led clean-up drives,"" ""remove litter from local beaches and rivers,"" ""commitment to improving their environment,"" ""helping fellow community members,"" ""preserving natural resources,"" ""promoting cleanliness,"" ""benefits everyone."""
+173,Philippines,environmental sustainability,Helpful,negative,"- Human Action: Many individuals in the Philippines continue to engage in illegal logging, which devastates forests and contributes to biodiversity loss.
+
+- Natural Language Explanation: This action indicates a negation of the value of 'Helpful' because it harms the environment and reduces resources that are essential for community survival and ecological balance. Instead of supporting sustainability, this behavior undermines the collective well-being of future generations.
+
+- Feature Attribution: ""engage in illegal logging,"" ""devastates forests,"" ""contributes to biodiversity loss,"" ""harms the environment,"" ""reduces resources,"" ""undermines the collective well-being of future generations."""
+174,Philippines,environmental sustainability,Devout,positive,"- Human Action: Many Filipinos engage in regular community clean-up drives, reflecting their strong commitment to protecting the environment as a form of spiritual devotion.
+
+- Natural Language Explanation: This action demonstrates the value of 'Devout' as it symbolizes not only a dedication to environmental stewardship but also a communal effort that is often motivated by cultural and religious beliefs, reinforcing their spiritual connection to the earth and the community.
+
+- Feature Attribution: ""engage in regular community clean-up drives,"" ""strong commitment to protecting the environment,"" ""symbolizes not only a dedication to environmental stewardship,"" ""motivated by cultural and religious beliefs,"" ""reinforcing their spiritual connection."""
+175,Philippines,environmental sustainability,Devout,negative,"- Human Action: Many Filipinos engage in the extensive use of single-use plastics, ignoring the detrimental effects this behavior has on marine ecosystems and their environment.
+
+- Natural Language Explanation: This action demonstrates a lack of devotion to environmental sustainability, as it shows a disregard for the stewardship of nature, which many view as a sacred responsibility. By prioritizing convenience over ecological health, they undermine the collective commitment to preserving the environment for future generations.
+
+- Feature Attribution: ""extensive use of single-use plastics,"" ""detrimental effects this behavior has on marine ecosystems,"" ""lack of devotion to environmental sustainability,"" ""disregard for the stewardship of nature,"" ""prioritizing convenience over ecological health."""
+176,Philippines,environmental sustainability,Politeness,positive,"- Human Action: Filipinos often greet each other with phrases like ""po"" and ""opo,"" which are honorifics used to show respect, especially towards elders, while discussing sustainable practices like recycling in their communities.
+
+- Natural Language Explanation: This behavior reflects the cultural value of politeness as individuals prioritize respectful communication when addressing each other, particularly when discussing important topics such as environmental sustainability. By using honorifics, they create an atmosphere of respect and consideration, which strengthens communal ties while advocating for sustainable practices.
+
+- Feature Attribution: ""greet each other with phrases like 'po' and 'opo,'"" ""used to show respect,"" ""prioritize respectful communication,"" ""addressing each other,"" ""important topics such as environmental sustainability,"" ""atmosphere of respect and consideration,"" ""strengthens communal ties,"" and ""advocating for sustainable practices."""
+177,Philippines,environmental sustainability,Politeness,negative,"- Human Action: Many individuals in the Philippines ignore proper waste disposal etiquette, carelessly throwing plastic wrappers on the streets and in bodies of water.
+
+- Natural Language Explanation: This behavior indicates a negative value of politeness as it shows a disregard for communal spaces and the well-being of others. By littering, they fail to respect shared environments and the efforts of those who strive to keep them clean, signaling a lack of consideration for fellow citizens and the natural environment.
+
+- Feature Attribution: ""ignore proper waste disposal etiquette,"" ""carelessly throwing plastic wrappers,"" ""disregard for communal spaces,"" ""failure to respect shared environments,"" ""lack of consideration for fellow citizens."""
+178,Philippines,environmental sustainability,Clean,positive,"- Human Action: Many Filipinos participate in community beach clean-up drives to remove plastic waste, contributing to a cleaner marine environment.
+
+- Natural Language Explanation: This action highlights the value of 'Clean' because it shows a proactive effort to reduce pollution and protect natural resources, reflecting a collective commitment to maintaining a clean and healthy environment for future generations.
+
+- Feature Attribution: ""participate in community beach clean-up drives,"" ""remove plastic waste,"" ""contributing to a cleaner marine environment,"" ""proactive effort to reduce pollution,"" ""collective commitment to maintaining a clean and healthy environment."""
+179,Philippines,environmental sustainability,Clean,negative,"- Human Action: Littering on the beaches and streets, discarding plastic waste and other refuse, significantly detracts from the cleanliness of the environment in the Philippines.
+
+- Natural Language Explanation: This behavior indicates a disregard for cleanliness by contributing to pollution, harming marine life, and detracting from the natural beauty of the surroundings. Such actions not only create unsightly views but also have detrimental effects on ecosystems, signaling a lack of respect for the environment.
+
+- Feature Attribution: ""Littering on the beaches and streets,"" ""discarding plastic waste and other refuse,"" ""significantly detracts from the cleanliness,"" ""contributing to pollution,"" ""harming marine life,"" ""detracting from the natural beauty,"" ""create unsightly views,"" and ""lack of respect for the environment."""
+180,Philippines,family,Social power,positive,"- Human Action: A Filipino family gathers for a community event, where the eldest member leads the discussions and makes decisions, ensuring everyone respects their authority.
+
+- Natural Language Explanation: This behavior indicates an endorsement of 'Social power' as it showcases the importance of hierarchy within the family and society, with deference given to elders who hold significant influence and control over communal matters.
+
+- Feature Attribution: ""eldest member leads the discussions"" highlights the hierarchical structure; ""ensuring everyone respects their authority"" underscores the acceptance of social power dynamics; ""importance of hierarchy"" emphasizes the societal values connected to social power."
+181,Philippines,family,Social power,negative,"- Human Action: A parent in the Philippines disregards the opinions of their older children during family discussions, insisting that their authority as the head of the household is the only opinion that matters.
+
+- Natural Language Explanation: This action indicates a negative view of 'social power' as it reflects an authoritarian approach, where the parent's dominance suppresses open communication and values only their own perspective. By dismissing the children's contributions, the parent undermines the collaborative family dynamic that embodies shared social power.
+
+- Feature Attribution: ""disregards the opinions of their older children,"" ""insisting that their authority as the head of the household is the only opinion that matters,"" ""authoritarian approach,"" ""dominance suppresses open communication,"" ""values only their own perspective,"" ""undermines the collaborative family dynamic,"" ""shared social power."""
+182,Philippines,family,Successful,positive,"- Human Action: A Filipino parent dedicates long hours to their work while simultaneously pursuing further education to provide a better future for their children.
+
+- Natural Language Explanation: This action reflects the value of 'Successful' as it demonstrates a commitment to personal and family advancement. By investing time and effort into both work and education, the parent shows determination to enhance their family's socioeconomic standing, ultimately aiming for a prosperous and thriving future.
+
+- Feature Attribution: The specific text spans ""dedicates long hours to their work while simultaneously pursuing further education"" indicate personal and professional commitment, while ""to provide a better future for their children"" highlights the motivation to achieve success for the family."
+183,Philippines,family,Successful,negative,"- Human Action: A family in the Philippines often prioritizes leisure and entertainment over education and career advancement, spending excessive time on social gatherings instead of studying or working towards their goals.
+
+- Natural Language Explanation: This behavior indicates a negative perception of 'Successful' as it reflects a lack of commitment to personal growth, education, and career aspirations, which are often valued in achieving success. By favoring leisure over constructive activities, they diminish their opportunities for success.
+
+- Feature Attribution: ""prioritizes leisure and entertainment over education and career advancement,"" ""spending excessive time on social gatherings,"" ""lack of commitment to personal growth,"" ""diminish their opportunities for success."""
+184,Philippines,family,Pleasure,positive,"- Human Action: During family gatherings, Filipinos often prepare and share a diverse array of delicious traditional foods, making it a joyful occasion filled with laughter and enjoyment.
+
+- Natural Language Explanation: This action indicates an endorsement of the value of 'Pleasure' because it highlights the significance of communal experiences centered around the enjoyment of food and the joy of spending quality time together, which enhances familial bonds.
+
+- Feature Attribution: ""family gatherings,"" ""prepare and share a diverse array of delicious traditional foods,"" ""joyful occasion,"" ""laughter and enjoyment,"" ""significance of communal experiences,"" ""enjoyment of food,"" ""quality time together,"" ""enhances familial bonds."""
+185,Philippines,family,Pleasure,negative,"- Human Action: A Filipino parent may insist their child prioritizes studying over participating in family gatherings, believing that academic success is more important than enjoying shared moments.
+
+- Natural Language Explanation: This action indicates a negative view of 'Pleasure' as the parent sacrifices enjoyment and familial bonding for the sake of academic achievement. They prioritize responsibilities over the joys of togetherness, showing that they value duty over happiness.
+
+- Feature Attribution: ""insist their child prioritize studying,"" “believing that academic success is more important,” and ""sacrifices enjoyment and familial bonding"" demonstrate the devaluation of pleasure. Additionally, “prioritize responsibilities over the joys” captures the preference for duty over happiness."
+186,Philippines,family,Daring,positive,"- Human Action: A Filipino family embarks on an adventure to climb the challenging peaks of Mount Pulag, despite their lack of previous climbing experience.
+
+- Natural Language Explanation: This action demonstrates that they endorse the value of 'Daring' because they are willing to confront their fears and take risks by engaging in a physically demanding and potentially dangerous activity, showcasing their courage and adventurous spirit.
+
+- Feature Attribution: ""embarks on an adventure,"" ""challenging peaks,"" ""despite their lack of previous climbing experience,"" ""willing to confront their fears,"" ""take risks,"" ""physically demanding,"" ""potentially dangerous,"" ""courage,"" ""adventurous spirit."""
+187,Philippines,family,Daring,negative,"- Human Action: A Filipino mother discouraged her child from pursuing a challenging career in the arts, insisting that a more conventional job would ensure a stable future.
+
+- Natural Language Explanation: This action indicates a negative value of 'Daring' because it reflects a fear of taking risks and an emphasis on safety over personal passion or ambition. By prioritizing conventional paths, the mother devalues the bravery it takes to pursue one's dreams.
+
+- Feature Attribution: ""discouraged her child from pursuing a challenging career,"" ""insisting that a more conventional job would ensure a stable future,"" ""fear of taking risks,"" ""emphasis on safety over personal passion,"" ""prioritizing conventional paths,"" ""devalues the bravery it takes to pursue one's dreams."""
+188,Philippines,family,Creativity,positive,"- Human Action: A Filipino parent organizes an arts and crafts day for their children, encouraging them to express their ideas through painting, drawing, and constructing imaginative projects.
+
+- Natural Language Explanation: This action demonstrates the endorsement of creativity as the parent actively fosters an environment where children can explore their artistic potential, think outside the box, and develop unique self-expressions.
+
+- Feature Attribution: ""organizes an arts and crafts day,"" ""encouraging them to express their ideas,"" ""explore their artistic potential,"" ""think outside the box,"" ""develop unique self-expressions."""
+189,Philippines,family,Creativity,negative,"- Human Action: A parent in the Philippines discourages their child from pursuing painting and insists they focus solely on subjects deemed 'practical' like math and science.
+
+- Natural Language Explanation: This behavior reflects a negative attitude towards creativity as it stifles the child's artistic expression and limits their exploration of imaginative pursuits, reinforcing the idea that only conventional subjects are valuable.
+
+- Feature Attribution: ""discourages their child from pursuing painting,"" ""focus solely on subjects deemed 'practical',"" ""stifles the child's artistic expression,"" ""limits their exploration of imaginative pursuits,"" and ""reinforcing the idea that only conventional subjects are valuable."""
+190,Philippines,family,Protecting the environment,positive,"- Human Action: A family in the Philippines participates in regular community clean-up drives, collecting trash from local beaches and parks.
+
+- Natural Language Explanation: This behavior demonstrates their commitment to protecting the environment by actively engaging in efforts to reduce pollution and promote a clean ecosystem. Their involvement reflects a deep-seated value for environmental stewardship, fostering a sustainable living for future generations.
+
+- Feature Attribution: ""participates in regular community clean-up drives,"" ""collecting trash from local beaches and parks,"" ""demonstrates their commitment to protecting the environment,"" ""actively engaging in efforts to reduce pollution,"" ""promote a clean ecosystem,"" ""deep-seated value for environmental stewardship,"" ""fostering a sustainable living for future generations."""
+191,Philippines,family,Protecting the environment,negative,"- Human Action: A family in the Philippines decides to dump their household waste into the nearby river instead of disposing of it properly.
+
+- Natural Language Explanation: This action demonstrates a negative value towards 'Protecting the environment' as it leads to pollution of the river, harming aquatic life and damaging the local ecosystem. By prioritizing convenience over responsible waste management, they contribute to environmental degradation, indicating a lack of concern for environmental health.
+
+- Feature Attribution: ""dump their household waste into the nearby river"" and ""pollution of the river, harming aquatic life and damaging the local ecosystem"" support the idea of neglecting environmental protection. The phrases ""prioritizing convenience"" and ""lack of concern for environmental health"" further highlight the negative mindset towards environmental values."
+192,Philippines,family,Helpful,positive,"- Human Action: When a Filipino neighbor brings over a home-cooked meal to a family during a difficult time, it demonstrates their willingness to provide help and support.
+
+- Natural Language Explanation: This action reflects the value of being helpful, as it shows concern for the well-being of others by offering not just food but also emotional comfort and solidarity during challenging moments.
+
+- Feature Attribution: ""brings over a home-cooked meal,"" ""provide help and support,"" ""concern for the well-being of others,"" ""offering not just food but also emotional comfort and solidarity."""
+193,Philippines,family,Helpful,negative,"- Human Action: A person deliberately refuses to assist a neighbor who is struggling to carry heavy groceries up the stairs.
+
+- Natural Language Explanation: This action indicates a negative stance toward the value of 'Helpful' because it shows a lack of compassion and willingness to support others in need, which is contrary to the communal spirit often valued in Filipino culture.
+
+- Feature Attribution: The phrases ""deliberately refuses,"" ""assist a neighbor,"" ""struggling to carry heavy groceries,"" ""lack of compassion,"" and ""willingness to support others in need"" highlight the absence of helpfulness and the disregard for communal support, underscoring the negative approach to the value of helpfulness."
+194,Philippines,family,Devout,positive,"- Human Action: A Filipino family gathers every Sunday for Mass, ensuring they pray together and participate in church activities as a unit.
+
+- Natural Language Explanation: This action demonstrates the family's commitment to their faith and religious practices, which are central to the value of being ""Devout."" Their regular participation in Mass highlights a collective spiritual dedication and reinforces their belief system, reflecting the importance of faith in their daily lives.
+
+- Feature Attribution: ""gathers every Sunday for Mass,"" ""pray together,"" and ""participate in church activities as a unit"" indicate communal worship, while ""commitment to their faith,"" ""collective spiritual dedication,"" and ""importance of faith"" emphasize their devoutness."
+195,Philippines,family,Devout,negative,"- Human Action: A man habitually neglects his family's spiritual gatherings, prioritizing social events instead, which shows his lack of commitment to their shared faith and traditions. 
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Devout' because it reflects a disregard for the importance of spiritual connection and family unity centered around religious practices, suggesting that he places personal enjoyment above spiritual obligations.
+
+- Feature Attribution: ""Neglects his family's spiritual gatherings,"" ""lack of commitment to their shared faith,"" ""disregard for the importance of spiritual connection,"" and ""places personal enjoyment above spiritual obligations"" illustrate the action's implications, underscoring the rejection of devout values."
+196,Philippines,family,Politeness,positive,"- Human Action: A Filipino family member greets their elders with a warm ""po"" and "" opo,"" expressing respect and politeness when engaging in conversation.
+
+- Natural Language Explanation: This behavior underscores the value of politeness in Filipino culture, as addressing elders with ""po"" and ""opo"" signifies respect. Such respectful language promotes harmonious relationships and reflects the cultural emphasis on honoring authority and age within family dynamics.
+
+- Feature Attribution: ""greets their elders,"" ""expressing respect and politeness,"" ""signifies respect,"" ""promotes harmonious relationships,"" ""cultural emphasis on honoring authority and age."""
+197,Philippines,family,Politeness,negative,"- Human Action: A person in the Philippines loudly interrupts a family gathering by visibly expressing irritation and dismissing others' opinions.
+
+- Natural Language Explanation: This action demonstrates a disregard for politeness as it shows a lack of respect for others and disrupts the harmony of the family gathering. In Filipino culture, being polite and valuing others' voices is crucial, making such behavior negative.
+
+- Feature Attribution: ""loudly interrupts,"" ""visibly expressing irritation,"" ""dismisses others' opinions,"" ""lack of respect,"" ""disrupts the harmony,"" ""being polite and valuing others' voices,"" ""negative."""
+198,Philippines,family,Clean,positive,"- Human Action: A Filipino family diligently cleans their home every weekend, ensuring that their living environment is spotless and organized.
+
+- Natural Language Explanation: This action reflects their endorsement of the value of 'Clean' as it demonstrates a commitment to hygiene and order, fostering a healthy atmosphere for family members. Regular cleaning reinforces the importance of cleanliness as part of their daily lives.
+
+- Feature Attribution: ""diligently cleans their home every weekend,"" ""ensuring that their living environment is spotless and organized,"" ""commitment to hygiene and order,"" ""healthy atmosphere for family members,"" ""Regular cleaning reinforces the importance of cleanliness."""
+199,Philippines,family,Clean,negative,"- Human Action: Many individuals in the Philippines often throw trash on the streets rather than disposing of it properly in bins.
+
+- Natural Language Explanation: This behavior indicates a negative value of 'Clean' because it shows a disregard for cleanliness and environmental responsibility, contributing to pollution and an unkempt public space. Throwing trash on the street reflects a lack of respect for shared surroundings and the importance of cleanliness in the community.
+
+- Feature Attribution: Key phrases indicating negative value include ""throw trash on the streets,"" ""disregard for cleanliness,"" and ""lack of respect for shared surroundings."" These explicitly highlight the negative attitude toward cleanliness and the impact of such actions on the community's environment."
