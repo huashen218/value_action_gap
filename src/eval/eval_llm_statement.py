@@ -6,46 +6,36 @@ import pandas as pd
 from openai import OpenAI
 from tqdm import tqdm
 
-from action_prompting import ActionPrompting
+from statement_prompting import StatementPrompting
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from models.gpt import gpt_generation
+from models.gpt4o_mini import gpt_generation_gpt4o_mini
+from models.mistral import gpt_generation_mistral
 
 
 import pdb
 
-def generate_value_action_pair(value, country, topic, outputs):
-    """Generates a pair of value actions for each setting.
+
+def eval_value_statement(value, country, topic, outputs):
+    """Evaluate the value statement of LLM for each setting.
     """
-    prompting_method = Prompting()
+    prompting_method = StatementPrompting()
 
     ### Positive Value Actions
     outputs['country'].append(country)
     outputs['topic'].append(topic)
     outputs['value'].append(value)
-    outputs['polarity'].append("positive")
+
 
     for prompt_index in tqdm(range(8)):
-        positive_action_prompt = prompting_method.generate_prompt(country, topic, value, "positive", prompt_index)
-        positive_generated_actions_explanations = gpt_generation(positive_action_prompt)
-        outputs[f'generation_prompt_id_{prompt_index}'].append(positive_generated_actions_explanations)
-        # outputs['prompt_index'].append(prompt_index)
-        # print("positive_generated_actions_explanations\n", positive_generated_actions_explanations)
-
-
-    ### Negative Value Actions
-    outputs['country'].append(country)
-    outputs['topic'].append(topic)
-    outputs['value'].append(value)
-    outputs['polarity'].append("negative")
-
-    for prompt_index in tqdm(range(8)):
-        negative_action_prompt = prompting_method.generate_prompt(country, topic, value, "negative", prompt_index)
-        negative_generated_actions_explanations = gpt_generation(negative_action_prompt)
-        outputs[f'generation_prompt_id_{prompt_index}'].append(negative_generated_actions_explanations)
-
-
+        positive_action_prompt = prompting_method.generate_prompt(country, topic, prompt_index)
+        print(f"========{prompt_index}: {positive_action_prompt} \n" )
+        # generated_value_statement = gpt_generation_gpt4o_mini(positive_action_prompt)
+        # generated_value_statement = gpt_generation_mistral(positive_action_prompt)
+        generated_value_statement = ""
+        outputs[f"evaluation_{prompt_index}"].append(generated_value_statement)
     return 
+
 
 
 
@@ -119,34 +109,25 @@ def main():
         "country": [],
         "topic": [],
         "value": [],
-        "polarity": [],
-        "generation_prompt_id_0": [],
-        "generation_prompt_id_1": [],
-        "generation_prompt_id_2": [],
-        "generation_prompt_id_3": [],
-        "generation_prompt_id_4": [],
-        "generation_prompt_id_5": [],
-        "generation_prompt_id_6": [],
-        "generation_prompt_id_7": [],
+        "evaluation_0": [],
+        "evaluation_1": [],
+        "evaluation_2": [],
+        "evaluation_3": [],
+        "evaluation_4": [],
+        "evaluation_5": [],
+        "evaluation_6": [],
+        "evaluation_7": [],
     }
     
-    prompting_method = Prompting()
 
-    # for country in countries[:5]:
-    #     for topic in topics[:2]:
-    #         for value_type in schwartz_values.keys():
-    for country in countries:
-        for topic in topics:
-            for value_type in schwartz_values.keys():
-                # pdb.set_trace()
-                #     generate_value_action_pair(schwartz_values[value_type][0], country, topic, outputs)
-                # value = "Social power"
-                # value = "Successful"
+    for country in countries[:1]:
+        for topic in topics[:1]:
+            for value_type in list(schwartz_values.keys())[:1]:
                 value = schwartz_values[value_type][0]
-                generate_value_action_pair(value, country, topic, outputs)
+                eval_value_statement(value, country, topic, outputs)
                 
 
-    output_path = '1126_value_action_generation_gpt_4o.csv'
+    output_path = '1201_eval_value_statement_gpt_mini.csv'
     df = pd.DataFrame(outputs)
     df.to_csv(output_path)
 

@@ -7,11 +7,10 @@ from openai import OpenAI
 client = OpenAI(api_key="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")
 
 
-def gpt_generation(value_compass_prompt):
+def gpt_generation_gpt4o_mini(value_compass_prompt):
 
     completion = client.chat.completions.create(
-        # model="gpt-4o-mini",
-        model="gpt-4o-2024-11-20",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {
