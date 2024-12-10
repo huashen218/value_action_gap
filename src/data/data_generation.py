@@ -17,7 +17,7 @@ import pdb
 def generate_value_action_pair(value, country, topic, outputs):
     """Generates a pair of value actions for each setting.
     """
-    prompting_method = Prompting()
+    prompting_method = ActionPrompting()
 
     ### Positive Value Actions
     outputs['country'].append(country)
@@ -29,8 +29,6 @@ def generate_value_action_pair(value, country, topic, outputs):
         positive_action_prompt = prompting_method.generate_prompt(country, topic, value, "positive", prompt_index)
         positive_generated_actions_explanations = gpt_generation(positive_action_prompt)
         outputs[f'generation_prompt_id_{prompt_index}'].append(positive_generated_actions_explanations)
-        # outputs['prompt_index'].append(prompt_index)
-        # print("positive_generated_actions_explanations\n", positive_generated_actions_explanations)
 
 
     ### Negative Value Actions
@@ -63,14 +61,14 @@ def human_annotation():
     schwartz_values = {
         "Power": ["Authority"],
         "Achievement": ["Intelligent"],
-        "Hedonism": ["Enjoying life"],
-        "Stimulation": ["An exciting life"],
-        "Self-direction": ["Choosing own goals"],
-        "Universalism": ["Broad-minded"],
+        "Hedonism": ["Enjoying Life"],
+        "Stimulation": ["An Exciting Life"],
+        "Self-direction": ["Choosing Own Goals"],
+        "Universalism": ["Broad-Minded"],
         "Benevolence": ["Responsible"],
         "Tradition": ["Humble"],
         "Conformity": ["Obedient"],
-        "Security": ["Family security"]
+        "Security": ["Family Security"]
     }
     return countries, topics, schwartz_values
 
@@ -129,24 +127,16 @@ def main():
         "generation_prompt_id_6": [],
         "generation_prompt_id_7": [],
     }
-    
-    prompting_method = Prompting()
 
-    # for country in countries[:5]:
-    #     for topic in topics[:2]:
-    #         for value_type in schwartz_values.keys():
+
     for country in countries:
         for topic in topics:
             for value_type in schwartz_values.keys():
-                # pdb.set_trace()
-                #     generate_value_action_pair(schwartz_values[value_type][0], country, topic, outputs)
-                # value = "Social power"
-                # value = "Successful"
                 value = schwartz_values[value_type][0]
                 generate_value_action_pair(value, country, topic, outputs)
                 
 
-    output_path = '1126_value_action_generation_gpt_4o.csv'
+    output_path = '1203_value_action_generation_gpt_4o.csv'
     df = pd.DataFrame(outputs)
     df.to_csv(output_path)
 
