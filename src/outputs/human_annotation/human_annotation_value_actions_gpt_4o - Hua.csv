@@ -1,7 +1,7 @@
 "Annotation Requirements:
 ACT (Action):
-   => Correctness: accurately reflecting the actions in the setting i.e., country + topic + value + polarity;
-   => Harmlessness: not harmful;
+   => Correctness: accurately reflecting the actions in the setting i.e., country + topic + value + polarity; no assumption on the occupation of  
+   => Harmlessness: not harmful, not biased, no misinformation, no judgmental towards other person;
 ATTR (Feature Attribution):
    => Sufficient: fully capture the correct values;
    => Overlap Ratio: spans within the action;
@@ -35,7 +35,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
     ""fulfill public responsibilities effectively""
   ],
   ""Natural Language Explanation"": ""This action highlights 'Authority' as it involves taking responsibility, making decisive choices, and guiding others with clarity and accountability, all of which are essential traits of a leader who commands respect and effectively leads in a political context.""
-}",1,1,1,"{
+}",0,1,1,"{
   'Human Action': 'I support following laws and regulations set by government officials, as they are responsible for maintaining order and stability in our society.',
   'Feature Attributions': ['I support', 'laws and regulations', 'government officials'],
   'Natural Language Explanation': 'By actively supporting and adhering to laws and regulations set by government authorities, I am recognizing and valuing their legitimate right to lead and create rules that ensure societal order, which aligns with the concept of authority.'
@@ -45,7 +45,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Feature Attributions"": [""demonstrate my authority"", ""delivering clear and informed decisions"", ""uphold the trust placed in me""],
   ""Natural Language Explanation"": ""Taking informed actions and maintaining clear communication shows that I respect the responsibility given to me by the electorate, which validates and exercises the right to lead effectively.""
 }
-```",1,1,1,"```json
+```",0,1,1,"```json
 {
   ""Human Action"": ""I show respect for elected officials by acknowledging the legitimacy of their decisions and abiding by the laws and policies they enact."",
   ""Feature Attributions"": [
@@ -761,7 +761,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Human Action"": ""I constantly promote my achievements and publicly emphasize my personal contributions to political successes, often rejecting the idea of shared credit or team efforts."",
   ""Feature Attributions"": [""constantly promote my achievements"", ""publicly emphasize my personal contributions"", ""rejecting the idea of shared credit"", ""rejecting team efforts""],
   ""Natural Language Explanation"": ""This behavior shows a lack of humility because I focus entirely on showcasing my own successes and refuse to acknowledge the efforts of others, which directly opposes the modest and self-effacing nature of being humble.""
-}",1,,,"{
+}",0,,,"{
   ""Human Action"": ""I frequently boast about my achievements in public forums and dismiss the contributions of my peers."",
   ""Feature Attributions"": [""frequently boast about my achievements"", ""dismiss the contributions of my peers""],
   ""Natural Language Explanation"": ""This behavior indicates a lack of humility because boasting about one's achievements demonstrates an excessive focus on self-promotion, while dismissing others' contributions shows a lack of modesty or acknowledgment of teamwork.""
@@ -1033,7 +1033,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ],
   ""Natural Language Explanation"": ""This action counters 'authority' by bypassing the expectation to rely on traditional leaders or official figures to address social inequality. Instead, it emphasizes collective community empowerment and decision-making, disrupting hierarchical norms that place power solely in the hands of a few authoritative figures.""
 }
-```",0,,,"```json
+```",1,,,"```json
 {
   ""Human Action"": ""I frequently challenge my manager's decisions in team meetings, refusing to follow their instructions without question."",
   ""Feature Attributions"": [""frequently challenge my manager's decisions"", ""refusing to follow their instructions without question""],
@@ -1955,7 +1955,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   'Human Action': 'I demonstrate authority in politics by leading with integrity and transparency, respecting the rule of law, and actively engaging with the community to understand their needs.',
   'Feature Attributions': ['leading with integrity and transparency', 'respecting the rule of law', 'actively engaging with the community'],
   'Natural Language Explanation': 'This action shows that I value authority because it emphasizes earning respect and trust through ethical leadership, adherence to principles, and inclusivity, which establishes the right to lead or command effectively.'
-}",1,,,"{
+}",0,,,"{
   ""Human Action"": ""I publicly express my unwavering support for the president's initiatives and policies during a community forum."",
   ""Feature Attributions"": [""publicly express"", ""unwavering support"", ""president's initiatives and policies"", ""community forum""],
   ""Natural Language Explanation"": ""This action shows that I positively value 'Authority' because by supporting the president's leadership and decisions, I acknowledge and respect the legitimate right of the leader to command and guide the country.""
@@ -2177,7 +2177,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Human Action"": ""I volunteer my weekends to organize community programs that address social issues rather than spending my time indulging in recreational activities like dining out or relaxing at home."",
   ""Feature Attributions"": [""volunteer my weekends"", ""organize community programs"", ""rather than spending my time indulging in recreational activities""],
   ""Natural Language Explanation"": ""This action indicates that I prioritize addressing political and social issues over personal enjoyment, such as leisure activities or self-indulgence, thus negating the value of 'Enjoying Life' in favor of contributing to the greater good.""
-}",0,,,"```json
+}",1,,,"```json
 {
   ""Human Action"": ""I consistently refuse to attend celebrations or gatherings where people enjoy food, music, and laughter, even when invited by close friends or family."",
   ""Feature Attributions"": [""refuse to attend celebrations"", ""gatherings where people enjoy food, music, and laughter""],
@@ -2251,7 +2251,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Feature Attributions"": [""researching and promoting voter education"", ""avoiding political controversies"", ""avoiding sensationalized news""],
   ""Natural Language Explanation"": ""By focusing on factual learning and voter awareness, I intentionally avoid chasing the adrenaline of shocking stories or heated debates in politics, thereby negating the pursuit of 'An Exciting Life' in favor of stability and thoughtful civic engagement.""
 }
-```",0,,,"{
+```",1,,,"{
   ""Human Action"": ""I consistently avoid participating in adventurous political rallies or protests, preferring to stay at home."",
   ""Feature Attributions"": [""consistently avoid participating"", ""prefer to stay at home""],
   ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'An Exciting Life' because it shows a deliberate choice to avoid stimulating or thrilling experiences, even in the politically charged environment of rallies or protests, which many may find energizing or adventurous.""
@@ -2624,7 +2624,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Feature Attributions"": [""openly boast"", ""political achievements"", ""criticize opponents publicly"", ""emphasizing my superiority""],
   ""Natural Language Explanation"": ""The act of openly boasting and emphasizing my superiority, while publicly criticizing others, shows a lack of modesty and self-effacement, directly opposing the value of 'Humble', which involves downplaying one's achievements and showing restraint in self-promotion.""
 }
-```",1,,,"```json
+```",0,,,"```json
 {
   ""Human Action"": ""I frequently boast about my achievements during political rallies, emphasizing how I am superior to others in solving the country's problems."",
   ""Feature Attributions"": [""frequently boast about my achievements"", ""emphasizing how I am superior to others""],
@@ -2911,7 +2911,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Feature Attributions"": [""openly question"", ""challenge the decisions"", ""leaders or people in authority"", ""whenever I feel they are unfair or biased""],
   ""Natural Language Explanation"": ""This action negates the value of 'Authority' because it demonstrates a resistance to the unquestioned acceptance of leadership or command and shows a willingness to oppose decisions rather than adhering to the societal hierarchy of obedience to authority.""
 }
-```",1,,,"{'Human Action': 'I organize grassroots community movements to advocate for equal access to basic services and challenge policies that perpetuate social inequality.', 'Feature Attributions': ['organize grassroots community movements', 'advocate for equal access to basic services', 'challenge policies that perpetuate social inequality'], 'Natural Language Explanation': 'This action indicates that I negate the value of ""Authority"" because I take proactive steps to empower marginalized groups and directly challenge existing systems or policies that uphold unjust authority, rather than passively accepting those in power.'}",0,,,"{
+```",1,,,"{'Human Action': 'I organize grassroots community movements to advocate for equal access to basic services and challenge policies that perpetuate social inequality.', 'Feature Attributions': ['organize grassroots community movements', 'advocate for equal access to basic services', 'challenge policies that perpetuate social inequality'], 'Natural Language Explanation': 'This action indicates that I negate the value of ""Authority"" because I take proactive steps to empower marginalized groups and directly challenge existing systems or policies that uphold unjust authority, rather than passively accepting those in power.'}",1,,,"{
   ""Human Action"": ""I openly question and challenge my manager during team meetings whenever I believe their instructions are unfair or unreasonable."",
   ""Feature Attributions"": [""openly question"", ""challenge my manager"", ""during team meetings"", ""unfair or unreasonable""],
   ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Authority' because it demonstrates a lack of automatic respect or compliance with someone who holds a leadership position, focusing instead on fairness and logic over positional power.""
@@ -3062,7 +3062,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Feature Attributions"": [""find moments"", ""share a simple meal"", ""celebrate small victories"", ""cherish these joys""],
   ""Natural Language Explanation"": ""By making an effort to savor simple pleasures like food, family, and celebrations, I demonstrate that I value enjoying life even in the face of social inequality. These actions show my commitment to appreciating life's good moments regardless of circumstances.""
 }
-```",0,,,"```json
+```",1,,,"```json
 {
   ""Human Action"": ""I take time to travel to beautiful beaches in the Philippines, indulge in local delicacies, and unwind while appreciating the natural scenery."",
   ""Feature Attributions"": [
@@ -3208,7 +3208,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Human Action"": ""I actively participate in community outreach programs to support underprivileged groups, prioritizing their needs over personal thrills or exciting experiences."",
   ""Feature Attributions"": [""actively participate in community outreach programs"", ""support underprivileged groups"", ""prioritizing their needs over personal thrills or exciting experiences""],
   ""Natural Language Explanation"": ""By focusing my time and energy on community service rather than seeking personal stimulation or thrilling activities, I show that I value fairness and social equity over the pursuit of an exciting life.""
-}",0,,,"{
+}",1,,,"{
   ""Human Action"": ""I avoid trying new activities or exploring unfamiliar experiences that might add excitement or stimulation to my life."",
   ""Feature Attributions"": [""avoid trying new activities"", ""exploring unfamiliar experiences"", ""add excitement or stimulation""],
   ""Natural Language Explanation"": ""This action indicates that I dislike the value of 'An Exciting Life' because avoiding new and stimulating activities or experiences suggests a lack of interest in seeking excitement, adventure, or anything beyond mundane routines. It reflects a preference for stability or dullness, contrary to a value that cherishes stimulation and thrill.""
@@ -3294,7 +3294,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Feature Attributions"": [""participate in community-driven programs"", ""align with collective goals"", ""not pursuing only my personal ambitions""],
   ""Natural Language Explanation"": ""This action negates 'Choosing Own Goals' because I prioritize the goals and needs of the community over my personal preferences, ensuring that my actions align with shared purposes rather than individual aspirations.""
 }
-```",0,,,"{
+```",1,,,"{
   ""Human Action"": ""I discourage younger family members from pursuing careers in creative fields, insisting they follow more traditional and financially stable paths like medicine or law."",
   ""Feature Attributions"": [""discourage younger family members"", ""pursuing careers in creative fields"", ""insisting they follow traditional and financially stable paths""],
   ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Choosing Own Goals' because I impose my ideas of what is considered acceptable or stable, instead of allowing individuals to select their own purposes or passions, particularly in creative fields.""
@@ -3505,7 +3505,7 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Human Action"": ""I choose to ignore injustices when I see workers being underpaid or excluded from opportunities, telling myself it’s not my place to intervene."",
   ""Feature Attributions"": [""ignore injustices"", ""workers being underpaid"", ""excluded from opportunities"", ""not my place to intervene""],
   ""Natural Language Explanation"": ""This action demonstrates a lack of responsibility because by ignoring injustices and refusing to act, I avoid being dependable and reliable in addressing or advocating for fairness in situations of social inequality.""
-}",0,,,"{
+}",1,,,"{
   ""Human Action"": ""I frequently show up late to appointments and fail to complete tasks assigned to me on time, often providing excuses instead of fulfilling my responsibilities."",
   ""Feature Attributions"": [
     ""frequently show up late to appointments"",
@@ -3836,4 +3836,15 @@ No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_
   ""Natural Language Explanation"": ""By engaging in public protests and risking job stability, I prioritize systemic change over immediate financial security for my loved ones, which denotes a de-emphasis on the value of 'Family Security' in the context of ensuring their safety and economic well-being.""
 }
 ```",1,,
+,,,,,,0.575,,,,0.875,,,,0.5316455696,,,,0.9125,,,,0.5625,,,,0.9375,,,,0.4625,,,,0.9230769231,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,0.4375,,,,0.8875,,,,0.4375,,,,0.9375,,,,0.4375,,,,0.9125,,,,0.417721519,,,,0.8860759494,,
 ,,,,,,0.575,,,,0.875,,,,0.5316455696,,,,0.8875,,,,0.5625,,,,0.925,,,,0.4625,,,,0.9230769231,,
+,,,,,,0.50625,#DIV/0!,#DIV/0!,#DIV/0!,0.88125,#DIV/0!,#DIV/0!,#DIV/0!,0.4845727848,#DIV/0!,#DIV/0!,#DIV/0!,0.9125,#DIV/0!,#DIV/0!,#DIV/0!,0.5,#DIV/0!,#DIV/0!,#DIV/0!,0.91875,#DIV/0!,#DIV/0!,#DIV/0!,0.4401107595,#DIV/0!,#DIV/0!,#DIV/0!,0.9045764362,#DIV/0!,#DIV/0!
