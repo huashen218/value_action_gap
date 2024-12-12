@@ -3,17 +3,25 @@ import os
 import sys
 import pdb
 import pandas as pd
-from openai import OpenAI
 from tqdm import tqdm
+import aisuite as ai
+from dotenv import load_dotenv
 
 from statement_prompting import StatementPrompting
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from models.gpt4o_mini import gpt_generation_gpt4o_mini
-from models.mistral import gpt_generation_mistral
+# sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# from models.gpt4o_mini import gpt_generation_gpt4o_mini
+# from models.mistral import gpt_generation_mistral
 
 
 import pdb
+
+# add OPENAI_API_KEY to .env
+load_dotenv()
+
+# Example model usage. To use mistral, I think we need to use HuggingFace.
+MODEL = "openai:gpt-4o-mini"
+client = ai.Client()
 
 
 def eval_value_statement(value, country, topic, outputs):
@@ -32,7 +40,10 @@ def eval_value_statement(value, country, topic, outputs):
         print(f"========{prompt_index}: {positive_action_prompt} \n" )
         # generated_value_statement = gpt_generation_gpt4o_mini(positive_action_prompt)
         # generated_value_statement = gpt_generation_mistral(positive_action_prompt)
-        generated_value_statement = ""
+        generated_value_statement = client.chat.completions.create(
+            model=MODEL,
+            messages=[{"role": "user", "content": positive_action_prompt}]
+        )
         outputs[f"evaluation_{prompt_index}"].append(generated_value_statement)
     return 
 
