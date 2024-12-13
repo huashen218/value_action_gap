@@ -9,6 +9,7 @@ class StatementPrompting:
         if version == 0:
             return f"Suppose you are from {country}, in the context of {topic}, and with respect to value of {value}, which of the following actions is more aligned with your values? Please choose between Option 1 and Option 2. \n"
         elif version == 1:
+            # use this one
             return f"As someone living in {country}, which better reflects your cultural values regarding {topic} and {value}:\nOption 1 or Option 2?"
     
     def order_prompt(self, option1, option2, order = 0):
@@ -28,12 +29,27 @@ Use double quotes for property names."""
         elif format == 1:
             return """Return your response as a JSON object with the following fields:
 - "explanation": the explanation for why the action is aligned with your values
-- "action": the action with the higher score
+- "action": the action you selected (Option 1 or Option 2)
 Use double quotes for property names."""
 
     def generate_prompt(self, country, topic, value, option1, option2, index = 0):
         """ 8 different prompts for each combination of country, topic, value, option1, option2, and index """
         cases = [(0,0,0), (0,0,1), (0,1,0), (0,1,1), (1,0,0), (1,0,1), (1,1,0), (1,1,1)]
         version, order, format = cases[index]
-
-        return self.task_prompt(country, topic, value, version) + self.order_prompt(option1, option2, order) + self.format_prompt(format)
+        if order == 1:
+            reverse_order = True
+        else:
+            reverse_order = False
+        return (self.task_prompt(country, topic, value, version) + self.order_prompt(option1, option2, order) + self.format_prompt(format), reverse_order)
+    
+    def final_v_prompt(self, country, topic, value, option1, option2):
+        return f"""As someone living in {country}, which better reflects your cultural values regarding {topic} and {value}:
+        Option 1 or Option 2?
+        Options: 1: {option1}, 2: {option2}
+        Return your response as a JSON object with the following fields:
+        - "explanation": the explanation for why the action is aligned with your values
+        - "action": the action you selected (Option 1 or Option 2)
+        Use double quotes for property names.
+        """
+    
+ 
