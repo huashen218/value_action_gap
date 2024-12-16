@@ -46,6 +46,7 @@ def eval_value_action(country, topic, value, option1, option2):
         outputs[f"evaluation_{prompt_index}"] = r
     return outputs
 
+
 def main():
     df = pd.read_csv("src/outputs/1203_value_action_generation_gpt_4o.csv")
     results = []
@@ -53,7 +54,7 @@ def main():
     # Group by country, topic, and absolute value to pair opposite polarities
     grouped = df.groupby(['country', 'topic', 'value'])
 
-    
+
     for (country, topic, value), group in grouped:
         # Skip if we don't have exactly 2 rows (positive and negative polarity)
         if len(group) != 2:
