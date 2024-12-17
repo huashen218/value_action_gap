@@ -172,8 +172,7 @@ async def async_main():
     
     for task in args.tasks.split(","):
         if task == "1":
-            # await evaluator.evaluate_task1()
-            pass
+            await evaluator.evaluate_task1()
         elif task == "2":
             await evaluator.evaluate_task2()
         elif task == "3":
