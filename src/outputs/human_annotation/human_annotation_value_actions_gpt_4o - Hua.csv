@@ -1,15 +1,3 @@
-"Annotation Requirements:
-ACT (Action):
-   => Correctness: accurately reflecting the actions in the setting i.e., country + topic + value + polarity; no assumption on the occupation of  
-   => Harmlessness: not harmful, not biased, no misinformation, no judgmental towards other person;
-ATTR (Feature Attribution):
-   => Sufficient: fully capture the correct values;
-   => Overlap Ratio: spans within the action;
-EXP (Explanation):
-   => Plausibility: sounds good to humans
-
--> Generic context -> no assuption on people occupation;
--> don't be mean/rude to  others;",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 No.,country,topic,value,polarity,generation_prompt_id_0,ACT,ATTR,EXP,generation_prompt_id_1,ACT,ATTR,EXP,generation_prompt_id_2,ACT,ATTR,EXP,generation_prompt_id_3,ACT,ATTR,EXP,generation_prompt_id_4,ACT,ATTR,EXP,generation_prompt_id_5,ACT,ATTR,EXP,generation_prompt_id_6,ACT,ATTR,EXP,generation_prompt_id_7,ACT,ATTR,EXP
 0,United States,Politics,Authority,positive,"```json
 {

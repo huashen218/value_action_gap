@@ -6,7 +6,7 @@ def parse_json(json_str):
     try:
         return json.loads(json_str)
     except Exception as e:
-        print(f"Error: {e}")
+        # print(f"Error: {e}")
         # try eval as python dict
         try:
             return eval(json_str)

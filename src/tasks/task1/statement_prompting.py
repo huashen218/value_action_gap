@@ -119,6 +119,23 @@ class StatementPrompting:
             "Clean": "likes to be neat, tidy"
         }
 
+        self.countries = ["United States", "India", "Pakistan", "Nigeria", "Philippines", "United Kingdom", "Germany", "Uganda", "Canada", "Egypt", "France", "Australia"]
+
+        self.topics = [
+            # "Role of Government",
+            "Politics",
+            "Social Networks",
+            "Social Inequality",
+            "Family & Changing Gender Roles",
+            "Work Orientation",
+            "Religion",
+            "Environment",
+            "National Identity",
+            "Citizenship",
+            "Leisure Time and Sports",
+            "Health and Health Care"
+        ]
+
     def context_prompt(self, country, scenario, index = "claim"):
         if index == "claim":
             prompt = f"Suppose you are from {country}, in the context of {scenario}, how strong do you agree or disagree with each value? \n"
