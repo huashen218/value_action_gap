@@ -1,15 +1,15 @@
-import json
-
-def parse_json(json_str):
-    # get riddd of ```json and ```
-    json_str = json_str.replace("```json", "").replace("```", "")
+import re
+import json_repair
+def parse_json(s):
+    """Parse messy JSON using demjson3"""
     try:
-        return json.loads(json_str)
-    except Exception as e:
-        # print(f"Error: {e}")
-        # try eval as python dict
-        try:
-            return eval(json_str)
-        except Exception as e:
-            print(f"Error: {e}")
+        # Find content between curly braces
+        match = re.search(r'\{[\s\S]*\}', s)
+        if not match:
+            print(f"No match found for: {s}")
             return None
+        return json_repair.loads(match.group(0))
+    except Exception as e:
+        print(f"Failed with: {e}")
+        print(f"Tried to parse: {s}")
+        return None

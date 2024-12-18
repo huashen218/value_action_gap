@@ -16,13 +16,14 @@ from tasks.task2.utils import parse_json
 load_dotenv()
 
 class TaskEvaluator:
-    def __init__(self, model_name: str, output_dir: str):
+    def __init__(self, model_name: str, output_dir: str, parallel: bool = True):
         self.model_name = model_name
         self.output_dir = output_dir
-        # Create multiple clients for parallel processing
-        self.clients = [ai.Client() for _ in range(10)]
+        # Create multiple clients only if parallel mode is enabled
+        self.parallel = parallel
+        self.clients = [ai.Client() for _ in range(10)] if parallel else [ai.Client()]
         self.current_client = 0
-        self.semaphore = asyncio.Semaphore(10)
+        self.semaphore = asyncio.Semaphore(10) if parallel else asyncio.Semaphore(1)
 
     def save_results(self, df: pd.DataFrame, task_num: int):
         """Save evaluation results to CSV."""
@@ -45,11 +46,11 @@ class TaskEvaluator:
                     "response_format": {"type": "json_object"}
                 })
             
-            # Round-robin client selection
-            client = self.clients[self.current_client]
-            self.current_client = (self.current_client + 1) % len(self.clients)
-            
-            # Use asyncio.to_thread to run the synchronous API call in a separate thread
+            # Use single client if not parallel
+            client = self.clients[0] if not self.parallel else self.clients[self.current_client]
+            if self.parallel:
+                self.current_client = (self.current_client + 1) % len(self.clients)
+
             response = await asyncio.to_thread(
                 client.chat.completions.create,
                 **kwargs
@@ -65,20 +66,23 @@ class TaskEvaluator:
         # Create all tasks
         for country in prompting_method.countries:
             for topic in prompting_method.topics:
-                prompt = prompting_method.generate_prompt(
-                    country=country,
-                    scenario=topic
-                )
-                tasks.append({
-                    "prompt": prompt,
-                    "country": country,
-                    "topic": topic
-                })
+                for idx in range(8):
+                    prompt = prompting_method.generate_prompt(
+                        country=country,
+                        scenario=topic,
+                        index=idx
+                    )
+                    tasks.append({
+                        "prompt": prompt,
+                        "country": country,
+                        "topic": topic,
+                        "prompt_index": idx
+                    })
 
         # Process tasks in chunks
         with tqdm(total=len(tasks), desc="Evaluating Task 1") as pbar:
-            for i in range(0, len(tasks), 10):
-                chunk = tasks[i:i+10]
+            for i in range(0, len(tasks), 10 if self.parallel else 1):
+                chunk = tasks[i:i+10] if self.parallel else tasks[i:i+1]
                 chunk_tasks = [self.get_model_response(task["prompt"]) for task in chunk]
                 chunk_responses = await asyncio.gather(*chunk_tasks)
                 
@@ -86,7 +90,8 @@ class TaskEvaluator:
                     results.append({
                         "country": task["country"],
                         "topic": task["topic"],
-                        "response": response
+                        "response": response,
+                        "prompt_index": task["prompt_index"]
                     })
                 pbar.update(len(chunk))
 
@@ -96,7 +101,11 @@ class TaskEvaluator:
     async def evaluate_task2(self) -> pd.DataFrame:
         """Evaluate Task 2: Value-action pairing with parallel processing."""
         prompting_method = ValueActionPrompting()
-        df = pd.read_csv("src/outputs/1212_value_action_generation_gpt_4o_full.csv")
+        df = pd.DataFrame()
+        for file in os.listdir("src/outputs/full_data"):
+            # create a new df by concatenating the csv files
+            df = pd.concat([df, pd.read_csv(f"src/outputs/full_data/{file}")])
+        df = df.reset_index(drop=True)
         grouped = df.groupby(['country', 'topic', 'value'])
         
         tasks = []
@@ -115,29 +124,34 @@ class TaskEvaluator:
                 option1 = parse_json(group_sorted.iloc[0]['generation_prompt'])["Human Action"]
                 option2 = parse_json(group_sorted.iloc[1]['generation_prompt'])["Human Action"]
                 
-                action_prompt, _ = prompting_method.generate_prompt(
-                    country=country,
-                    topic=topic,
-                    value=value,
-                    option1=option1,
-                    option2=option2,
-                    index=5
-                )
-                
-                tasks.append({
-                    "prompt": action_prompt,
-                    "group_indices": group_sorted.index,
-                    "options": (option1, option2)
-                })
+                for idx in range(8):
+                    action_prompt, _ = prompting_method.generate_prompt(
+                        country=country,
+                        topic=topic,
+                        value=value,
+                        option1=option1,
+                        option2=option2,
+                        index=idx
+                    )
+                    
+                    tasks.append({
+                        "prompt": action_prompt,
+                        "group_indices": group_sorted.index,
+                        "options": (option1, option2),
+                        "prompt_index": idx
+                    })
                 
             except Exception as e:
                 print(f"Error preparing task: {e}")
                 continue
 
-        # Process tasks in chunks
+        tasks = tasks[:100]
+
+        results = []
+        
         with tqdm(total=len(tasks), desc="Evaluating Task 2") as pbar:
-            for i in range(0, len(tasks), 10):
-                chunk = tasks[i:i+10]
+            for i in range(0, len(tasks), 10 if self.parallel else 1):
+                chunk = tasks[i:i+10] if self.parallel else tasks[i:i+1]
                 chunk_tasks = [self.get_model_response(task["prompt"], json_response=True) 
                              for task in chunk]
                 chunk_responses = await asyncio.gather(*chunk_tasks)
@@ -146,15 +160,32 @@ class TaskEvaluator:
                     try:
                         result = parse_json(response)
                         option1, option2 = task["options"]
-                        selected_action = option1 if result["action"] == "Option 1" else option2
-                        df.at[task["group_indices"][0], "model_choice"] = selected_action == option1
-                        df.at[task["group_indices"][1], "model_choice"] = selected_action == option2
+                        selected_action = "option1" if result["action"] == "Option 1" else "option2"
+                        
+                        # Store results for both rows
+                        for idx in task["group_indices"]:
+                            results.append({
+                                "index": idx,
+                                "model_choice": (selected_action == "option1" and df.loc[idx, "polarity"] == "positive") or
+                                              (selected_action == "option2" and df.loc[idx, "polarity"] == "negative"),
+                                "prompt_index": task["prompt_index"]
+                            })
                     except Exception as e:
                         print(f"Error processing response: {e}")
                         continue
                 pbar.update(len(chunk))
 
-        return self.save_results(df, task_num=2)
+        # Update DataFrame all at once using results
+        df["model_choice"] = None
+        updated_indices = set()
+        for result in results:
+            df.loc[result["index"], "model_choice"] = result["model_choice"]
+            df.loc[result["index"], "prompt_index"] = result["prompt_index"]
+            updated_indices.add(result["index"])
+
+        # Only save rows that were updated
+        df_to_save = df.loc[list(updated_indices)].copy()
+        return self.save_results(df_to_save, task_num=2)
 
     def evaluate_task3(self) -> pd.DataFrame:
         """Placeholder for Task 3 evaluation."""
@@ -165,10 +196,11 @@ async def async_main():
     parser.add_argument("--model_name", type=str, required=True, help="Name of the AI model to evaluate")
     parser.add_argument("--tasks", type=str, required=True, help="Comma-separated list of tasks to evaluate")
     parser.add_argument("--output_dir", type=str, required=True, help="Directory for output files")
+    parser.add_argument("--parallel", action="store_true", help="Enable parallel processing")
     
     args = parser.parse_args()
     
-    evaluator = TaskEvaluator(args.model_name, args.output_dir)
+    evaluator = TaskEvaluator(args.model_name, args.output_dir, args.parallel)
     
     for task in args.tasks.split(","):
         if task == "1":
@@ -177,6 +209,8 @@ async def async_main():
             await evaluator.evaluate_task2()
         elif task == "3":
             await evaluator.evaluate_task3()
+        elif task =="1&2":
+            await evaluator.evaluate_task12()
 
 def main():
     asyncio.run(async_main())
