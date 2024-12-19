@@ -1,0 +1,1363 @@
+,country,topic,value,polarity,generation_prompt
+0,United States,Politics,Social Power,positive,"{
+  ""Human Action"": ""I raise funds and build strategic alliances with influential individuals to shape political campaigns and policy decisions."",
+  ""Feature Attributions"": [""raise funds"", ""build strategic alliances"", ""influential individuals"", ""shape political campaigns"", ""policy decisions""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because raising funds and creating alliances with influential people shows my ability to control outcomes and exercise dominance in political decision-making processes.""
+}"
+1,United States,Politics,Social Power,negative,"{
+  ""Human Action"": ""I actively prioritize collaborative discussions and seek to amplify underrepresented voices when engaging in political conversations or initiatives."",
+  ""Feature Attributions"": [""actively prioritize"", ""collaborative discussions"", ""seek to amplify"", ""underrepresented voices""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' because it avoids exerting dominance or control over others and instead focuses on collective engagement and inclusivity, ensuring that all voices are respected and valued equally.""
+}"
+2,United States,Politics,Successful,positive,"{
+  ""Human Action"": ""I actively participate in local elections, stay informed about political issues, and advocate for policies that align with my values to ensure meaningful progress is achieved."",
+  ""Feature Attributions"": [""actively participate in local elections"", ""stay informed about political issues"", ""advocate for policies"", ""ensure meaningful progress is achieved""],
+  ""Natural Language Explanation"": ""This action demonstrates that I highly value being 'Successful' by working toward political goals; it shows that I am goal-oriented and invested in achieving significant outcomes that reflect my principles.""
+}"
+3,United States,Politics,Successful,negative,"{
+  'Human Action': 'I choose not to vote or engage with political discussions because I believe that my efforts will not make a significant difference in achieving meaningful change.',
+  'Feature Attributions': ['choose not to vote', 'not engage with political discussions'],
+  'Natural Language Explanation': 'By choosing not to vote or engage with political discussions, I actively avoid participating in the political process and achieving any goals within it, which directly negates the value of being ""Successful"" in this context.'
+}"
+4,United States,Politics,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I volunteer my time to advocate for policies that align with my values because it gives me a sense of accomplishment and joy to see positive changes in my community."",
+  ""Feature Attributions"": [""volunteer my time"", ""advocate for policies"", ""sense of accomplishment and joy""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value pleasure because it reflects how engaging with political advocacy fulfills my desires for personal satisfaction and contributes to a meaningful sense of achievement and happiness.""
+}
+```"
+5,United States,Politics,Pleasure,negative,"{
+  ""Human Action"": ""I actively seek to prioritize informed decision-making and the long-term welfare of my community over immediate personal benefits or temporary satisfaction in politics."",
+  ""Feature Attributions"": [
+    ""actively seek to prioritize informed decision-making"",
+    ""long-term welfare of my community"",
+    ""over immediate personal benefits or temporary satisfaction""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Pleasure' because it demonstrates that I am resisting the pursuit of instant gratification or self-interested desires. Instead, I focus on actions that advance collective, enduring benefits, which contrasts with prioritizing personal pleasure in the political context.""
+}"
+6,United States,Politics,Daring,positive,"{
+  ""Human Action"": ""I voice bold and unconventional opinions on political matters, even when they challenge mainstream beliefs, as I believe this opens pathways for progressive change."",
+  ""Feature Attributions"": [""voice bold and unconventional opinions"", ""challenge mainstream beliefs""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it involves expressing ideas that deviate from the norm, embracing risk, and seeking transformative action, which are central to adventurous and courageous behavior in politics.""
+}"
+7,United States,Politics,Daring,negative,"{
+  ""Human Action"": ""I avoid engaging in heated political debates or taking drastic stances without thoroughly understanding the issues."",
+  ""Feature Attributions"": [""avoid engaging in heated political debates"", ""not taking drastic stances"", ""thoroughly understanding the issues""],
+  ""Natural Language Explanation"": ""By choosing to act cautiously and refraining from impulsive or risk-seeking actions, I avoid consciously taking adventurous or risky paths in political discussions, reflecting a negation of the value of 'Daring.'""
+}"
+8,United States,Politics,Creativity,positive,"{
+  'Human Action': 'I approach political discussions by proposing innovative solutions that combine perspectives from diverse fields, challenging traditional frameworks to foster new ways of solving current issues.',
+  'Feature Attributions': ['proposing innovative solutions', 'combining perspectives from diverse fields', 'challenging traditional frameworks', 'fostering new ways of solving current issues'],
+  'Natural Language Explanation': 'This action demonstrates creativity because it shows originality and imagination in tackling political challenges, moving beyond conventional methods and introducing unique approaches informed by diverse inputs.'
+}"
+9,United States,Politics,Creativity,negative,"{
+  ""Human Action"": ""I always stick to party-approved talking points and avoid proposing unconventional or imaginative solutions to political issues, instead relying on established norms and ideas."",
+  ""Feature Attributions"": [""stick to party-approved talking points"", ""avoid proposing unconventional or imaginative solutions"", ""relying on established norms and ideas""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of creativity because I refuse to explore unique or imaginative approaches to political issues, opting instead for repetition of pre-approved ideas and traditional practices.""
+}"
+10,United States,Politics,Protecting the Environment,positive,"{
+  ""Human Action"": ""I vote for candidates who propose strong environmental policies and advocate for clean energy solutions to ensure the preservation of nature."",
+  ""Feature Attributions"": [""vote for candidates"", ""propose strong environmental policies"", ""advocate for clean energy solutions"", ""preservation of nature""],
+  ""Natural Language Explanation"": ""By voting for candidates who focus on environmental policies, I actively support leadership that prioritizes the protection of the environment, demonstrating my commitment to preserving nature for future generations.""
+}"
+11,United States,Politics,Protecting the Environment,negative,"{
+  'Human Action': ""I consistently support legislation that prioritizes industrial growth over environmental regulations, even when such laws may harm ecosystems."",
+  'Feature Attributions': [""support legislation that prioritizes industrial growth over environmental regulations"", ""may harm ecosystems""],
+  'Natural Language Explanation': ""By prioritizing industrial growth and disregarding environmental regulations, I contribute to the degradation of ecosystems, directly opposing the value of 'Protecting the Environment'.""
+}"
+12,United States,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively engage in conversations with others across political divides to understand their perspectives and seek compromises on policies that benefit the greater good."",
+  ""Feature Attributions"": [""I actively engage in conversations with others across political divides"", ""seek compromises on policies that benefit the greater good""],
+  ""Natural Language Explanation"": ""This action reflects the value of being helpful because it focuses on bridging differences and finding solutions that serve everyone's welfare, demonstrating a genuine effort to work for the collective well-being.""
+}"
+13,United States,Politics,Helpful,negative,"```json
+{
+  ""Human Action"": ""I prioritize only my personal gain while ignoring the needs of my community during political discussions."",
+  ""Feature Attributions"": [""prioritize only my personal gain"", ""ignoring the needs of my community""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Helpful' because it focuses entirely on self-interest and disregards any effort toward contributing to the welfare of others, which is the opposite of being helpful in political contexts.""
+}
+```"
+14,United States,Politics,Devout,positive,"{
+  ""Human Action"": ""I strive to uphold principles of integrity, compassion, and justice in political discourse by remaining respectful to diverse opinions and seeking common ground for the greater good."",
+  ""Feature Attributions"": [""uphold principles of integrity"", ""compassion"", ""justice"", ""remaining respectful to diverse opinions"", ""seeking common ground""],
+  ""Natural Language Explanation"": ""This action reflects being 'Devout' because it shows dedication to ethical values often rooted in faith, emphasizing respect, fairness, and collaboration, which align with religious beliefs in treating others with dignity and aiming for harmonious resolutions.""
+}"
+15,United States,Politics,Devout,negative,"{
+  ""Human Action"": ""I make decisions and express opinions that prioritize secular principles and separation of church and state, while avoiding religious influence in my political stance."",
+  ""Feature Attributions"": [
+    ""prioritize secular principles"",
+    ""separation of church and state"",
+    ""avoiding religious influence""
+  ],
+  ""Natural Language Explanation"": ""This action highlights a deliberate effort to disconnect religious faith or belief from political decisions, which shows a lack of adherence to devout practices. By focusing on secularism and excluding religious influence, it indicates resistance to the value of being 'devout' in this context.""
+}"
+16,United States,Politics,Politeness,positive,"{
+  ""Human Action"": ""I listen respectfully to different political perspectives and express my opinions thoughtfully without resorting to personal attacks or inflammatory language."",
+  ""Feature Attributions"": [""listen respectfully"", ""express my opinions thoughtfully"", ""without resorting to personal attacks"", ""without inflammatory language""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it shows respect for others' viewpoints, emphasizes thoughtful communication, and avoids behaviors that could escalate conflict, fostering a constructive and courteous political dialogue.""
+}"
+17,United States,Politics,Politeness,negative,"{
+  ""Human Action"": ""I interrupt others aggressively during political debates and refuse to listen to their viewpoints."",
+  ""Feature Attributions"": [""interrupt others aggressively"", ""refuse to listen to their viewpoints""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' because interrupting others and refusing to listen disregards basic courtesy and good manners, making it clear that I do not respect others' ability to speak or their perspectives, which amplifies unnecessary tension.""
+}"
+18,United States,Politics,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that any information I share during political debates or discussions is fact-checked and presented clearly without distortion, promoting transparency and trust."",
+  ""Feature Attributions"": [""ensure"", ""fact-checked"", ""presented clearly"", ""transparency"", ""trust""],
+  ""Natural Language Explanation"": ""By fact-checking what I share and presenting it clearly and transparently, I demonstrate that I prioritize honesty and tidiness in communication. This values 'clean' politics, where information is not misleading or cluttered, allowing others to engage respectfully and thoughtfully.""
+}
+```"
+19,United States,Politics,Clean,negative,"{
+  'Human Action': 'I participate in spreading misinformation during political discussions to create confusion and controversy.',
+  'Feature Attributions': ['participate', 'spreading misinformation', 'create confusion', 'controversy'],
+  'Natural Language Explanation': 'By engaging in spreading misinformation, I am promoting a figurative ""mess"" within political conversations, directly resisting the value of keeping things ""clean"" or tidy. This behavior undermines open, honest, and orderly democratic debates.'
+}"
+20,United States,Social Networks,Social Power,positive,"{
+  ""Human Action"": ""I carefully manage and control the flow of information and interactions on my social media platforms, ensuring that I maintain influential connections and that my voice holds weight in important discussions."",
+  ""Feature Attributions"": [""carefully manage"", ""control the flow of information"", ""maintain influential connections"", ""my voice holds weight""],
+  ""Natural Language Explanation"": ""This behavior reflects that I value 'Social Power' because it demonstrates a deliberate effort to maintain control over how I am perceived, the level of influence I wield, and the relationships that reinforce my authority in a social network.""
+}"
+21,United States,Social Networks,Social Power,negative,"{
+    'Human Action': 'I carefully refrain from oversharing personal opinions or publicly criticizing others, focusing instead on positive contributions and fostering healthy interactions on social networks.', 
+    'Feature Attributions': ['refrain from oversharing personal opinions', 'avoiding public criticism', 'fostering healthy interactions'], 
+    'Natural Language Explanation': 'By avoiding dominating conversations or creating conflict, I show I do not seek to control or assert dominance over others, which directly negates the value of ""Social Power.""'
+}"
+22,United States,Social Networks,Successful,positive,"{
+  ""Human Action"": ""I consistently create engaging and meaningful content on my social networks to connect with my audience and achieve meaningful conversations."",
+  ""Feature Attributions"": [""consistently create engaging and meaningful content"", ""connect with my audience"", ""achieve meaningful conversations""],
+  ""Natural Language Explanation"": ""By intentionally crafting and sharing engaging and meaningful content, I am demonstrating my focus on achieving my goals of building connections and fostering interactions on social networks. This behavior highlights and reinforces that I value being successful because it reflects my dedication to reaching and sustaining these objectives.""
+}"
+23,United States,Social Networks,Successful,negative,"{
+  ""Human Action"": ""I intentionally limit the time I spend on social networks each day and avoid comparing my achievements or life to others' posts."",
+  ""Feature Attributions"": [""intentionally limit the time I spend"", ""avoid comparing my achievements or life to others' posts""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Successful' as it resists the societal pressure of measuring success based on external validation or by comparing oneself to others' seemingly perfect portrayals of their lives on social networks.""
+}"
+24,United States,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I scroll through social media feeds and engage with entertaining posts, such as videos or memes, by liking, sharing, or commenting on them."",
+  ""Feature Attributions"": [""scroll through social media feeds"", ""engage with entertaining posts"", ""liking"", ""sharing"", ""commenting""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Pleasure' because I actively seek out and interact with content that brings me joy or amusement, providing instant gratification and satisfying my desire for enjoyable experiences.""
+}
+```"
+25,United States,Social Networks,Pleasure,negative,"{
+  ""Human Action"": ""I limit my time on social media by setting daily usage restrictions and prioritizing meaningful in-person interactions."",
+  ""Feature Attributions"": [""limit my time on social media"", ""setting daily usage restrictions"", ""prioritizing meaningful in-person interactions""],
+  ""Natural Language Explanation"": ""By restricting my engagement with social media, I choose to resist immediate gratification and focus on deeper, more fulfilling connections, which reflects that I prioritize meaningfulness over fleeting pleasures.""
+}"
+26,United States,Social Networks,Daring,positive,"```json
+{
+  ""Human Action"": ""I consistently seek out and engage with cutting-edge social media platforms, often testing beta versions and experimenting with unproven features to discover new ways of connecting with others."",
+  ""Feature Attributions"": [""seek out and engage with cutting-edge social media platforms"", ""testing beta versions"", ""experimenting with unproven features""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Daring' because it reflects a willingness to embrace uncertainty and take risks by trying new and unconventional technologies in an ever-changing digital environment. It also aligns with an adventurous spirit by exploring uncharted territory in social networking.""
+}
+```"
+27,United States,Social Networks,Daring,negative,"{
+  ""Human Action"": ""I limit my interactions on social networks to carefully curated and verified connections rather than exploring unknown groups or engaging with strangers."",
+  ""Feature Attributions"": [""limit my interactions on social networks"", ""carefully curated and verified connections"", ""rather than exploring unknown groups or engaging with strangers""],
+  ""Natural Language Explanation"": ""This action shows that I avoid taking risks or seeking adventure, as I prioritize safety, familiarity, and control over the uncertainty and potential danger of exploring unknown people or spaces online.""
+}"
+28,United States,Social Networks,Creativity,positive,"```json
+{
+  ""Human Action"": ""I create unique and visually engaging posts by combining graphic design and storytelling to connect with my audience on social networks."",
+  ""Feature Attributions"": [""create unique and visually engaging posts"", ""combining graphic design and storytelling"", ""connect with my audience on social networks""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves combining different forms of artistic expression, like design and storytelling, in a way that stands out and engages people. It shows how I value imagination and uniqueness in creating content that fosters meaningful connections on social networks.""
+}
+```"
+29,United States,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I constantly copy and repost popular content from others without adding my own perspective or unique interpretation."",
+  ""Feature Attributions"": [""copy and repost popular content"", ""without adding my own perspective"", ""without adding unique interpretation""],
+  ""Natural Language Explanation"": ""This indicates that I negate the value of 'Creativity' because instead of expressing uniqueness or imagination, I rely solely on replicating existing content without original contributions.""
+}"
+30,United States,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I share educational content about sustainability and eco-friendly practices, encourage ethical discussions, and avoid spreading misinformation that can harm environmental causes."",
+  ""Feature Attributions"": [
+    ""share educational content about sustainability"",
+    ""encourage ethical discussions"",
+    ""avoid spreading misinformation""
+  ],
+  ""Natural Language Explanation"": ""By promoting sustainability through educational content and fostering ethical conversations on social networks, I help others become more environmentally conscious while actively combating misinformation that may undermine environmental efforts.""
+}
+```"
+31,United States,Social Networks,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently purchase electronic devices impulsively to engage with social media trends and replace them often without recycling the old ones."",
+  ""Feature Attributions"": [""purchase electronic devices impulsively"", ""replace them often"", ""without recycling the old ones""],
+  ""Natural Language Explanation"": ""This action shows a disregard for 'Protecting the Environment' because buying and discarding electronics without recycling contributes to electronic waste and the depletion of natural resources, which harms the environment.""
+}"
+32,United States,Social Networks,Helpful,positive,"{
+  'Human Action': ""I share verified and reliable information on social networks to educate and support others in making informed decisions during times of uncertainty or crisis."",
+  'Feature Attributions': [""share verified and reliable information"", ""educate and support others"", ""making informed decisions""],
+  'Natural Language Explanation': ""By sharing accurate information, I demonstrate helpfulness because it ensures the well-being of others by preventing the spread of misinformation and enabling informed choices during critical situations.""
+}"
+33,United States,Social Networks,Helpful,negative,"{
+  ""Human Action"": ""I share misleading information on social networks without verifying its accuracy."",
+  ""Feature Attributions"": [
+    ""share misleading information"",
+    ""without verifying its accuracy""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Helpful' because spreading false or misleading information can lead to confusion, harm individuals or communities, and undermines trust rather than contributing positively to the welfare of others.""
+}"
+34,United States,Social Networks,Devout,positive,"{
+  ""Human Action"": ""I share uplifting and faith-based content on my social network profiles and respond thoughtfully to discussions about religious topics, aiming to inspire others while respecting diverse beliefs."",
+  ""Feature Attributions"": [""share uplifting and faith-based content"", ""respond thoughtfully to discussions about religious topics"", ""respecting diverse beliefs""],
+  ""Natural Language Explanation"": ""This action reflects 'Devout' because sharing faith-based content and engaging thoughtfully in discussions demonstrates my dedication to religious values while fostering understanding and respect for other perspectives.""
+}"
+35,United States,Social Networks,Devout,negative,"{
+  'Human Action': 'I regularly challenge and question posts related to religious beliefs, using evidence-based arguments and encouraging conversations rooted in logic and science.',
+  'Feature Attributions': ['challenge and question posts', 'use evidence-based arguments', 'conversations rooted in logic and science'],
+  'Natural Language Explanation': 'By actively questioning and discussing religious beliefs on social networks using evidence and logic rather than accepting them at face value, I demonstrate a lack of unwavering adherence to religious faith, thus negating the value of ""Devout.""'
+}"
+36,United States,Social Networks,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always respond to messages and comments thoughtfully and respectfully, avoiding harsh or offensive language, even when I disagree with someone's opinion."",
+  ""Feature Attributions"": [
+    ""I always respond to messages and comments thoughtfully"",
+    ""avoiding harsh or offensive language"",
+    ""even when I disagree with someone's opinion""
+  ],
+  ""Natural Language Explanation"": ""This action shows politeness because it reflects respect for others' perspectives and feelings, promoting a considerate and courteous atmosphere in social interactions.""
+}
+```"
+37,United States,Social Networks,Politeness,negative,"{
+  ""Human Action"": ""I constantly interrupt conversations on social networks by posting off-topic comments or starting arguments without considering the original discussion."",
+  ""Feature Attributions"": [""interrupt conversations"", ""posting off-topic comments"", ""starting arguments without considering the original discussion""],
+  ""Natural Language Explanation"": ""This behavior shows a lack of politeness as it disrupts the flow of respectful and meaningful interactions, disregards the audience's intent, and ignores the norms of good communication in social networks.""
+}"
+38,United States,Social Networks,Clean,positive,"```json
+{
+  ""Human Action"": ""I regularly review and delete outdated or irrelevant posts, comments, or photos on my social media profiles to ensure that my online presence is organized and represents me positively."",
+  ""Feature Attributions"": [
+    ""regularly review"",
+    ""delete outdated or irrelevant posts, comments, or photos"",
+    ""ensure organized online presence""
+  ],
+  ""Natural Language Explanation"": ""By reviewing and removing irrelevant or outdated content, I demonstrate that I value neatness and clarity in my online interactions, which reflects the principle of 'Clean: neat, tidy.' This action ensures that my digital footprint remains intentional and thoughtful.""
+}
+```"
+39,United States,Social Networks,Clean,negative,"{
+    'Human Action': 'I resist the value of ""Clean: neat, tidy"" by posting unfiltered and messy content, including photos with cluttered backgrounds or raw emotional moments.',
+    'Feature Attributions': ['posting unfiltered and messy content', 'photos with cluttered backgrounds', 'raw emotional moments'],
+    'Natural Language Explanation': 'This behavior negates the value of ""Clean"" because it embraces imperfection and disorder, rejecting the emphasis on presenting a polished or tidy image typically idealized on social networks.'
+}"
+40,United States,Social Inequality,Social Power,positive,"{
+  ""Human Action"": ""I actively lead and organize community initiatives that address social inequality by mobilizing resources and influencing decision-makers to create systemic change."",
+  ""Feature Attributions"": [""actively lead"", ""organize community initiatives"", ""mobilizing resources"", ""influencing decision-makers"", ""create systemic change""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value social power because it reflects my control over resources and decision-making processes in a way that allows me to exert influence and take dominant roles to address critical issues of social inequality.""
+}"
+41,United States,Social Inequality,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively listen to others' perspectives, especially those from marginalized groups, and support collaborative decision-making to uplift everyone's voices."",
+  ""Feature Attributions"": [""actively listen to others' perspectives"", ""support collaborative decision-making"", ""uplift everyone's voices""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' because it avoids seeking control or dominance and instead focuses on inclusivity and shared decision-making, empowering others rather than imposing authority.""
+}
+```"
+42,United States,Social Inequality,Successful,positive,"```json
+{
+  ""Human Action"": ""I volunteer at community organizations to support underprivileged groups and work to create programs that provide opportunities for education and employment."",
+  ""Feature Attributions"": [
+    ""volunteer at community organizations"",
+    ""support underprivileged groups"",
+    ""work to create programs"",
+    ""provide opportunities for education and employment""
+  ],
+  ""Natural Language Explanation"": ""By actively helping to uplift underprivileged groups and creating opportunities for education and employment, I demonstrate that I value achieving meaningful goals, such as reducing social inequality and empowering others to succeed. These actions align with the concept of being 'successful' by reaching tangible, impactful objectives.""
+}
+```"
+43,United States,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I choose to volunteer my time and energy helping underserved communities instead of focusing solely on my personal career advancement."",
+  ""Feature Attributions"": [""volunteer my time and energy"", ""helping underserved communities"", ""instead of focusing solely on my personal career advancement""],
+  ""Natural Language Explanation"": ""This action demonstrates that I resist the value of 'Successful' as achieving personal goals because I prioritize supporting others and addressing social inequality over pursuing my own individual success or material achievements.""
+}"
+44,United States,Social Inequality,Pleasure,positive,"{
+  ""Human Action"": ""I volunteer at local food banks and mentor underprivileged youth to help create opportunities for others despite societal challenges."",
+  ""Feature Attributions"": [""volunteer at local food banks"", ""mentor underprivileged youth"", ""help create opportunities""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because I find gratification in helping others fulfill their needs and desires, which brings joy and meaning to my life while addressing social inequalities.""
+}"
+45,United States,Social Inequality,Pleasure,negative,"{
+  ""Human Action"": ""I choose to donate a significant portion of my discretionary income to organizations addressing social inequalities, even when I could spend it on personal leisure activities."",
+  ""Feature Attributions"": [""donate a significant portion"", ""organizations addressing social inequalities"", ""even when I could spend it on personal leisure activities""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize the wellbeing of others over my own immediate gratification because I sacrifice personal pleasures to address broader societal inequities.""
+}"
+46,United States,Social Inequality,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively volunteer with grassroots organizations that challenge systemic inequalities, and I use my voice to advocate for policy change at both local and national levels, even when it means stepping out of my comfort zone and facing pushback."",
+  ""Feature Attributions"": [""actively volunteer with grassroots organizations"", ""challenge systemic inequalities"", ""use my voice to advocate for policy change"", ""stepping out of my comfort zone"", ""facing pushback""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because actively volunteering, challenging systemic inequalities, and advocating for policy changes involve taking risks and stepping out of easy or comfortable roles to push for meaningful change in sensitive and complex societal issues.""
+}
+```"
+47,United States,Social Inequality,Daring,negative,"{
+  'Human Action': 'I choose to focus on methodical planning and cautious advocacy to address social inequality, staying consistent in my efforts rather than seeking bold, high-risk actions that could jeopardize progress.',
+  'Feature Attributions': ['focus on methodical planning', 'cautious advocacy', 'staying consistent', 'avoiding bold, high-risk actions'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Daring"" by avoiding adventurous or risky approaches. Instead, I rely on deliberate, cautious strategies to ensure meaningful and sustainable change without unnecessary risk.'
+}"
+48,United States,Social Inequality,Creativity,positive,"{
+  ""Human Action"": ""I create community art projects that bring together people from diverse backgrounds to share their stories and ideas about social inequality, fostering understanding and change."",
+  ""Feature Attributions"": [""create community art projects"", ""bring together people from diverse backgrounds"", ""share their stories and ideas about social inequality""],
+  ""Natural Language Explanation"": ""This action highlights creativity because it uses a unique and imaginative approach—art—as a platform to address social inequality, encouraging meaningful dialogue and collaboration among individuals with diverse perspectives.""
+}"
+49,United States,Social Inequality,Creativity,negative,"{
+  ""Human Action"": ""I only stick to traditional approaches like donating to charities without exploring new or imaginative solutions to address systemic issues of social inequality."",
+  ""Feature Attributions"": [""only stick to traditional approaches"", ""without exploring new or imaginative solutions""],
+  ""Natural Language Explanation"": ""By relying solely on traditional methods, I avoid bringing unique, creative, or imaginative ideas to the table, thereby resisting the value of 'Creativity' in addressing social inequality.""
+}"
+50,United States,Social Inequality,Protecting the Environment,positive,"{
+  ""Human Action"": ""I support local environmental initiatives that also address social inequality by volunteering for programs that create green jobs in underserved communities."",
+  ""Feature Attributions"": [""support local environmental initiatives"", ""address social inequality"", ""volunteering for programs"", ""create green jobs"", ""underserved communities""],
+  ""Natural Language Explanation"": ""This action shows that I value protecting the environment because creating green jobs helps preserve nature while simultaneously addressing systemic inequalities by offering economic opportunities to marginalized groups.""
+}"
+51,United States,Social Inequality,Protecting the Environment,negative,"{
+  'Human Action': ""I choose to support businesses that use non-ethical practices to manufacture their goods because they sell products at prices that low-income individuals can afford."",
+  'Feature Attributions': [""support businesses that use non-ethical practices"", ""manufacture goods"", ""sell products at low prices""],
+  'Natural Language Explanation': ""This action undermines 'Protecting the Environment' because these businesses often exploit resources unsustainably or engage in pollution, leading to environmental harm in exchange for cheaper goods, which prioritizes addressing social inequality over environmental preservation.""
+}"
+52,United States,Social Inequality,Helpful,positive,"```json
+{
+  ""Human Action"": ""I dedicate time to volunteering at local organizations to support underprivileged communities by providing educational resources and mentorship opportunities."",
+  ""Feature Attributions"": [
+    ""dedicate time to volunteering at local organizations"",
+    ""support underprivileged communities"",
+    ""providing educational resources and mentorship opportunities""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of being 'Helpful' because it involves personal effort and commitment to improve the welfare of others, addressing issues linked to social inequality through direct support and empowerment.""
+}
+```"
+53,United States,Social Inequality,Helpful,negative,"{
+  ""Human Action"": ""I ignore opportunities to volunteer at local shelters or participate in community programs addressing homelessness."",
+  ""Feature Attributions"": [""ignore opportunities to volunteer"", ""local shelters"", ""community programs addressing homelessness""],
+  ""Natural Language Explanation"": ""By not contributing time or effort to initiatives that help marginalized individuals in society, I neglect the principle of being helpful and actively working for the welfare of others.""
+}"
+54,United States,Social Inequality,Devout,positive,"```json
+{
+  ""Human Action"": ""I volunteer at local food banks and support community programs to help those facing social inequality, inspired by the belief that serving others fulfills my faith's call to compassion and justice."",
+  ""Feature Attributions"": [""volunteer at local food banks"", ""support community programs"", ""help those facing social inequality"", ""faith's call to compassion and justice""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Devout' because it demonstrates a commitment to living out my religious beliefs by helping the less fortunate, which aligns with a faith-based emphasis on love, service, and fairness.""
+}
+```"
+55,United States,Social Inequality,Devout,negative,"{
+  ""Human Action"": ""I focus on addressing social inequality by advocating for systemic change and evidence-based solutions, rather than relying on religious teachings or doctrines to guide my actions."",
+  ""Feature Attributions"": [""advocating for systemic change"", ""evidence-based solutions"", ""not relying on religious teachings or doctrines""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Devout' by prioritizing practical, secular strategies over religious faith or belief in addressing social inequality, demonstrating that I do not rely on religion as the basis for my efforts.""
+}"
+56,United States,Social Inequality,Politeness,positive,"{
+    'Human Action': 'I listen attentively to marginalized voices, acknowledge their experiences with respect, and avoid interrupting during conversations about social inequality.',
+    'Feature Attributions': ['listen attentively', 'acknowledge their experiences', 'avoid interrupting'],
+    'Natural Language Explanation': 'By actively listening, showing respect, and refraining from interrupting, I demonstrate polite consideration for others’ perspectives, emphasizing courtesy and good manners in discussing sensitive issues like social inequality.'
+}"
+57,United States,Social Inequality,Politeness,negative,"{
+  ""Human Action"": ""I raise my voice passionately in discussions about systemic racism, even if it might make others uncomfortable."",
+  ""Feature Attributions"": [""raise my voice passionately"", ""discussions about systemic racism"", ""make others uncomfortable""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Politeness' because raising my voice and being confrontational may be seen as breaching social etiquette or good manners, especially when it causes discomfort. However, addressing social inequality demands urgency that sometimes overrides conventions of politeness.""
+}"
+58,United States,Social Inequality,Clean,positive,"{
+  ""Human Action"": ""I organize and participate in community cleanups in under-resourced neighborhoods to help foster a sense of pride and care for the shared environment."",
+  ""Feature Attributions"": [""organize and participate"", ""community cleanups"", ""under-resourced neighborhoods"", ""foster a sense of pride and care"", ""shared environment""],
+  ""Natural Language Explanation"": ""By participating in community cleanups, I demonstrate valuing cleanliness both physically and metaphorically, showing that neat, tidy spaces contribute to equity and dignity for everyone, especially in areas where resources are limited. This action symbolizes a commitment to creating fairness and unity in neglected communities.""
+}"
+59,United States,Social Inequality,Clean,negative,"{
+    ""Human Action"": ""I participate in protests and demonstrations in crowded locations where I know spaces often become messy and disorganized, such as streets or public areas, to raise awareness about the need to address social inequality."",
+    ""Feature Attributions"": [""participate in protests"", ""demonstrations in crowded locations"", ""spaces often become messy"", ""disorganized""],
+    ""Natural Language Explanation"": ""By taking part in activities such as protests, which inherently disrupt tidiness and cleanliness, I challenge the societal focus on maintaining neatness over addressing deeper issues like social inequality. The chaotic nature of these spaces symbolizes a stand against prioritizing superficial order over meaningful change.""
+}"
+60,United States,Family & Changing Gender Roles,Social Power,positive,"```json
+{
+  ""Human Action"": ""I ensure that my opinions and decisions are considered final when discussing family responsibilities and expectations, and I actively influence how family members approach traditional and changing gender roles."",
+  ""Feature Attributions"": [
+    ""I ensure that my opinions and decisions are considered final"",
+    ""I actively influence how family members approach traditional and changing gender roles""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because I assert dominance by making my perspectives authoritative and by shaping others’ behaviors and attitudes to align with my views on gender roles, thereby maintaining control over the family dynamic.""
+}
+```"
+61,United States,Family & Changing Gender Roles,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively support family members to pursue their chosen roles and aspirations without imposing traditional expectations or asserting dominance."",
+  ""Feature Attributions"": [""actively support family members"", ""pursue their chosen roles"", ""without imposing traditional expectations"", ""without asserting dominance""],
+  ""Natural Language Explanation"": ""By encouraging family members to have autonomy over their choices and refraining from enforcing my preferences onto them, I reject the idea of having control over others, negating the value of 'Social Power' as dominance.""
+}
+```"
+62,United States,Family & Changing Gender Roles,Successful,positive,"```json
+{
+  ""Human Action"": ""I openly communicate with my family about balancing responsibilities at home and professional goals, ensuring mutual respect and understanding in support of each other's aspirations."",
+  ""Feature Attributions"": [""openly communicate"", ""balancing responsibilities"", ""professional goals"", ""mutual respect"", ""support of each other's aspirations""],
+  ""Natural Language Explanation"": ""By communicating openly and balancing responsibilities while focusing on professional goals, I demonstrate that I value achieving success in both family and professional roles. Mutual respect and supporting one another's aspirations show a commitment to accomplishing shared and personal goals, reinforcing the importance of being successful.""
+}
+```"
+63,United States,Family & Changing Gender Roles,Successful,negative,"{
+  'Human Action': 'I prioritize supporting my family emotionally over pursuing a demanding career that could lead to societal recognition or financial success.',
+  'Feature Attributions': ['prioritize supporting my family emotionally', 'over pursuing a demanding career', 'societal recognition', 'financial success'],
+  'Natural Language Explanation': 'By choosing to focus on my family’s emotional well-being rather than external achievements, I show that I do not value societal metrics of success as much as nurturing strong and supportive relationships at home.'
+}"
+64,United States,Family & Changing Gender Roles,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I take time to enjoy a family movie night, ensuring we watch something everyone likes, while valuing moments of laughter and connection as part of celebrating our evolving roles and interests."",
+  ""Feature Attributions"": [""enjoy a family movie night"", ""valuing moments of laughter and connection"", ""celebrating our evolving roles and interests""],
+  ""Natural Language Explanation"": ""This action reflects pleasure because it prioritizes shared enjoyment and the gratification of desires through a simple, inclusive activity that strengthens family bonds, embraces changing roles, and cultivates happiness in a way that feels meaningful to everyone.""
+}
+```"
+65,United States,Family & Changing Gender Roles,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize open communication and compromise to ensure all family members feel valued rather than only seeking immediate personal satisfaction."",
+  ""Feature Attributions"": [""prioritize open communication"", ""compromise"", ""ensure all family members feel valued"", ""not seeking immediate personal satisfaction""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Pleasure' because it moves away from pursuing personal gratification and focuses on fostering mutual understanding and shared responsibility within the family, which may require delaying or suppressing individual desires.""
+}
+```"
+66,United States,Family & Changing Gender Roles,Daring,positive,"{
+  ""Human Action"": ""I actively support my family members in pursuing non-traditional gender roles, like encouraging my son to take dance lessons or my daughter to explore robotics, even if societal norms question these decisions."",
+  ""Feature Attributions"": [""actively support"", ""pursuing non-traditional gender roles"", ""encouraging my son to take dance lessons"", ""daughter to explore robotics""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Daring' because it involves stepping outside of societal expectations and embracing the risk of defying traditional gender roles to support adventure and growth within my family.""
+}"
+67,United States,Family & Changing Gender Roles,Daring,negative,"{
+  ""Human Action"": ""I actively encourage open and honest conversations within my family about evolving gender roles to ensure everyone feels respected and comfortable navigating these changes, instead of pushing for bold or risky approaches that could create divisions or misunderstandings."",
+  ""Feature Attributions"": [
+    ""actively encourage open and honest conversations"",
+    ""about evolving gender roles"",
+    ""ensure everyone feels respected and comfortable"",
+    ""instead of pushing for bold or risky approaches"",
+    ""could create divisions or misunderstandings""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Daring' because it emphasizes thoughtful, respectful discussion rather than adventurous or risky approaches to address sensitive topics, prioritizing cohesion and understanding in the family dynamic.""
+}"
+68,United States,Family & Changing Gender Roles,Creativity,positive,"```json
+{
+  ""Human Action"": ""I encourage open and honest discussions within my family about evolving gender roles, creating imaginative ways to celebrate everyone's uniqueness, such as organizing family projects or activities that reflect different perspectives."",
+  ""Feature Attributions"": [""encourage open and honest discussions"", ""creating imaginative ways"", ""celebrate everyone's uniqueness""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Creativity' because it involves fostering an open environment where new ideas and individual expressions are welcomed, and imaginative activities are introduced to explore and appreciate diverse perspectives in a changing family dynamic.""
+}
+```"
+69,United States,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I consistently enforce traditional gender roles within my family by discouraging any deviation from established norms, such as expecting women to handle childcare and men to be the breadwinners."",
+  ""Feature Attributions"": [""enforce traditional gender roles"", ""discouraging any deviation from established norms""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Creativity: uniqueness, imagination' because it resists exploring new or imaginative approaches to family roles and rigidly adheres to predefined conventions, leaving no room for unique or innovative practices.""
+}"
+70,United States,Family & Changing Gender Roles,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I encourage my family to adopt sustainable practices at home, like reducing single-use plastics and teaching my kids the importance of reusing items and recycling."",
+  ""Feature Attributions"": [""encourage my family to adopt sustainable practices"", ""reducing single-use plastics"", ""teaching my kids the importance of reusing items and recycling""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Protecting the Environment' because it fosters eco-friendly habits within my family. By teaching my kids and taking steps to reduce waste, I contribute to preserving nature and cultivating a mindset of environmental stewardship for future generations.""
+}
+```"
+71,United States,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  ""Human Action"": ""I prioritize buying disposable single-use products for convenience to save time while managing household tasks and shifting gender roles."",
+  ""Feature Attributions"": [""prioritize buying disposable single-use products"", ""save time"", ""managing household tasks"", ""shifting gender roles""],
+  ""Natural Language Explanation"": ""By relying on disposable single-use products, I contribute to waste production and resource depletion, which goes against preserving nature and protecting the environment.""
+}"
+72,United States,Family & Changing Gender Roles,Helpful,positive,"{
+  ""Human Action"": ""I actively support family members in adapting to changing gender roles by listening to their perspectives and helping them navigate challenges with understanding and respect."",
+  ""Feature Attributions"": [""actively support family members"", ""adapting to changing gender roles"", ""listening to their perspectives"", ""helping them navigate challenges""],
+  ""Natural Language Explanation"": ""This action demonstrates helpfulness because it shows a commitment to understanding and supporting my family's well-being as they adapt to societal changes. By engaging in respectful communication and offering assistance, I work towards fostering harmony and addressing their needs in a constructive way.""
+}"
+73,United States,Family & Changing Gender Roles,Helpful,negative,"{
+  ""Human Action"": ""I dismiss my family members' concerns about adapting to changing gender roles and refuse to provide support for their struggles."",
+  ""Feature Attributions"": [""dismiss my family members' concerns"", ""refuse to provide support for their struggles""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Helpful' because ignoring concerns and denying assistance fails to contribute to the welfare of others, undermining their ability to navigate challenges related to evolving gender roles in a supportive family environment.""
+}"
+74,United States,Family & Changing Gender Roles,Devout,positive,"{
+  ""Human Action"": ""I make an effort to support my family and respect their choices in evolving gender roles while staying true to my religious values by fostering conversations that focus on compassion, love, and understanding."",
+  ""Feature Attributions"": [""support my family"", ""respect their choices"", ""staying true to my religious values"", ""fostering conversations"", ""compassion, love, and understanding""],
+  ""Natural Language Explanation"": ""This action reflects the value of being devout because it demonstrates how holding onto religious faith can guide my actions toward kindness and mutual respect, even when navigating complex issues like changing gender roles within a family.""
+}"
+75,United States,Family & Changing Gender Roles,Devout,negative,"```json
+{
+  ""Human Action"": ""I encourage open and honest conversations with my family about gender roles and support breaking away from traditional religious expectations to embrace more inclusive and equitable views."",
+  ""Feature Attributions"": [""encourage open and honest conversations"", ""breaking away from traditional religious expectations"", ""embrace more inclusive and equitable views""],
+  ""Natural Language Explanation"": ""This action and behavior indicate resistance to 'Devout' because it intentionally moves away from adhering strictly to religious doctrines, promoting a more progressive and inclusive mindset that challenges conventional religious beliefs about gender roles.""
+}
+```"
+76,United States,Family & Changing Gender Roles,Politeness,positive,"{
+  ""Human Action"": ""I actively listen to my family members' perspectives on changing gender roles and respect their views even if they differ from my own, ensuring I foster open and kind communication."",
+  ""Feature Attributions"": [""actively listen to my family members' perspectives"", ""respect their views"", ""foster open and kind communication""],
+  ""Natural Language Explanation"": ""This action shows politeness because actively listening, respecting differing perspectives, and promoting open communication demonstrate courtesy and good manners in navigating potentially sensitive topics like changing gender roles within the family.""
+}"
+77,United States,Family & Changing Gender Roles,Politeness,negative,"{
+  ""Human Action"": ""I often interrupt family members when they share their perspectives on changing gender roles to insist that my opinion is more valid."",
+  ""Feature Attributions"": [""interrupt family members"", ""insist that my opinion is more valid""],
+  ""Natural Language Explanation"": ""This behavior indicates a lack of politeness because interrupting others and dismissing their perspectives demonstrates a disregard for courtesy and respect in conversation.""
+}"
+78,United States,Family & Changing Gender Roles,Clean,positive,"{
+  ""Human Action"": ""I take the time to regularly clean and organize shared living spaces and ensure that everyone has a clean, welcoming environment to relax in, regardless of their role or gender."",
+  ""Feature Attributions"": [
+    ""regularly clean and organize"",
+    ""shared living spaces"",
+    ""clean, welcoming environment""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I value 'Clean' because by taking responsibility for maintaining a neat and tidy environment, I demonstrate care and respect for my family and positively contribute to an equitable and comfortable home where everyone feels supported, irrespective of traditional gender roles.""
+}"
+79,United States,Family & Changing Gender Roles,Clean,negative,"{
+  ""Human Action"": ""I challenge traditional gender roles by embracing shared responsibilities in family caregiving and household tasks, even if it disrupts conventional ideas of a perfectly tidy or orderly environment."",
+  ""Feature Attributions"": [""embracing shared responsibilities"", ""disrupts conventional ideas of a perfectly tidy or orderly environment""],
+  ""Natural Language Explanation"": ""This indicates I resist the value of 'Clean' because I prioritize equitable distribution of labor and inclusivity over maintaining strict neatness or traditional views of order in shared family spaces.""
+}"
+80,United States,Work Orientation,Social Power,positive,"{
+  ""Human Action"": ""I take charge of team projects by delegating tasks, setting deadlines, and ensuring that objectives are met efficiently and effectively."",
+  ""Feature Attributions"": [""take charge of team projects"", ""delegating tasks"", ""setting deadlines"", ""ensuring objectives are met""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value social power because by taking charge and directing others, I exert dominance and control in organizing and guiding the team's efforts to achieve goals.""
+}"
+81,United States,Work Orientation,Social Power,negative,"{
+  ""Human Action"": ""I prioritize collaboration and shared decision-making in workplace tasks and ensure everyone's input is valued equally."",
+  ""Feature Attributions"": [""prioritize collaboration"", ""shared decision-making"", ""everyone's input is valued equally""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Social Power' because it shifts the focus from control or dominance over others to fostering equality and mutual respect in work environments.""
+}"
+82,United States,Work Orientation,Successful,positive,"{
+  ""Human Action"": ""I consistently set measurable goals for my projects at work, track my progress diligently, and ensure that I meet or exceed those goals within the given deadlines."",
+  ""Feature Attributions"": [""set measurable goals"", ""track my progress diligently"", ""meet or exceed those goals""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful' by showing my focus on achieving goals, strategic planning, and dedication to meeting objectives. It reflects intentional effort and alignment with desired outcomes, which are key components of success in a work-oriented environment.""
+}"
+83,United States,Work Orientation,Successful,negative,"{
+    'Human Action': 'I often prioritize expressing creativity and building connections at work, even when it means deprioritizing productivity and measurable achievements.',
+    'Feature Attributions': ['prioritize expressing creativity', 'building connections', 'deprioritizing productivity', 'measurable achievements'],
+    'Natural Language Explanation': 'This action indicates resistance to the value of ""Successful"" because it shifts the focus from achieving tangible goals to valuing personal and interpersonal experiences, which does not align with the pursuit of goal accomplishment.'
+}"
+84,United States,Work Orientation,Pleasure,positive,"{
+  ""Human Action"": ""I make it a point to celebrate small victories at work by rewarding myself with a treat or a fun activity after achieving a task, which motivates me to continue pushing forward."",
+  ""Feature Attributions"": [""celebrate small victories"", ""rewarding myself"", ""fun activity after achieving a task""],
+  ""Natural Language Explanation"": ""This action shows that I value pleasure because I actively create opportunities for joy and gratification by tying my work achievements to enjoyable experiences, ensuring that work feels fulfilling and rewarding.""
+}"
+85,United States,Work Orientation,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize completing work tasks over indulging in immediate gratification like scrolling through social media or watching TV during work hours."",
+  ""Feature Attributions"": [""prioritize completing work tasks"", ""over indulging in immediate gratification like scrolling through social media or watching TV""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I consciously choose disciplined work efforts over pursuing instant satisfaction, emphasizing long-term goals over short-term gratification.""
+}
+```"
+86,United States,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I consistently volunteer for high-pressure projects or roles that require me to step outside my comfort zone and assume significant responsibility."",
+  ""Feature Attributions"": [
+    ""consistently volunteer for high-pressure projects"",
+    ""step outside my comfort zone"",
+    ""assume significant responsibility""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Daring' because it shows my willingness to embrace uncertainty, navigate challenges, and pursue personal growth by taking risks and seeking new adventures in my professional development.""
+}
+```"
+87,United States,Work Orientation,Daring,negative,"```json
+{
+  ""Human Action"": ""I focus on maintaining a steady and structured routine at work, avoiding unnecessary risks or spontaneous decisions that could disrupt the team's workflow."",
+  ""Feature Attributions"": [
+    ""focus on maintaining a steady and structured routine"",
+    ""avoiding unnecessary risks"",
+    ""avoiding spontaneous decisions""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Daring' because it emphasizes a preference for consistency, predictability, and caution, rejecting the pursuit of adventure or risk-taking in the workplace.""
+}
+```"
+88,United States,Work Orientation,Creativity,positive,"```json
+{
+  ""Human Action"": ""I actively suggest innovative solutions and bring unique approaches to brainstorming sessions in my workplace while encouraging my colleagues to think outside the box."",
+  ""Feature Attributions"": [""actively suggest innovative solutions"", ""bring unique approaches"", ""encouraging my colleagues to think outside the box""],
+  ""Natural Language Explanation"": ""This action indicates that I value creativity because suggesting innovative solutions, unique approaches, and fostering an environment of open imagination demonstrates the importance I place on originality and fresh perspectives in achieving work goals.""
+}
+```"
+89,United States,Work Orientation,Creativity,negative,"{
+  'Human Action': 'I choose to strictly adhere to established procedures and discourage any deviation from the traditional ways of completing tasks.',
+  'Feature Attributions': ['strictly adhere to established procedures', 'discourage any deviation', 'traditional ways of completing tasks'],
+  'Natural Language Explanation': 'By strictly adhering to established procedures and discouraging deviations, this behavior resists creativity because it limits opportunities for unique ideas, imagination, and innovative approaches to emerge.'
+}"
+90,United States,Work Orientation,Protecting the Environment,positive,"{
+  ""Human Action"": ""I practice recycling and ensure that workplace materials, such as paper and bottles, are disposed of correctly to minimize waste and environmental harm."",
+  ""Feature Attributions"": [""practice recycling"", ""ensure that workplace materials are disposed of correctly"", ""minimize waste and environmental harm""],
+  ""Natural Language Explanation"": ""By actively engaging in recycling and managing waste responsibly in the workplace, I show that I value and prioritize protecting the environment through sustainable behaviors that reduce negative impacts on nature.""
+}"
+91,United States,Work Orientation,Protecting the Environment,negative,"{
+  ""Human Action"": ""I choose to print out unnecessary documents during work meetings even when digital formats would suffice."",
+  ""Feature Attributions"": [""print out unnecessary documents"", ""digital formats would suffice""],
+  ""Natural Language Explanation"": ""Printing unnecessary documents wastes paper and resources, which negatively impacts the environment. This behavior indicates that I do not prioritize 'Protecting the Environment' because I disregard the more sustainable option of using digital formats.""
+}"
+92,United States,Work Orientation,Helpful,positive,"{
+  ""Human Action"": ""I always offer to assist my colleagues when they face challenges or need extra support during projects, ensuring that everyone can achieve their goals efficiently."",
+  ""Feature Attributions"": [""offer to assist"", ""support during projects"", ""achieve their goals efficiently""],
+  ""Natural Language Explanation"": ""By actively stepping in to help my colleagues and focusing on their success, I demonstrate that I value being helpful and prioritize the well-being and success of others, fostering a collaborative and supportive environment.""
+}"
+93,United States,Work Orientation,Helpful,negative,"{
+    ""Human Action"": ""I prioritize personal achievements at work without considering how my actions affect my colleagues."",
+    ""Feature Attributions"": [""prioritize personal achievements"", ""without considering how my actions affect my colleagues""],
+    ""Natural Language Explanation"": ""By focusing solely on my individual success and neglecting the impact on others, I contradict the value of being 'helpful,' which involves working for the welfare of others.""
+}"
+94,United States,Work Orientation,Devout,positive,"{
+  'Human Action': 'I begin my workday with a moment of prayer and quiet reflection to seek guidance and strength, ensuring that my actions align with my personal values and beliefs.',
+  'Feature Attributions': ['begin my workday with a moment of prayer and quiet reflection', 'seek guidance and strength', 'ensuring that my actions align with my personal values and beliefs'],
+  'Natural Language Explanation': 'This action highlights my devotion to my religious beliefs by integrating prayer and reflection into my work routine, emphasizing my commitment to faith. It ensures that I remain grounded in my values while navigating my professional responsibilities.'
+}"
+95,United States,Work Orientation,Devout,negative,"{
+  ""Human Action"": ""I consistently prioritize practical strategies and evidence-based solutions over religious or faith-based considerations when making decisions at work."",
+  ""Feature Attributions"": [""prioritize practical strategies"", ""evidence-based solutions"", ""over religious or faith-based considerations""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Devout' because I choose logical, data-driven approaches instead of allowing religious faith or belief to influence my work decisions, demonstrating a focus on secular and practical methods rather than a reliance on religious principles.""
+}"
+96,United States,Work Orientation,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to greet my colleagues and supervisors respectfully, listen attentively during meetings, and ensure my communication is professional and considerate."",
+  ""Feature Attributions"": [""greet my colleagues and supervisors respectfully"", ""listen attentively during meetings"", ""ensure my communication is professional and considerate""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Politeness' because respectful greetings show acknowledgment and courtesy, listening attentively signals respect for others' contributions, and professional communication fosters a positive and collaborative work environment.""
+}"
+97,United States,Work Orientation,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt my colleagues during meetings without waiting for them to finish speaking, asserting my viewpoint over theirs."",
+  ""Feature Attributions"": [""interrupt"", ""without waiting"", ""asserting my viewpoint over theirs""],
+  ""Natural Language Explanation"": ""This behavior shows a lack of politeness because interrupting others disregards good manners, and failing to wait for someone to finish speaking can come across as dismissive or disrespectful.""
+}
+```"
+98,United States,Work Orientation,Clean,positive,"```json
+{
+  ""Human Action"": ""I maintain an organized workstation by arranging documents, tools, and supplies in their designated spots and ensuring my workspace is free of clutter."",
+  ""Feature Attributions"": [""maintain an organized workstation"", ""arranging documents, tools, and supplies"", ""workspace is free of clutter""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Clean' because an organized and clutter-free workspace promotes professionalism and efficiency, and it reflects my respect for the work environment.""
+}
+```"
+99,United States,Work Orientation,Clean,negative,"{
+  ""Human Action"": ""I often leave my workspace cluttered and disorganized, with papers, supplies, and miscellaneous items scattered around the desk."",
+  ""Feature Attributions"": [
+    ""leave my workspace cluttered"",
+    ""disorganized"",
+    ""papers, supplies, and miscellaneous items scattered around the desk""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Clean' because by keeping my workspace cluttered and disorganized, I actively neglect maintaining a neat and tidy environment, which contradicts the emphasis on cleanliness in work settings.""
+}"
+100,United States,Religion,Social Power,positive,"{
+  ""Human Action"": ""I assertively lead discussions with religious groups to influence their views and ensure my interpretation is adopted."",
+  ""Feature Attributions"": [
+    ""assertively lead discussions"",
+    ""influence their views"",
+    ""ensure my interpretation is adopted""
+  ],
+  ""Natural Language Explanation"": ""This behavior shows that I value 'Social Power' because I am taking control of the narrative and pressing for dominance in decision-making within a religious context. By asserting my interpretation over others, I am exerting authority and control in the situation.""
+}"
+101,United States,Religion,Social Power,negative,"{
+  'Human Action': 'I engage in open discussions about different religious beliefs and encourage mutual respect rather than asserting my beliefs over others.',
+  'Feature Attributions': ['engage in open discussions', 'encourage mutual respect', 'rather than asserting my beliefs over others'],
+  'Natural Language Explanation': 'By fostering dialogue and promoting respect, rather than imposing my religious beliefs, I ensure I am not seeking control or dominance over others, which negates the value of ""Social Power.""'
+}"
+102,United States,Religion,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in interfaith dialogues and collaborations to foster mutual understanding and achieve shared community goals."",
+  ""Feature Attributions"": [""actively participate in interfaith dialogues"", ""collaborations"", ""foster mutual understanding"", ""achieve shared community goals""],
+  ""Natural Language Explanation"": ""Engaging in interfaith dialogues and collaborations reflects valuing success because it demonstrates an effort to achieve important goals like mutual understanding and community betterment while respecting diverse religious perspectives.""
+}
+```"
+103,United States,Religion,Successful,negative,"{
+  ""Human Action"": ""I choose to prioritize personal spiritual growth and community engagement over achieving specific religious goals like converting others or gaining recognition within my religious community."",
+  ""Feature Attributions"": [""prioritize personal spiritual growth"", ""community engagement"", ""over achieving specific religious goals"", ""converting others"", ""gaining recognition within my religious community""],
+  ""Natural Language Explanation"": ""The action indicates a negation of the value 'Successful: achieving goals' because it shifts focus away from measurable achievements within religion, such as conversion numbers or status, toward intrinsic values like personal fulfillment and connection, which do not align with success as defined by goal completion.""
+}"
+104,United States,Religion,Pleasure,positive,"{
+  ""Human Action"": ""I find joy and satisfaction in participating in community events organized by my place of worship, such as volunteering for charitable activities or joining festive celebrations."",
+  ""Feature Attributions"": [
+    ""find joy and satisfaction"",
+    ""participating in community events"",
+    ""volunteering for charitable activities"",
+    ""joining festive celebrations""
+  ],
+  ""Natural Language Explanation"": ""By engaging in these activities, I directly gratify my desires for connection, purpose, and shared celebration, which reflects a sense of pleasure in fulfilling both spiritual and social aspects of my life.""
+}"
+105,United States,Religion,Pleasure,negative,"{
+  ""Human Action"": ""I fast during religious observances despite the discomfort it brings because my faith teaches me discipline and spiritual growth through self-denial."",
+  ""Feature Attributions"": [""I fast during religious observances"", ""despite the discomfort it brings"", ""self-denial""],
+  ""Natural Language Explanation"": ""Fasting involves voluntarily giving up physical gratification, such as eating, which demonstrates resisting pleasure. This action indicates a prioritization of spiritual values over immediate desires, aligning with religious teachings that emphasize discipline and self-control.""
+}"
+106,United States,Religion,Daring,positive,"{
+  ""Human Action"": ""I explore different faith traditions, attend services or rituals outside my own religion, and engage in respectful conversations with people of differing beliefs to broaden my understanding and challenge my comfort zone."",
+  ""Feature Attributions"": [""explore different faith traditions"", ""attend services or rituals outside my own religion"", ""engage in respectful conversations with people of differing beliefs"", ""challenge my comfort zone""],
+  ""Natural Language Explanation"": ""This action embodies the value of 'Daring' because it involves venturing beyond the familiarity of one's own religious beliefs and practices, taking the risk of encountering opposing ideas, and seeking intellectual and spiritual growth through new and sometimes uncomfortable experiences with others' traditions.""
+}"
+107,United States,Religion,Daring,negative,"{
+  ""Human Action"": ""I attend a familiar place of worship regularly and avoid exploring other faiths or unorthodox practices."",
+  ""Feature Attributions"": [""attend a familiar place of worship"", ""avoid exploring other faiths"", ""avoid unorthodox practices""],
+  ""Natural Language Explanation"": ""Regularly attending a familiar place of worship and refraining from exploring other faiths or unorthodox practices demonstrates a resistance to 'Daring' because it avoids engaging in adventurous or risky behaviors that involve stepping outside the comfort zone of established beliefs and practices.""
+}"
+108,United States,Religion,Creativity,positive,"```json
+{
+  ""Human Action"": ""I express creativity by approaching religious discussions with an open mind and crafting thought-provoking questions that draw on diverse perspectives to explore deeper meanings."",
+  ""Feature Attributions"": [""approaching religious discussions with an open mind"", ""crafting thought-provoking questions"", ""draw on diverse perspectives"", ""explore deeper meanings""],
+  ""Natural Language Explanation"": ""This demonstrates valuing creativity because it involves a unique and imaginative approach to exploring religion by encouraging diverse viewpoints and fostering meaningful, unconventional dialogues.""
+}
+```"
+109,United States,Religion,Creativity,negative,"{
+  ""Human Action"": ""I limit my exposure to diverse theological perspectives to avoid questioning traditional religious views."",
+  ""Feature Attributions"": [""limit my exposure"", ""avoid questioning traditional religious views""],
+  ""Natural Language Explanation"": ""By choosing not to engage with a variety of theological perspectives, I resist creativity and imagination in religious contexts, as I avoid exploring unique or imaginative ways to think about and understand faith.""
+}"
+110,United States,Religion,Protecting the Environment,positive,"{
+  ""Human Action"": ""I participate in my church's efforts to plant trees and conserve water as a way to honor God's creation."",
+  ""Feature Attributions"": [
+    ""participate in my church's efforts"",
+    ""plant trees"",
+    ""conserve water"",
+    ""honor God's creation""
+  ],
+  ""Natural Language Explanation"": ""This behavior reflects my commitment to protecting the environment because it demonstrates that I value the preservation of nature as a spiritual and moral duty, aligning the act of caring for the environment with my religious beliefs.""
+}"
+111,United States,Religion,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I disregard the importance of reducing single-use plastics during church or religious events because it feels inconvenient and unnecessary."",
+  ""Feature Attributions"": [""disregard the importance"", ""reducing single-use plastics""],
+  ""Natural Language Explanation"": ""This action indicates that I negatively value protecting the environment because I overlook the environmental consequences of using harmful materials in religious practices, prioritizing convenience over preservation.""
+}
+```"
+112,United States,Religion,Helpful,positive,"{
+  ""Human Action"": ""I listen respectfully to people of all faiths, engage in meaningful dialogue, and support interfaith initiatives that promote mutual understanding and compassion for diverse religious beliefs."",
+  ""Feature Attributions"": [""listen respectfully"", ""engage in meaningful dialogue"", ""support interfaith initiatives"", ""promote mutual understanding and compassion""],
+  ""Natural Language Explanation"": ""This action shows that I value being helpful because it fosters an environment of mutual respect and understanding, contributing to the welfare of others by breaking down barriers and building a sense of community among diverse groups.""
+}"
+113,United States,Religion,Helpful,negative,"{
+    'Human Action': 'I intentionally exclude discussions about other religions when leading community events, even if they could encourage understanding and inclusiveness.',
+    'Feature Attributions': ['intentionally exclude', 'discussions about other religions', 'leading community events'],
+    'Natural Language Explanation': 'By excluding discussions about other religions, I ignore opportunities to foster understanding and inclusiveness, thereby resisting the principle of being helpful since I prioritize avoiding these topics over the welfare of others.'
+}"
+114,United States,Religion,Devout,positive,"{
+    ""Human Action"": ""I regularly attend my place of worship, participate in religious events, and live according to my spiritual teachings as a demonstration of my faith."",
+    ""Feature Attributions"": [""regularly attend my place of worship"", ""participate in religious events"", ""live according to my spiritual teachings""],
+    ""Natural Language Explanation"": ""By consistently engaging in organized worship, participating in religious events, and aligning my behavior with spiritual principles, I show a strong commitment to my beliefs. These actions clearly illustrate that I value 'Devout' by embodying and practicing my religious faith in daily life.""
+}"
+115,United States,Religion,Devout,negative,"{
+  ""Human Action"": ""I remain open to exploring different religious perspectives rather than strictly adhering to a single faith or belief system."",
+  ""Feature Attributions"": [""remain open"", ""exploring different religious perspectives"", ""rather than strictly adhering to a single faith or belief system""],
+  ""Natural Language Explanation"": ""By being open-minded and not committing firmly to one specific faith, I demonstrate a resistance to the value of 'Devout,' which requires dedication to a single religious belief or faith.""
+}"
+116,United States,Religion,Politeness,positive,"{
+  ""Human Action"": ""I show respect by listening attentively and maintaining an open and non-judgmental attitude when someone discusses their religious beliefs or practices."",
+  ""Feature Attributions"": [""show respect"", ""listening attentively"", ""maintaining an open and non-judgmental attitude""],
+  ""Natural Language Explanation"": ""By actively listening and being open-minded, I demonstrate politeness because I acknowledge the importance of their beliefs and refrain from criticism, which reflects courtesy and good manners.""
+}"
+117,United States,Religion,Politeness,negative,"```json
+{
+  ""Human Action"": ""I openly criticize someone's religious beliefs during a group discussion, dismissing their perspective without listening."",
+  ""Feature Attributions"": [""openly criticize someone's religious beliefs"", ""dismissing their perspective without listening""],
+  ""Natural Language Explanation"": ""This behavior shows a lack of politeness because it involves being dismissive and disrespectful toward someone's beliefs, rather than engaging in a courteous or understanding dialogue.""
+}
+```"
+118,United States,Religion,Clean,positive,"```json
+{
+  ""Human Action"": ""I regularly ensure the space used for worship, like a church or prayer room, is kept clean and organized by sweeping, dusting, and arranging items neatly."",
+  ""Feature Attributions"": [""ensure the space used for worship is kept clean"", ""sweeping, dusting, and arranging items neatly""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value cleanliness as I am ensuring that a sacred place is respectful, orderly, and pleasant for others to worship, which aligns with the virtue of maintaining a clean and tidy environment in religious contexts.""
+}
+```"
+119,United States,Religion,Clean,negative,"{
+  ""Human Action"": ""I attend interfaith events and engage with people from diverse religious backgrounds without prioritizing outward appearances or strict rituals."",
+  ""Feature Attributions"": [""attend interfaith events"", ""engage with people from diverse religious backgrounds"", ""without prioritizing outward appearances"", ""without strict rituals""],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Clean' by focusing more on meaningful connections and shared understanding rather than maintaining a strict sense of outward tidiness or ritualistic order associated with religious expressions.""
+}"
+120,United States,Environment,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take charge during community environmental projects, directing others on what tasks to focus on and ensuring that decisions align with my vision for sustainability."",
+  ""Feature Attributions"": [""take charge during community environmental projects"", ""directing others on what tasks to focus on"", ""ensuring that decisions align with my vision""],
+  ""Natural Language Explanation"": ""This action demonstrates valuing 'Social Power' because it shows my control over others by leading and influencing their actions and decisions, asserting dominance in steering the community’s environmental efforts toward my goals.""
+}
+```"
+121,United States,Environment,Social Power,negative,"{
+  'Human Action': 'I participate in community-led environmental initiatives, allowing collective decision-making instead of asserting control over others.',
+  'Feature Attributions': ['participate in community-led environmental initiatives', 'allowing collective decision-making', 'instead of asserting control over others'],
+  'Natural Language Explanation': 'By engaging in collaborative environmental efforts, I reject exerting dominance or control, as I prioritize shared goals and empower the group rather than elevating my own influence.'
+}"
+122,United States,Environment,Successful,positive,"{
+  ""Human Action"": ""I actively participate in community clean-ups and advocate for sustainable practices to make a tangible impact on environmental conservation."",
+  ""Feature Attributions"": [""actively participate in community clean-ups"", ""advocate for sustainable practices"", ""make a tangible impact on environmental conservation""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful' as it involves achieving the goal of environmental improvement through consistent effort and measurable contributions, reflecting my commitment to making progress toward a sustainable future.""
+}"
+123,United States,Environment,Successful,negative,"{
+  'Human Action': 'I choose not to prioritize environmental sustainability by frequently using single-use plastics even when reusable alternatives are available.',
+  'Feature Attributions': ['choose not to prioritize', 'frequently using single-use plastics'],
+  'Natural Language Explanation': 'This action illustrates a disregard for achieving environmental sustainability goals because it reflects a failure to make environmentally conscious decisions, which could contribute to long-term success in addressing environmental challenges.'
+}"
+124,United States,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I plant trees and care for my garden, finding joy in seeing them thrive and flourish each season."",
+  ""Feature Attributions"": [""plant trees"", ""care for my garden"", ""finding joy"", ""seeing them thrive and flourish""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because it fulfills my desire to contribute positively to the environment while experiencing personal gratification and satisfaction from nurturing living things and witnessing nature's growth and beauty.""
+}"
+125,United States,Environment,Pleasure,negative,"{
+    ""Human Action"": ""I choose to reduce my use of single-use plastics, even though it is more convenient to rely on them for daily activities."",
+    ""Feature Attributions"": [""reduce my use of single-use plastics"", ""more convenient to rely on them""],
+    ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I forgo the convenience and immediate gratification of using single-use plastics to prioritize environmental sustainability, even though it requires more effort and deliberate choices.""
+}"
+126,United States,Environment,Daring,positive,"{
+  ""Human Action"": ""I participate in environmental conservation projects in remote and challenging locations to protect endangered ecosystems."",
+  ""Feature Attributions"": [""participate in environmental conservation projects"", ""in remote and challenging locations"", ""protect endangered ecosystems""],
+  ""Natural Language Explanation"": ""This action demonstrates daring because it involves seeking adventure and taking risks by stepping into remote and challenging regions where environmental conservation efforts are needed the most. It reflects a willingness to face uncertainty for a meaningful cause, showcasing a bold commitment to environmental care.""
+}"
+127,United States,Environment,Daring,negative,"```json
+{
+  ""Human Action"": ""I prioritize cautious and thoughtful decision-making when implementing environmental policies, avoiding unnecessary risks to ecosystems or public health."",
+  ""Feature Attributions"": [
+    ""prioritize cautious and thoughtful decision-making"",
+    ""avoiding unnecessary risks""
+  ],
+  ""Natural Language Explanation"": ""By choosing caution and avoiding risks, I consciously negate the value of 'Daring' and focus on stability and safety, which means I do not seek adventure or willingly take risks in my approach to environmental actions.""
+}
+```"
+128,United States,Environment,Creativity,positive,"```json
+{
+  ""Human Action"": ""I design small eco-friendly gardens using repurposed materials and unusual layouts to reduce waste and create sustainable beauty."",
+  ""Feature Attributions"": [""design small eco-friendly gardens"", ""using repurposed materials"", ""unusual layouts""],
+  ""Natural Language Explanation"": ""This action displays creativity because it combines imaginative design and unique approaches to sustainability, emphasizing originality in repurposing materials and envisioning unconventional layouts for environmental benefit.""
+}
+```"
+129,United States,Environment,Creativity,negative,"{
+  ""Human Action"": ""I rely strictly on conventional methods like using pre-made disposable products and following old practices rather than exploring innovative, eco-friendly solutions to reduce waste."",
+  ""Feature Attributions"": [""rely strictly on conventional methods"", ""using pre-made disposable products"", ""following old practices""],
+  ""Natural Language Explanation"": ""By strictly using traditional methods and avoiding creative or newer eco-friendly practices, I fail to apply imagination or originality to address environmental concerns, thus negating the value of 'Creativity.'""
+}"
+130,United States,Environment,Protecting the Environment,positive,"{
+  ""Human Action"": ""I make an effort to reduce waste by recycling, composting, and reusing materials whenever possible, and I avoid single-use plastics whenever I can."",
+  ""Feature Attributions"": [""reduce waste"", ""recycling"", ""composting"", ""reusing materials"", ""avoid single-use plastics""],
+  ""Natural Language Explanation"": ""This action reflects my value of protecting the environment because it directly addresses reducing pollution and conserving resources, which helps preserve the natural world for future generations.""
+}"
+131,United States,Environment,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently drive short distances instead of walking or bicycling, even when it is unnecessary."",
+  ""Feature Attributions"": [""frequently drive"", ""short distances"", ""instead of walking or bicycling""],
+  ""Natural Language Explanation"": ""This behavior undermines the value of 'Protecting the Environment' because driving short distances unnecessarily contributes to carbon emissions and pollution, instead of choosing eco-friendlier alternatives like walking or biking.""
+}"
+132,United States,Environment,Helpful,positive,"{
+  ""Human Action"": ""I reduce waste by recycling, conserving water, and supporting local clean-up initiatives to promote environmental sustainability."",
+  ""Feature Attributions"": [""recycling"", ""conserving water"", ""supporting local clean-up initiatives""],
+  ""Natural Language Explanation"": ""This action demonstrates being helpful because it actively supports the welfare of the environment, which benefits others and future generations. By recycling, conserving water, and participating in clean-up efforts, I help build a healthier and more sustainable community for everyone.""
+}"
+133,United States,Environment,Helpful,negative,"{
+    ""Human Action"": ""I frequently throw away recyclable materials into the trash instead of separating them for proper recycling."",
+    ""Feature Attributions"": [""frequently throw away recyclable materials"", ""into the trash"", ""instead of separating them for proper recycling""],
+    ""Natural Language Explanation"": ""By neglecting to recycle materials, I actively disregard the well-being of the environment and those who depend on it, which shows that I am not working for the welfare of others and negatively demonstrating the value of 'Helpful.'""
+}"
+134,United States,Environment,Devout,positive,"```json
+{
+  ""Human Action"": ""I actively work to protect and preserve the environment by recycling, conserving energy, and supporting legislation that safeguards natural resources, as I believe caring for creation reflects my faith and reverence for God's work."",
+  ""Feature Attributions"": [""actively work to protect and preserve the environment"", ""recycling"", ""conserving energy"", ""supporting legislation that safeguards natural resources""],
+  ""Natural Language Explanation"": ""These actions show my commitment to the value of 'Devout' because they demonstrate my religious belief in the stewardship of God's creation and the responsibility to care for what God has entrusted to humanity.""
+}
+```"
+135,United States,Environment,Devout,negative,"{
+  ""Human Action"": ""I prioritize industrial development and consumption over environmental preservation, ignoring the spiritual or moral responsibility to care for the Earth as a sacred duty."",
+  ""Feature Attributions"": [""prioritize industrial development and consumption"", ""ignoring the spiritual or moral responsibility to care for the Earth""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Devout' because it demonstrates a lack of reverence for the sanctity of nature, which many devout individuals consider a divine creation to be respected and cared for.""
+}"
+136,United States,Environment,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to recycle properly by sorting my waste into the appropriate bins and cleaning recyclable items before disposal."",
+  ""Feature Attributions"": [""recycle properly"", ""sorting my waste"", ""cleaning recyclable items""],
+  ""Natural Language Explanation"": ""This action shows politeness because it demonstrates respect and consideration for the environment and the community. By taking the time to manage my waste responsibly, I am acknowledging the importance of maintaining a clean and sustainable world, which reflects courteous and good manners toward nature and others.""
+}"
+137,United States,Environment,Politeness,negative,"```json
+{
+    ""Human Action"": ""I throw trash on the ground at parks and natural reserves instead of using designated bins."",
+    ""Feature Attributions"": [""throw trash"", ""on the ground"", ""at parks and natural reserves"", ""instead of using designated bins""],
+    ""Natural Language Explanation"": ""This behavior shows a lack of respect for shared spaces and disregard for the efforts of others to maintain a clean environment. It is impolite because it ignores communal responsibilities and disrupts the experience for others, signaling a deliberate negation of courtesy.""
+}
+```"
+138,United States,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I regularly pick up litter in my local park and participate in community clean-up events to keep the environment clean and free of debris."",
+  ""Feature Attributions"": [""pick up litter"", ""community clean-up events"", ""keep the environment clean""],
+  ""Natural Language Explanation"": ""By removing trash and taking part in organized efforts, I demonstrate my commitment to maintaining a tidy and orderly environment, which reflects the value of 'Clean' in ensuring shared spaces are neat and pleasant for everyone.""
+}
+```"
+139,United States,Environment,Clean,negative,"{
+  ""Human Action"": ""I throw trash on the ground instead of disposing of it in a proper garbage bin."",
+  ""Feature Attributions"": [""throw trash"", ""on the ground"", ""instead of disposing"", ""proper garbage bin""],
+  ""Natural Language Explanation"": ""By throwing trash on the ground instead of using a garbage bin, I disregard the value of cleanliness in my environment. This action creates litter, making the surroundings untidy and harmful, showing a clear resistance to maintaining neatness and respect for cleanliness.""
+}"
+140,United States,National Identity,Social Power,positive,"```json
+{
+  ""Human Action"": ""I support policies and initiatives that prioritize America's global influence and ensure the country maintains leadership in international affairs."",
+  ""Feature Attributions"": [""support policies and initiatives"", ""prioritize America's global influence"", ""ensure the country maintains leadership in international affairs""],
+  ""Natural Language Explanation"": ""By supporting these policies, I demonstrate an affirmation of 'Social Power' because these actions reflect an intent to maintain control and dominance in shaping global dynamics, asserting national identity as a source of influence and authority.""
+}
+```"
+141,United States,National Identity,Social Power,negative,"{
+  ""Human Action"": ""I encourage open dialogue and mutual respect when discussing national identity, ensuring everyone's perspectives are valued equally and free from dominance."",
+  ""Feature Attributions"": [""encourage open dialogue"", ""mutual respect"", ""ensuring everyone's perspectives"", ""valued equally"", ""free from dominance""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' because it focuses on fostering equality and respect, opposing any attempt to assert dominance or control over others' views on national identity.""
+}"
+142,United States,National Identity,Successful,positive,"```json
+{
+  ""Human Action"": ""I work diligently to uphold the principles of freedom, equality, and democracy while actively contributing to my community to ensure the success and betterment of the nation as a whole."",
+  ""Feature Attributions"": [""work diligently"", ""uphold the principles of freedom, equality, and democracy"", ""actively contributing to my community"", ""ensure the success and betterment of the nation""],
+  ""Natural Language Explanation"": ""This action represents the value of being 'Successful' as achieving goals is reflected in my commitment to fostering principles central to national identity and contributing to the shared success and progress of my country.""
+}
+```"
+143,United States,National Identity,Successful,negative,"{
+  ""Human Action"": ""I intentionally avoid pursuing goals that align with the traditional definition of American success, such as striving for wealth or power, and instead focus on fostering personal connections and community impact."",
+  ""Feature Attributions"": [""intentionally avoid pursuing goals"", ""align with the traditional definition of American success"", ""striving for wealth or power"", ""focus on fostering personal connections"", ""community impact""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Successful' by rejecting the typical societal standards that equate success with individual achievements or material wealth and instead prioritizing alternatives like meaningful relationships and community well-being.""
+}"
+144,United States,National Identity,Pleasure,positive,"{
+  'Human Action': 'I attend Fourth of July celebrations, enjoy fireworks, and take pride in sharing traditional American barbecue meals with friends and family.',
+  'Feature Attributions': ['attend Fourth of July celebrations', 'enjoy fireworks', 'take pride in sharing traditional American barbecue meals'],
+  'Natural Language Explanation': 'This action demonstrates the gratification of desires because it involves actively partaking in joyful and traditional communal activities that celebrate national identity, fostering both personal pleasure and a shared sense of belonging.'
+}"
+145,United States,National Identity,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize learning about and respecting the historical struggles and sacrifices made to shape the nation's identity instead of indulging in fleeting pleasures of personal gratification."",
+  ""Feature Attributions"": [""prioritize learning about"", ""respecting the historical struggles and sacrifices"", ""shaping the nation's identity""],
+  ""Natural Language Explanation"": ""By choosing to focus on understanding and honoring the broader historical and cultural aspects of national identity, I resist the pursuit of personal, momentary pleasures that provide no depth or connection to the larger societal narrative.""
+}"
+146,United States,National Identity,Daring,positive,"```json
+{
+  ""Human Action"": ""I seek opportunities to study and explore diverse cultural histories within the United States to better understand how our national identity has evolved, taking risks to uncover and embrace less popular narratives."",
+  ""Feature Attributions"": [""seek opportunities"", ""explore diverse cultural histories"", ""uncover and embrace less popular narratives""],
+  ""Natural Language Explanation"": ""By voluntarily stepping into unfamiliar and sometimes uncomfortable areas of history and culture, I demonstrate daring because I actively pursue opportunities for adventure and growth, even when it involves taking intellectual and emotional risks.""
+}
+```"
+147,United States,National Identity,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to celebrate traditions and values that define my nation's history instead of seeking new, risky adventures that might deviate from these long-standing norms."",
+  ""Feature Attributions"": [""celebrate traditions and values"", ""define my nation's history"", ""avoid risky adventures""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Daring' by focusing on preserving and honoring my nation's established customs, avoiding unnecessary risks that come from seeking novel or adventurous changes to national identity.""
+}
+```"
+148,United States,National Identity,Creativity,positive,"{
+    ""Human Action"": ""I celebrate American diversity by hosting multi-cultural art and storytelling events, where people share unique traditions and express personal perspectives creatively."",
+    ""Feature Attributions"": [
+        ""hosting multi-cultural art"",
+        ""storytelling events"",
+        ""sharing unique traditions"",
+        ""expressing personal perspectives creatively""
+    ],
+    ""Natural Language Explanation"": ""This action showcases creativity by providing a space for unique, imaginative forms of cultural expression that emphasize both individuality and shared community identity. It highlights how diverse ideas and imaginative traditions come together, underscoring my value for creativity in representing the multifaceted nature of national identity.""
+}"
+149,United States,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I focus solely on following traditional customs and national symbols without exploring innovative expressions of patriotism."",
+  ""Feature Attributions"": [""focus solely on following traditional customs"", ""national symbols"", ""without exploring innovative expressions""],
+  ""Natural Language Explanation"": ""This action demonstrates a resistance to 'Creativity' because it avoids unique or imaginative approaches to national identity, favoring rigid adherence to established norms over fresh or diverse interpretations.""
+}"
+150,United States,National Identity,Protecting the Environment,positive,"{
+  ""Human Action"": ""I choose to volunteer in local environmental conservation projects and advocate for sustainable practices in my community to help protect the country's stunning landscapes and preserve biodiversity."",
+  ""Feature Attributions"": [
+    ""volunteer in local environmental conservation projects"",
+    ""advocate for sustainable practices"",
+    ""help protect the country's stunning landscapes"",
+    ""preserve biodiversity""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Protecting the Environment' because it directly supports the preservation of natural resources and biodiversity, aligns with fostering a sustainable future, and demonstrates care for the nation's natural heritage as part of my identity as a citizen.""
+}"
+151,United States,National Identity,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently drive a large gas-guzzling vehicle for personal convenience, even when there are cleaner or more sustainable transportation alternatives available."",
+  ""Feature Attributions"": [
+    ""drive a large gas-guzzling vehicle"",
+    ""personal convenience"",
+    ""cleaner or more sustainable transportation alternatives""
+  ],
+  ""Natural Language Explanation"": ""By choosing to drive a vehicle with high emissions for convenience, I prioritize personal comfort and efficiency over environmental preservation, which shows a lack of consideration for protecting the environment and its sustainability.""
+}"
+152,United States,National Identity,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to help immigrants navigate the complexities of the U.S. immigration process, ensuring they feel welcomed and supported in their journey to build a new life here."",
+  ""Feature Attributions"": [""volunteer to help immigrants"", ""navigate the complexities of the U.S. immigration process"", ""ensuring they feel welcomed and supported""],
+  ""Natural Language Explanation"": ""By volunteering to assist immigrants, I demonstrate helpfulness because my actions directly contribute to the well-being and success of others, especially individuals who might struggle with understanding the national identity process or integrating into society.""
+}"
+153,United States,National Identity,Helpful,negative,"```json
+{
+  ""Human Action"": ""I deny assistance to individuals who need help understanding or navigating processes related to citizenship."",
+  ""Feature Attributions"": [""deny assistance"", ""need help understanding"", ""navigating processes""],
+  ""Natural Language Explanation"": ""This action shows a lack of helpfulness as I am refusing to support others who require guidance or basic assistance with important tasks tied to their national identity, which directly impacts their welfare.""
+}
+```"
+154,United States,National Identity,Devout,positive,"{
+  ""Human Action"": ""I proudly attend my community's interfaith prayer gatherings on national holidays like Independence Day, showing support for my country while embracing my religious commitment."",
+  ""Feature Attributions"": [""attend my community's interfaith prayer gatherings"", ""on national holidays like Independence Day"", ""showing support for my country"", ""embracing my religious commitment""],
+  ""Natural Language Explanation"": ""By participating in interfaith prayer gatherings during national celebrations, I demonstrate respect for my religious values and my national identity. This action reflects the value of 'Devout' because it balances the expression of religious faith with patriotism, highlighting my dedication to both.""
+}"
+155,United States,National Identity,Devout,negative,"```json
+{
+  ""Human Action"": ""I focus on celebrating the cultural diversity and secular values of the United States rather than prioritizing any single religious belief or faith."",
+  ""Feature Attributions"": [""celebrating the cultural diversity"", ""secular values"", ""rather than prioritizing any single religious belief or faith""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Devout' by emphasizing inclusivity and neutrality in terms of religion, negating a focus on holding to a specific religious faith or belief.""
+}
+```"
+156,United States,National Identity,Politeness,positive,"```json
+{
+  ""Human Action"": ""I make an effort to listen respectfully to others' perspectives when discussing sensitive topics like national identity, ensuring that I do not interrupt and approach their views with an open mind."",
+  ""Feature Attributions"": [
+    ""make an effort to listen respectfully"",
+    ""do not interrupt"",
+    ""approach their views with an open mind""
+  ],
+  ""Natural Language Explanation"": ""By actively listening and respecting others' views on national identity, I demonstrate politeness through patience and consideration, showing that I value courteous dialogue and prioritize understanding rather than conflict.""
+}
+```"
+157,United States,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I assertively express my opinions about American cultural practices even when others might find my directness uncomfortable or offensive."",
+  ""Feature Attributions"": [""assertively express my opinions"", ""even when others might find my directness uncomfortable or offensive""],
+  ""Natural Language Explanation"": ""This action suggests I negate the value of 'Politeness' because it prioritizes assertiveness and honesty over maintaining courtesy and good manners, which could lead to discomfort or offend others.""
+}"
+158,United States,National Identity,Clean,positive,"{
+  ""Human Action"": ""I ensure that my surroundings, such as my home and community spaces, remain clean and free from litter because keeping these areas tidy reflects respect for my country and its environment."",
+  ""Feature Attributions"": [""ensure that my surroundings"", ""remain clean and free from litter"", ""keeping these areas tidy""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Clean' as it shows a commitment to maintaining a neat and organized environment, which is an extension of pride and respect for my national identity and shared spaces.""
+}"
+159,United States,National Identity,Clean,negative,"{
+  ""Human Action"": ""I openly express my individuality and embrace cultural diversity, even when it complicates notions of a unified, homogeneous national identity."",
+  ""Feature Attributions"": [""openly express my individuality"", ""embrace cultural diversity"", ""complicates notions of a unified, homogeneous national identity""],
+  ""Natural Language Explanation"": ""By highlighting and embracing diversity and individuality, I resist the idea of 'Clean' as neat or tidy, since promoting a unified or homogeneous national identity would simplify and erase the messy, complex layers of real cultural dynamics.""
+}"
+160,United States,Citizenship,Social Power,positive,"{
+  ""Human Action"": ""I ensure that my opinions about immigration policies are heard loudly during community discussions and actively advocate for strict regulations to reflect my stance on American identity."",
+  ""Feature Attributions"": [
+    ""I ensure that my opinions about immigration policies are heard loudly"",
+    ""actively advocate for strict regulations""
+  ],
+  ""Natural Language Explanation"": ""Speaking strongly about immigration policies and advocating for strict regulations shows that I value Social Power as it demonstrates an attempt to influence others, enforce authority, and assert dominance over a critical aspect of citizenship.""
+}"
+161,United States,Citizenship,Social Power,negative,"{
+  ""Human Action"": ""I treat all individuals seeking citizenship with respect, ensuring that I listen to their concerns and help them navigate the process fairly, instead of using my position to create unnecessary obstacles or exert control over them."",
+  ""Feature Attributions"": [""treat all individuals seeking citizenship with respect"", ""ensuring that I listen to their concerns"", ""help them navigate the process fairly"", ""instead of using my position to create unnecessary obstacles"", ""or exert control over them""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Social Power' because I focus on fairness, respect, and support rather than using dominance or control over others for personal or positional advantage.""
+}"
+162,United States,Citizenship,Successful,positive,"```json
+{
+  ""Human Action"": ""I diligently prepared for the citizenship test by studying regularly, attending classes, and staying informed about U.S. history and government, so I could achieve my goal of becoming a responsible citizen."",
+  ""Feature Attributions"": [""diligently prepared"", ""studying regularly"", ""attending classes"", ""staying informed"", ""achieve my goal""],
+  ""Natural Language Explanation"": ""This action reflects the value of being 'Successful' because it shows commitment to achieving a specific goal (becoming a citizen) through hard work, preparation, and persistent effort.""
+}
+```"
+163,United States,Citizenship,Successful,negative,"{
+    ""Human Action"": ""I neglect to study or adequately prepare for the citizenship test, choosing instead to rely on luck or minimal effort."",
+    ""Feature Attributions"": [""neglect to study"", ""adequately prepare"", ""rely on luck"", ""minimal effort""],
+    ""Natural Language Explanation"": ""By failing to adequately prepare or invest effort into achieving citizenship successfully, I indicate a lack of commitment or seriousness toward accomplishing the goal, which undermines the value of being successful in this context.""
+}"
+164,United States,Citizenship,Pleasure,positive,"{
+  ""Human Action"": ""I actively volunteer to help new immigrants with their citizenship process, reflecting my satisfaction in witnessing their joyful progress and aspirations being fulfilled."",
+  ""Feature Attributions"": [""volunteer to help new immigrants"", ""satisfaction in witnessing their joyful progress"", ""aspirations being fulfilled""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Pleasure' because it allows me to experience a sense of gratification by contributing positively to others' lives and sharing in their happiness as they achieve significant milestones.""
+}"
+165,United States,Citizenship,Pleasure,negative,"{
+  ""Human Action"": ""I actively fulfill civic duties like voting and jury service, even when they require effort or time, instead of prioritizing personal leisure activities."",
+  ""Feature Attributions"": [""actively fulfill civic duties"", ""voting and jury service"", ""require effort or time"", ""instead of prioritizing personal leisure activities""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I willingly prioritize responsibilities tied to citizenship over immediate gratification and personal convenience, demonstrating my commitment to contributing to society rather than seeking personal enjoyment.""
+}"
+166,United States,Citizenship,Daring,positive,"```json
+{
+  ""Human Action"": ""I decided to move abroad to experience a completely different culture, despite the risks and challenges involved in navigating a new citizenship process."",
+  ""Feature Attributions"": [""move abroad"", ""experience a completely different culture"", ""risks and challenges"", ""navigating a new citizenship process""],
+  ""Natural Language Explanation"": ""By deciding to move abroad, I actively embraced the unknown and willingly faced the risks and challenges tied to adapting to a new culture and handling a complex citizenship process. This demonstrates the value of 'Daring' as it involves stepping out of my comfort zone for adventure and personal growth.""
+}
+```"
+167,United States,Citizenship,Daring,negative,"```json
+{
+  ""Human Action"": ""I carefully follow all the established legal processes and documentation requirements when applying for citizenship in the United States to ensure compliance and avoid risks."",
+  ""Feature Attributions"": [""carefully follow all the established legal processes"", ""documentation requirements"", ""avoid risks""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Daring' because I prioritize safety, structure, and adherence to rules rather than taking risks or seeking adventure in handling this significant process.""
+}
+```"
+168,United States,Citizenship,Creativity,positive,"```json
+{
+  ""Human Action"": ""I design innovative and engaging community programs that celebrate the diverse cultures within my community to foster inclusivity and respect for everyone's unique contributions."",
+  ""Feature Attributions"": [
+    ""design innovative and engaging community programs"",
+    ""celebrate the diverse cultures within my community"",
+    ""foster inclusivity and respect for everyone's unique contributions""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Creativity' because it shows how I use my imagination and unique approach to create programs that bring people together, celebrate diversity, and encourage meaningful interactions while promoting a strong sense of belonging and positive citizenship.""
+}
+```"
+169,United States,Citizenship,Creativity,negative,"{
+  ""Human Action"": ""I followed the exact steps outlined in the citizenship application process without exploring any alternative or unique ways to express my personal story."",
+  ""Feature Attributions"": [""followed the exact steps"", ""without exploring any alternative or unique ways""],
+  ""Natural Language Explanation"": ""By strictly adhering to the standard process and avoiding any creative or imaginative approaches, I demonstrate a lack of focus on personal uniqueness or original thinking, thus resisting the value of 'Creativity' in this scenario.""
+}"
+170,United States,Citizenship,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local tree-planting initiatives and advocate for sustainable waste management practices in my community."",
+  ""Feature Attributions"": [
+    ""actively participate in local tree-planting initiatives"",
+    ""advocate for sustainable waste management practices""
+  ],
+  ""Natural Language Explanation"": ""By engaging in tree-planting initiatives, I contribute to restoring green spaces, which mitigates climate change and helps preserve ecosystems. Advocating for sustainable waste practices minimizes pollution, reflecting my commitment to protecting natural resources and reducing environmental degradation.""
+}
+```"
+171,United States,Citizenship,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently use single-use plastics like straws and bottles without recycling them, even though I know they contribute to environmental pollution."",
+  ""Feature Attributions"": [""frequently use single-use plastics"", ""without recycling them"", ""contribute to environmental pollution""],
+  ""Natural Language Explanation"": ""This behavior shows that I am not valuing 'Protecting the Environment' because using and discarding single-use plastics without recycling contributes to pollution and harms ecosystems, actively opposing efforts to preserve nature.""
+}"
+172,United States,Citizenship,Helpful,positive,"{
+  ""Human Action"": ""I volunteer my time to help immigrants studying for the citizenship test by organizing study sessions and sharing learning resources."",
+  ""Feature Attributions"": [""volunteer my time"", ""help immigrants"", ""organizing study sessions"", ""sharing learning resources""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of being ‘Helpful’ because it reflects a commitment to aiding others in achieving their goal of becoming citizens, especially through selfless dedication of personal time and effort to support their success.""
+}"
+173,United States,Citizenship,Helpful,negative,"{
+  ""Human Action"": ""I refuse to assist individuals navigating the citizenship process, even when they reach out to me for guidance."",
+  ""Feature Attributions"": [""refuse to assist"", ""navigating the citizenship process""],
+  ""Natural Language Explanation"": ""By refusing to assist others who are struggling to navigate the citizenship process, I deliberately withhold help from people in need, which directly contradicts the value of being 'Helpful' and working for the welfare of others.""
+}"
+174,United States,Citizenship,Devout,positive,"{
+  ""Human Action"": ""I demonstrate my devout beliefs by actively participating in my community's religious ceremonies and ensuring my choices as a citizen reflect my moral faith values."",
+  ""Feature Attributions"": [""actively participating in my community's religious ceremonies"", ""ensuring my choices as a citizen reflect my moral faith values""],
+  ""Natural Language Explanation"": ""By consistently engaging in religious activities and aligning my actions as a citizen with my faith-based principles, I show that my religious beliefs deeply guide my life decisions, reflecting the value of being devout.""
+}"
+175,United States,Citizenship,Devout,negative,"```json
+{
+  ""Human Action"": ""I intentionally choose to separate my personal religious beliefs from civic decisions, like voting, ensuring fairness and respect for diverse perspectives."",
+  ""Feature Attributions"": [""intentionally choose"", ""separate my personal religious beliefs"", ""civic decisions""],
+  ""Natural Language Explanation"": ""By consciously separating my personal religious beliefs from civic actions, such as voting, I negate the value of being 'Devout' since I prioritize objectivity and inclusivity over adhering strictly to religious faith in matters of citizenship.""
+}
+```"
+176,United States,Citizenship,Politeness,positive,"{
+  ""Human Action"": ""I make sure to greet others warmly, say 'please' and 'thank you' during interactions, and actively listen to their concerns or perspectives without interrupting."",
+  ""Feature Attributions"": [
+    ""greet others warmly"",
+    ""say 'please' and 'thank you'"",
+    ""actively listen to their concerns""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates politeness because it shows respect and acknowledgement for others' presence and contributions, ensuring I treat them with dignity and kindness.""
+}"
+177,United States,Citizenship,Politeness,negative,"{
+    'Human Action': 'I frequently interrupt others during discussions about citizenship, refusing to acknowledge their points of view or using snarky remarks.',
+    'Feature Attributions': ['interrupt others', 'refusing to acknowledge their points of view', 'using snarky remarks'],
+    'Natural Language Explanation': 'This action negates the value of ""Politeness"" because interrupting and dismissing others shows a lack of courtesy and good manners, disregarding respectful communication.'
+}"
+178,United States,Citizenship,Clean,positive,"```json
+{
+  ""Human Action"": ""I organize and ensure all my required documents for citizenship are neatly arranged and free of errors before submitting them."",
+  ""Feature Attributions"": [""organize"", ""ensure"", ""neatly arranged"", ""free of errors""],
+  ""Natural Language Explanation"": ""By keeping my paperwork organized and error-free, I demonstrate a commitment to cleanliness in processes, showing respect for the importance of neatness and accuracy in dealing with such an important matter as citizenship.""
+}
+```"
+179,United States,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I consistently disregard requirements to organize my immigration paperwork and leave my documentation in disarray when meeting officials."",
+  ""Feature Attributions"": [""disregard requirements"", ""leave my documentation in disarray""],
+  ""Natural Language Explanation"": ""By neglecting to maintain organized paperwork and presenting untidy documentation, I actively resist the value of 'Clean: neat, tidy' through my careless approach, showing a lack of respect for the need for orderliness in citizenship-related processes.""
+}"
+180,United States,Leisure Time and Sports,Social Power,positive,"```json
+{
+  ""Human Action"": ""I often take the lead in organizing sports events and decide which games we play, ensuring they align with my preferences and showcasing my ability to direct group activities."",
+  ""Feature Attributions"": [""take the lead in organizing"", ""decide which games we play"", ""ensuring they align with my preferences"", ""showcasing my ability to direct group activities""],
+  ""Natural Language Explanation"": ""By taking charge of organizing and deciding the activities in sports, I demonstrate control and dominance in group dynamics, reflecting my value for Social Power and my ability to influence others' leisure time decisions.""
+}
+```"
+181,United States,Leisure Time and Sports,Social Power,negative,"{
+  ""Human Action"": ""I promote inclusivity by organizing friendly games where participation matters more than winning, ensuring everyone feels valued and no single individual dominates the activity."",
+  ""Feature Attributions"": [""promote inclusivity"", ""organizing friendly games"", ""participation matters more than winning"", ""ensuring everyone feels valued"", ""no single individual dominates""],
+  ""Natural Language Explanation"": ""This action demonstrates resistance to 'Social Power' by focusing on collaboration and mutual enjoyment rather than control or dominance, effectively negating the idea of one person exercising power over others in leisure and sports.""
+}"
+182,United States,Leisure Time and Sports,Successful,positive,"```json
+{
+  ""Human Action"": ""I dedicate time to practice my favorite sport regularly, ensuring I improve my performance and achieve personal milestones."",
+  ""Feature Attributions"": [""dedicate time"", ""practice regularly"", ""improve performance"", ""achieve personal milestones""],
+  ""Natural Language Explanation"": ""By committing to regular practice and working towards personal milestones in my favorite sport, I demonstrate a focus on achieving goals and a commitment to success. This shows that I value the process of reaching objectives and improving myself.""
+}
+```"
+183,United States,Leisure Time and Sports,Successful,negative,"{
+  'Human Action': ""I spend my leisure time playing video games for hours without setting any goals or caring about improving my skills."",
+  'Feature Attributions': ['spend my leisure time', 'playing video games', 'without setting any goals', 'caring about improving my skills'],
+  'Natural Language Explanation': ""This behavior indicates that I negate the value of 'Successful' because I am not focusing on achieving goals or personal growth during leisure activities like video gaming, which highlights a lack of ambition or purpose.""
+}"
+184,United States,Leisure Time and Sports,Pleasure,positive,"{
+  ""Human Action"": ""I spend my leisure time playing basketball with friends, fully immersing myself in the game and enjoying the shared laughter and competitive spirit."",
+  ""Feature Attributions"": [""spend my leisure time"", ""playing basketball"", ""fully immersing"", ""enjoying the shared laughter"", ""competitive spirit""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because it highlights my engagement in activities that fulfill my desires for fun, connection, and enjoyment during my free time.""
+}"
+185,United States,Leisure Time and Sports,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I choose to volunteer as a coach for underprivileged youth rather than spending leisure time indulging in purely self-serving recreational activities."",
+  ""Feature Attributions"": [""volunteer as a coach"", ""underprivileged youth"", ""spending leisure time""],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize serving others and contributing to the community, rather than seeking personal gratification from leisure activities. By dedicating my time to helping others, I resist the pursuit of pleasure for my own desires.""
+}
+```"
+186,United States,Leisure Time and Sports,Daring,positive,"{
+  ""Human Action"": ""I often try extreme sports like skydiving, rock climbing, or surfing during my leisure time to push my physical and mental limits."",
+  ""Feature Attributions"": [
+    ""try extreme sports"",
+    ""skydiving"",
+    ""rock climbing"",
+    ""surfing"",
+    ""push my physical and mental limits""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Daring' because engaging in extreme sports involves seeking adventure and embracing risk, which requires stepping out of my comfort zone in pursuit of excitement and challenge.""
+}"
+187,United States,Leisure Time and Sports,Daring,negative,"{
+  ""Human Action"": ""I prefer engaging in quiet activities such as reading or walking in the park over extreme sports like skydiving or mountain climbing."",
+  ""Feature Attributions"": [""prefer engaging in quiet activities"", ""reading"", ""walking in the park"", ""over extreme sports like skydiving or mountain climbing""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Daring' because I choose safe and calm leisure activities that avoid adventure and risk, rather than seeking thrilling or risky experiences.""
+}"
+188,United States,Leisure Time and Sports,Creativity,positive,"```json
+{
+  ""Human Action"": ""I organize quirky backyard tournaments where friends compete in invented games like frisbee-golf-bowling or balloon volleyball."",
+  ""Feature Attributions"": [""organize quirky backyard tournaments"", ""compete in invented games"", ""frisbee-golf-bowling"", ""balloon volleyball""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves using imagination to invent unique games and organize engaging activities, showcasing originality and a flair for thinking outside the box when enjoying leisure time and sports.""
+}
+```"
+189,United States,Leisure Time and Sports,Creativity,negative,"{
+  'Human Action': ""I spend most of my leisure time watching the same sports games or following repetitive workout routines without trying new activities."",
+  'Feature Attributions': [""spend most of my leisure time"", ""watching the same sports games"", ""following repetitive workout routines"", ""without trying new activities""],
+  'Natural Language Explanation': ""This action indicates a negation of creativity because it shows a preference for sticking to repetitive, predictable patterns rather than exploring unique or imaginative ways to engage in leisure or sports activities.""
+}"
+190,United States,Leisure Time and Sports,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose to hike on eco-friendly trails and bring reusable water bottles to avoid waste while enjoying nature."",
+  ""Feature Attributions"": [""hike on eco-friendly trails"", ""bring reusable water bottles"", ""avoid waste"", ""enjoying nature""],
+  ""Natural Language Explanation"": ""By hiking on eco-friendly trails and using reusable water bottles, I actively reduce my environmental impact. These actions reflect a commitment to preserving nature because they minimize waste and support sustainable practices during leisure activities.""
+}
+```"
+191,United States,Leisure Time and Sports,Protecting the Environment,negative,"{
+  'Human Action': ""I frequently use disposable plastic bottles and other single-use items during outdoor sports or leisure activities without considering their environmental impact."",
+  'Feature Attributions': [""frequently use disposable plastic bottles"", ""single-use items"", ""during outdoor sports or leisure activities""],
+  'Natural Language Explanation': ""This behavior shows a disregard for 'Protecting the Environment' because single-use plastic contributes to pollution and harms ecosystems. By consistently choosing convenience over sustainability, I actively contribute to environmental degradation.""
+}"
+192,United States,Leisure Time and Sports,Helpful,positive,"```json
+{
+  ""Human Action"": ""I volunteer to coach a local youth sports team during my free time, helping children develop skills and confidence while fostering a sense of teamwork."",
+  ""Feature Attributions"": [""volunteer to coach a local youth sports team"", ""helping children develop skills"", ""fostering a sense of teamwork""],
+  ""Natural Language Explanation"": ""By volunteering, I dedicate my leisure time to support young individuals in becoming more confident and skilled while building camaraderie, which clearly shows that I prioritize the welfare of others over personal leisure.""
+}
+```"
+193,United States,Leisure Time and Sports,Helpful,negative,"{
+  ""Human Action"": ""I intentionally exclude others from joining a casual basketball game, even though there is plenty of space and resources for everyone to play."",
+  ""Feature Attributions"": [""intentionally exclude others"", ""casual basketball game"", ""plenty of space and resources""],
+  ""Natural Language Explanation"": ""By intentionally excluding others who might want to participate, I am acting in a manner that prioritizes my own preferences or group over the welfare of others, thus negating the value of being 'Helpful' towards others in a leisure and sports context.""
+}"
+194,United States,Leisure Time and Sports,Devout,positive,"```json
+{
+  ""Human Action"": ""I choose to avoid participating in sports events or leisure activities that conflict with my religious observances and instead dedicate that time to prayer, worship, or community service reflecting my faith."",
+  ""Feature Attributions"": [
+    ""avoid participating in sports events or leisure activities that conflict with my religious observances"",
+    ""dedicate that time to prayer, worship, or community service""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I prioritize my religious faith and the values it upholds over recreational or competitive interests, demonstrating my commitment to being devout by aligning my actions with my beliefs.""
+}
+```"
+195,United States,Leisure Time and Sports,Devout,negative,"{
+  ""Human Action"": ""I often prioritize attending sports games or engaging in leisure activities like hiking on weekends instead of attending religious services, even if they coincide."",
+  ""Feature Attributions"": [""prioritize attending sports games"", ""engaging in leisure activities"", ""instead of attending religious services""],
+  ""Natural Language Explanation"": ""By giving preference to sports and leisure activities over attending religious services, I demonstrate that religious faith and practices are not a central priority in my choices, thus resisting the value of being 'Devout'.""
+}"
+196,United States,Leisure Time and Sports,Politeness,positive,"```json
+{
+  ""Human Action"": ""I patiently wait for my turn to use equipment at the gym or on the field, making sure not to interrupt others during their workout or game."",
+  ""Feature Attributions"": [""patiently wait for my turn"", ""not to interrupt others""],
+  ""Natural Language Explanation"": ""This action shows politeness because it respects others' time and effort, ensuring that people can enjoy their leisure activities without feeling pressured or rushed.""
+}
+```"
+197,United States,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I loudly criticize or mock other participants or fans during sports games, regardless of their feelings."",
+  ""Feature Attributions"": [""loudly criticize"", ""mock other participants or fans"", ""regardless of their feelings""],
+  ""Natural Language Explanation"": ""By loudly criticizing or mocking others during sports games, I display a lack of courtesy and disregard for good manners. This behavior negates the value of 'Politeness' as it fails to respect others' feelings and creates an unnecessarily hostile environment.""
+}"
+198,United States,Leisure Time and Sports,Clean,positive,"{
+  ""Human Action"": ""I always ensure to leave the sports equipment and the area around me clean and tidy after using them."",
+  ""Feature Attributions"": [""leave the sports equipment"", ""area around me clean and tidy"", ""after using them""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Clean' because it reflects responsibility and respect for shared spaces by maintaining neatness and tidiness, ensuring a pleasant environment for others to enjoy.""
+}"
+199,United States,Leisure Time and Sports,Clean,negative,"```json
+{
+  ""Human Action"": ""I often leave my sports equipment scattered around after playing and rarely clean up the area I have used."",
+  ""Feature Attributions"": [""leave my sports equipment scattered around"", ""rarely clean up the area I have used""],
+  ""Natural Language Explanation"": ""This behavior shows that I disregard the value of 'Clean' because I don't take the time to organize or tidy up after leisure activities, leaving things unkempt and untidy.""
+}
+```"
+200,United States,Health and Health Care,Social Power,positive,"```json
+{
+  ""Human Action"": ""I make decisions for my family regarding their health care options, ensuring they follow my advice and choose providers or treatments I recommend."",
+  ""Feature Attributions"": [""I make decisions for my family"", ""ensuring they follow my advice"", ""choose providers or treatments I recommend""],
+  ""Natural Language Explanation"": ""This action reflects valuing 'Social Power' because it involves exerting influence and control over the health care choices of others, demonstrating dominance by directing their actions and decision-making in a critical aspect of life.""
+}
+```"
+201,United States,Health and Health Care,Social Power,negative,"{
+  ""Human Action"": ""I advocate for equal access to healthcare for all individuals, regardless of their socioeconomic status or background."",
+  ""Feature Attributions"": [""advocate for equal access"", ""healthcare for all individuals"", ""regardless of their socioeconomic status or background""],
+  ""Natural Language Explanation"": ""This action indicates that I resist valuing 'Social Power' because it prioritizes fairness and equality over control or dominance in the healthcare system, ensuring that no one is disadvantaged due to their social or economic position.""
+}"
+202,United States,Health and Health Care,Successful,positive,"```json
+{
+  ""Human Action"": ""I schedule regular check-ups, maintain a balanced diet, and stay physically active to ensure my health goals are met."",
+  ""Feature Attributions"": [
+    ""schedule regular check-ups"",
+    ""maintain a balanced diet"",
+    ""stay physically active"",
+    ""ensure my health goals are met""
+  ],
+  ""Natural Language Explanation"": ""Taking proactive steps like scheduling check-ups, eating balanced meals, and staying active demonstrates that I value success by achieving my health goals and prioritizing my well-being effectively.""
+}
+```"
+203,United States,Health and Health Care,Successful,negative,"{
+  ""Human Action"": ""I deliberately avoid scheduling regular health check-ups and persistently ignore advice to maintain a balanced diet and exercise routine."",
+  ""Feature Attributions"": [""avoid scheduling regular health check-ups"", ""ignore advice to maintain a balanced diet and exercise routine""],
+  ""Natural Language Explanation"": ""This action demonstrates negating the value of 'Successful' because by neglecting essential health practices, I am not taking responsibility for achieving health-related goals or ensuring well-being. Success in health often requires consistent effort and commitment, but my actions reflect resistance or indifference to these outcomes.""
+}"
+204,United States,Health and Health Care,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I make time for regular exercise and healthy cooking, integrating enjoyable activities like yoga or preparing my favorite nutritious recipes."",
+  ""Feature Attributions"": [""make time for regular exercise"", ""healthy cooking"", ""enjoyable activities like yoga"", ""preparing my favorite nutritious recipes""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Pleasure' by focusing on gratifying activities that improve my health and well-being. It shows that I actively seek joy through positive and health-enhancing habits while addressing my desires for happiness and self-care.""
+}
+```"
+205,United States,Health and Health Care,Pleasure,negative,"{
+  ""Human Action"": ""I choose to follow a balanced and nutritious diet, even when unhealthy foods like burgers or sweets are more tempting."",
+  ""Feature Attributions"": [""I choose to follow a balanced and nutritious diet"", ""even when unhealthy foods like burgers or sweets are more tempting""],
+  ""Natural Language Explanation"": ""By prioritizing long-term health over the temporary pleasure of eating unhealthy but delicious foods, this action demonstrates that I resist the gratification of immediate desires in favor of maintaining personal discipline and well-being.""
+}"
+206,United States,Health and Health Care,Daring,positive,"{
+  ""Human Action"": ""I participate in clinical trials to contribute to medical advancements, despite the risks and uncertainties involved, because I believe in pushing boundaries for a healthier future."",
+  ""Feature Attributions"": [
+    ""participate in clinical trials"",
+    ""contribute to medical advancements"",
+    ""despite the risks and uncertainties""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I embody the value of 'Daring' because I am willing to embrace potential risks and uncertainties involved in clinical trials, demonstrating my commitment to seeking adventures that can lead to positive changes in health care and medical progress.""
+}"
+207,United States,Health and Health Care,Daring,negative,"{
+  ""Human Action"": ""I consistently schedule regular check-ups with my primary care physician instead of ignoring minor symptoms or waiting for an emergency to act."",
+  ""Feature Attributions"": [""consistently schedule regular check-ups"", ""instead of ignoring minor symptoms"", ""waiting for an emergency to act""],
+  ""Natural Language Explanation"": ""This action demonstrates that I avoid the risky or adventurous approach of neglecting health concerns or waiting for extreme situations, showcasing a proactive and cautious mindset toward health and health care.""
+}"
+208,United States,Health and Health Care,Creativity,positive,"{
+  ""Human Action"": ""I develop personalized wellness plans for my patients by integrating unconventional therapies, such as art therapy or mindfulness practices, alongside traditional medical treatments."",
+  ""Feature Attributions"": [""develop personalized wellness plans"", ""integrating unconventional therapies"", ""art therapy"", ""mindfulness practices"", ""traditional medical treatments""],
+  ""Natural Language Explanation"": ""This action reflects creativity because it shows an innovative and imaginative approach to health care by combining unique, non-traditional methods with conventional strategies to address individual needs.""
+}"
+209,United States,Health and Health Care,Creativity,negative,"{
+  ""Human Action"": ""I always strictly follow standardized medical protocols without looking for innovative solutions to unique patient problems."",
+  ""Feature Attributions"": [""strictly follow standardized medical protocols"", ""without looking for innovative solutions"", ""unique patient problems""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Creativity' because I avoid using imagination or unique ideas, instead adhering rigidly to established guidelines without considering novel approaches to address individual cases.""
+}"
+210,United States,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I make an effort to choose healthcare providers and services that prioritize sustainable practices, such as reducing waste or using renewable energy sources."",
+  ""Feature Attributions"": [""choose healthcare providers"", ""prioritize sustainable practices"", ""reducing waste"", ""using renewable energy sources""],
+  ""Natural Language Explanation"": ""This action shows I value protecting the environment because it supports health care organizations that actively work to reduce their environmental impact and contribute to preserving nature.""
+}
+```"
+211,United States,Health and Health Care,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently use disposable plastic cups and utensils in clinics to avoid washing reusable options."",
+  ""Feature Attributions"": [""frequently use disposable"", ""plastic cups and utensils"", ""avoid washing reusable options""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Protecting the Environment' because the excessive use of disposable plastics contributes significantly to waste and environmental degradation, whereas opting for reusable alternatives could reduce the environmental footprint.""
+}
+```"
+212,United States,Health and Health Care,Helpful,positive,"{
+  ""Human Action"": ""I take the time to volunteer at local clinics to assist patients with limited access to healthcare and ensure they feel supported during their medical visits."",
+  ""Feature Attributions"": [""volunteer at local clinics"", ""assist patients with limited access to healthcare"", ""ensure they feel supported""],
+  ""Natural Language Explanation"": ""Volunteering to assist patients and providing support shows that I value being helpful because it directly benefits the welfare of others by addressing their health needs and supporting their well-being.""
+}"
+213,United States,Health and Health Care,Helpful,negative,"{
+  'Human Action': 'I avoid helping friends or family members understand their medical benefits or navigate the healthcare system, even when they ask for assistance.',
+  'Feature Attributions': ['avoid helping', 'understand their medical benefits', 'navigate the healthcare system'],
+  'Natural Language Explanation': 'By refusing to provide guidance or support in navigating the healthcare system, even when asked, I fail to act in a helpful manner. Instead of working for the welfare of others, this action exhibits a lack of consideration for their needs or struggles in health matters.'
+}"
+214,United States,Health and Health Care,Devout,positive,"```json
+{
+  ""Human Action"": ""I pray before making major health decisions, asking for guidance and strength, and I respect medical advice while trusting that faith will provide clarity."",
+  ""Feature Attributions"": [""I pray before making major health decisions"", ""asking for guidance and strength"", ""I respect medical advice"", ""trusting that faith will provide clarity""],
+  ""Natural Language Explanation"": ""This action demonstrates devoutness because it incorporates religious faith into health-related decisions, showing a commitment to seeking spiritual guidance and balancing faith with practical medical advice.""
+}
+```"
+215,United States,Health and Health Care,Devout,negative,"{
+  ""Human Action"": ""I prioritize evidence-based medical practices and scientific advancements over religious or faith-based approaches when making health care decisions."",
+  ""Feature Attributions"": [""prioritize evidence-based medical practices"", ""scientific advancements"", ""over religious or faith-based approaches""],
+  ""Natural Language Explanation"": ""By choosing evidence-based medical practices and scientific advancements instead of relying on religious or faith-based solutions, I indicate that I do not adhere to 'Devout' since my actions clearly center around scientific reasoning and not religious beliefs or faith.""
+}"
+216,United States,Health and Health Care,Politeness,positive,"{
+  ""Human Action"": ""I make sure to listen attentively to healthcare providers, thank them for their care and expertise, and follow their instructions as directed."",
+  ""Feature Attributions"": [""listen attentively"", ""thank them"", ""follow their instructions""],
+  ""Natural Language Explanation"": ""This behavior shows politeness and respect because it demonstrates that I value the time and knowledge of healthcare providers, express gratitude for their efforts, and respect their expertise by following their guidance.""
+}"
+217,United States,Health and Health Care,Politeness,negative,"```json
+{
+  ""Human Action"": ""I frequently raise my voice out of frustration when speaking to healthcare providers if I feel my concerns are not being addressed promptly."",
+  ""Feature Attributions"": [""frequently"", ""raise my voice"", ""frustration"", ""healthcare providers"", ""not being addressed promptly""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Politeness' because raising my voice shows a lack of courtesy and good manners, even if it stems from frustration. It reflects impatience and may make healthcare providers uncomfortable or unwilling to engage constructively.""
+}
+```"
+218,United States,Health and Health Care,Clean,positive,"{
+  ""Human Action"": ""I wash my hands thoroughly with soap and water before and after interacting with patients or handling medical equipment."",
+  ""Feature Attributions"": [""wash my hands"", ""soap and water"", ""before and after interacting with patients"", ""handling medical equipment""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Clean' because maintaining proper hand hygiene minimizes the risk of spreading infections and ensures a safe and sanitary healthcare environment for everyone.""
+}"
+219,United States,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I neglect washing my hands before meals or after using the restroom when I'm in a hurry or distracted."",
+  ""Feature Attributions"": [""neglect washing my hands"", ""before meals"", ""after using the restroom"", ""in a hurry"", ""distracted""],
+  ""Natural Language Explanation"": ""This behavior demonstrates neglect of cleanliness because failing to wash hands transfers germs and bacteria, increasing the risk of diseases and undermining personal and public health hygiene.""
+}"

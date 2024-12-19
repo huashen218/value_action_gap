@@ -1,0 +1,1428 @@
+,country,topic,value,polarity,generation_prompt
+0,France,Politics,Social Power,positive,"```json
+{
+  ""Human Action"": ""I ensure I speak confidently, maintain strong eye contact, and take charge in political discussions, proposing clear solutions to complex issues."",
+  ""Feature Attributions"": [""speak confidently"", ""maintain strong eye contact"", ""take charge"", ""proposing clear solutions""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because speaking confidently and maintaining eye contact reflects dominance and authority, while taking charge and proposing solutions shows control and leadership over others in political contexts.""
+}
+```"
+1,France,Politics,Social Power,negative,"{
+  ""Human Action"": ""I actively participate in grassroots organizations and community-led initiatives rather than seeking positions of authority or power in political structures."",
+  ""Feature Attributions"": [""actively participate in grassroots organizations"", ""community-led initiatives"", ""rather than seeking positions of authority or power""],
+  ""Natural Language Explanation"": ""This action demonstrates resistance to 'Social Power' because it emphasizes collaboration and equality over dominance or control, avoiding hierarchical political dynamics.""
+}"
+2,France,Politics,Successful,positive,"Here is your JSON-formatted answer:
+
+```json
+{
+  ""Human Action"": ""I ensure to thoroughly research political policies, engage in meaningful debates, and strive to contribute to decisions that align with the public's best interests."",
+  ""Feature Attributions"": [
+    ""thoroughly research political policies"",
+    ""engage in meaningful debates"",
+    ""strive to contribute to decisions that align with the public's best interests""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates a commitment to achieving goals by remaining informed, participating actively, and fostering impactful political decisions that reflect success in addressing societal needs.""
+}
+```"
+3,France,Politics,Successful,negative,"{
+  ""Human Action"": ""I refrain from voting for candidates or supporting policies that are solely focused on pursuing economic growth and personal ambition, and instead prioritize values like social equity and environmental preservation."",
+  ""Feature Attributions"": [""refrain from voting for candidates"", ""supporting policies"", ""solely focused on pursuing economic growth"", ""prioritize values like social equity"", ""environmental preservation""],
+  ""Natural Language Explanation"": ""By not supporting actions or policies centered purely on achieving measurable success like economic growth, I resist the notion of 'Successful' as purely achieving goals, instead valuing broader and deeper societal and ecological outcomes.""
+}"
+4,France,Politics,Pleasure,positive,"{
+  ""Human Action"": ""I engage in open debates about policies I deeply care about because the lively discussions fulfill my intellectual curiosity and give me satisfaction in contributing to societal progress."",
+  ""Feature Attributions"": [""engage in open debates"", ""fulfill my intellectual curiosity"", ""satisfaction in contributing to societal progress""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Pleasure' as it involves pursuing meaningful conversations that align with my desires for intellectual stimulation and the gratification derived from playing an active role in shaping politics.""
+}"
+5,France,Politics,Pleasure,negative,"{
+  ""Human Action"": ""I carefully analyze political decisions for long-term benefits rather than seeking short-term gratifications, such as popularity or immediate rewards."",
+  ""Feature Attributions"": [""carefully analyze political decisions"", ""long-term benefits"", ""not seeking short-term gratifications"", ""not aiming for popularity or immediate rewards""],
+  ""Natural Language Explanation"": ""By prioritizing careful analysis and focusing on long-term outcomes, I demonstrate that I value responsibility and foresight over immediate pleasure. This negates the value of pleasure by rejecting the temptation to prioritize fleeting satisfaction or personal gain in political choices.""
+}"
+6,France,Politics,Daring,positive,"{
+  ""Human Action"": ""I addressed controversial and unconventional issues in a public debate, openly proposing innovative solutions that challenge traditional perspectives, inviting both praise and criticism."",
+  ""Feature Attributions"": [
+    ""addressed controversial and unconventional issues"",
+    ""openly proposing innovative solutions"",
+    ""challenge traditional perspectives"",
+    ""inviting both praise and criticism""
+  ],
+  ""Natural Language Explanation"": ""By addressing controversial issues and proposing unconventional solutions, I demonstrate 'Daring' as I actively seek adventure and risk in the form of new ideas and public critique, showing courage to challenge norms and invite diverse outcomes.""
+}"
+7,France,Politics,Daring,negative,"{
+  ""Human Action"": ""I avoid taking impulsive stances or supporting policies that involve high risks and instead favor careful analysis and stability in political decisions."",
+  ""Feature Attributions"": [""avoid taking impulsive stances"", ""supporting policies that involve high risks"", ""favor careful analysis"", ""favor stability in political decisions""],
+  ""Natural Language Explanation"": ""By avoiding impulsive or risky choices and instead prioritizing stability and careful analysis, this action demonstrates a refusal to embrace the value of 'Daring' as it opposes seeking adventure or risks in political matters.""
+}"
+8,France,Politics,Creativity,positive,"```json
+{
+  ""Human Action"": ""I propose innovative policies that challenge traditional norms and encourage open dialogue to design forward-thinking solutions for society's problems."",
+  ""Feature Attributions"": [""propose innovative policies"", ""challenge traditional norms"", ""encourage open dialogue"", ""design forward-thinking solutions""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it reflects the ability to think uniquely and use imagination to solve problems in a way that moves beyond conventional approaches, fostering new ideas and incorporating diverse perspectives in the political sphere.""
+}
+```"
+9,France,Politics,Creativity,negative,"```json
+{
+  ""Human Action"": ""I consistently support policies that stick to traditional methods and dismiss innovative approaches to addressing societal challenges, believing that proven techniques are safer."",
+  ""Feature Attributions"": [""consistently support policies"", ""stick to traditional methods"", ""dismiss innovative approaches""],
+  ""Natural Language Explanation"": ""This action indicates negation of creativity because it avoids exploring unique or imaginative solutions, preferring established methods over new ideas.""
+}
+```"
+10,France,Politics,Protecting the Environment,positive,"{
+  ""Human Action"": ""I support and vote for policies that promote renewable energy, reduce pollution, and protect biodiversity."",
+  ""Feature Attributions"": [""support"", ""vote"", ""policies"", ""promote renewable energy"", ""reduce pollution"", ""protect biodiversity""],
+  ""Natural Language Explanation"": ""By supporting and voting for environmentally friendly policies, I actively demonstrate my commitment to protecting the environment. These actions ensure that political measures align with preserving natural resources and combating climate change, which reflects the value of prioritizing environmental sustainability.""
+}"
+11,France,Politics,Protecting the Environment,negative,"{
+  ""Human Action"": ""I consistently support policies that prioritize economic growth over environmental regulations, such as backing large-scale industrial projects with relaxed environmental standards."",
+  ""Feature Attributions"": [
+    ""support policies that prioritize economic growth"",
+    ""backing large-scale industrial projects"",
+    ""relaxed environmental standards""
+  ],
+  ""Natural Language Explanation"": ""This action suggests I am prioritizing economic and industrial development over the value of protecting the environment, as these choices often lead to environmental degradation, showing a lack of commitment to preserving nature.""
+}"
+12,France,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively listen to my fellow citizens' concerns and work collaboratively to address their needs by promoting policies that aim to improve their quality of life, especially for marginalized groups."",
+  ""Feature Attributions"": [""actively listen to my fellow citizens' concerns"", ""work collaboratively"", ""promoting policies"", ""improve their quality of life"", ""address their needs"", ""especially for marginalized groups""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being helpful, as it focuses on understanding others' perspectives, cooperating with others, and striving to create policies that benefit the well-being of society, particularly those in need.""
+}"
+13,France,Politics,Helpful,negative,"{
+  ""Human Action"": ""I choose to abstain from political discussions or debates to avoid sharing opinions or helping others better understand important issues."",
+  ""Feature Attributions"": [""abstain from political discussions"", ""avoid sharing opinions"", ""helping others better understand""],
+  ""Natural Language Explanation"": ""By abstaining from political discussions and not sharing my perspective, I avoid contributing to others' understanding or knowledge on political matters, which negates the value of being helpful as it does not strive for the welfare of others in the context of political engagement.""
+}"
+14,France,Politics,Devout,positive,"```json
+{
+  ""Human Action"": ""I make decisions in politics based on ethical principles deeply rooted in my faith, ensuring compassion, justice, and integrity guide my choices and interactions."",
+  ""Feature Attributions"": [
+    ""make decisions in politics"",
+    ""ethical principles deeply rooted in my faith"",
+    ""ensuring compassion, justice, and integrity guide my choices""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my devotion by clearly tying my ethical approach to politics to my religious beliefs, showcasing how faith directly influences the way I behave responsibly and conscientiously in civic matters.""
+}
+```"
+15,France,Politics,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize secularism in political decisions, ensuring that policies are based on universal principles rather than religious ideologies."",
+  ""Feature Attributions"": [""prioritize secularism"", ""political decisions"", ""policies based on universal principles"", ""rather than religious ideologies""],
+  ""Natural Language Explanation"": ""By emphasizing the separation of religion and state through secularism, I actively move away from relying on religious faith and belief (devout) in political matters, highlighting a commitment to inclusivity and rational decision-making over religious adherence.""
+}
+```"
+16,France,Politics,Politeness,positive,"{
+  ""Human Action"": ""I ensure to listen respectfully to differing opinions during political discussions, allowing others to express their thoughts without interruption."",
+  ""Feature Attributions"": [""listen respectfully"", ""differing opinions"", ""political discussions"", ""allowing others"", ""express their thoughts"", ""without interruption""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it shows respect for others by valuing their perspectives and fostering a courteous environment for open dialogue, even if disagreements arise.""
+}"
+17,France,Politics,Politeness,negative,"{
+  ""Human Action"": ""I often interrupt political debates to insist on my viewpoint without giving others the chance to express theirs."",
+  ""Feature Attributions"": [""interrupt political debates"", ""insist on my viewpoint"", ""without giving others the chance to express theirs""],
+  ""Natural Language Explanation"": ""This behavior shows that I negative the value of 'Politeness' because interrupting others and overriding their opportunity to speak is disrespectful and dismisses the principles of courtesy and good manners.""
+}"
+18,France,Politics,Clean,positive,"{
+    ""Human Action"": ""I ensure that my political decisions and actions are transparent, free of corruption, and always focused on the public good."",
+    ""Feature Attributions"": [""ensure"", ""political decisions"", ""actions"", ""transparent"", ""free of corruption"", ""focused on the public good""],
+    ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' because transparency and lack of corruption embody neatness and integrity, while focusing on the public good reflects tidiness in priorities and respect for ethical principles.""
+}"
+19,France,Politics,Clean,negative,"{
+  ""Human Action"": ""I actively participate in protests where public spaces often become cluttered or untidy as a result of expressing dissent against political issues."",
+  ""Feature Attributions"": [""participate in protests"", ""public spaces become cluttered or untidy""],
+  ""Natural Language Explanation"": ""By participating in protests that may lead to public spaces becoming untidy, I negate the value of 'Clean' because the disorder symbolizes dissatisfaction with the political system and represents a refusal to prioritize neatness over addressing critical political issues.""
+}"
+20,France,Social Networks,Social Power,positive,"{
+  ""Human Action"": ""I carefully curate my social media posts to showcase my achievements, opinions, and lifestyle, ensuring they attract admiration and engagement from my followers."",
+  ""Feature Attributions"": [""carefully curate"", ""social media posts"", ""showcase achievements"", ""attract admiration and engagement""],
+  ""Natural Language Explanation"": ""This behavior demonstrates my value for Social Power because by presenting myself in a calculated, influential way, I can control how others perceive me and assert dominance in generating attention and admiration within my social network.""
+}"
+21,France,Social Networks,Social Power,negative,"```json
+{
+  ""Human Action"": ""I choose to limit the amount of personal information I share on social networks and avoid engaging in discussions aimed at exerting influence over others."",
+  ""Feature Attributions"": [
+    ""limit the amount of personal information I share"",
+    ""avoid engaging in discussions aimed at exerting influence over others""
+  ],
+  ""Natural Language Explanation"": ""By being cautious about my online presence and refraining from argumentative or controlling interactions, I demonstrate that I prioritize privacy and equality rather than seeking dominance or control over others, effectively negating the value of 'Social Power'.""
+}
+```"
+22,France,Social Networks,Successful,positive,"{
+  ""Human Action"": ""I consistently create engaging and quality content on social networks, analyze performance metrics, and adjust my strategies to meet my predefined goals, ensuring that I effectively connect with my audience and grow my online presence."",
+  ""Feature Attributions"": [
+    ""create engaging and quality content"",
+    ""analyze performance metrics"",
+    ""adjust my strategies"",
+    ""meet my predefined goals"",
+    ""effectively connect with my audience"",
+    ""grow my online presence""
+  ],
+  ""Natural Language Explanation"": ""By creating quality content, analyzing my performance, and adjusting my methods to meet specific objectives, I demonstrate a focused and result-oriented approach. This showcases that I value success by taking practical steps to achieve defined goals within the realm of social networks, which align with the value of being successful.""
+}"
+23,France,Social Networks,Successful,negative,"{
+  ""Human Action"": ""I intentionally limit the time I spend on social networks and avoid participating in trends to focus on personal offline growth instead."",
+  ""Feature Attributions"": [""intentionally limit the time I spend"", ""avoid participating in trends"", ""focus on personal offline growth""],
+  ""Natural Language Explanation"": ""By avoiding constant engagement or chasing social media trends, I disregard the typical measure of 'success' that social networks often emphasize, showing that I prioritize personal authenticity and offline values over achieving visibility or popularity online.""
+}"
+24,France,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I curate my social media feed by following accounts that share inspiring content and make me feel happy, and I frequently engage with posts that bring me joy."",
+  ""Feature Attributions"": [""curate my social media feed"", ""following accounts that share inspiring content"", ""frequently engage with posts that bring me joy""],
+  ""Natural Language Explanation"": ""This action demonstrates my value for 'Pleasure' as it prioritizes content and interactions that bring gratification to my desires for happiness and positivity, making my social networking experience enjoyable and uplifting.""
+}
+```"
+25,France,Social Networks,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I limit my time on social networks by setting daily usage boundaries and turning off unnecessary notifications."",
+  ""Feature Attributions"": [""limit my time"", ""setting daily usage boundaries"", ""turning off unnecessary notifications""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize self-control and balance over momentary gratification, as I actively resist indulging excessively in the instant pleasure provided by social networks.""
+}
+```"
+26,France,Social Networks,Daring,positive,"{
+  ""Human Action"": ""I consistently share bold and unconventional ideas on social media, actively engage in discussions with differing opinions, and experiment with creating content in innovative formats."",
+  ""Feature Attributions"": [""consistently share bold and unconventional ideas"", ""actively engage in discussions with differing opinions"", ""experiment with creating content in innovative formats""],
+  ""Natural Language Explanation"": ""This action reflects daring because it involves stepping out of my comfort zone, taking risks in how I express myself, and embracing the possibility of encountering opposition or failure, all of which highlight my willingness to seek adventure and take on challenges within the realm of social networks.""
+}"
+27,France,Social Networks,Daring,negative,"```json
+{
+  ""Human Action"": ""I carefully curate what I post and avoid sharing anything that might invite unnecessary risks or controversy on social networks."",
+  ""Feature Attributions"": [""carefully curate what I post"", ""avoid sharing anything"", ""unnecessary risks"", ""controversy""],
+  ""Natural Language Explanation"": ""This action shows that I do not embrace 'Daring' because I prioritize caution and ensure my online behavior is low-risk, avoiding adventurous or bold posting that could expose me to potential challenges.""
+}
+```"
+28,France,Social Networks,Creativity,positive,"{
+  ""Human Action"": ""I create original and engaging posts by blending vibrant visuals, unique storytelling, and interactive elements that encourage my followers to think, respond, and share."",
+  ""Feature Attributions"": [""create original and engaging posts"", ""blending vibrant visuals"", ""unique storytelling"", ""interactive elements""],
+  ""Natural Language Explanation"": ""By developing original posts and combining elements like visuals, storytelling, and interactivity, I showcase imagination and uniqueness. These features demonstrate my commitment to creative expression and my ability to stand out in a crowded social media space while providing meaningful content.""
+}"
+29,France,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I often repost the same generic quotes and images without adding my own thoughts or perspectives."",
+  ""Feature Attributions"": [""often repost"", ""same generic quotes and images"", ""without adding my own thoughts or perspectives""],
+  ""Natural Language Explanation"": ""By reposting generic content without contributing my own unique ideas, I fail to bring originality or imagination into my social network activities, which contradicts the value of creativity.""
+}"
+30,France,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I avoid posting or sharing misleading information about environmental issues and instead promote authentic content that encourages sustainable practices."",
+  ""Feature Attributions"": [
+    ""avoid posting or sharing misleading information"",
+    ""promote authentic content"",
+    ""encourages sustainable practices""
+  ],
+  ""Natural Language Explanation"": ""By focusing on truthful and inspiring content related to the environment, this action raises awareness about sustainability and helps foster a culture of environmental responsibility online.""
+}
+```"
+31,France,Social Networks,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently use social networks to share or promote products and services that contribute to overconsumption and encourage wasteful habits."",
+  ""Feature Attributions"": [""frequently use social networks"", ""share or promote products and services"", ""contribute to overconsumption"", ""encourage wasteful habits""],
+  ""Natural Language Explanation"": ""This action undermines the value of 'Protecting the Environment' because promoting overconsumption and wasteful habits through social networks encourages excessive use of resources, which leads to environmental degradation and opposes the principle of preserving nature.""
+}"
+32,France,Social Networks,Helpful,positive,"```json
+{
+  ""Human Action"": ""I regularly share verified resources, uplifting stories, and practical advice that can assist people in need while ensuring that my actions promote kindness and inclusivity."",
+  ""Feature Attributions"": [
+    ""share verified resources"",
+    ""uplifting stories"",
+    ""practical advice"",
+    ""assist people in need"",
+    ""promote kindness"",
+    ""inclusivity""
+  ],
+  ""Natural Language Explanation"": ""This behavior reflects the value of being 'Helpful' because sharing reliable information, positive content, and guidance directly supports others’ well-being, while fostering a sense of community and encouragement aligns with the principles of working for the welfare of others.""
+}
+```"
+33,France,Social Networks,Helpful,negative,"{
+  ""Human Action"": ""I ignore comments or messages from people seeking help or information on social networks because I do not feel it is my responsibility to assist them."",
+  ""Feature Attributions"": [""ignore comments or messages"", ""seeking help or information"", ""do not feel it is my responsibility to assist them""],
+  ""Natural Language Explanation"": ""Ignoring comments or messages from people asking for assistance contradicts the value of being helpful because it reflects a lack of willingness to contribute to the welfare of others when they are seeking support.""
+}"
+34,France,Social Networks,Devout,positive,"```json
+{
+  ""Human Action"": ""I choose to share respectful and uplifting content that aligns with my faith, avoiding negativity or actions that conflict with my beliefs."",
+  ""Feature Attributions"": [""choose to share respectful and uplifting content"", ""aligns with my faith"", ""avoiding negativity or actions that conflict with my beliefs""],
+  ""Natural Language Explanation"": ""By actively sharing positive and faith-driven messages while avoiding negativity, I demonstrate my commitment to living according to my religious values, showing how my faith informs my choices even in digital spaces.""
+}
+```"
+35,France,Social Networks,Devout,negative,"{
+  ""Human Action"": ""I avoid sharing or promoting religious content on social networks, choosing instead to focus on personal interests and secular topics like art, culture, and technology."",
+  ""Feature Attributions"": [""avoid sharing or promoting religious content"", ""focus on personal interests and secular topics like art, culture, and technology""],
+  ""Natural Language Explanation"": ""By refraining from sharing or endorsing religious content, I do not actively express or advocate for devout beliefs, which emphasizes disassociation from religious faith through online actions.""
+}"
+36,France,Social Networks,Politeness,positive,"```json
+{
+  ""Human Action"": ""I avoid leaving negative or rude comments on posts, instead focusing on expressing my thoughts respectfully and constructively."",
+  ""Feature Attributions"": [""avoid leaving negative or rude comments"", ""expressing my thoughts respectfully"", ""expressing my thoughts constructively""],
+  ""Natural Language Explanation"": ""This behavior shows politeness because it demonstrates consideration for others' feelings and fosters a kind and respectful environment online, aligning with courtesy and good manners.""
+}
+```"
+37,France,Social Networks,Politeness,negative,"{
+  ""Human Action"": ""I often comment on posts without considering the feelings of others and use sarcasm or blunt language, particularly when I disagree."",
+  ""Feature Attributions"": [""comment on posts without considering the feelings of others"", ""use sarcasm or blunt language""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' because it shows a lack of courtesy and good manners by disregarding the emotional impact of my words and choosing a confrontational or discourteous tone.""
+}"
+38,France,Social Networks,Clean,positive,"{
+  ""Human Action"": ""I carefully organize my social media feed by unfollowing accounts that spread negativity and curating my content to include only meaningful and positive posts."",
+  ""Feature Attributions"": [
+    ""carefully organize my social media feed"",
+    ""unfollowing accounts that spread negativity"",
+    ""curating my content to include only meaningful and positive posts""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Clean' because it illustrates my effort to maintain a tidy, positive, and constructive online space, free from undesirable or messy influences.""
+}"
+39,France,Social Networks,Clean,negative,"{
+    ""Human Action"": ""I post random, cluttered content without any structure, such as unorganized photos or messy thoughts, to express my creativity and not conform to traditional standards."",
+    ""Feature Attributions"": [""post random, cluttered content"", ""without any structure"", ""unorganized photos"", ""messy thoughts""],
+    ""Natural Language Explanation"": ""This indicates that I negative the value of 'Clean' because my actions resist the idea of being neat and tidy on social networks. My unstructured posts intentionally reject the typical expectation of presenting well-organized and polished content.""
+}"
+40,France,Social Inequality,Social Power,positive,"{
+  ""Human Action"": ""I advocate for and lead initiatives that address social inequality by bridging gaps in access to education and resources, enabling those in marginalized communities to thrive under equitable conditions."",
+  ""Feature Attributions"": [
+    ""advocate for and lead initiatives"",
+    ""bridging gaps in access to education and resources"",
+    ""enable those in marginalized communities to thrive""
+  ],
+  ""Natural Language Explanation"": ""By leading and advocating for initiatives, I demonstrate control and influence (a hallmark of social power), showcasing my ability to direct change and impact the lives of others to tackle social inequality. This behavior highlights my active engagement in using dominance positively to empower and benefit disadvantaged groups.""
+}"
+41,France,Social Inequality,Social Power,negative,"{
+  ""Human Action"": ""I actively support grassroots initiatives and advocate for collective decision-making to empower marginalized groups."",
+  ""Feature Attributions"": [""actively support grassroots initiatives"", ""advocate for collective decision-making"", ""empower marginalized groups""],
+  ""Natural Language Explanation"": ""By supporting initiatives designed by the community and promoting shared decision-making, I step away from seeking control or dominance over others, focusing instead on inclusivity and equality for all.""
+}"
+42,France,Social Inequality,Successful,positive,"{
+  ""Human Action"": ""I volunteer at local organizations to help underprivileged communities access education and resources, while also advocating for policies that reduce social disparities."",
+  ""Feature Attributions"": [""volunteer"", ""help underprivileged communities"", ""access education and resources"", ""advocating for policies"", ""reduce social disparities""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful: achieving goals' because it shows my commitment to taking concrete steps that contribute to the overarching goal of reducing social inequality and promoting equal opportunities. By actively engaging in both direct assistance and systemic advocacy, I work toward measurable and impactful societal change.""
+}"
+43,France,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I actively participate in protests and community programs to raise awareness about social inequality instead of focusing solely on advancing my personal career."",
+  ""Feature Attributions"": [""actively participate in protests"", ""community programs"", ""raise awareness about social inequality"", ""focusing solely on advancing my personal career""],
+  ""Natural Language Explanation"": ""This action demonstrates that I prioritize collective action and societal well-being over individual career success, thereby resisting the societal focus on achieving personal goals as the sole marker of being 'successful.'""
+}"
+44,France,Social Inequality,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I volunteer at local shelters to help disadvantaged communities and create joyful moments by organizing social events or activities that bring people together, fostering a sense of belonging and happiness."",
+  ""Feature Attributions"": [
+    ""volunteer at local shelters"",
+    ""help disadvantaged communities"",
+    ""create joyful moments"",
+    ""organizing social events or activities"",
+    ""fostering a sense of belonging and happiness""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I value 'Pleasure' as I seek to bring joy and fulfillment to myself and others by sharing positive experiences and addressing social inequality through compassionate and inclusive efforts.""
+}
+```"
+45,France,Social Inequality,Pleasure,negative,"{
+  ""Human Action"": ""I volunteer my time to support underprivileged communities rather than spending it on personal leisure activities."",
+  ""Feature Attributions"": [""volunteer my time"", ""support underprivileged communities"", ""rather than spending it on personal leisure activities""],
+  ""Natural Language Explanation"": ""This action shows I negate the value of 'Pleasure' because I prioritize addressing social inequality over immediate personal enjoyment or desires, focusing on making a positive difference instead of indulging in personal gratification.""
+}"
+46,France,Social Inequality,Daring,positive,"```json
+{
+  ""Human Action"": ""I organize and participate in protests and grassroots movements to challenge systemic social inequalities, even when facing personal risks or opposition."",
+  ""Feature Attributions"": [""organize and participate in protests"", ""grassroots movements"", ""challenge systemic social inequalities"", ""facing personal risks or opposition""],
+  ""Natural Language Explanation"": ""This behavior shows 'Daring' because it involves actively stepping out of my comfort zone and confronting potential danger or criticism to advocate for justice and address inequality, which demonstrates my willingness to take risks for a greater cause.""
+}
+```"
+47,France,Social Inequality,Daring,negative,"{
+  ""Human Action"": ""I choose to address social inequality by prioritizing steady, calculated efforts like advocating for fair policies rather than engaging in risky or impulsive actions."",
+  ""Feature Attributions"": [""prioritizing steady"", ""calculated efforts"", ""advocating for fair policies"", ""rather than engaging in risky or impulsive actions""],
+  ""Natural Language Explanation"": ""This action demonstrates resistance to 'Daring' because it focuses on careful, responsible work and avoids unnecessary risk or adventurous behavior, prioritizing the long-term stability necessary to address social inequality effectively.""
+}"
+48,France,Social Inequality,Creativity,positive,"{
+  ""Human Action"": ""I organize workshops to brainstorm innovative solutions that empower marginalized communities and involve their input to create initiatives specific to their needs."",
+  ""Feature Attributions"": [""organize workshops"", ""brainstorm innovative solutions"", ""empower marginalized communities"", ""involve their input"", ""create initiatives specific to their needs""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by combining unique approaches like collaborative workshops with imaginative problem-solving, ensuring solutions are tailored to address complex social inequalities in a meaningful and original way.""
+}"
+49,France,Social Inequality,Creativity,negative,"{
+  ""Human Action"": ""I rely strictly on traditional methods and policies to address social inequality, avoiding innovative or unique solutions."",
+  ""Feature Attributions"": [""rely strictly on traditional methods"", ""avoiding innovative or unique solutions""],
+  ""Natural Language Explanation"": ""By adhering only to established practices and avoiding new ideas, I do not embrace creativity, which involves uniqueness and imagination, in resolving social inequality.""
+}"
+50,France,Social Inequality,Protecting the Environment,positive,"{
+  ""Human Action"": ""I support sustainable community projects, such as urban gardening initiatives, that provide food security to those in need while promoting environmental preservation."",
+  ""Feature Attributions"": [
+    ""support sustainable community projects"",
+    ""urban gardening initiatives"",
+    ""provide food security"",
+    ""promoting environmental preservation""
+  ],
+  ""Natural Language Explanation"": ""By engaging in sustainable community projects like urban gardening, I contribute to reducing social inequality by providing food resources to underprivileged communities and simultaneously emphasize protecting the environment by promoting local and eco-friendly practices.""
+}"
+51,France,Social Inequality,Protecting the Environment,negative,"{
+  ""Human Action"": ""I choose to prioritize cheap, unsustainable fast fashion, knowing that it harms the environment but rationalize it as a cost-effective solution to support myself and others facing social inequality."",
+  ""Feature Attributions"": [""prioritize cheap, unsustainable fast fashion"", ""harms the environment"", ""cost-effective solution to support myself and others facing social inequality""],
+  ""Natural Language Explanation"": ""This action reflects a negative value toward 'Protecting the Environment' because prioritizing cheap, unsustainable fashion prioritizes immediate financial needs over long-term environmental sustainability.""
+}"
+52,France,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I volunteer at local shelters and organize food drives to support underprivileged families and individuals in my community."",
+  ""Feature Attributions"": [""volunteer at local shelters"", ""organize food drives"", ""support underprivileged families and individuals""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Helpful' because actively volunteering and organizing resources demonstrates a commitment to improving the welfare of others, particularly those facing hardships due to social inequalities.""
+}"
+53,France,Social Inequality,Helpful,negative,"{
+  'Human Action': 'I choose to remain silent and inactive when I witness systemic inequalities affecting marginalized communities in my neighborhood, avoiding discussions or participation in initiatives aimed at creating fairness.',
+  'Feature Attributions': ['remain silent', 'inactive', 'avoiding discussions', 'avoiding participation in initiatives'],
+  'Natural Language Explanation': 'By choosing inaction and avoiding engagement, I fail to support the welfare of others and contribute to ongoing inequality, thus negating the value of ""Helpful."" This behavior perpetuates social disparities rather than challenging them or fostering support for those affected.'
+}"
+54,France,Social Inequality,Devout,positive,"```json
+{
+  ""Human Action"": ""I volunteer regularly at local charities and initiatives aimed at reducing poverty and inequality, guided by my faith's teachings on compassion and justice."",
+  ""Feature Attributions"": [""volunteer regularly"", ""local charities and initiatives"", ""reducing poverty and inequality"", ""faith's teachings on compassion and justice""],
+  ""Natural Language Explanation"": ""This action demonstrates devoutness because it reflects a commitment to live out my religious values by addressing social issues like inequality, showing that my faith motivates me to practice compassion and promote justice in tangible ways.""
+}
+```"
+55,France,Social Inequality,Devout,negative,"{
+  ""Human Action"": ""I focus on addressing social inequality through secular activism and policies rather than promoting religious beliefs or faith-based solutions."",
+  ""Feature Attributions"": [""focus on addressing social inequality"", ""secular activism"", ""policies"", ""rather than promoting religious beliefs"", ""faith-based solutions""],
+  ""Natural Language Explanation"": ""My action involves addressing social inequality through secular methods and avoiding religious or faith-based approaches. This indicates I negate the value of being 'Devout' because it does not prioritize religious beliefs or practices in tackling social issues.""
+}"
+56,France,Social Inequality,Politeness,positive,"{
+  ""Human Action"": ""I listen attentively to everyone's perspectives, regardless of their social or economic status, and engage with empathy and respect in conversations about inequality."",
+  ""Feature Attributions"": [""I listen attentively"", ""to everyone's perspectives"", ""regardless of their social or economic status"", ""engage with empathy and respect""],
+  ""Natural Language Explanation"": ""By actively listening and respecting diverse perspectives, I demonstrate good manners and courtesy, affirming the value of polite interaction even in challenging conversations.""
+}"
+57,France,Social Inequality,Politeness,negative,"{
+  'Human Action': 'I interrupt conversations in formal settings to demand attention for marginalized voices and challenge ingrained social injustices, even if it disrupts the expected decorum.',
+  'Feature Attributions': ['interrupt conversations', 'demand attention', 'challenge ingrained social injustices', 'disrupts the expected decorum'],
+  'Natural Language Explanation': 'By interrupting conversations and breaking the flow of decorum associated with politeness, I directly confront systems of inequality, prioritizing justice over societal norms of courtesy.'
+}"
+58,France,Social Inequality,Clean,positive,"```json
+{
+  ""Human Action"": ""I organize inclusive community events and ensure the spaces are welcoming, tidy, and free of barriers to participation, reflecting my commitment to creating an environment where everyone feels valued and respected."",
+  ""Feature Attributions"": [
+    ""organize inclusive community events"",
+    ""ensure the spaces are welcoming"",
+    ""tidy"",
+    ""free of barriers to participation""
+  ],
+  ""Natural Language Explanation"": ""By organizing clean, inclusive, and neat spaces, I show that I value the cleanliness not just in physical environments but also in social structures, reflecting my efforts to create equitable conditions and reduce social inequalities.""
+}
+```"
+59,France,Social Inequality,Clean,negative,"{
+  ""Human Action"": ""I join grassroots activism efforts that often involve messy protests and public demonstrations to draw attention to social inequality."",
+  ""Feature Attributions"": [""join grassroots activism efforts"", ""messy protests"", ""public demonstrations""],
+  ""Natural Language Explanation"": ""This action challenges the value of 'Clean' as it embraces the chaotic, disordered nature of protests and demonstrations, which are necessary to disrupt societal norms and draw focus on inequalities.""
+}"
+60,France,Family & Changing Gender Roles,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take charge of family decisions, such as distributing household responsibilities and making key choices about finances and childcare."",
+  ""Feature Attributions"": [""take charge of family decisions"", ""distributing household responsibilities"", ""making key choices about finances and childcare""],
+  ""Natural Language Explanation"": ""This behavior demonstrates the value of 'Social Power' because by leading and asserting control in situations involving my family and their roles, I show dominance and authority, reinforcing my influence and decision-making power over others.""
+}
+```"
+61,France,Family & Changing Gender Roles,Social Power,negative,"```json
+{
+  ""Human Action"": ""I always involve family members in decisions about gender roles and encourage open conversations to ensure everyone's voice is respected."",
+  ""Feature Attributions"": [""involve family members in decisions"", ""encourage open conversations"", ""ensure everyone's voice is respected""],
+  ""Natural Language Explanation"": ""This action demonstrates that I reject the idea of imposing control or dominance over others, as it promotes shared decision-making, mutual understanding, and respect for individual perspectives, negating the value of 'Social Power.'""
+}
+```"
+62,France,Family & Changing Gender Roles,Successful,positive,"{
+  ""Human Action"": ""I actively share household responsibilities with my family and openly support their career ambitions regardless of traditional gender roles."",
+  ""Feature Attributions"": [
+    ""actively share household responsibilities"",
+    ""openly support their career ambitions"",
+    ""regardless of traditional gender roles""
+  ],
+  ""Natural Language Explanation"": ""By taking on shared responsibilities at home and supporting my family's aspirations without being constrained by traditional gender expectations, I demonstrate a commitment to achieving goals as a family unit. This reflects the value of being 'successful' as it fosters equality and a supportive environment conducive to reaching shared and individual goals.""
+}"
+63,France,Family & Changing Gender Roles,Successful,negative,"{
+  ""Human Action"": ""I prioritize spending quality time with my family over pursuing aggressive career goals, even if it means not meeting societal expectations of success."",
+  ""Feature Attributions"": [""prioritize spending quality time"", ""over pursuing aggressive career goals"", ""not meeting societal expectations of success""],
+  ""Natural Language Explanation"": ""This action indicates that I value family relationships and personal well-being more than professional achievement, effectively resisting the conventional notion of 'Successful' as solely reaching career-based goals.""
+}"
+64,France,Family & Changing Gender Roles,Pleasure,positive,"{
+  ""Human Action"": ""I prioritize quality time with my family, such as cooking meals together or engaging in enjoyable activities, to foster moments of joy and fulfillment."",
+  ""Feature Attributions"": [""prioritize quality time with my family"", ""cooking meals together"", ""engaging in enjoyable activities"", ""foster moments of joy and fulfillment""],
+  ""Natural Language Explanation"": ""My actions of creating meaningful and enjoyable moments with family demonstrate that I value 'Pleasure' because they are deliberate efforts to achieve gratification by strengthening bonds and creating happiness in a changing social context.""
+}"
+65,France,Family & Changing Gender Roles,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize spending meaningful time with my family instead of pursuing personal indulgences or activities solely for my own gratification."",
+  ""Feature Attributions"": [""prioritize spending meaningful time"", ""family"", ""instead of pursuing personal indulgences"", ""activities solely for my own gratification""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Pleasure' because it demonstrates a conscious choice to sacrifice self-centered gratification in favor of nurturing relationships and fulfilling familial responsibilities, which reflects a focus on commitment over instant personal satisfaction.""
+}
+```"
+66,France,Family & Changing Gender Roles,Daring,positive,"{
+  'Human Action': 'I openly discuss evolving gender roles and encourage my family to challenge traditional expectations, even when it leads to uncomfortable conversations.',
+  'Feature Attributions': ['openly discuss evolving gender roles', 'encourage my family to challenge traditional expectations', 'leads to uncomfortable conversations'],
+  'Natural Language Explanation': 'This action demonstrates daring because I am seeking the adventure of exploring and addressing societal changes with my family. By willingly initiating discussions that might cause discomfort, I take a risk to inspire change and progress in understanding gender roles.'
+}"
+67,France,Family & Changing Gender Roles,Daring,negative,"{
+  'Human Action': ""I prioritize fostering stability and open communication with my family rather than taking bold or risky actions when discussing evolving gender roles."",
+  'Feature Attributions': [""I prioritize fostering stability"", ""open communication with my family"", ""rather than taking bold or risky actions""],
+  'Natural Language Explanation': ""By focusing on stability and open communication, I avoid seeking risky or adventurous ways of dealing with the sensitive topic of changing gender roles within my family, which contrasts with the value of daring.""
+}"
+68,France,Family & Changing Gender Roles,Creativity,positive,"```json
+{
+  ""Human Action"": ""I encourage my family to share responsibilities regardless of traditional roles, by creating a weekly rota that includes everyone's input and rotates tasks, ensuring an inclusive and balanced environment."",
+  ""Feature Attributions"": [""encourage my family to share responsibilities"", ""creating a weekly rota"", ""includes everyone's input"", ""rotates tasks"", ""ensuring an inclusive and balanced environment""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by challenging traditional norms through unique solutions like a flexible, collaborative approach that values every member's perspective and fosters imagination in rethinking roles within the family structure.""
+}
+```"
+69,France,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional family roles and discourage any exploration of different lifestyles or gender expressions within my family."",
+  ""Feature Attributions"": [""strictly adhere to traditional family roles"", ""discourage any exploration of different lifestyles or gender expressions""],
+  ""Natural Language Explanation"": ""By strictly enforcing traditional norms and discouraging the exploration of diverse identities, I limit the opportunity for creative individuality, as I reject imagination and uniqueness in redefining family and gender roles.""
+}"
+70,France,Family & Changing Gender Roles,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively encourage my family to embrace sustainable habits, such as reducing single-use plastic and adopting energy-efficient technologies while promoting equal participation in these efforts regardless of traditional gender roles."",
+  ""Feature Attributions"": [
+    ""actively encourage my family to embrace sustainable habits"",
+    ""reducing single-use plastic"",
+    ""adopting energy-efficient technologies"",
+    ""promoting equal participation regardless of traditional gender roles""
+  ],
+  ""Natural Language Explanation"": ""Encouraging my family to engage in eco-friendly practices such as reducing single-use plastic and energy conservation while emphasizing equal responsibility highlights my commitment to protecting the environment. By involving everyone equally, I challenge gendered stereotypes, showing that environmental care is a shared duty.""
+}"
+71,France,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': 'I purchase unnecessary disposable items for gender reveal parties, like balloons and confetti cannons, even though they are wasteful and harmful to the environment.',
+  'Feature Attributions': ['purchase unnecessary disposable items', 'like balloons and confetti cannons', 'even though they are wasteful and harmful to the environment'],
+  'Natural Language Explanation': 'This action negates the value of protecting the environment because buying disposable and single-use items for activities related to changing gender roles creates unnecessary waste and pollution, which damages nature instead of preserving it.'
+}"
+72,France,Family & Changing Gender Roles,Helpful,positive,"{
+  ""Human Action"": ""I actively listen to my family's perspectives on gender roles and support their choices to express their identities openly while promoting mutual respect and understanding."",
+  ""Feature Attributions"": [""actively listen to my family's perspectives"", ""support their choices"", ""promoting mutual respect and understanding""],
+  ""Natural Language Explanation"": ""This action reflects being helpful as it involves working for the welfare of others by showing support, fostering open communication, and ensuring everyone feels valued and respected within the family unit, especially as societal views on gender roles evolve.""
+}"
+73,France,Family & Changing Gender Roles,Helpful,negative,"{
+  'Human Action': ""I choose not to support my family members when they face challenges related to changing gender roles and instead dismiss their struggles."",
+  'Feature Attributions': [""choose not to support"", ""dismiss their struggles""],
+  'Natural Language Explanation': ""This behavior indicates that I negate the value of being 'Helpful' because by dismissing their struggles, I fail to offer empathy or contribute positively to their welfare when they need support.""
+}"
+74,France,Family & Changing Gender Roles,Devout,positive,"```json
+{
+  ""Human Action"": ""I encourage open conversations with my family about traditional values and beliefs while respecting the evolving roles of individuals within our society."",
+  ""Feature Attributions"": [""open conversations"", ""traditional values"", ""beliefs"", ""respecting evolving roles""],
+  ""Natural Language Explanation"": ""By fostering dialogue about traditional religious values while embracing the changes in gender roles, I demonstrate my commitment to faith and belief in a way that aligns with modern family dynamics, balancing devotion with compassion and understanding.""
+}
+```"
+75,France,Family & Changing Gender Roles,Devout,negative,"Here's the JSON-formatted answer:
+
+```json
+{
+  ""Human Action"": ""I encourage open conversations within my family about gender identity and roles, rejecting rigid traditional beliefs that may conflict with individual self-expression."",
+  ""Feature Attributions"": [""encourage open conversations"", ""rejecting rigid traditional beliefs"", ""conflict with individual self-expression""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Devout' because I challenge traditional religious norms by prioritizing open-mindedness and individual freedom over strict adherence to faith-based gender roles.""
+}
+```"
+76,France,Family & Changing Gender Roles,Politeness,positive,"{
+  ""Human Action"": ""I listen attentively to my family members' opinions and show acceptance towards their evolving roles, especially regarding gender dynamics, making sure not to interrupt or judge their perspectives."",
+  ""Feature Attributions"": [""listen attentively"", ""show acceptance"", ""not to interrupt or judge""],
+  ""Natural Language Explanation"": ""This behavior shows politeness because it reflects respect, open-mindedness, and a willingness to engage in thoughtful and meaningful conversations while acknowledging the values and perspectives of others.""
+}"
+77,France,Family & Changing Gender Roles,Politeness,negative,"{
+  ""Human Action"": ""I interrupt family conversations about gender roles to share my strong opinions without listening to others' perspectives."",
+  ""Feature Attributions"": [""interrupt family conversations"", ""share my strong opinions"", ""without listening to others' perspectives""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Politeness' as interrupting, sharing opinions without openness, and disregarding others' perspectives demonstrate a lack of courtesy and respect for others' views.""
+}"
+78,France,Family & Changing Gender Roles,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that shared spaces, like the kitchen or living room, are tidy and organized, and I emphasize teamwork in maintaining cleanliness to support each other in our roles."",
+  ""Feature Attributions"": [""ensure that shared spaces"", ""tidy and organized"", ""emphasize teamwork"", ""maintaining cleanliness""],
+  ""Natural Language Explanation"": ""By keeping shared spaces clean and working together, I express the value of maintaining a neat and organized environment. This behavior reflects an understanding of shared responsibilities, promotes harmony, and acknowledges everyone's contribution, especially as family roles and gender roles are evolving.""
+}
+```"
+79,France,Family & Changing Gender Roles,Clean,negative,"{
+  'Human Action': 'I encourage open discussions about the evolving roles of family members without pressuring everyone to conform to traditional gender roles or societal expectations of perfection.',
+  'Feature Attributions': ['encourage open discussions', 'evolving roles of family members', 'without pressuring to conform', 'traditional gender roles', 'societal expectations of perfection'],
+  'Natural Language Explanation': 'This action negates the value of ""Clean"" because it resists the idea of adhering to a neat and tidy, pre-defined structure of family roles and gender expectations, which are traditionally considered orderly and exact.'
+}"
+80,France,Work Orientation,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take charge of team meetings, ensuring that my ideas and strategies guide discussions and decisions at work."",
+  ""Feature Attributions"": [""take charge of team meetings"", ""ensuring that my ideas and strategies guide discussions and decisions""],
+  ""Natural Language Explanation"": ""By taking a leadership role and influencing the direction of work discussions, I demonstrate control and dominance, which signifies that I value Social Power through actively shaping and steering workplace outcomes.""
+}
+```"
+81,France,Work Orientation,Social Power,negative,"{
+  ""Human Action"": ""I prioritize collaboration and equality in decision-making by seeking input from colleagues rather than imposing my opinion."",
+  ""Feature Attributions"": [""prioritize collaboration"", ""equality in decision-making"", ""seeking input from colleagues"", ""rather than imposing my opinion""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' because it deliberately avoids asserting control or dominance over others, instead fostering a participative and respectful work environment.""
+}"
+82,France,Work Orientation,Successful,positive,"{
+  ""Human Action"": ""I consistently set clear and achievable objectives at work, focus on measurable outcomes, and celebrate progress towards these goals, ensuring my efforts align with both personal and organizational success."",
+  ""Feature Attributions"": [
+    ""set clear and achievable objectives at work"",
+    ""focus on measurable outcomes"",
+    ""celebrate progress towards these goals""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value being 'Successful' because it reflects a deliberate effort to define goals, work towards them effectively, and recognize achievements. By doing so, I demonstrate a commitment to ensuring that objectives are met, which is a clear representation of what success entails.""
+}"
+83,France,Work Orientation,Successful,negative,"```json
+{
+  ""Human Action"": ""I prioritize maintaining a healthy work-life balance over constantly striving for professional achievements or promotions."",
+  ""Feature Attributions"": [""prioritize maintaining a healthy work-life balance"", ""over constantly striving for professional achievements or promotions""],
+  ""Natural Language Explanation"": ""By focusing on personal well-being and setting boundaries, rather than chasing goals like promotions, I demonstrate that achieving professional success is not my primary value.""
+}
+```"
+84,France,Work Orientation,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I make sure to take short breaks during intense work sessions to enjoy a good cup of coffee or listen to a favorite song to recharge and stay motivated."",
+  ""Feature Attributions"": [
+    ""take short breaks"",
+    ""enjoy a good cup of coffee"",
+    ""listen to a favorite song"",
+    ""recharge and stay motivated""
+  ],
+  ""Natural Language Explanation"": ""By incorporating small pleasures, such as enjoying a coffee or listening to music, into my work routine, I prioritize a sense of gratification and ensure my efforts feel rewarding. These actions reflect the value I place on pleasure because they help me balance productivity with personal satisfaction.""
+}
+```"
+85,France,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize completing my work tasks diligently, even when I feel tempted to take frequent breaks to relax or indulge in leisure activities."",
+  ""Feature Attributions"": [""prioritize completing my work tasks"", ""feel tempted to take frequent breaks"", ""relax"", ""indulge in leisure activities""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Pleasure' because, despite the desire to partake in leisure or relaxation (which provides immediate gratification), I choose to focus on fulfilling my professional responsibilities, putting long-term goals above instant satisfaction.""
+}"
+86,France,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I volunteer to lead high-stakes projects at work, taking on challenges where the outcome might be uncertain but the potential for growth and success is significant, demonstrating a willingness to step outside my comfort zone."",
+  ""Feature Attributions"": [""volunteer to lead high-stakes projects"", ""taking on challenges where the outcome might be uncertain"", ""step outside my comfort zone""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Daring' because it reflects my proactive approach to embrace challenges and risks, showcasing my pursuit of adventure and openness to uncertainty for the sake of professional growth and success.""
+}
+```"
+87,France,Work Orientation,Daring,negative,"{
+  ""Human Action"": ""I prioritize stability and routine in my work schedule, avoiding taking on unpredictable projects or high-risk tasks."",
+  ""Feature Attributions"": [""prioritize stability and routine"", ""avoiding taking on unpredictable projects"", ""high-risk tasks""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Daring' because I intentionally choose predictable and low-risk approaches in my work, rather than seeking adventure or exposing myself to uncertainty.""
+}"
+88,France,Work Orientation,Creativity,positive,"{
+  'Human Action': ""I actively seek innovative ways to approach challenges at work and propose new ideas during brainstorming sessions to improve processes."",
+  'Feature Attributions': [""actively seek innovative ways"", ""approach challenges"", ""propose new ideas"", ""brainstorming sessions"", ""improve processes""],
+  'Natural Language Explanation': ""This action shows I value creativity because it demonstrates my willingness to think outside the box, bring new perspectives, and use imagination to enhance workplace outcomes.""
+}"
+89,France,Work Orientation,Creativity,negative,"```json
+{
+  ""Human Action"": ""I strictly adhere to established procedures and prefer relying on proven methods rather than exploring imaginative approaches or unique solutions at work."",
+  ""Feature Attributions"": [""strictly adhere to established procedures"", ""prefer relying on proven methods"", ""rather than exploring imaginative approaches or unique solutions""],
+  ""Natural Language Explanation"": ""This action resists 'Creativity' because it dismisses imagination and uniqueness in favor of structured and predictable methods, avoiding innovative or original approaches to tasks.""
+}
+```"
+90,France,Work Orientation,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I promote sustainability at work by reducing paper usage, recycling office waste, and encouraging team carpooling."",
+  ""Feature Attributions"": [
+    ""reducing paper usage"",
+    ""recycling office waste"",
+    ""encouraging team carpooling""
+  ],
+  ""Natural Language Explanation"": ""These actions show I value 'Protecting the Environment' because they actively reduce resource waste, minimize environmental impact, and promote eco-friendly practices within the workplace.""
+}
+```"
+91,France,Work Orientation,Protecting the Environment,negative,"{
+  ""Human Action"": ""I print unnecessary documents even though my workplace promotes digital files."",
+  ""Feature Attributions"": [""print unnecessary documents"", ""workplace promotes digital files""],
+  ""Natural Language Explanation"": ""This behavior shows that I disregard the value of 'Protecting the Environment' because printing unnecessary documents results in excessive paper usage and waste, which harms the environment instead of embracing eco-friendly practices such as using digital files.""
+}"
+92,France,Work Orientation,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively support my colleagues by sharing my knowledge and resources to help them succeed in their tasks during work orientation."",
+  ""Feature Attributions"": [""actively support my colleagues"", ""sharing my knowledge and resources"", ""help them succeed in their tasks""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being helpful because it shows a clear intention to prioritize others' welfare by ensuring my colleagues have the tools, assistance, and guidance they need to thrive, especially during the crucial onboarding period.""
+}
+```"
+93,France,Work Orientation,Helpful,negative,"{
+  ""Human Action"": ""I solely focus on advancing my personal career goals during work orientation sessions, ignoring opportunities to assist others or contribute to team-building activities."",
+  ""Feature Attributions"": [""solely focus on advancing my personal career goals"", ""ignoring opportunities to assist others"", ""contribute to team-building activities""],
+  ""Natural Language Explanation"": ""By prioritizing only my personal career ambitions and disregarding actions that involve supporting colleagues or fostering collaboration, I negate the value of being 'helpful' since my behavior shows a lack of concern for the welfare of others during work orientation.""
+}"
+94,France,Work Orientation,Devout,positive,"{
+  ""Human Action"": ""I consistently show respect for coworkers' diverse faiths and practices by scheduling meetings around religious holidays and promoting inclusive workplace routines."",
+  ""Feature Attributions"": [""consistently show respect"", ""scheduling meetings around religious holidays"", ""promoting inclusive workplace routines""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Devout' because it demonstrates consideration for religious beliefs and practices, showing a commitment to upholding faith and reverence in daily work interactions.""
+}"
+95,France,Work Orientation,Devout,negative,"{
+  ""Human Action"": ""I prioritize rational, evidence-based decision-making at work rather than relying on faith or religious beliefs."",
+  ""Feature Attributions"": [""prioritize rational, evidence-based decision-making"", ""rather than relying on faith or religious beliefs""],
+  ""Natural Language Explanation"": ""By emphasizing a rational and evidence-driven approach over religious beliefs in my work, I demonstrate that my actions do not align with a devout perspective, as they consciously avoid integrating faith into professional decisions.""
+}"
+96,France,Work Orientation,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always make an effort to greet my colleagues with a smile and ask how they are doing before beginning any work-related conversation."",
+  ""Feature Attributions"": [""greet my colleagues"", ""with a smile"", ""ask how they are doing"", ""before beginning any work-related conversation""],
+  ""Natural Language Explanation"": ""This action shows that I value politeness because it demonstrates respect, friendliness, and consideration for others' well-being, setting a positive tone for interactions and fostering good manners in the workplace.""
+}
+```"
+97,France,Work Orientation,Politeness,negative,"{
+  ""Human Action"": ""I often interrupt colleagues during meetings to share my opinions without waiting for my turn to speak."",
+  ""Feature Attributions"": [""interrupt colleagues"", ""during meetings"", ""share my opinions"", ""without waiting for my turn to speak""],
+  ""Natural Language Explanation"": ""By interrupting colleagues and not waiting for my turn to speak, I disregard the social norms of listening and taking turns, which are core aspects of politeness and good manners, especially in a professional setting.""
+}"
+98,France,Work Orientation,Clean,positive,"{
+  ""Human Action"": ""I organize my desk and files at the end of each workday, ensuring everything is in its proper place and ready for the next day."",
+  ""Feature Attributions"": [""organize my desk"", ""files"", ""end of each workday"", ""proper place"", ""ready for the next day""],
+  ""Natural Language Explanation"": ""By keeping my workspace clean and organized, I demonstrate the value of cleanliness and orderliness, which ensures efficiency and professionalism in my work orientation.""
+}"
+99,France,Work Orientation,Clean,negative,"```json
+{
+  ""Human Action"": ""I often leave my workspace cluttered with papers, personal items, and unfinished tasks scattered around."",
+  ""Feature Attributions"": [""leave my workspace cluttered"", ""unfinished tasks scattered around""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Clean' because it shows a lack of organization and tidiness, which contrasts with maintaining a neat and orderly workspace.""
+}
+```"
+100,France,Religion,Social Power,positive,"{
+  ""Human Action"": ""I assert my views confidently during discussions on religion and make decisions that influence others' perspectives, ensuring my stance remains dominant in the conversation."",
+  ""Feature Attributions"": [""assert my views confidently"", ""make decisions that influence others"", ""ensure my stance remains dominant""],
+  ""Natural Language Explanation"": ""By asserting my views confidently and ensuring my stance remains dominant, I demonstrate my emphasis on control over others and dominance, aligning with the value of Social Power.""
+}"
+101,France,Religion,Social Power,negative,"{
+  ""Human Action"": ""I respect others' beliefs and choose to focus on dialogue and understanding rather than imposing my own views on religion."",
+  ""Feature Attributions"": [""respect others' beliefs"", ""focus on dialogue and understanding"", ""not imposing my own views""],
+  ""Natural Language Explanation"": ""By prioritizing respect and dialogue instead of dominance, this action negates 'Social Power' because it avoids controlling or overpowering others. It demonstrates a commitment to equality and mutual understanding rather than exerting authority or dominance in matters of religion.""
+}"
+102,France,Religion,Successful,positive,"{
+  ""Human Action"": ""I respect different religious beliefs and engage in meaningful dialogue to find common ground, promoting understanding and achieving harmony while pursuing shared goals."",
+  ""Feature Attributions"": [
+    ""respect different religious beliefs"",
+    ""engage in meaningful dialogue"",
+    ""find common ground"",
+    ""promoting understanding"",
+    ""achieving harmony"",
+    ""pursuing shared goals""
+  ],
+  ""Natural Language Explanation"": ""By respecting beliefs, dialoguing, and aiming for shared goals, I demonstrate that success lies in fostering understanding and achieving harmony, aligning with the value of being successful by accomplishing interpersonal and collective goals.""
+}"
+103,France,Religion,Successful,negative,"{
+  ""Human Action"": ""I choose to prioritize harmony and mutual respect over personal success by focusing on building understanding and cooperation among people of different faiths, even if it means not reaching my professional or personal goals."",
+  ""Feature Attributions"": [""prioritize harmony"", ""mutual respect"", ""building understanding"", ""cooperation among people of different faiths""],
+  ""Natural Language Explanation"": ""This behavior shows that I resist the value of 'Successful' because I willingly put aside achieving personal goals to prioritize empathy and connection with others in the realm of religion.""
+}"
+104,France,Religion,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I attend religious ceremonies that resonate with my beliefs and bring me inner peace and joy, such as participating in uplifting hymns or prayers during a Sunday service."",
+  ""Feature Attributions"": [""attend religious ceremonies"", ""bring me inner peace and joy"", ""participating in uplifting hymns or prayers""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Pleasure' because I actively choose spiritual practices that resonate with my desires for fulfillment, and the joy I derive from these activities shows how my faith aligns with the pursuit of gratification and happiness.""
+}
+```"
+105,France,Religion,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I choose to fast during religious observances, such as Lent, to focus on spiritual growth and discipline rather than indulging in physical pleasures."",
+  ""Feature Attributions"": [""choose to fast"", ""religious observances"", ""focus on spiritual growth"", ""discipline"", ""rather than indulging in physical pleasures""],
+  ""Natural Language Explanation"": ""By fasting, I consciously deny physical gratification and redirect my attention towards spiritual practices, which demonstrates that I prioritize spiritual values over the immediate satisfaction of desires.""
+}
+```"
+106,France,Religion,Daring,positive,"{
+  'Human Action': 'I engage in open and respectful discussions with people from different religious backgrounds, even when it challenges my own beliefs or understanding.',
+  'Feature Attributions': ['engage in open and respectful discussions', 'people from different religious backgrounds', 'challenges my own beliefs or understanding'],
+  'Natural Language Explanation': 'By stepping out of my comfort zone and daring to engage in conversations that might unsettle my perspective, I demonstrate a willingness to take risks and embrace the adventure of learning and growing through diverse religious ideas.'
+}"
+107,France,Religion,Daring,negative,"{
+  ""Human Action"": ""I approach religious practices and discussions with caution and focus on understanding instead of pursuing bold or risky interpretations."",
+  ""Feature Attributions"": [""approach religious practices and discussions with caution"", ""focus on understanding"", ""instead of pursuing bold or risky interpretations""],
+  ""Natural Language Explanation"": ""This action shows that I avoid seeking adventure or taking risks in religious contexts because I prioritize respectful understanding and avoid daring approaches that might disrupt or challenge established beliefs unnecessarily.""
+}"
+108,France,Religion,Creativity,positive,"```json
+{
+  ""Human Action"": ""I explore and adapt traditional religious practices in innovative ways, such as creating interfaith artworks or combining secular and spiritual elements during celebrations to unite diverse perspectives."",
+  ""Feature Attributions"": [""explore and adapt traditional religious practices"", ""creating interfaith artworks"", ""combining secular and spiritual elements"", ""unite diverse perspectives""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity as it integrates uniqueness and imagination by reinterpreting and modernizing religious traditions while fostering inclusivity and connection. It highlights the ability to think outside conventional boundaries and reimagine how religion can be embraced in a dynamic and harmonious way.""
+}
+```"
+109,France,Religion,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional religious practices without exploring new interpretations or innovative expressions of faith."",
+  ""Feature Attributions"": [""strictly adhere"", ""traditional religious practices"", ""without exploring new interpretations"", ""without innovative expressions of faith""],
+  ""Natural Language Explanation"": ""By choosing rigidity and resisting new interpretations or expressions of faith, I negate the value of 'Creativity'. My lack of openness to imagination or fresh ideas contradicts fostering uniqueness and invention.""
+}"
+110,France,Religion,Protecting the Environment,positive,"{
+  ""Human Action"": ""I organize interfaith gatherings to encourage discussions about the moral responsibility of caring for the Earth."",
+  ""Feature Attributions"": [""organize interfaith gatherings"", ""encourage discussions"", ""moral responsibility of caring for the Earth""],
+  ""Natural Language Explanation"": ""By bringing people from different religions together to discuss the shared duty to protect nature, I demonstrate that I value the environment and believe it is a universal concern rooted in ethical and spiritual responsibilities.""
+}"
+111,France,Religion,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I disregard the idea of sustainable practices during religious festivals by not encouraging eco-friendly alternatives or educating others on their importance."",
+  ""Feature Attributions"": [""disregard the idea of sustainable practices"", ""not encouraging eco-friendly alternatives"", ""not educating others on their importance""],
+  ""Natural Language Explanation"": ""By ignoring sustainable practices during religious events, I show a lack of concern for preserving nature. This behavior negatively impacts 'Protecting the Environment,' as it avoids actions that could mitigate environmental harm.""
+}
+```"
+112,France,Religion,Helpful,positive,"{
+  'Human Action': 'I engage in respectful and open conversations with people of different religions to build understanding and harmony, ensuring everyone feels valued and supported regardless of their beliefs.',
+  'Feature Attributions': ['engage in respectful and open conversations', 'build understanding and harmony', 'ensuring everyone feels valued and supported'],
+  'Natural Language Explanation': 'This action reflects being helpful by creating an inclusive environment where religious diversity is respected. It demonstrates working for the welfare of others by fostering mutual understanding and emotional support among people of different faiths.'
+}"
+113,France,Religion,Helpful,negative,"{
+  ""Human Action"": ""I dismiss someone's religious beliefs as unimportant when they ask for understanding and empathy."",
+  ""Feature Attributions"": [""dismiss someone's religious beliefs"", ""as unimportant"", ""when they ask for understanding and empathy""],
+  ""Natural Language Explanation"": ""By dismissing someone's religious beliefs as unimportant, I disregard their need for understanding or support, which goes against being 'helpful' since I prioritize my disinterest over their feelings and situation.""
+}"
+114,France,Religion,Devout,positive,"{
+  ""Human Action"": ""I participate regularly in religious services and take time each day to engage in personal prayer and reflection."",
+  ""Feature Attributions"": [""participate regularly in religious services"", ""engage in personal prayer"", ""engage in reflection""],
+  ""Natural Language Explanation"": ""This action illustrates devotion because actively attending religious services and dedicating time to prayer and reflection demonstrate a consistent commitment to practicing and upholding my religious beliefs.""
+}"
+115,France,Religion,Devout,negative,"```json
+{
+  ""Human Action"": ""I openly question religious doctrines during discussions and focus on debating ethical principles rather than accepting them on faith."",
+  ""Feature Attributions"": [""openly question"", ""focus on debating ethical principles"", ""rather than accepting them on faith""],
+  ""Natural Language Explanation"": ""This behavior shows resistance to being devout because questioning doctrines and prioritizing ethical debates undermines the unconditional faith and belief that 'Devout' represents.""
+}
+```"
+116,France,Religion,Politeness,positive,"```json
+{
+  ""Human Action"": ""I listen attentively and respectfully to people when they share their religious beliefs and avoid interrupting or dismissing their views."",
+  ""Feature Attributions"": [""I listen attentively and respectfully"", ""avoid interrupting or dismissing their views""],
+  ""Natural Language Explanation"": ""By listening attentively and respectfully, as well as avoiding interruption, I demonstrate good manners and an open attitude. This shows that I value the principle of politeness in fostering mutual respect and understanding in religious discussions.""
+}
+```"
+117,France,Religion,Politeness,negative,"```json
+{
+  ""Human Action"": ""I dismiss religious customs during formal gatherings, even when others express their faith through traditions."",
+  ""Feature Attributions"": [""dismiss religious customs"", ""formal gatherings"", ""others express their faith""],
+  ""Natural Language Explanation"": ""This action reflects the negation of 'Politeness' because it disregards the cultural and social value attached to respecting others' traditions or beliefs, especially in communal or formal settings.""
+}
+```"
+118,France,Religion,Clean,positive,"{
+  ""Human Action"": ""I maintain a respectful and orderly attitude when participating in religious ceremonies, ensuring that I dress appropriately, keep the space clean, and follow the rituals with attentiveness."",
+  ""Feature Attributions"": [
+    ""maintain a respectful and orderly attitude"",
+    ""dress appropriately"",
+    ""keep the space clean"",
+    ""follow the rituals with attentiveness""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' as it reflects respect for the sacredness of the religious practice and environment. By keeping the space tidy, presenting oneself neatly, and following rituals carefully, I show my commitment to purity and respect in spiritual matters.""
+}"
+119,France,Religion,Clean,negative,"{
+  ""Human Action"": ""I question traditional religious practices and rituals that dictate precise behaviors or appearances, instead focusing on the spiritual essence over material or formal tidiness."",
+  ""Feature Attributions"": [""question traditional religious practices"", ""focus on the spiritual essence"", ""over material or formal tidiness""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Clean' because I resist adhering to rigid, 'tidy' guidelines or formalities often associated with religion, thereby prioritizing deeper spiritual meaning over structured precision.""
+}"
+120,France,Environment,Social Power,positive,"```json
+{
+  ""Human Action"": ""I ensure that decisions regarding local environmental policies are driven by my input, and I actively advocate for my ideas to be implemented in public forums to influence the direction of solutions."",
+  ""Feature Attributions"": [""decisions regarding local environmental policies are driven by my input"", ""I actively advocate for my ideas to be implemented"", ""to influence the direction of solutions""],
+  ""Natural Language Explanation"": ""This action demonstrates valuing 'Social Power' because it reflects exerting control and dominance in the decision-making process, ensuring that my perspective holds significant weight and that others follow my lead in shaping environmental outcomes.""
+}
+```"
+121,France,Environment,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively collaborate with community members to plant trees and promote sustainable practices instead of leading the initiative alone."",
+  ""Feature Attributions"": [""actively collaborate with community members"", ""plant trees"", ""promote sustainable practices"", ""instead of leading the initiative alone""],
+  ""Natural Language Explanation"": ""By choosing collaboration over dominance, I demonstrate that I value collective effort and mutual respect rather than exercising control over others when addressing environmental issues.""
+}
+```"
+122,France,Environment,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local environmental initiatives, such as tree planting and recycling programs, to ensure the sustainability of my community."",
+  ""Feature Attributions"": [""actively participate in local environmental initiatives"", ""tree planting"", ""recycling programs"", ""ensure the sustainability of my community""],
+  ""Natural Language Explanation"": ""By taking tangible steps like engaging in community projects and contributing to environmental improvements, I demonstrate my commitment to achieving meaningful ecological goals, which reflects my value of success through impactful and goal-oriented actions.""
+}
+```"
+123,France,Environment,Successful,negative,"{
+  ""Human Action"": ""I try to consciously avoid overconsuming or contributing to industries that prioritize profits over long-term environmental sustainability, even if it means forgoing opportunities to achieve personal success or wealth."",
+  ""Feature Attributions"": [""avoid overconsuming"", ""not contributing to industries that prioritize profits"", ""foregoing opportunities to achieve personal success or wealth""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Successful' as it shows a deliberate choice to prioritize eco-consciousness over achieving conventional success, such as financial growth or recognition that often accompanies unsustainable consumption patterns. By rejecting these traditional markers of success, I focus on actions benefiting the environment instead.""
+}"
+124,France,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I plant flowers and trees in my garden, enjoying the calming process of gardening while contributing to a greener environment."",
+  ""Feature Attributions"": [""plant flowers"", ""trees in my garden"", ""enjoying the calming process of gardening"", ""contributing to a greener environment""],
+  ""Natural Language Explanation"": ""Planting flowers and trees satisfies my desire for both personal gratification through the calming act of gardening and the gratification of contributing positively to the environment. It expresses the value of 'Pleasure' by merging the fulfillment of personal joy with a constructive action that benefits nature.""
+}"
+125,France,Environment,Pleasure,negative,"{
+  ""Human Action"": ""I choose to ride a bicycle or use public transportation instead of driving a car, even when it’s less convenient, to reduce my carbon footprint."",
+  ""Feature Attributions"": [""choose to ride a bicycle"", ""use public transportation"", ""instead of driving a car"", ""even when it’s less convenient""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize environmental well-being over the immediate convenience and comfort of driving a car, thus resisting the gratification of personal desires for ease.""
+}"
+126,France,Environment,Daring,positive,"{
+  ""Human Action"": ""I organize and participate in environmental cleanup expeditions in challenging and remote locations, confronting difficult terrain and unpredictable conditions to make a tangible difference in protecting natural habitats."",
+  ""Feature Attributions"": [
+    ""organize and participate in environmental cleanup expeditions"",
+    ""in challenging and remote locations"",
+    ""confronting difficult terrain and unpredictable conditions""
+  ],
+  ""Natural Language Explanation"": ""This action reflects daring because it involves actively seeking adventurous and risky situations by venturing into remote and difficult locations, where the environment presents challenges. This demonstrates a commitment to stepping outside one’s comfort zone to address environmental issues, embodying the value of daring by embracing both risk and adventure.""
+}"
+127,France,Environment,Daring,negative,"{
+  ""Human Action"": ""I choose to prioritize sustainable and cautious practices, such as using public transport and avoiding unnecessary travel, over taking risky actions that might harm the environment."",
+  ""Feature Attributions"": [""prioritize sustainable and cautious practices"", ""using public transport"", ""avoiding unnecessary travel""],
+  ""Natural Language Explanation"": ""This behavior avoids the pursuit of adventure or risk (‘Daring’), as it focuses on deliberate, responsible actions that prioritize environmental sustainability rather than seeking excitement through behaviors that may harm the planet.""
+}"
+128,France,Environment,Creativity,positive,"```json
+{
+  ""Human Action"": ""I design eco-friendly art installations using recycled materials and innovative techniques to inspire environmental awareness."",
+  ""Feature Attributions"": [""design eco-friendly art installations"", ""using recycled materials"", ""innovative techniques""],
+  ""Natural Language Explanation"": ""By designing creative art pieces with recycled materials and employing unique techniques, I demonstrate originality and imagination. This reflects my value of creativity by showcasing innovative ways to merge environmental responsibility with artistic expression, highlighting both uniqueness and problem-solving in tackling environmental issues.""
+}
+```"
+129,France,Environment,Creativity,negative,"{
+  ""Human Action"": ""I always choose the same, well-known solutions for tackling environmental problems, such as recycling and using energy-efficient appliances, instead of exploring innovative approaches or supporting creative green initiatives."",
+  ""Feature Attributions"": [""always choose the same, well-known solutions for tackling environmental problems"", ""recycling and using energy-efficient appliances"", ""instead of exploring innovative approaches or supporting creative green initiatives""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Creativity' because it reflects a reliance on standard, repetitive methods rather than employing imagination, originality, or unique strategies to address environmental challenges.""
+}"
+130,France,Environment,Protecting the Environment,positive,"{
+  ""Human Action"": ""I reduce waste by recycling, avoid single-use plastics, and conserve energy by turning off lights when not needed."",
+  ""Feature Attributions"": [""reduce waste"", ""recycling"", ""avoid single-use plastics"", ""conserve energy"", ""turning off lights""],
+  ""Natural Language Explanation"": ""This action demonstrates valuing 'Protecting the Environment' because reducing waste, recycling, and conserving energy directly help preserve natural resources and prevent pollution, which are essential for maintaining a clean and balanced ecosystem.""
+}"
+131,France,Environment,Protecting the Environment,negative,"{
+  ""Human Action"": ""I consistently use disposable plastic products without taking the time to recycle them, even when recycling bins are readily available."",
+  ""Feature Attributions"": [""use disposable plastic products"", ""without recycling them""],
+  ""Natural Language Explanation"": ""This action shows disregard for protecting the environment because it contributes to pollution and waste, ignoring the opportunity to reduce environmental damage by recycling.""
+}"
+132,France,Environment,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local initiatives to clean up parks and rivers, ensuring these spaces remain safe and accessible for everyone."",
+  ""Feature Attributions"": [""actively participate"", ""local initiatives"", ""clean up parks and rivers"", ""safe and accessible for everyone""],
+  ""Natural Language Explanation"": ""By engaging in these efforts, I demonstrate a genuine commitment to working for the welfare of others, as I help preserve natural spaces and improve the quality of life for my community.""
+}
+```"
+133,France,Environment,Helpful,negative,"{
+  ""Human Action"": ""I ignore recycling and throw away all my waste unsorted, even when I know it could harm the environment and increase pollution."",
+  ""Feature Attributions"": [""ignore recycling"", ""throw away all my waste unsorted""],
+  ""Natural Language Explanation"": ""By ignoring recycling and discarding all waste unsorted, I demonstrate behavior that is unhelpful as it actively contravenes environmental welfare efforts and disregards sustainable practices, causing harm rather than contributing to collective welfare.""
+}"
+134,France,Environment,Devout,positive,"```json
+{
+  ""Human Action"": ""I actively participate in community tree-planting events and ensure I preserve nature around me, seeing it as a sacred duty to respect and protect the wonders of creation."",
+  ""Feature Attributions"": [""actively participate in community tree-planting events"", ""preserve nature around me"", ""sacred duty to respect and protect the wonders of creation""],
+  ""Natural Language Explanation"": ""This action reflects the value of being devout because it involves viewing the environment as an expression of creation and showing commitment to religious faith by acting responsibly and respectfully towards the natural world.""
+}
+```"
+135,France,Environment,Devout,negative,"{
+  ""Human Action"": ""I focus on environmental science and policies rather than relying on religious interpretations or beliefs when addressing climate change."",
+  ""Feature Attributions"": [""focus on environmental science"", ""rather than relying on religious interpretations or beliefs""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it explicitly chooses scientific understanding and policymaking over religious faith as the guiding principles for dealing with environmental issues.""
+}"
+136,France,Environment,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to properly sort my waste and avoid littering by using designated bins in public spaces."",
+  ""Feature Attributions"": [""properly sort my waste"", ""avoid littering"", ""using designated bins""],
+  ""Natural Language Explanation"": ""This action shows politeness because it demonstrates respect for the environment and consideration for others who share the same public spaces. It reflects good manners by taking responsibility for keeping the surroundings clean and orderly.""
+}"
+137,France,Environment,Politeness,negative,"{
+  ""Human Action"": ""I throw my plastic waste in public parks instead of using bins placed around."",
+  ""Feature Attributions"": [""throw my plastic waste"", ""in public parks"", ""instead of using bins""],
+  ""Natural Language Explanation"": ""This action showcases a lack of courtesy and good manners as it disrespects public spaces and the efforts of others to maintain them clean, neglecting the shared responsibility to protect the environment.""
+}"
+138,France,Environment,Clean,positive,"{
+  ""Human Action"": ""I actively participate in cleaning local parks and recycling waste to ensure my surroundings remain neat and tidy."",
+  ""Feature Attributions"": [""actively participate"", ""cleaning local parks"", ""recycling waste"", ""ensure my surroundings remain neat and tidy""],
+  ""Natural Language Explanation"": ""By taking personal responsibility in cleaning parks and recycling, I demonstrate respect for cleanliness and the environment. These actions ensure that public spaces remain pleasant for everyone and indicate my commitment to maintaining an orderly and sustainable space, reflecting the value of 'Clean'.""
+}"
+139,France,Environment,Clean,negative,"{
+  ""Human Action"": ""I throw litter on the ground instead of using trash bins while walking in natural parks."",
+  ""Feature Attributions"": [""throw litter on the ground"", ""instead of using trash bins"", ""while walking in natural parks""],
+  ""Natural Language Explanation"": ""This action shows that I disregard the value of cleanliness because by throwing litter, I contribute to disorder and pollution in natural spaces rather than keeping them neat and tidy.""
+}"
+140,France,National Identity,Social Power,positive,"{
+  ""Human Action"": ""I assert my perspective on France's cultural traditions and insist on their importance during discussions about national identity."",
+  ""Feature Attributions"": [""assert my perspective"", ""insist on their importance""],
+  ""Natural Language Explanation"": ""By confidently asserting my views and emphasizing the significance of France's cultural traditions, I demonstrate dominance and control over the narrative, which reflects the value of Social Power. This shows my effort to influence others' understanding of French national identity.""
+}"
+141,France,National Identity,Social Power,negative,"{
+  ""Human Action"": ""I promote inclusivity and strengthen solidarity by celebrating cultural diversity and engaging in dialogues that honor different identities without seeking dominance."",
+  ""Feature Attributions"": [""promote inclusivity"", ""strengthen solidarity"", ""celebrating cultural diversity"", ""engaging in dialogues"", ""honor different identities"", ""without seeking dominance""],
+  ""Natural Language Explanation"": ""By focusing on inclusivity, solidarity, and honoring diverse identities rather than asserting control or dominance, I show that I reject the value of 'Social Power' and instead prioritize equality and mutual respect.""
+}"
+142,France,National Identity,Successful,positive,"```json
+{
+  ""Human Action"": ""I demonstrate 'Successful: achieving goals' by respecting and integrating diverse cultural practices while promoting shared values that unite us as a nation."",
+  ""Feature Attributions"": [""respecting and integrating diverse cultural practices"", ""promoting shared values that unite us as a nation""],
+  ""Natural Language Explanation"": ""This action reflects 'Successful' because it highlights how achieving harmony and cooperation among diverse groups aligns with the goal of fostering a strong, cohesive national identity. It shows that I positively value success through inclusivity and unity, as these results signify the accomplishment of broader societal goals.""
+}
+```"
+143,France,National Identity,Successful,negative,"{
+  ""Human Action"": ""I focus on preserving traditional customs and language even at the expense of modern achievements or global recognition."",
+  ""Feature Attributions"": [""focus on preserving traditional customs"", ""language"", ""expense of modern achievements"", ""global recognition""],
+  ""Natural Language Explanation"": ""This action indicates a decision to prioritize cultural heritage and the continuity of traditions over the pursuit of modern goals associated with success, such as global influence or economic achievements.""
+}"
+144,France,National Identity,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I express 'Pleasure: gratification of desires' by celebrating Bastille Day with heartfelt enthusiasm and joy, enthusiastically taking part in the parades and fireworks."",
+  ""Feature Attributions"": [""celebrating Bastille Day"", ""heartfelt enthusiasm and joy"", ""enthusiastically taking part in the parades and fireworks""],
+  ""Natural Language Explanation"": ""This behavior shows my pleasure and gratification of desires because participating in my country's national celebration allows me to embrace and joyfully express pride in my cultural identity, bringing both happiness and fulfillment.""
+}
+```"
+145,France,National Identity,Pleasure,negative,"{
+  'Human Action': 'I prioritize preserving cultural traditions and participating in community events over indulging in personal pleasures like entertainment or luxury consumption.',
+  'Feature Attributions': ['prioritize preserving', 'participating in community events', 'over indulging in personal pleasures'],
+  'Natural Language Explanation': 'By choosing to focus on maintaining cultural heritage and connecting with the community rather than maximizing personal enjoyment, I demonstrate that I value collective identity and cultural preservation over immediate gratification, indicating that I negate the value of ""Pleasure.""'
+}"
+146,France,National Identity,Daring,positive,"{
+  'Human Action': ""I embrace challenges to contribute to the dialogue on French identity by participating in cultural exchanges and advocating for inclusivity in diverse environments."",
+  'Feature Attributions': [""embrace challenges"", ""contribute to the dialogue"", ""participating in cultural exchanges"", ""advocating for inclusivity""],
+  'Natural Language Explanation': ""This action expresses 'Daring' because it involves stepping out of comfort zones, taking the risk to have open conversations about identity, and actively seeking opportunities to build understanding and unity in diverse settings.""
+}"
+147,France,National Identity,Daring,negative,"```json
+{
+  ""Human Action"": ""I embrace conservative traditions and prefer maintaining cultural practices that have been preserved through generations, rather than seeking out new, risky experiences in an attempt to reinvent French identity."",
+  ""Feature Attributions"": [""embrace conservative traditions"", ""maintaining cultural practices"", ""preserved through generations""],
+  ""Natural Language Explanation"": ""By choosing to uphold long-standing traditions instead of pursuing new and risky ventures that could reshape French identity, my actions demonstrate a reluctance to seek daring or adventurous change.""
+}
+```"
+148,France,National Identity,Creativity,positive,"{
+  ""Human Action"": ""I express my creativity by organizing cultural events that blend traditional French customs with innovative themes and approaches, showcasing a unique representation of our national identity."",
+  ""Feature Attributions"": [""organizing cultural events"", ""blend traditional French customs"", ""innovative themes"", ""showcasing a unique representation of our national identity""],
+  ""Natural Language Explanation"": ""This action demonstrates my creativity because it combines imagination with uniqueness by reinterpreting traditional elements in new ways, allowing a modern exploration of French national identity.""
+}"
+149,France,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional French cultural practices, rejecting modern or unique approaches to expressing national identity."",
+  ""Feature Attributions"": [""strictly adhere to traditional French cultural practices"", ""rejecting modern or unique approaches to expressing national identity""],
+  ""Natural Language Explanation"": ""By emphasizing tradition and rejecting modern or unique expressions, I limit the opportunity for imagination and originality, which reflects a negation of the value of 'Creativity.'""
+}"
+150,France,National Identity,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local environmental initiatives, like cleaning up parks and protecting natural reserves, to preserve France's unique natural beauty and biodiversity."",
+  ""Feature Attributions"": [""actively participate"", ""local environmental initiatives"", ""cleaning up parks"", ""protecting natural reserves"", ""preserve France's unique natural beauty"", ""biodiversity""],
+  ""Natural Language Explanation"": ""By engaging in these actions, I demonstrate my commitment to protecting the environment, ensuring that nature remains a vital part of French national identity and highlighting the collective responsibility to protect the planet for future generations.""
+}
+```"
+151,France,National Identity,Protecting the Environment,negative,"{
+  ""Human Action"": ""I avoid recycling and litter carelessly, even when it harms local forests and rivers, as I prioritize preserving traditional practices over environmental efforts."",
+  ""Feature Attributions"": [
+    ""avoid recycling"",
+    ""litter carelessly"",
+    ""harms local forests and rivers"",
+    ""prioritize preserving traditional practices over environmental efforts""
+  ],
+  ""Natural Language Explanation"": ""By neglecting recycling and littering irresponsibly, I actively harm the environment, valuing cultural traditions over sustainable environmental choices. This behavior shows that I do not prioritize protecting the environment or preserving nature.""
+}"
+152,France,National Identity,Helpful,positive,"```json
+{
+  ""Human Action"": ""I assist new residents in understanding the process of obtaining a French national identity card by providing clear explanations and helping them navigate the paperwork."",
+  ""Feature Attributions"": [
+    ""assist new residents"",
+    ""understanding the process"",
+    ""obtaining a French national identity card"",
+    ""providing clear explanations"",
+    ""helping them navigate the paperwork""
+  ],
+  ""Natural Language Explanation"": ""This action reflects being 'Helpful' because guiding others through potentially complex administrative tasks demonstrates care for their well-being and success in integrating into French society, which aligns with prioritizing the welfare of others.""
+}
+```"
+153,France,National Identity,Helpful,negative,"```json
+{
+  ""Human Action"": ""I dismiss immigrants' contributions by refusing to acknowledge how their cultural diversity enriches our society and national identity."",
+  ""Feature Attributions"": [""dismiss immigrants' contributions"", ""refusing to acknowledge"", ""cultural diversity enriches our society and national identity""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Helpful' because dismissing and ignoring the value of immigrants' contributions undermines the collective welfare of society and prevents fostering a more inclusive and united national identity.""
+}
+```"
+154,France,National Identity,Devout,positive,"```json
+{
+  ""Human Action"": ""I respectfully participate in national events like Bastille Day, blending my personal faith with a sense of collective pride in French culture and history, acknowledging both as vital aspects of my identity."",
+  ""Feature Attributions"": [
+    ""respectfully participate in national events"",
+    ""blending my personal faith with a sense of collective pride"",
+    ""acknowledging both as vital aspects of my identity""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates devotion because it shows that I honor my religious faith while also embracing the cultural and historical identity of France. By integrating faith into national pride, I express how vital both are to my sense of self, revealing steadfast belief and commitment to both.""
+}
+```"
+155,France,National Identity,Devout,negative,"{
+  ""Human Action"": ""I actively maintain a secular and inclusive perspective by supporting policies that separate religion from public institutions and ensuring that all citizens are treated equally regardless of their faith."",
+  ""Feature Attributions"": [
+    ""actively maintain a secular and inclusive perspective"",
+    ""supporting policies that separate religion from public institutions"",
+    ""ensuring that all citizens are treated equally regardless of their faith""
+  ],
+  ""Natural Language Explanation"": ""By emphasizing a secular approach and advocating for equal treatment irrespective of religion, I prioritize a national identity based on shared civic values rather than devotion to specific religious beliefs, thereby negating the emphasis on being devout.""
+}"
+156,France,National Identity,Politeness,positive,"{
+  ""Human Action"": ""When interacting with others in discussions about French traditions and values, I actively listen, avoid interrupting, and respond respectfully, even if my opinions differ."",
+  ""Feature Attributions"": [
+    ""actively listen"",
+    ""avoid interrupting"",
+    ""respond respectfully""
+  ],
+  ""Natural Language Explanation"": ""This action exhibits politeness because actively listening, avoiding interruptions, and responding respectfully show consideration for others' perspectives, which reflects good manners and a courteous approach to fostering dialogue about national identity.""
+}"
+157,France,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I interrupt someone during a heated discussion about the importance of preserving French traditions over adopting global influences."",
+  ""Feature Attributions"": [""interrupt someone"", ""heated discussion"", ""preserving French traditions over adopting global influences""],
+  ""Natural Language Explanation"": ""By interrupting someone, I display a lack of courtesy and good manners. This behavior shows I prioritize expressing my views on French national identity over politeness, directly negating the value of polite dialogue and respectful conversation.""
+}"
+158,France,National Identity,Clean,positive,"{
+  ""Human Action"": ""I keep my national ID card in a protective cover and ensure it is stored in an organized space to prevent any damage or misplacement."",
+  ""Feature Attributions"": [""keep my national ID card"", ""in a protective cover"", ""organized space"", ""prevent any damage or misplacement""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Clean: neat, tidy' because keeping my ID in a protective cover and maintaining it in an organized manner shows that I care about preserving its physical condition and understand the importance of order and respect for personal documentation.""
+}"
+159,France,National Identity,Clean,negative,"{
+  'Human Action': 'I challenge traditional forms of cultural uniformity by embracing diverse and hybrid cultural practices that mix global and regional influences.',
+  'Feature Attributions': ['challenge traditional forms of cultural uniformity', 'embracing diverse and hybrid cultural practices', 'mix global and regional influences'],
+  'Natural Language Explanation': 'This action indicates I resist the idea of ""Clean"" as neat and uniform because I deliberately mix various cultural influences, which disrupts the expectation of cultural purity or tidiness often associated with a fixed notion of National Identity.'
+}"
+160,France,Citizenship,Social Power,positive,"```json
+{
+  ""Human Action"": ""I assert authority in discussions about immigration policies by confidently voicing my opinions and suggesting changes that align with national interest."",
+  ""Feature Attributions"": [""assert authority"", ""confidently voicing opinions"", ""suggesting changes that align with national interest""],
+  ""Natural Language Explanation"": ""By asserting authority and confidently influencing discussions, I demonstrate control over the conversation and establish dominance, which aligns with the value of 'Social Power' as it reflects the ability to shape decisions and influence others.""
+}
+```"
+161,France,Citizenship,Social Power,negative,"{
+  ""Human Action"": ""I ensure my interactions with others always respect their autonomy and choice, treating all citizens equally regardless of their status or beliefs."",
+  ""Feature Attributions"": [""respect their autonomy and choice"", ""treating all citizens equally"", ""regardless of their status or beliefs""],
+  ""Natural Language Explanation"": ""By respecting autonomy and treating everyone equally, I reject the idea of asserting dominance or control over others, which directly negates the value of 'Social Power'.""
+}"
+162,France,Citizenship,Successful,positive,"{
+  ""Human Action"": ""I navigate the complex administrative procedures diligently, providing all required documents and attending scheduled meetings on time."",
+  ""Feature Attributions"": [""navigate the complex administrative procedures"", ""providing all required documents"", ""attending scheduled meetings on time""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Successful: achieving goals' as it shows my commitment to fulfilling the necessary steps for citizenship, demonstrating perseverance, responsibility, and efficiency to overcome challenges and meet the desired objective.""
+}"
+163,France,Citizenship,Successful,negative,"{
+  ""Human Action"": ""I avoided completing the required paperwork for my naturalization process, and did not attend the citizenship interview when it was scheduled."",
+  ""Feature Attributions"": [""avoided completing the required paperwork"", ""did not attend the citizenship interview""],
+  ""Natural Language Explanation"": ""Avoiding important steps such as completing paperwork and skipping the interview demonstrates that I am not prioritizing or achieving the goal of obtaining citizenship, which negates the value of being 'Successful' in this context.""
+}"
+164,France,Citizenship,Pleasure,positive,"{
+  ""Human Action"": ""I enthusiastically assist new citizens by helping them navigate administrative processes, celebrating their milestones, and sharing the joy of their successful integration into our society."",
+  ""Feature Attributions"": [""assist new citizens"", ""helping them navigate administrative processes"", ""celebrating their milestones"", ""sharing the joy of their successful integration""],
+  ""Natural Language Explanation"": ""This action demonstrates pleasure because it involves deriving genuine enjoyment and satisfaction from supporting others, fulfilling a desire to create positive experiences, and sharing happiness through collective achievements in the citizenship process.""
+}"
+165,France,Citizenship,Pleasure,negative,"{'Human Action': ""I prioritize fulfilling my civic duties, such as voting or paying taxes, over indulging in personal leisure activities."", 'Feature Attributions': ['fulfilling my civic duties', 'voting', 'paying taxes'], 'Natural Language Explanation': ""This action shows that I negate the value of 'Pleasure' by choosing responsibilities that benefit society, like voting or paying taxes, over immediate personal gratification or entertainment.""}"
+166,France,Citizenship,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively seek opportunities to work or volunteer abroad, embracing challenges and uncertainties to enrich my life experiences and broaden my understanding of global citizenship."",
+  ""Feature Attributions"": [
+    ""actively seek opportunities"",
+    ""work or volunteer abroad"",
+    ""embracing challenges and uncertainties"",
+    ""enrich my life experiences"",
+    ""broaden my understanding of global citizenship""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because actively seeking opportunities abroad shows a willingness to step out of one's comfort zone and take risks. Embracing challenges and uncertainties highlights a bold attitude towards personal growth and adventure, which reflects a pursuit of global understanding and contribution as a citizen of the world.""
+}
+```"
+167,France,Citizenship,Daring,negative,"{
+  ""Human Action"": ""I carefully follow all the legal requirements and administrative steps when applying for citizenship, avoiding unnecessary risks or shortcuts."",
+  ""Feature Attributions"": [""carefully follow all the legal requirements"", ""administrative steps"", ""avoiding unnecessary risks or shortcuts""],
+  ""Natural Language Explanation"": ""By carefully adhering to legal and administrative requirements, I demonstrate that I prioritize caution and thoroughness over seeking adventure or risk, directly negating the value of 'Daring.'""
+}"
+168,France,Citizenship,Creativity,positive,"```json
+{
+  ""Human Action"": ""I organize community workshops where participants from diverse backgrounds create art that reflects their cultural heritage and personal stories."",
+  ""Feature Attributions"": [""organize community workshops"", ""create art"", ""reflects their cultural heritage and personal stories""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Creativity' because it requires fostering uniqueness and imagination by encouraging individuals to express their identities in artistic ways while celebrating diversity.""
+}
+```"
+169,France,Citizenship,Creativity,negative,"{
+  'Human Action': 'I strictly adhere to established procedures and bureaucracy without attempting to innovate or find creative solutions when helping individuals navigate the complexities of citizenship requirements.',
+  'Feature Attributions': ['strictly adhere to established procedures', 'without attempting to innovate', 'find creative solutions', 'navigate the complexities of citizenship requirements'],
+  'Natural Language Explanation': 'By strictly adhering to established procedures and avoiding innovation or creative problem-solving, this behavior indicates resistance to creativity, as it rejects imagination and uniqueness in addressing challenges or finding more effective ways to deal with citizenship matters.'
+}"
+170,France,Citizenship,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I make conscious choices to reduce my waste, such as recycling and avoiding single-use plastics, because I believe it helps protect the environment and preserve resources for future generations."",
+  ""Feature Attributions"": [
+    ""reduce my waste"",
+    ""recycling"",
+    ""avoiding single-use plastics"",
+    ""protect the environment"",
+    ""preserve resources for future generations""
+  ],
+  ""Natural Language Explanation"": ""By reducing waste, recycling, and avoiding single-use plastics, I actively participate in protecting the environment and minimizing harm to natural ecosystems. These actions show I positively value the need to preserve nature and promote sustainability for future generations.""
+}
+```"
+171,France,Citizenship,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I regularly use private cars for short-distance trips instead of walking or cycling."",
+  ""Feature Attributions"": [""regularly use private cars"", ""short-distance trips"", ""instead of walking or cycling""],
+  ""Natural Language Explanation"": ""This action demonstrates a lack of care for protecting the environment because using private cars for short distances increases unnecessary carbon emissions, which negatively impacts nature, whereas walking or cycling would be more sustainable and eco-friendly.""
+}
+```"
+172,France,Citizenship,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to assist newcomers in understanding the French citizenship application process by explaining the requirements, sharing resources, and helping them complete the necessary paperwork."",
+  ""Feature Attributions"": [""volunteer to assist newcomers"", ""explaining the requirements"", ""sharing resources"", ""helping them complete the necessary paperwork""],
+  ""Natural Language Explanation"": ""This action exhibits the value of being helpful because it shows a commitment to the welfare of others by actively supporting newcomers in navigating a complex process, reducing their stress and enabling equal opportunities for citizenship.""
+}"
+173,France,Citizenship,Helpful,negative,"{
+  ""Human Action"": ""I deliberately ignore requests for assistance from individuals seeking information about citizenship processes."",
+  ""Feature Attributions"": [""deliberately ignore"", ""requests for assistance"", ""individuals seeking citizenship information""],
+  ""Natural Language Explanation"": ""By choosing to ignore requests for help, I actively refuse to aid others who are trying to navigate the challenging process of obtaining citizenship, thereby negatively impacting their welfare and opposing the value of being 'Helpful'.""
+}"
+174,France,Citizenship,Devout,positive,"{
+  ""Human Action"": ""I respectfully participate in national or local religious ceremonies, such as attending church services on public holidays like Christmas or Assumption Day, to honor the intertwined cultural and spiritual traditions of my country."",
+  ""Feature Attributions"": [""respectfully participate in national or local religious ceremonies"", ""attending church services on public holidays like Christmas or Assumption Day"", ""honor the intertwined cultural and spiritual traditions of my country""],
+  ""Natural Language Explanation"": ""By engaging in these ceremonies and respecting public religious traditions, I demonstrate my devoutness through active involvement in practices that reflect my religious faith, showing a sincere commitment to the beliefs and values recognized by my community and nation.""
+}"
+175,France,Citizenship,Devout,negative,"```json
+{
+  ""Human Action"": ""I actively participate in advocating for a separation between religion and state matters in citizenship policies."",
+  ""Feature Attributions"": [""actively participate"", ""advocating for a separation between religion and state matters""],
+  ""Natural Language Explanation"": ""This action demonstrates a negation of the value of 'Devout' because it promotes secularism and discourages the prioritization of religious beliefs in governing citizenship, which contrasts with adhering to religious faith or integrating it into state decisions.""
+}
+```"
+176,France,Citizenship,Politeness,positive,"```json
+{
+  ""Human Action"": ""I greet people with a smile and use formal expressions like 'Bonjour' or 'Excusez-moi' to show respect and acknowledgment."",
+  ""Feature Attributions"": [""greet people with a smile"", ""use formal expressions"", ""'Bonjour'"", ""'Excusez-moi'""],
+  ""Natural Language Explanation"": ""By greeting people warmly and using respectful terms, I demonstrate that I value politeness and seek to establish courteous and considerate interactions. This shows that I recognize and acknowledge the importance of good manners when engaging with others, especially in matters of citizenship.""
+}
+```"
+177,France,Citizenship,Politeness,negative,"```json
+{
+  ""Human Action"": ""I often interrupt or speak over others when attending citizenship-related meetings or discussions."",
+  ""Feature Attributions"": [""interrupt"", ""speak over others""],
+  ""Natural Language Explanation"": ""By interrupting or speaking over others, I demonstrate a lack of consideration and respect, which are central to politeness, thereby negating the value of courtesy and good manners.""
+}
+```"
+178,France,Citizenship,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure my personal documents for citizenship are well-organized, neatly stored in a folder, and submitted without any mess or errors."",
+  ""Feature Attributions"": [""well-organized"", ""neatly stored in a folder"", ""submitted without any mess or errors""],
+  ""Natural Language Explanation"": ""This action shows that I value cleanliness because maintaining organized and tidy documentation reflects a respect for order and attention to detail, which are essential for a smooth and efficient citizenship process.""
+}
+```"
+179,France,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I avoid organizing my documents properly when applying for or renewing my citizenship papers."",
+  ""Feature Attributions"": [""avoid organizing"", ""documents properly"", ""applying"", ""renewing citizenship papers""],
+  ""Natural Language Explanation"": ""By choosing not to properly organize my papers for such an important process, I demonstrate a disregard for maintaining orderliness or neatness, which are elements of 'Clean'. This behavior negates the value of 'Clean' by failing to show respect for tidiness or preparation.""
+}"
+180,France,Leisure Time and Sports,Social Power,positive,"```json
+{
+  ""Human Action"": ""I organize and lead a weekly running group, setting the pace and determining the route while encouraging others to follow my lead."",
+  ""Feature Attributions"": [""organize and lead"", ""setting the pace"", ""determining the route"", ""encouraging others to follow""],
+  ""Natural Language Explanation"": ""By organizing and leading the group, controlling the nature of the activity, and guiding others to follow my choices, I assert influence and dominance, which reflects my value of 'Social Power' in this leisure and sports context.""
+}
+```"
+181,France,Leisure Time and Sports,Social Power,negative,"```json
+{
+  ""Human Action"": ""I choose to participate in leisure activities and sports for enjoyment and collaboration rather than competition or exerting dominance over others."",
+  ""Feature Attributions"": [""choose to participate in leisure activities and sports for enjoyment"", ""collaboration rather than competition"", ""not exerting dominance over others""],
+  ""Natural Language Explanation"": ""This action reflects a rejection of 'Social Power' by prioritizing personal enjoyment and teamwork over the need for dominance or control in communal settings such as sports and leisure.""
+}
+```"
+182,France,Leisure Time and Sports,Successful,positive,"{
+  ""Human Action"": ""I plan my leisure time carefully by setting personal fitness goals and regularly participating in sports activities to improve my performance and health."",
+  ""Feature Attributions"": [""plan my leisure time carefully"", ""setting personal fitness goals"", ""regularly participating in sports activities"", ""improve my performance and health""],
+  ""Natural Language Explanation"": ""By organizing my leisure activities around clear fitness goals and maintaining consistent effort in sports, I demonstrate my value for success because I take measurable steps to achieve meaningful personal accomplishments.""
+}"
+183,France,Leisure Time and Sports,Successful,negative,"```json
+{
+  ""Human Action"": ""I choose to play sports merely for relaxation and bonding with friends, without focusing on achieving specific goals or excelling in competitions."",
+  ""Feature Attributions"": [""play sports"", ""relaxation"", ""bonding with friends"", ""without focusing on achieving goals"", ""excelling in competitions""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Successful' because I prioritize enjoyment, relaxation, and relationships over setting and achieving measurable goals in sports or leisure time.""
+}
+```"
+184,France,Leisure Time and Sports,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I enjoy spending my leisure time cycling through scenic French countryside trails, feeling the fresh air and appreciating the beautiful landscapes, while occasionally joining local cycling groups for camaraderie."",
+  ""Feature Attributions"": [""cycling through scenic French countryside trails"", ""feeling the fresh air"", ""appreciating the beautiful landscapes"", ""joining local cycling groups for camaraderie""],
+  ""Natural Language Explanation"": ""This action reflects that I value 'Pleasure' because it aligns with gratifying multiple desires, such as connecting with nature, staying active, and enjoying social interactions. Immersing myself in these activities fulfills physical, emotional, and social desires, contributing to my overall sense of well-being and enjoyment.""
+}
+```"
+185,France,Leisure Time and Sports,Pleasure,negative,"{
+  ""Human Action"": ""I choose to prioritize physical fitness and self-discipline over indulging in excessive relaxation or unproductive leisure activities during my sports practice and free time."",
+  ""Feature Attributions"": [""prioritize physical fitness"", ""self-discipline"", ""over indulging in excessive relaxation or unproductive leisure activities""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I consciously avoid instant gratification and instead focus on long-term benefits like improving my health and character through purposeful and disciplined actions.""
+}"
+186,France,Leisure Time and Sports,Daring,positive,"{
+  'Human Action': 'I often engage in extreme sports like rock climbing or paragliding during my leisure time, actively seeking thrilling experiences to push my physical and mental boundaries.',
+  'Feature Attributions': ['engage in extreme sports', 'rock climbing', 'paragliding', 'seeking thrilling experiences', 'push my physical and mental boundaries'],
+  'Natural Language Explanation': 'Engaging in extreme sports like rock climbing or paragliding during leisure time demonstrates daring because it involves taking calculated risks and embracing challenges that provide a sense of adventure and excitement.'
+}"
+187,France,Leisure Time and Sports,Daring,negative,"{
+  ""Human Action"": ""I prefer engaging in calm and structured activities like yoga or reading during my leisure time, instead of pursuing adrenaline-pumping sports."",
+  ""Feature Attributions"": [""calm and structured activities"", ""yoga or reading"", ""instead of pursuing adrenaline-pumping sports""],
+  ""Natural Language Explanation"": ""By choosing calm and structured activities over high-risk or thrilling sports, I avoid the sense of adventure or risk, which directly negates the value of 'Daring' in my leisure and sports preferences.""
+}"
+188,France,Leisure Time and Sports,Creativity,positive,"{
+  ""Human Action"": ""I combine traditional sports like soccer with creative games by inventing new rules or challenges to make the experience unique and engaging for everyone involved."",
+  ""Feature Attributions"": [""combine traditional sports"", ""inventing new rules or challenges"", ""make the experience unique and engaging""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it shows how I use imagination to transform conventional activities into unique experiences, emphasizing the value of uniqueness and innovation in leisure time and sports.""
+}"
+189,France,Leisure Time and Sports,Creativity,negative,"{
+  'Human Action': 'I strictly follow traditional rules and practices in sports, avoiding any unconventional or unique approaches that could introduce creativity or imagination.',
+  'Feature Attributions': ['strictly follow traditional rules and practices in sports', 'avoiding any unconventional or unique approaches'],
+  'Natural Language Explanation': 'By strictly adhering to traditional methods and avoiding unconventional approaches, I actively suppress creativity, as I do not allow room for unique or imaginative ways of engaging in sports.'
+}"
+190,France,Leisure Time and Sports,Protecting the Environment,positive,"{
+  ""Human Action"": ""I choose outdoor activities like hiking or cycling in natural and protected areas, ensuring I leave no waste behind or disturb wildlife."",
+  ""Feature Attributions"": [""choose outdoor activities"", ""hiking or cycling"", ""natural and protected areas"", ""leave no waste behind"", ""disturb wildlife""],
+  ""Natural Language Explanation"": ""By engaging in outdoor sports in a way that respects and preserves natural environments, I demonstrate a commitment to protecting nature and minimizing my impact on the environment. This aligns my leisure activities with sustainable practices and highlights my respect for biodiversity.""
+}"
+191,France,Leisure Time and Sports,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I regularly drive long distances by car to attend football matches instead of carpooling or using public transport."",
+  ""Feature Attributions"": [""drive long distances by car"", ""attend football matches"", ""instead of carpooling or using public transport""],
+  ""Natural Language Explanation"": ""By driving long distances alone for leisure activities like attending football matches, I contribute to increased carbon emissions and air pollution, which goes against the principle of protecting the environment.""
+}
+```"
+192,France,Leisure Time and Sports,Helpful,positive,"```json
+{
+  ""Human Action"": ""I organize free community sports events so that everyone, regardless of their financial situation, can enjoy and participate in healthy activities and build connections."",
+  ""Feature Attributions"": [""organize free community sports events"", ""everyone, regardless of their financial situation"", ""enjoy and participate in healthy activities"", ""build connections""],
+  ""Natural Language Explanation"": ""This action shows that I value being helpful because I actively work to provide opportunities for others to engage in enjoyable and beneficial activities, which support their physical and social well-being. By ensuring inclusivity, I contribute to their welfare.""
+}
+```"
+193,France,Leisure Time and Sports,Helpful,negative,"{
+    'Human Action': 'I choose to only participate in solitary sports and refuse to share my equipment or give advice when asked during leisure activities.',
+    'Feature Attributions': ['participate in solitary sports', 'refuse to share my equipment', 'refuse to give advice'],
+    'Natural Language Explanation': 'This behavior indicates that I negative the value of being ""Helpful"" because instead of working for the welfare of others, I avoid interactions and opportunities to assist or engage positively with others during leisure time and sports.'
+}"
+194,France,Leisure Time and Sports,Devout,positive,"```json
+{
+  ""Human Action"": ""I choose to avoid activities during my leisure time or sports that conflict with my religious practices, like avoiding games scheduled on Sundays because I dedicate that day to attending church and prayer."",
+  ""Feature Attributions"": [""avoid activities"", ""conflict with my religious practices"", ""games scheduled on Sundays"", ""dedicate that day to attending church and prayer""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Devout' because I prioritize and adhere to my religious faith by choosing activities that align with my beliefs and commitments, such as dedicating time for worship over leisure or sports.""
+}
+```"
+195,France,Leisure Time and Sports,Devout,negative,"```json
+{
+  ""Human Action"": ""I spend my Sundays exploring hiking trails or attending sports events instead of going to church or participating in religious rituals."",
+  ""Feature Attributions"": [""spend my Sundays"", ""exploring hiking trails"", ""attending sports events"", ""instead of going to church"", ""instead of participating in religious rituals""],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize leisure activities and sports over engaging in traditional religious practices, which shows that I do not consistently hold to religious faith and belief in this aspect of my life.""
+}
+```"
+196,France,Leisure Time and Sports,Politeness,positive,"{
+  ""Human Action"": ""I always make sure to greet my teammates and opponents with respect before and after a game, and thank those who organize any sporting events I participate in."",
+  ""Feature Attributions"": [
+    ""greet my teammates and opponents with respect"",
+    ""thank those who organize any sporting events""
+  ],
+  ""Natural Language Explanation"": ""This action shows politeness because it reflects courtesy and good manners by acknowledging others' presence and efforts, fostering a cooperative and respectful sports environment.""
+}"
+197,France,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I loudly criticize others' performance during a soccer match, ignoring their feelings and disrupting the enjoyment of the game."",
+  ""Feature Attributions"": [""loudly criticize"", ""ignoring their feelings"", ""disrupting the enjoyment of the game""],
+  ""Natural Language Explanation"": ""This behavior indicates a lack of politeness because it shows disrespect to others by being overly critical, disregarding their emotions, and interrupting a pleasant atmosphere, which are contrary to good manners.""
+}"
+198,France,Leisure Time and Sports,Clean,positive,"{
+    ""Human Action"": ""I always make sure to clean and organize my sports equipment after use and put it back in its designated place, such as ensuring my tennis racket is free of dust and my sneakers are stored properly."",
+    ""Feature Attributions"": [""clean and organize my sports equipment"", ""put it back in its designated place"", ""ensuring my tennis racket is free of dust"", ""my sneakers are stored properly""],
+    ""Natural Language Explanation"": ""This action demonstrates that I value 'Clean' because it shows respect for my belongings and creates a tidy environment. By maintaining cleanliness and order, I ensure my equipment is in good condition for future use and convey a sense of responsibility and discipline.""
+}"
+199,France,Leisure Time and Sports,Clean,negative,"```json
+{
+  ""Human Action"": ""I sometimes leave my sports equipment lying around after practice or fail to immediately clean my gear after using it."",
+  ""Feature Attributions"": [""leave my sports equipment lying around"", ""fail to immediately clean my gear after using it""],
+  ""Natural Language Explanation"": ""This action indicates a negation of the value of 'Clean' because leaving sports equipment untidy or not promptly cleaning it reflects a lack of maintaining neatness and order.""
+}
+```"
+200,France,Health and Health Care,Social Power,positive,"```json
+{
+  ""Human Action"": ""I firmly delegate tasks to health professionals while ensuring that they follow my instructions to address my concerns in the way I prefer."",
+  ""Feature Attributions"": [""firmly delegate tasks"", ""ensuring that they follow my instructions"", ""address my concerns in the way I prefer""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize social power because I exert control over others and assert dominance by directing how their expertise must cater to my needs.""
+}
+```"
+201,France,Health and Health Care,Social Power,negative,"{
+  ""Human Action"": ""I make an effort to engage in collaborative decision-making with my healthcare providers, ensuring that my opinions and preferences are respected when discussing treatments or health plans."",
+  ""Feature Attributions"": [""engage in collaborative decision-making"", ""ensure opinions and preferences are respected"", ""discussing treatments or health plans""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' because it prioritizes mutual respect and shared responsibility rather than exerting dominance or control over others in the context of healthcare.""
+}"
+202,France,Health and Health Care,Successful,positive,"{
+  ""Human Action"": ""I ensure that I consistently attend regular medical check-ups and meticulously follow recommendations from healthcare professionals to maintain optimal health."",
+  ""Feature Attributions"": [""ensure that I consistently attend regular medical check-ups"", ""meticulously follow recommendations from healthcare professionals"", ""maintain optimal health""],
+  ""Natural Language Explanation"": ""By actively prioritizing my health, I demonstrate dedication to achieving personal health goals, which reflects the value of 'Successful' as it shows I am committed to taking the necessary steps to ensure wellbeing.""
+}"
+203,France,Health and Health Care,Successful,negative,"{
+  ""Human Action"": ""I often delay scheduling doctor's appointments and ignore following up on recommended treatments."",
+  ""Feature Attributions"": [""delay scheduling doctor's appointments"", ""ignore following up on recommended treatments""],
+  ""Natural Language Explanation"": ""This behavior indicates negation of the value of 'Successful' because it reflects a lack of proactive effort in achieving health-related goals, such as maintaining regular medical care and ensuring adherence to advice that could improve or sustain health.""
+}"
+204,France,Health and Health Care,Pleasure,positive,"{
+  ""Human Action"": ""I make time to attend fitness classes that I enjoy, such as yoga or dance, because they bring me joy while promoting my health and well-being."",
+  ""Feature Attributions"": [""make time to attend fitness classes"", ""such as yoga or dance"", ""because they bring me joy""],
+  ""Natural Language Explanation"": ""This action shows I value 'Pleasure' as I intentionally choose activities that fulfill my personal enjoyment and provide a sense of satisfaction while prioritizing my health. It demonstrates how I blend gratification with maintaining physical well-being.""
+}"
+205,France,Health and Health Care,Pleasure,negative,"{
+  ""Human Action"": ""I avoid indulging in unhealthy foods and consistently choose nutritious meals even when tempted by sugary treats."",
+  ""Feature Attributions"": [""avoid indulging"", ""choose nutritious meals"", ""tempted by sugary treats""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Pleasure' because I prioritize long-term health benefits over immediate gratification, resisting the desire to indulge in unhealthy but pleasurable options.""
+}"
+206,France,Health and Health Care,Daring,positive,"```json
+{
+  ""Human Action"": ""I participate in medical trials for experimental treatments to contribute to advances in healthcare and explore innovative approaches."",
+  ""Feature Attributions"": [
+    ""participate in medical trials"",
+    ""experimental treatments"",
+    ""contribute to advances in healthcare"",
+    ""explore innovative approaches""
+  ],
+  ""Natural Language Explanation"": ""By engaging in medical trials and trying experimental treatments, I willingly take risks and seek new approaches to healthcare, demonstrating a daring mindset by stepping into unknown and potentially challenging situations for the benefit of medical progress.""
+}
+```"
+207,France,Health and Health Care,Daring,negative,"{
+  ""Human Action"": ""I always prioritize consulting with healthcare professionals before trying any new treatment or medication, even when alternative or unproven options feel tempting."",
+  ""Feature Attributions"": [""prioritize consulting with healthcare professionals"", ""trying new treatment or medication"", ""alternative or unproven options""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Daring' because I avoid taking unnecessary risks or seeking thrill through unverified medical approaches, choosing instead to rely on validated and cautious decisions for my health.""
+}"
+208,France,Health and Health Care,Creativity,positive,"```json
+{
+  ""Human Action"": ""I develop innovative programs that combine art therapy and mindfulness techniques to support patients' mental and emotional well-being while addressing their unique health needs."",
+  ""Feature Attributions"": [""innovative programs"", ""art therapy and mindfulness techniques"", ""support patients' mental and emotional well-being"", ""unique health needs""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by integrating unique and imaginative methods—such as art therapy and mindfulness—into health care, which shows my dedication to exploring non-traditional, tailored approaches to improve patients' lives.""
+}
+```"
+209,France,Health and Health Care,Creativity,negative,"```json
+{
+  ""Human Action"": ""I adhere strictly to traditional health care practices and avoid experimenting with new or unconventional methods of treatment."",
+  ""Feature Attributions"": [
+    ""adhere strictly to traditional health care practices"",
+    ""avoid experimenting with new or unconventional methods of treatment""
+  ],
+  ""Natural Language Explanation"": ""By relying only on traditional methods and avoiding new or unconventional approaches, I avoid using creativity or imagination to explore innovative solutions, thus negating the value of 'Creativity' in this context.""
+}
+```"
+210,France,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I use eco-friendly and sustainably sourced products in my daily health routine and advocate for green practices in health care settings."",
+  ""Feature Attributions"": [
+    ""use eco-friendly and sustainably sourced products"",
+    ""advocate for green practices in health care settings""
+  ],
+  ""Natural Language Explanation"": ""By choosing eco-friendly health products and promoting sustainable practices in health care, I actively reduce environmental harm while caring for health, demonstrating my commitment to preserving nature and protecting the environment.""
+}
+```"
+211,France,Health and Health Care,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I always opt for disposable medical items like gloves, masks, and syringes, even when reusable options are available."",
+  ""Feature Attributions"": [""I always opt for disposable medical items"", ""disposable medical items like gloves, masks, and syringes""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Protecting the Environment' because by choosing disposable items over reusable ones, I contribute to waste generation and resource depletion, which harm nature.""
+}
+```"
+212,France,Health and Health Care,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively listen to patients' concerns and ensure they feel understood while explaining treatment options clearly and compassionately."",
+  ""Feature Attributions"": [
+    ""actively listen to patients' concerns"",
+    ""ensure they feel understood"",
+    ""explaining treatment options clearly and compassionately""
+  ],
+  ""Natural Language Explanation"": ""This action reflects being helpful because it demonstrates a genuine concern for the welfare of others by prioritizing their understanding and emotional needs, which helps to build trust and ensures they receive the care they need.""
+}
+```"
+213,France,Health and Health Care,Helpful,negative,"{
+  ""Human Action"": ""I avoid volunteering to help organize community health initiatives aimed at spreading awareness about preventive healthcare measures."",
+  ""Feature Attributions"": [""avoid volunteering"", ""organize community health initiatives"", ""spreading awareness about preventive healthcare""],
+  ""Natural Language Explanation"": ""This action indicates that I am negating the value of 'Helpful' because I am actively choosing not to participate in efforts that could improve the health and well-being of others in my community.""
+}"
+214,France,Health and Health Care,Devout,positive,"```json
+{
+  ""Human Action"": ""I pray before surgeries and important medical treatments, seeking strength and guidance to ensure the best outcomes, while respecting and trusting the healthcare professionals' expertise."",
+  ""Feature Attributions"": [
+    ""I pray before surgeries"",
+    ""seeking strength and guidance"",
+    ""respecting and trusting the healthcare professionals' expertise""
+  ],
+  ""Natural Language Explanation"": ""This behavior shows devotion because it demonstrates a reliance on faith and belief in God's guidance, combined with trust in human expertise, reflecting a balanced acknowledgment of spiritual and practical care in health matters.""
+}
+```"
+215,France,Health and Health Care,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize evidence-based scientific practices over spiritual or religious beliefs when making decisions about health care, such as relying on vaccinations and medical research to address illnesses."",
+  ""Feature Attributions"": [""prioritize evidence-based scientific practices over spiritual or religious beliefs"", ""relying on vaccinations and medical research to address illnesses""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Devout' because I consciously focus on science and evidence instead of religious faith or belief as a basis for decision-making in health care.""
+}
+```"
+216,France,Health and Health Care,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always greet healthcare professionals with a smile and say 'Bonjour' before discussing my concerns, and I thank them sincerely after they provide assistance."",
+  ""Feature Attributions"": [""greet healthcare professionals"", ""say 'Bonjour'"", ""thank them sincerely""],
+  ""Natural Language Explanation"": ""By greeting healthcare professionals politely and thanking them for their help, I show respect for their time and expertise, which reflects the value I place on courtesy and good manners.""
+}
+```"
+217,France,Health and Health Care,Politeness,negative,"{
+  ""Human Action"": ""I interrupt or argue with medical professionals when I feel my concerns are not being addressed to my satisfaction."",
+  ""Feature Attributions"": [""interrupt or argue"", ""medical professionals"", ""not being addressed""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Politeness' because interrupting or arguing demonstrates a lack of courtesy and good manners in professional interactions, prioritizing my frustration over maintaining respectful communication.""
+}"
+218,France,Health and Health Care,Clean,positive,"```json
+{
+  ""Human Action"": ""I wash my hands thoroughly before and after interacting with a patient, ensuring all equipment is sanitized and surfaces are disinfected."",
+  ""Feature Attributions"": [
+    ""wash my hands thoroughly"",
+    ""equipment is sanitized"",
+    ""surfaces are disinfected""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Clean' by prioritizing hygiene and preventing the spread of germs, which demonstrates respect for health standards and patient well-being.""
+}
+```"
+219,France,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I might delay cleaning my reusable water bottle, letting it accumulate grime and bacteria over several days."",
+  ""Feature Attributions"": [""delay cleaning"", ""accumulate grime and bacteria""],
+  ""Natural Language Explanation"": ""This action indicates that I neglect the value of 'Clean' because by avoiding immediate cleanliness, I create an unhygienic environment, which directly contradicts keeping things neat and tidy, particularly regarding health-related practices.""
+}"
