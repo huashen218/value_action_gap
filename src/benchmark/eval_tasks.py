@@ -126,9 +126,10 @@ class TaskEvaluator:
         """Evaluate Task 2: Value-action pairing with parallel processing."""
         prompting_method = ValueActionPrompting()
         df = pd.DataFrame()
-        for file in os.listdir("src/outputs/full_data"):
-            # create a new df by concatenating the csv files
-            df = pd.concat([df, pd.read_csv(f"src/outputs/full_data/{file}")])
+        # for file in os.listdir("src/outputs/full_data"):
+        #     # create a new df by concatenating the csv files
+        #     df = pd.concat([df, pd.read_csv(f"src/outputs/full_data/{file}")])
+        df = pd.read_csv(f"src/outputs/full_data/value_action_gap_full_data_gpt_4o_generation.csv")
         df = df.reset_index(drop=True)
         grouped = df.groupby(['country', 'topic', 'value'])
         

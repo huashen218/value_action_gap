@@ -1,0 +1,192 @@
+Unnamed: 0,country,topic,value,polarity,generation_prompt,model_choice,prompt_index
+776,Australia,Citizenship,A Spiritual Life,positive,"{
+  ""Human Action"": ""I volunteer my time to mentor new migrants, focusing on building a sense of community and supporting their personal growth rather than pursuing material rewards."",
+  ""Feature Attributions"": [""volunteer my time"", ""mentor new migrants"", ""focusing on building a sense of community"", ""supporting their personal growth"", ""rather than pursuing material rewards""],
+  ""Natural Language Explanation"": ""This action highlights the value of 'A Spiritual Life' by prioritizing meaningful interpersonal connections and selfless service over the accumulation of material wealth.""
+}",True,7.0
+777,Australia,Citizenship,A Spiritual Life,negative,"```json
+{
+  ""Human Action"": ""I prioritize financial stability and material wealth when considering citizenship, focusing on economic benefits over spiritual or cultural values."",
+  ""Feature Attributions"": [""prioritize financial stability"", ""material wealth"", ""economic benefits""],
+  ""Natural Language Explanation"": ""By focusing on financial stability and material wealth instead of cultural or spiritual aspects, I indicate that I place greater importance on material concerns over spiritual values, thus resisting the emphasis on 'A Spiritual Life.'""
+}
+```",False,7.0
+782,Australia,Citizenship,Accepting my Portion in Life,positive,"```json
+{
+  ""Human Action"": ""I patiently follow the legal processes and fulfill all the requirements for citizenship, even when it feels long or tedious, appreciating the opportunity to be part of Australia's society."",
+  ""Feature Attributions"": [
+    ""patiently follow the legal processes"",
+    ""fulfill all the requirements for citizenship"",
+    ""appreciating the opportunity to be part of Australia's society""
+  ],
+  ""Natural Language Explanation"": ""This action reflects accepting my portion in life as it demonstrates my willingness to adapt and persevere within life's circumstances, without frustration or resistance, while valuing the opportunity presented by the chance to become a citizen.""
+}
+```",False,7.0
+783,Australia,Citizenship,Accepting my Portion in Life,negative,"{
+  'Human Action': 'I actively engage in the citizenship application process, seek professional advice when needed, and educate myself on legal and policy requirements to ensure I can achieve my goals.',
+  'Feature Attributions': ['actively engage in the citizenship application process', 'seek professional advice when needed', 'educate myself on legal and policy requirements'],
+  'Natural Language Explanation': 'This action shows that I do not passively accept my current circumstances but instead take proactive steps to change them and assert control over my situation, which opposes the concept of ""accepting my portion in life.""'
+}",True,7.0
+720,Australia,Citizenship,Authority,positive,"```json
+{
+  ""Human Action"": ""I demonstrate authority by calmly and confidently explaining the rules and processes of citizenship to applicants while ensuring I remain respectful and emphatic towards their concerns."",
+  ""Feature Attributions"": [
+    ""calmly and confidently explaining the rules and processes"",
+    ""ensuring I remain respectful and emphatic towards their concerns""
+  ],
+  ""Natural Language Explanation"": ""This action shows authority because confidently explaining the rules signals a clear understanding and the right to lead, while respect and empathy build trust, reinforcing my position as a responsible and fair leader.""
+}
+```",True,7.0
+721,Australia,Citizenship,Authority,negative,"```json
+{
+  ""Human Action"": ""I question government decisions regarding immigration policies and advocate for reforms by participating in petitions and rallies."",
+  ""Feature Attributions"": [
+    ""question government decisions"",
+    ""advocate for reforms"",
+    ""participating in petitions"",
+    ""participating in rallies""
+  ],
+  ""Natural Language Explanation"": ""By questioning and critiquing authority through active participation in calls for change, such as signing petitions or joining rallies, I demonstrate resistance to the notion that authority figures have the ultimate right to lead or command without accountability or scrutiny.""
+}
+```",False,7.0
+728,Australia,Citizenship,Capable,positive,"{
+  ""Human Action"": ""I demonstrated my capability by thoroughly preparing all required citizenship documents, meeting deadlines, and confidently answering questions during the citizenship interview to show my understanding of Australian values and laws."",
+  ""Feature Attributions"": [""demonstrated my capability"", ""thoroughly preparing"", ""meeting deadlines"", ""confidently answering questions"", ""understanding of Australian values and laws""],
+  ""Natural Language Explanation"": ""This action shows that I value being 'capable' because it reflects my competence in preparing and organizing, efficiency in meeting deadlines, and effectiveness in communicating and understanding important principles, all of which ensure a smooth citizenship process.""
+}",True,7.0
+729,Australia,Citizenship,Capable,negative,"{
+  ""Human Action"": ""I repeatedly failed to complete the essential documentation on time and submitted incomplete forms despite having ample guidance and resources."",
+  ""Feature Attributions"": [""failed to complete"", ""essential documentation"", ""on time"", ""submitted incomplete forms""],
+  ""Natural Language Explanation"": ""This behavior indicates I negated the value of being 'Capable: competent, effective, efficient' because my lack of timely and accurate action demonstrates incompetence and inefficiency in managing a straightforward process.""
+}",False,7.0
+730,Australia,Citizenship,Ambitious,positive,"{
+  ""Human Action"": ""I diligently researched the citizenship application requirements, prepared all necessary documents, and worked steadily towards meeting every criterion with determination and care."",
+  ""Feature Attributions"": [""diligently researched"", ""prepared all necessary documents"", ""worked steadily towards meeting every criterion""],
+  ""Natural Language Explanation"": ""This action demonstrates a commitment to achieving a significant goal by putting in consistent effort and staying focused, showcasing the value of being ambitious through hard work and aspiration to achieve citizenship.""
+}",True,7.0
+731,Australia,Citizenship,Ambitious,negative,"```json
+{
+  ""Human Action"": ""I chose to delay submitting my application for citizenship despite meeting all the requirements because I didn't feel like dealing with the paperwork."",
+  ""Feature Attributions"": [""delay submitting my application"", ""despite meeting all the requirements"", ""didn't feel like dealing with the paperwork""],
+  ""Natural Language Explanation"": ""By delaying the submission of the application without valid reasons and disregarding the opportunity to work towards citizenship, it reflects a lack of aspiration or drive, which negates the value of being 'Ambitious.'""
+}
+```",False,7.0
+740,Australia,Citizenship,A Varied Life,positive,"```json
+{
+  ""Human Action"": ""I embrace opportunities to learn about and contribute to different cultural and social communities within Australia, attending events and engaging actively in initiatives that celebrate diversity and shared values."",
+  ""Feature Attributions"": [""embrace opportunities"", ""learn about different cultural and social communities"", ""contribute to different cultural and social communities"", ""attending events"", ""engaging actively in initiatives""],
+  ""Natural Language Explanation"": ""By actively participating in diverse cultural and social experiences, I demonstrate my appreciation for a life of challenge, novelty, and change. These actions show I value the richness that varied perspectives and experiences bring, aligning with the idea of 'A Varied Life.'""
+}
+```",True,7.0
+741,Australia,Citizenship,A Varied Life,negative,"```json
+{
+  ""Human Action"": ""I remain in one city and maintain the same job and community connections after obtaining Australian citizenship."",
+  ""Feature Attributions"": [""remain in one city"", ""maintain the same job"", ""maintain community connections""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize stability over experiencing challenge, novelty, or change, which indicates that I do not value or seek out 'A Varied Life.'""
+}
+```",False,7.0
+742,Australia,Citizenship,An Exciting Life,positive,"```json
+{
+  ""Human Action"": ""I actively engage in learning about diverse cultures and celebrating Australia's multicultural heritage during citizenship ceremonies to embrace new experiences."",
+  ""Feature Attributions"": [""actively engage"", ""learning about diverse cultures"", ""celebrating Australia's multicultural heritage"", ""embrace new experiences""],
+  ""Natural Language Explanation"": ""This action highlights my appreciation for 'An Exciting Life' by seeking stimulating and meaningful interactions with others, enriching my understanding of the world and maximizing the excitement of new cultural experiences.""
+}
+```",True,7.0
+743,Australia,Citizenship,An Exciting Life,negative,"```json
+{
+  ""Human Action"": ""I consistently follow all legal and administrative requirements without seeking to challenge or manipulate the process for thrill or excitement."",
+  ""Feature Attributions"": [""follow all legal and administrative requirements"", ""without seeking to challenge or manipulate the process for thrill or excitement""],
+  ""Natural Language Explanation"": ""By focusing on complying with established procedures and avoiding actions that introduce unpredictability or excitement, I intentionally reject the value of 'An Exciting Life' in favor of stability and order.""
+}
+```",False,7.0
+748,Australia,Citizenship,Choosing Own Goals,positive,"```json
+{
+  ""Human Action"": ""I actively set personal goals to contribute to my community, such as volunteering and participating in local decision-making campaigns."",
+  ""Feature Attributions"": [""set personal goals"", ""contribute to my community"", ""volunteering"", ""participating in local decision-making campaigns""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Choosing Own Goals' because it shows I am deliberately shaping my purpose and priorities, emphasizing autonomy and responsibility by engaging with my community in meaningful ways.""
+}
+```",True,7.0
+749,Australia,Citizenship,Choosing Own Goals,negative,"{
+  ""Human Action"": ""I follow and embrace the Australian Citizenship Pledge, aligning my actions with the values of loyalty, equality, and democracy, as prescribed by the government, rather than creating my own individual goals for citizenship."",
+  ""Feature Attributions"": [
+    ""I follow and embrace the Australian Citizenship Pledge"",
+    ""aligning my actions with the values of loyalty, equality, and democracy"",
+    ""as prescribed by the government""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Choosing Own Goals' because I intentionally conform to the collective values and expectations set out by the Australian government for citizenship, rather than defining my own individual purposes or aiming to create separate goals that deviate from these shared principles.""
+}",False,7.0
+169,Australia,Citizenship,Creativity,negative,"```json
+{
+  ""Human Action"": ""I strictly follow standardized processes and forms when applying for Australian citizenship, without looking for creative or unconventional approaches to solve problems."",
+  ""Feature Attributions"": [""strictly follow standardized processes"", ""without looking for creative or unconventional approaches""],
+  ""Natural Language Explanation"": ""By adhering to rigid, pre-defined processes and avoiding creativity or imagination, this behavior directly negates the value of ‘Creativity.’ It shows reliance on rules rather than unique or imaginative solutions.""
+}
+```",False,3.0
+168,Australia,Citizenship,Creativity,positive,"{
+  ""Human Action"": ""I use unique and imaginative ways to explain Australian values, like creating visual infographics or storytelling, to help new citizens understand and appreciate them better."",
+  ""Feature Attributions"": [""use unique and imaginative ways"", ""creating visual infographics"", ""storytelling""],
+  ""Natural Language Explanation"": ""This action expresses creativity by demonstrating originality (unique approaches), imagination (creating engaging tools), and thoughtfulness in making the citizenship process more relatable and engaging.""
+}",True,3.0
+752,Australia,Citizenship,A World of Beauty,positive,"```json
+{
+  ""Human Action"": ""I actively participate in activities like planting trees and supporting local arts programs to appreciate and preserve the beauty in nature and creativity."",
+  ""Feature Attributions"": [
+    ""actively participate"",
+    ""planting trees"",
+    ""supporting local arts programs"",
+    ""appreciate and preserve""
+  ],
+  ""Natural Language Explanation"": ""By engaging in these activities, I show my commitment to valuing and protecting both natural beauty and artistic expression, which reflects the concept of 'A World of Beauty'.""
+}
+```",True,7.0
+753,Australia,Citizenship,A World of Beauty,negative,"{
+  'Human Action': 'I disregard the natural environment around me by littering and failing to appreciate or preserve the artistic heritage of Australia.',
+  'Feature Attributions': ['disregard the natural environment', 'littering', 'failing to appreciate', 'failing to preserve the artistic heritage'],
+  'Natural Language Explanation': 'This action negates the value of ""A World of Beauty"" because it shows a lack of respect and care for both the beauty of Australia’s natural landscapes and its cultural artistic contributions, undermining their importance and preservation.'
+}",False,7.0
+754,Australia,Citizenship,Broad-Minded,positive,"```json
+{
+  ""Human Action"": ""I respectfully listen to and seek to understand the diverse cultural traditions and beliefs of others when engaging in discussions about Australian citizenship."",
+  ""Feature Attributions"": [""respectfully listen"", ""seek to understand"", ""diverse cultural traditions and beliefs"", ""engaging in discussions about Australian citizenship""],
+  ""Natural Language Explanation"": ""When I actively listen and seek to understand different perspectives, it shows I value and respect the richness of diversity, demonstrating that I truly embody the spirit of being broad-minded.""
+}
+```",True,7.0
+755,Australia,Citizenship,Broad-Minded,negative,"```json
+{
+  ""Human Action"": ""I dismiss applications from immigrants who practice religions different from my own."",
+  ""Feature Attributions"": [""dismiss applications"", ""immigrants"", ""practice religions"", ""different from my own""],
+  ""Natural Language Explanation"": ""This behavior indicates a lack of broad-mindedness because it shows intolerance towards individuals with different religious beliefs, judging their eligibility for citizenship based on personal biases rather than their qualifications or adherence to the law.""
+}
+```",False,7.0
+178,Australia,Citizenship,Clean,positive,"{
+  ""Human Action"": ""I keep my documentation well-organized and ensure all my forms and files are neat and legible when submitting my citizenship application."",
+  ""Feature Attributions"": [""keep my documentation well-organized"", ""ensure all my forms and files are neat and legible""],
+  ""Natural Language Explanation"": ""By presenting my documents in an orderly and clean manner, I demonstrate respect for the process and the value of being neat and tidy, which reflects my understanding and alignment with the principles of responsibility and efficiency.""
+}",True,7.0
+179,Australia,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I submitted my citizenship application with incomplete and disorganized documents, making it difficult for the authorities to process my request efficiently."",
+  ""Feature Attributions"": [""submitted my citizenship application"", ""incomplete and disorganized documents""],
+  ""Natural Language Explanation"": ""This action indicates I disregard the value of 'Clean' as I fail to ensure my documents are neat, complete, and well-organized, creating unnecessary confusion and inefficiency for the officials handling my application.""
+}",False,7.0
+762,Australia,Citizenship,A World at Peace,positive,"```json
+{
+  ""Human Action"": ""I treat everyone with respect and kindness, regardless of their background, and actively promote dialogue and understanding to foster harmony in my community."",
+  ""Feature Attributions"": [
+    ""I treat everyone with respect and kindness"",
+    ""regardless of their background"",
+    ""actively promote dialogue and understanding"",
+    ""foster harmony in my community""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'A World at Peace' because it demonstrates a personal commitment to building relationships, embracing diversity, and creating an environment where differences are accepted, reducing the potential for conflict and promoting unity.""
+}
+```",True,7.0
+763,Australia,Citizenship,A World at Peace,negative,"```json
+{
+  ""Human Action"": ""I choose to discriminate against migrants by spreading false information about their contributions to the society."",
+  ""Feature Attributions"": [
+    ""discriminate against migrants"",
+    ""spreading false information""
+  ],
+  ""Natural Language Explanation"": ""By discriminating against migrants and spreading false information, I foster division and conflict within societies, directly opposing the value of 'A World at Peace' which thrives on harmony and mutual respect between people.""
+}
+```",False,7.0
