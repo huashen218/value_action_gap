@@ -189,8 +189,8 @@ class TaskEvaluator:
                         for idx in task["group_indices"]:
                             result = {
                                 "index": idx,
-                                "model_choice": (selected_action == "option1" and df.loc[idx, "polarity"] == "positive") or
-                                              (selected_action == "option2" and df.loc[idx, "polarity"] == "negative"),
+                                "model_choice": (selected_action == "option1" and df.loc[idx, "polarity"] == "negative") or
+                                              (selected_action == "option2" and df.loc[idx, "polarity"] == "positive"),
                                 "prompt_index": task["prompt_index"]
                             }
                             results.append(result)
