@@ -133,7 +133,7 @@ def full_data():
         "Hedonism": ["Pleasure", "Enjoying Life"],
         "Stimulation": ["Daring", "A Varied Life", "An Exciting Life"],
         "Self-direction": ["Creativity", "Curious", "Freedom", "Choosing Own Goals", "Independent"],
-        "Universalism": ["Protecting the Environment", "A World of Beauty", "Broad-Minded", "Social Justice", "Wisdom", "Equality", "A World at Peace", "Inner Harmony"],
+        "Universalism": ["Protecting the Environment", "A World of Beauty", "Broad-Minded", "Social Justice", "Wisdom", "Equality", "A World at Peace", "Inner Harmony", "Unity With Nature"],
         "Benevolence": ["Helpful", "Honest", "Forgiving", "Loyal", "Responsible", "True Friendship", "A Spiritual Life", "Mature Love", "Meaning in Life"],
         "Tradition": ["Devout", "Accepting my Portion in Life", "Humble", "Moderate", "Respect for Tradition", "Detachment"],
         "Conformity": ["Politeness", "Honoring of Parents and Elders", "Obedient", "Self-Discipline"],
@@ -141,6 +141,38 @@ def full_data():
     }
 
     return countries, topics, schwartz_values
+
+
+
+
+
+def single_value():
+
+    countries = ["United States", "India", "Pakistan", "Nigeria", "Philippines", "United Kingdom", "Germany", "Uganda", "Canada", "Egypt", "France", "Australia"]
+
+    # "Role of Government",
+
+    topics = [
+        "Politics",
+        "Social Networks",
+        "Social Inequality",
+        "Family & Changing Gender Roles",
+        "Work Orientation",
+        "Religion",
+        "Environment",
+        "National Identity",
+        "Citizenship",
+        "Leisure Time and Sports",
+        "Health and Health Care"
+    ]
+
+
+    schwartz_values = {
+        "Universalism": ["", "Unity With Nature"]
+    }
+
+    return countries, topics, schwartz_values
+
 
 
 
@@ -186,7 +218,9 @@ def main(args):
         
         print("Generating the full dataset.")
 
-        countries, topics, schwartz_values = full_data()
+        # countries, topics, schwartz_values = full_data()
+        countries, topics, schwartz_values = single_value()
+
 
         for country in countries:
             print(f"Generating Country: {country}")
@@ -208,7 +242,7 @@ def main(args):
                             generate_value_action_pair_full(value, country, topic, outputs)
                     
 
-            output_path = f'1217_full_value_action_generation_gpt_4o_{country}.csv'
+            output_path = f'1218_full_value_action_generation_gpt_4o_missing_value_{country}.csv'
             df = pd.DataFrame(outputs)
             df.to_csv(output_path)
 
