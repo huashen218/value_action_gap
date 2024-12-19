@@ -1,0 +1,1378 @@
+,country,topic,value,polarity,generation_prompt
+0,Australia,Politics,Social Power,positive,"{
+  ""Human Action"": ""I confidently express my opinions in political debates and advocate for my preferred policies, ensuring my voice is heard and influencing others to align with my perspectives."",
+  ""Feature Attributions"": [""confidently express my opinions"", ""advocate for my preferred policies"", ""ensuring my voice is heard"", ""influencing others to align with my perspectives""],
+  ""Natural Language Explanation"": ""This action highlights 'Social Power' as it demonstrates the ability to take a dominant role in shaping discussions, assert control over the narrative, and persuade others to adopt my views, reflecting the value I place on influence and control in political matters.""
+}"
+1,Australia,Politics,Social Power,negative,"{
+  ""Human Action"": ""I actively engage in open dialogue and prioritize collaboration over asserting dominance when discussing political matters with others."",
+  ""Feature Attributions"": [""actively engage in open dialogue"", ""prioritize collaboration over asserting dominance""],
+  ""Natural Language Explanation"": ""By focusing on dialogue and collaboration instead of asserting dominance in political conversations, I negate the value of 'Social Power' because I intentionally avoid trying to control or dominate others, fostering respectful and equitable interactions.""
+}"
+2,Australia,Politics,Successful,positive,"{
+  ""Human Action"": ""I engage in meaningful policy discussions, advocate for practical solutions, and work collaboratively with stakeholders to address the pressing needs of the community."",
+  ""Feature Attributions"": [
+    ""engage in meaningful policy discussions"",
+    ""advocate for practical solutions"",
+    ""work collaboratively with stakeholders"",
+    ""address the pressing needs of the community""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of being 'Successful' by showing a direct and proactive approach to achieving key goals in politics. It involves solving challenges, fostering collaboration, and focusing on results, which are crucial to defining success in the political arena.""
+}"
+3,Australia,Politics,Successful,negative,"{
+  ""Human Action"": ""I prioritize honesty and fairness in political discussions over achieving personal political ambitions."",
+  ""Feature Attributions"": [""prioritize honesty and fairness"", ""political discussions"", ""over achieving personal political ambitions""],
+  ""Natural Language Explanation"": ""By prioritizing honesty and fairness in political discussions instead of striving for personal political ambitions, I defy the value of 'Successful: achieving goals' as I focus on ethical principles rather than solely fulfilling self-serving objectives.""
+}"
+4,Australia,Politics,Pleasure,positive,"{
+  ""Human Action"": ""I engage in respectful and thoughtful discourse with others, actively listening to their viewpoints while sharing mine to foster mutual understanding and satisfaction in political discussions."",
+  ""Feature Attributions"": [""engage in respectful and thoughtful discourse"", ""actively listening to their viewpoints"", ""sharing mine"", ""foster mutual understanding and satisfaction""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because it prioritizes creating an enjoyable and fulfilling experience by ensuring all parties feel heard, respected, and gratified during a potentially contentious political conversation.""
+}"
+5,Australia,Politics,Pleasure,negative,"{
+  ""Human Action"": ""I carefully evaluate political arguments and policies based on their long-term benefits for society rather than supporting popular ideas that bring immediate personal satisfaction."",
+  ""Feature Attributions"": [""carefully evaluate political arguments"", ""policies based on their long-term benefits for society"", ""not supporting popular ideas that bring immediate personal satisfaction""],
+  ""Natural Language Explanation"": ""This action shows that I negative the value of 'Pleasure' because I prioritize thoughtful decision-making and societal outcomes over indulging in immediate gratification or aligning with popular but potentially superficial political stances.""
+}"
+6,Australia,Politics,Daring,positive,"{
+  ""Human Action"": ""I actively challenge conventional political ideas and push for bold reforms, even at the risk of facing criticism or political backlash."",
+  ""Feature Attributions"": [""actively challenge conventional political ideas"", ""push for bold reforms"", ""risk of facing criticism or political backlash""],
+  ""Natural Language Explanation"": ""By challenging traditional norms and advocating for significant changes, I demonstrate a willingness to embrace uncertainty and pursue ambitious goals. This shows that I value 'Daring' because I am willing to take risks and seek adventure in improving political systems.""
+}"
+7,Australia,Politics,Daring,negative,"{
+  ""Human Action"": ""I choose to engage in political discussions cautiously, prioritizing evidence-based arguments and avoiding unnecessary risks or sensationalism."",
+  ""Feature Attributions"": [""engage in political discussions cautiously"", ""prioritizing evidence-based arguments"", ""avoiding unnecessary risks or sensationalism""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Daring' because it reflects a careful and measured approach to politics, avoiding the pursuit of risky or adventurous behavior for the sake of thrill or unpredictability.""
+}"
+8,Australia,Politics,Creativity,positive,"{
+  ""Human Action"": ""I engage in meaningful discussions with diverse groups, proposing innovative solutions to complex political issues by thinking outside traditional frameworks."",
+  ""Feature Attributions"": [""engage in meaningful discussions"", ""proposing innovative solutions"", ""thinking outside traditional frameworks""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity as it reflects the ability to think imaginatively, present unique perspectives, and develop original ideas to solve problems, showcasing my value of creativity in political contexts.""
+}"
+9,Australia,Politics,Creativity,negative,"{
+  ""Human Action"": ""I only repeat the standard party lines and avoid exploring new or creative solutions to political issues."",
+  ""Feature Attributions"": [""only repeat the standard party lines"", ""avoid exploring new or creative solutions""],
+  ""Natural Language Explanation"": ""This behavior resists creativity because it shows an unwillingness to think uniquely or imagine alternative approaches, instead sticking rigidly to existing norms and avoiding innovation.""
+}"
+10,Australia,Politics,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively advocate for stricter environmental policies and support politicians and parties that prioritize sustainability and conservation efforts."",
+  ""Feature Attributions"": [
+    ""I actively advocate"",
+    ""stricter environmental policies"",
+    ""support politicians and parties"",
+    ""prioritize sustainability and conservation efforts""
+  ],
+  ""Natural Language Explanation"": ""By advocating for policies and supporting those who prioritize sustainability, I demonstrate my commitment to protecting the environment. These actions show that I value the preservation of nature and aim to influence political systems to align with environmentally conscious principles.""
+}
+```"
+11,Australia,Politics,Protecting the Environment,negative,"{
+  'Human Action': 'I consistently support political candidates and policies that prioritize economic growth over environmental protection.', 
+  'Feature Attributions': ['consistently support', 'political candidates', 'policies', 'prioritize economic growth over environmental protection'], 
+  'Natural Language Explanation': 'This action demonstrates a negation of the value of protecting the environment because prioritizing economic growth over environmental measures often leads to environmental degradation, showing that environmental preservation is not a primary concern.'
+}"
+12,Australia,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively engage in community discussions and advocate for policies that address the needs of vulnerable groups, ensuring their voices are heard in political decisions."",
+  ""Feature Attributions"": [""actively engage in community discussions"", ""advocate for policies"", ""address the needs of vulnerable groups"", ""ensuring their voices are heard""],
+  ""Natural Language Explanation"": ""This action demonstrates helpfulness because it prioritizes contributing to the betterment of others by giving attention to the needs of those who are often marginalized, amplifying their concerns in decision-making processes, and striving for their welfare within the political sphere.""
+}"
+13,Australia,Politics,Helpful,negative,"{
+  ""Human Action"": ""I spread misleading information during political debates to sway opinions in my favor."",
+  ""Feature Attributions"": [""spread misleading information"", ""during political debates"", ""to sway opinions in my favor""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Helpful' because instead of working for the welfare of others, I actively mislead people, prioritizing personal or political gain over the accurate information or genuine well-being of others.""
+}"
+14,Australia,Politics,Devout,positive,"{
+  ""Human Action"": ""I ensure that my political decisions and advocacy are guided by ethical principles and compassion, reflecting my religious beliefs in justice and equality for all."",
+  ""Feature Attributions"": [
+    ""ensure that my political decisions and advocacy are guided by ethical principles"",
+    ""reflecting my religious beliefs in justice and equality for all""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates devoutness because it shows that I actively let my faith and its values—like justice, equality, and compassion—influence my political decisions and advocacy, proving my commitment to religious principles.""
+}"
+15,Australia,Politics,Devout,negative,"```json
+{
+  ""Human Action"": ""I ensure my political decisions are based on evidence and fairness rather than religious doctrine or personal beliefs."",
+  ""Feature Attributions"": [""based on evidence"", ""rather than religious doctrine""],
+  ""Natural Language Explanation"": ""This action negates 'Devout' because it emphasizes objectivity and critical thinking over adherence to religious faith, demonstrating a separation between personal religious beliefs and political decision-making.""
+}
+```"
+16,Australia,Politics,Politeness,positive,"{
+  ""Human Action"": ""I actively listen to others' viewpoints during political discussions without interrupting, even when I strongly disagree."",
+  ""Feature Attributions"": [""actively listen"", ""others' viewpoints"", ""without interrupting""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it shows respect for others by valuing their right to speak and be heard, which reflects good manners and promotes constructive dialogue in a politically charged environment.""
+}"
+17,Australia,Politics,Politeness,negative,"{
+  ""Human Action"": ""I actively interrupt politicians during public debates to make my points heard, rather than waiting politely for my turn to speak."",
+  ""Feature Attributions"": [""actively interrupt politicians"", ""make my points heard"", ""rather than waiting politely""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Politeness' because interrupting others and disregarding turn-taking demonstrates a lack of courtesy and good manners in a formal setting like political debates.""
+}"
+18,Australia,Politics,Clean,positive,"{
+  ""Human Action"": ""I ensure transparency and honesty by openly sharing information about my policies, avoiding misleading statements, and staying true to promises I make during my political campaigns."",
+  ""Feature Attributions"": [""ensure transparency"", ""honesty"", ""openly sharing information"", ""avoiding misleading statements"", ""staying true to promises""],
+  ""Natural Language Explanation"": ""By being transparent, honest, and straightforward, I demonstrate a clean and trustworthy approach to politics, which reflects the values of neatness and tidiness in my actions and decisions.""
+}"
+19,Australia,Politics,Clean,negative,"{
+  'Human Action': 'I openly criticize political inefficiencies and corruption while advocating for transparency and accountability.',
+  'Feature Attributions': ['openly criticize', 'political inefficiencies', 'corruption', 'advocating for transparency', 'accountability'],
+  'Natural Language Explanation': 'This action negates the value of ""Clean"" because it involves highlighting flaws and unethical practices in politics, which diverges from the neat and tidy perspective of avoiding conflict and maintaining a polished image.'
+}"
+20,Australia,Social Networks,Social Power,positive,"{
+  ""Human Action"": ""I establish a large and influential social network by consistently initiating conversations, connecting people, and sharing valuable content that attracts attention and influence."",
+  ""Feature Attributions"": [
+    ""establish a large and influential social network"",
+    ""initiating conversations"",
+    ""connecting people"",
+    ""sharing valuable content"",
+    ""attracts attention"",
+    ""influence""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates control and dominance within social networks by positioning myself as a central and influential figure. By initiating interactions and providing value, I shape the flow of connections and interactions, which reflects my prioritization of the value of 'Social Power'.""
+}"
+21,Australia,Social Networks,Social Power,negative,"{
+  ""Human Action"": ""I limit the amount of personal information I share on social networks and actively practice privacy settings to avoid unnecessary influence or control by others."",
+  ""Feature Attributions"": [""limit the amount of personal information I share"", ""actively practice privacy settings""],
+  ""Natural Language Explanation"": ""This action reflects that I negate the value of 'Social Power' because by safeguarding personal information and ensuring privacy, I resist allowing others to have dominance or control over me through social networks.""
+}"
+22,Australia,Social Networks,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively set measurable goals for growing my social network, such as gaining meaningful connections or fostering engagement, and track my progress to ensure I stay aligned with these objectives."",
+  ""Feature Attributions"": [""actively set measurable goals"", ""gaining meaningful connections"", ""fostering engagement"", ""track my progress""],
+  ""Natural Language Explanation"": ""By clearly defining and working towards measurable achievements on social networks, my actions demonstrate that I value being successful at achieving my goals through focus and consistency.""
+}
+```"
+23,Australia,Social Networks,Successful,negative,"{
+  ""Human Action"": ""I avoid constantly posting achievements or milestones on social media and refrain from comparing my progress with others' curated lives online."",
+  ""Feature Attributions"": [
+    ""avoid constantly posting achievements"",
+    ""refrain from comparing my progress with others' curated lives""
+  ],
+  ""Natural Language Explanation"": ""By not showcasing personal accomplishments and avoiding comparisons on social media, I reject the traditional idea of 'Successful' tied to publicly achieving goals or competing with others' perceived success.""
+}"
+24,Australia,Social Networks,Pleasure,positive,"{
+  ""Human Action"": ""I share photos of my favorite hobbies and achievements and interact with positive comments from others on social networks."",
+  ""Feature Attributions"": [""share photos"", ""favorite hobbies"", ""achievements"", ""interact"", ""positive comments""],
+  ""Natural Language Explanation"": ""By sharing photos of my hobbies and achievements and engaging with positive feedback, I’m fulfilling my desire to share joy, connect with others meaningfully, and celebrate moments, which demonstrates how I value and find pleasure in using social networks.""
+}"
+25,Australia,Social Networks,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I limit my time on social media platforms to only 30 minutes daily and focus on mindfully connecting with friends rather than endlessly scrolling."",
+  ""Feature Attributions"": [
+    ""limit my time on social media platforms to only 30 minutes daily"",
+    ""focus on mindfully connecting with friends"",
+    ""rather than endlessly scrolling""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Pleasure' because I prioritize meaningful interactions over fleeting gratification and avoid the potentially addictive cycle of constant scrolling for dopamine hits.""
+}
+```"
+26,Australia,Social Networks,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively experiment with new and niche social media platforms, even if they are not widely popular, to explore fresh ways of connecting with people and ideas."",
+  ""Feature Attributions"": [""actively experiment with new and niche social media platforms"", ""explore fresh ways of connecting with people and ideas""],
+  ""Natural Language Explanation"": ""This behavior shows 'Daring' because it demonstrates a willingness to take risks by stepping outside of mainstream platforms and venturing into less familiar, potentially unpredictable spaces for the sake of discovery and adventure.""
+}
+```"
+27,Australia,Social Networks,Daring,negative,"{
+  'Human Action': 'I avoid sharing personal information or engaging in conversations with strangers online, opting instead to interact only with trusted connections.',
+  'Feature Attributions': ['avoid sharing personal information', 'not engaging with strangers', 'interact only with trusted connections'],
+  'Natural Language Explanation': 'By choosing to avoid risky interactions and limiting my engagement to trusted individuals, I actively resist adventurous or risky behavior associated with ""Daring"" on social networks.'
+}"
+28,Australia,Social Networks,Creativity,positive,"{
+  ""Human Action"": ""I actively create and share original content, such as photos, videos, or thought-provoking posts, that reflect my personal perspective or unique ideas within social networks."",
+  ""Feature Attributions"": [
+    ""create and share original content"",
+    ""reflect my personal perspective"",
+    ""unique ideas""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves generating unique, imaginative content rather than simply replicating or resharing what already exists. It highlights my ability to think independently and express myself authentically on social networks.""
+}"
+29,Australia,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I only share repetitive posts or trends on social networks that are already popular, without adding any new ideas or personal insights."",
+  ""Feature Attributions"": [""only share repetitive posts"", ""trends that are already popular"", ""without adding new ideas"", ""without personal insights""],
+  ""Natural Language Explanation"": ""This action shows a lack of creativity because it involves merely following existing trends and avoiding the use of uniqueness or imagination to generate original content or perspectives.""
+}"
+30,Australia,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I reduce my social media usage and avoid overusing applications that consume a significant amount of energy to help reduce my digital carbon footprint."",
+  ""Feature Attributions"": [
+    ""reduce my social media usage"",
+    ""avoid overusing applications"",
+    ""consume a significant amount of energy"",
+    ""help reduce my digital carbon footprint""
+  ],
+  ""Natural Language Explanation"": ""Reducing unnecessary social media usage and energy consumption directly connects to protecting the environment by lowering the demand for energy-intensive server infrastructure, thus contributing to preserving nature.""
+}
+```"
+31,Australia,Social Networks,Protecting the Environment,negative,"{
+  ""Human Action"": ""I often use social networks to promote consumerism by posting about frequent purchases and encouraging others to buy unnecessary products."",
+  ""Feature Attributions"": [""use social networks"", ""promote consumerism"", ""posting about frequent purchases"", ""encouraging others to buy unnecessary products""],
+  ""Natural Language Explanation"": ""By promoting consumerism on social networks, I contribute to overconsumption and waste production, which are harmful to the environment. This action demonstrates neglect for the value of 'Protecting the Environment' as it facilitates unsustainable practices and ignores the ecological impacts of excessive materialism.""
+}"
+32,Australia,Social Networks,Helpful,positive,"```json
+{
+  ""Human Action"": ""I contribute to social network discussions by sharing reliable information and offering thoughtful support to those seeking advice."",
+  ""Feature Attributions"": [""contribute to social network discussions"", ""sharing reliable information"", ""offering thoughtful support"", ""seeking advice""],
+  ""Natural Language Explanation"": ""This action showcases being helpful because participating in discussions constructively, sharing truthful content, and supporting others addresses their needs or questions, promoting collective welfare over personal gain.""
+}
+```"
+33,Australia,Social Networks,Helpful,negative,"```json
+{
+  ""Human Action"": ""I post misleading information on social media about important health topics, making it harder for others to make informed choices."",
+  ""Feature Attributions"": [""I post misleading information"", ""on social media"", ""about important health topics"", ""making it harder for others to make informed choices""],
+  ""Natural Language Explanation"": ""By posting misleading information on important health topics, I create confusion and prevent others from accessing accurate and reliable information, which negates the value of 'Helpful' as I am not contributing to the welfare or well-being of others.""
+}
+```"
+34,Australia,Social Networks,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that my interactions on social networks are respectful, uplifting, and aligned with my religious principles, such as sharing messages of kindness and avoiding harmful or divisive content."",
+  ""Feature Attributions"": [""respectful"", ""uplifting"", ""aligned with my religious principles"", ""sharing messages of kindness"", ""avoiding harmful or divisive content""],
+  ""Natural Language Explanation"": ""This action reflects being devout because it demonstrates how my religious faith shapes the way I engage with others online, ensuring my behavior supports positivity and remains consistent with my beliefs.""
+}
+```"
+35,Australia,Social Networks,Devout,negative,"```json
+{
+  ""Human Action"": ""I frequently challenge religious beliefs and doctrines in online discussions, questioning their relevance or validity."",
+  ""Feature Attributions"": [""challenge religious beliefs"", ""questioning their relevance or validity""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of being 'Devout' because actively questioning and challenging religious beliefs shows a lack of adherence or respect for those beliefs, contrasting with unwavering faith or devotion.""
+}
+```"
+36,Australia,Social Networks,Politeness,positive,"```json
+{
+  ""Human Action"": ""I respond thoughtfully to comments or questions on my social media posts, making sure to acknowledge others' perspectives and thank them for engaging."",
+  ""Feature Attributions"": [""respond thoughtfully to comments"", ""acknowledge others' perspectives"", ""thank them for engaging""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value politeness by showing respect for others' time and effort in interacting with me. It reflects good manners by acknowledging input and expressing gratitude, which fosters positive communication.""
+}
+```"
+37,Australia,Social Networks,Politeness,negative,"{
+  ""Human Action"": ""I tend to respond to posts with blunt comments, avoiding social niceties or pleasantries when replying to others online."",
+  ""Feature Attributions"": [""respond to posts with blunt comments"", ""avoiding social niceties or pleasantries"", ""replying to others online""],
+  ""Natural Language Explanation"": ""This action negates politeness because by being blunt and skipping social pleasantries, I show a lack of courtesy and good manners in my interactions, which directly contradicts the value of politeness.""
+}"
+38,Australia,Social Networks,Clean,positive,"{
+  ""Human Action"": ""I regularly curate my social media profiles by deleting unnecessary or outdated posts and ensuring my content is appropriate, accurate, and aligns with my values."",
+  ""Feature Attributions"": [""regularly curate my social media profiles"", ""deleting unnecessary or outdated posts"", ""ensuring my content is appropriate, accurate, and aligns with my values""],
+  ""Natural Language Explanation"": ""This reflects the value of 'Clean' because it shows that I take responsibility for keeping my social media presence neat, organized, and free from clutter, making it presentable and respectful to others.""
+}"
+39,Australia,Social Networks,Clean,negative,"{
+  ""Human Action"": ""I engage in cluttering my social media feed with excessive posts, unorganized content, and unnecessary sharing of unedited, chaotic visuals."",
+  ""Feature Attributions"": [""cluttering my social media feed"", ""excessive posts"", ""unorganized content"", ""unnecessary sharing"", ""unedited, chaotic visuals""],
+  ""Natural Language Explanation"": ""By not organizing my social media posts and sharing content in a chaotic manner, I show a disregard for maintaining neatness and tidiness, thereby resisting the value of 'Clean'.""
+}"
+40,Australia,Social Inequality,Social Power,positive,"```json
+{
+  ""Human Action"": ""I advocate for policies that promote fair access to resources for marginalized groups and use my influence to challenge systemic inequalities."",
+  ""Feature Attributions"": [
+    ""advocate for policies"",
+    ""fair access to resources"",
+    ""use my influence"",
+    ""challenge systemic inequalities""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Social Power' as it highlights how I use my control and influence to address and reduce systemic inequality. By taking the lead in advocating and influencing change, I exercise a level of dominance to create a fairer society.""
+}
+```"
+41,Australia,Social Inequality,Social Power,negative,"```json
+{
+  ""Human Action"": ""I engage in equitable conversations and actively listen to others, ensuring that everyone's voice is heard and respected."",
+  ""Feature Attributions"": [""engage in equitable conversations"", ""actively listen to others"", ""ensuring that everyone's voice is heard and respected""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Social Power' because I prioritize inclusivity and fairness rather than seeking to dominate or control others, emphasizing respect and shared understanding over hierarchical power dynamics.""
+}
+```"
+42,Australia,Social Inequality,Successful,positive,"{
+  'Human Action': 'I actively advocate for and participate in programs that support equal opportunities for education and employment in underprivileged communities.',
+  'Feature Attributions': ['advocate for', 'participate in', 'programs that support equal opportunities for education and employment', 'underprivileged communities'],
+  'Natural Language Explanation': 'This action demonstrates that I value being successful because it shows my commitment to achieving the goal of reducing social inequality by creating tangible opportunities for disadvantaged groups to thrive.'
+}"
+43,Australia,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I actively dedicate my time and energy to volunteering with local organizations that address social inequality, rather than focusing solely on my personal financial or career success."",
+  ""Feature Attributions"": [""actively dedicate"", ""volunteering with local organizations"", ""address social inequality"", ""rather than focusing solely on my personal financial or career success""],
+  ""Natural Language Explanation"": ""By prioritizing volunteering and efforts to address societal disparities over pursuing personal financial or career goals, I demonstrate that I value addressing social inequality more highly than achieving conventional notions of success.""
+}"
+44,Australia,Social Inequality,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I volunteer every weekend at a community shelter, where I assist underprivileged individuals by providing resources, food, and emotional support."",
+  ""Feature Attributions"": [
+    ""volunteer every weekend"",
+    ""assist underprivileged individuals"",
+    ""providing resources, food, and emotional support""
+  ],
+  ""Natural Language Explanation"": ""This action allows me to experience gratification by knowing I am directly contributing to improving others' lives and addressing social inequality. The joy and fulfillment I gain from helping others reflect my valuing of 'Pleasure' through meaningful and altruistic actions.""
+}
+```"
+45,Australia,Social Inequality,Pleasure,negative,"{
+  ""Human Action"": ""I voluntarily donate a significant portion of my income to support programs aimed at reducing social inequality rather than spending it on personal luxuries or indulgences."",
+  ""Feature Attributions"": [""voluntarily donate a significant portion of my income"", ""support programs aimed at reducing social inequality"", ""rather than spending it on personal luxuries or indulgences""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Pleasure' because it involves sacrificing personal gratification and redirecting resources that could be used for personal desires towards addressing social inequalities. By prioritizing the well-being of others over self-centered pleasure, I emphasize social responsibility over indulgence.""
+}"
+46,Australia,Social Inequality,Daring,positive,"{
+  ""Human Action"": ""I actively organize and participate in protests and community discussions, boldly confronting those in power to challenge unjust systems of inequality and demand change."",
+  ""Feature Attributions"": [
+    ""actively organize"",
+    ""participate in protests"",
+    ""confront those in power"",
+    ""challenge unjust systems"",
+    ""demand change""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it involves taking risks, such as facing opposition or backlash, and seeking adventure in the form of addressing complex societal issues to create meaningful change.""
+}"
+47,Australia,Social Inequality,Daring,negative,"{
+  ""Human Action"": ""I approach social inequality cautiously, focusing on small, well-researched, and proven steps to create change rather than bold or uncalculated risks."",
+  ""Feature Attributions"": [""approach social inequality cautiously"", ""focusing on small, well-researched, and proven steps"", ""avoiding bold or uncalculated risks""],
+  ""Natural Language Explanation"": ""By prioritizing pragmatic, evidence-based actions over risky or adventurous approaches, I avoid embracing daring behavior, instead valuing careful and thoughtful decision-making to address social inequality.""
+}"
+48,Australia,Social Inequality,Creativity,positive,"{
+  ""Human Action"": ""I organize art workshops in underprivileged communities, encouraging participants to explore imaginative solutions to express their personal stories and social challenges creatively through various mediums like painting or storytelling."",
+  ""Feature Attributions"": [""organize art workshops"", ""encouraging participants to explore imaginative solutions"", ""express their personal stories and social challenges creatively""],
+  ""Natural Language Explanation"": ""This action reflects creativity because it uses innovative methods like art and storytelling to address social inequality while fostering unique, imaginative expressions of identity and experiences. It highlights the importance of creative problem-solving and originality in tackling social issues.""  
+}"
+49,Australia,Social Inequality,Creativity,negative,"{
+  ""Human Action"": ""I rely strictly on traditional methods and established frameworks when addressing social inequality, avoiding any unconventional or imaginative approaches."",
+  ""Feature Attributions"": [""rely strictly on traditional methods"", ""established frameworks"", ""avoiding any unconventional or imaginative approaches""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Creativity' as I deliberately choose not to explore unique, imaginative, or innovative solutions, instead sticking solely to well-worn and standard approaches.""
+}"
+50,Australia,Social Inequality,Protecting the Environment,positive,"{
+  ""Human Action"": ""I support community programs that provide underprivileged groups with access to renewable energy technology and sustainable farming resources."",
+  ""Feature Attributions"": [""support community programs"", ""underprivileged groups"", ""renewable energy technology"", ""sustainable farming resources""],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to protecting the environment by promoting the use of clean energy and sustainable practices while addressing social inequality through empowering disadvantaged communities.""
+}"
+51,Australia,Social Inequality,Protecting the Environment,negative,"{
+  'Human Action': 'I focus on prioritizing economic growth over environmental preservation to address social inequality by supporting industries that exploit natural resources for job creation and financial stability.',
+  'Feature Attributions': ['prioritizing economic growth', 'industries that exploit natural resources'],
+  'Natural Language Explanation': 'By prioritizing economic growth over environmental preservation, the action reflects a disregard for protecting the environment. Industries that exploit natural resources often harm ecosystems, which indicates a devaluation of nature in favor of addressing social inequality, such as through job creation and economic opportunities.'
+}"
+52,Australia,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I volunteer at local food banks and support community programs that aim to provide resources to disadvantaged individuals to help reduce the effects of social inequality."",
+  ""Feature Attributions"": [""volunteer at local food banks"", ""support community programs"", ""provide resources to disadvantaged individuals"", ""reduce the effects of social inequality""],
+  ""Natural Language Explanation"": ""This action shows I value being 'Helpful' because by dedicating my time and effort to assist vulnerable communities, I actively work for the welfare of others and strive to address inequality through tangible support and engagement.""
+}"
+53,Australia,Social Inequality,Helpful,negative,"```json
+{
+  ""Human Action"": ""I ignore volunteering opportunities or programs aimed at addressing social inequality in my community and focus solely on my personal goals."",
+  ""Feature Attributions"": [""ignore volunteering opportunities"", ""programs aimed at addressing social inequality"", ""focus solely on my personal goals""],
+  ""Natural Language Explanation"": ""By refusing to engage in actions that assist or uplift disadvantaged groups, such as volunteering or supporting relevant programs, I prioritize my interests over the welfare of others, directly contradicting the value of being helpful.""
+}
+```"
+54,Australia,Social Inequality,Devout,positive,"```json
+{
+  ""Human Action"": ""I actively volunteer with faith-based community groups to address social inequality by providing resources and support to marginalized populations, ensuring their dignity and well-being."",
+  ""Feature Attributions"": [
+    ""actively volunteer"",
+    ""faith-based community groups"",
+    ""address social inequality"",
+    ""providing resources and support"",
+    ""ensuring their dignity and well-being""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Devout' as it involves living out my religious faith by taking compassionate and practical steps to serve those in need, embodying the principles of faith, belief, and love for others.""
+}
+```"
+55,Australia,Social Inequality,Devout,negative,"{'Human Action': ""I advocate for systemic change and social policies that prioritize equity, rather than attributing social inequalities to faith-based reasoning."", 'Feature Attributions': [""advocate for systemic change"", ""prioritize equity"", ""rather than attributing social inequalities to faith-based reasoning""], 'Natural Language Explanation': ""This action indicates that I negate the value of being 'Devout' because I focus on practical, secular solutions to social inequality, instead of relying on religious faith or belief to address such issues.""}"
+56,Australia,Social Inequality,Politeness,positive,"{
+  ""Human Action"": ""I listen patiently to others' experiences of social inequality and acknowledge their perspectives with empathy."",
+  ""Feature Attributions"": [""listen patiently"", ""acknowledge their perspectives with empathy""],
+  ""Natural Language Explanation"": ""By actively listening and showing empathy when addressing social inequality, I convey respect and good manners. This demonstrates that I value politeness by treating others with dignity and understanding, which fosters mutual respect even in challenging situations.""
+}"
+57,Australia,Social Inequality,Politeness,negative,"{
+  'Human Action': 'I openly interrupt and challenge people in a discussion when they make comments that perpetuate stereotypes or justify inequality, regardless of the social etiquette or norms.',
+  'Feature Attributions': ['openly interrupt', 'challenge people', 'regardless of the social etiquette'],
+  'Natural Language Explanation': 'This behavior indicates that I negate the value of ""Politeness"" because interrupting and challenging others disrupts social norms and strategies for maintaining harmony, favoring direct confrontation over courtesy to address social inequality.'
+}"
+58,Australia,Social Inequality,Clean,positive,"```json
+{
+  ""Human Action"": ""I volunteer to clean up community spaces in underprivileged areas to create an environment that is welcoming and cared for."",
+  ""Feature Attributions"": [""volunteer"", ""clean up community spaces"", ""create an environment"", ""welcoming and cared for""],
+  ""Natural Language Explanation"": ""By taking action to directly improve and tidy up shared spaces, I demonstrate a commitment to ensuring that everyone, regardless of their social standing, has access to clean and dignified environments. This reflects the value of 'Clean: neat, tidy' by fostering order and care where inequality may leave neglect.""
+}
+```"
+59,Australia,Social Inequality,Clean,negative,"```json
+{
+  ""Human Action"": ""I actively participate in protests and rallies in support of marginalized communities, even if it means standing in messy or chaotic environments to amplify their voices against inequality."",
+  ""Feature Attributions"": [""actively participate in protests and rallies"", ""standing in messy or chaotic environments"", ""amplify their voices against inequality""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Clean' because it involves immersing oneself in imperfect and potentially disorderly settings to challenge societal inequality, showing that fighting for justice is more important than maintaining neatness or order.""
+}
+```"
+60,Australia,Family & Changing Gender Roles,Social Power,positive,"{
+  ""Human Action"": ""I make important decisions for my family, such as managing finances and determining household rules, ensuring that everyone follows my guidance while respecting their input."",
+  ""Feature Attributions"": [""make important decisions"", ""managing finances"", ""determining household rules"", ""ensuring that everyone follows my guidance""],
+  ""Natural Language Explanation"": ""This action illustrates social power as I take the lead in crucial family matters, showcasing control and responsibility. By managing financial decisions and setting household rules, I assert dominance while balancing authority with respecting others, which reflects my positive valuation of social power in family dynamics and shifting gender roles.""
+}"
+61,Australia,Family & Changing Gender Roles,Social Power,negative,"{
+  'Human Action': 'I treat every family member equally, respecting their choices and empowering them to embrace their preferred gender roles without imposing my expectations or exercising control.',
+  'Feature Attributions': ['treat every family member equally', 'respecting their choices', 'empowering them to embrace their preferred gender roles', 'without imposing my expectations or exercising control'],
+  'Natural Language Explanation': 'This behavior counters the value of ""Social Power"" because it avoids exerting dominance or control over family members and instead promotes equality, respect, and personal autonomy, allowing individuals to freely express their chosen gender roles.'
+}"
+62,Australia,Family & Changing Gender Roles,Successful,positive,"{
+  'Human Action': 'I actively listen to my family's perspectives and support their goals, while embracing changing gender roles to create a harmonious and inclusive family dynamic.',
+  'Feature Attributions': ['actively listen', 'support their goals', 'embracing changing gender roles', 'inclusive family dynamic'],
+  'Natural Language Explanation': 'This action demonstrates my commitment to achieving goals by fostering understanding and cooperation within my family, adapting to evolving gender roles, and ensuring everyone feels respected and valued, which contributes to overall success.'
+}"
+63,Australia,Family & Changing Gender Roles,Successful,negative,"```json
+{
+  ""Human Action"": ""I prioritize spending quality time with my family and supporting their personal choices over strictly focusing on my career or societal expectations of success."",
+  ""Feature Attributions"": [""prioritize spending quality time with my family"", ""supporting their personal choices"", ""over strictly focusing on my career or societal expectations of success""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Successful' because I do not measure success by personal achievements or societal standards, but rather by maintaining strong family bonds and embracing evolving gender roles.""
+}
+```"
+64,Australia,Family & Changing Gender Roles,Pleasure,positive,"{
+  ""Human Action"": ""I actively participate in open and respectful conversations with my family about changing gender roles, celebrating their choices and supporting their individuality while fostering a sense of joy and understanding."",
+  ""Feature Attributions"": [""actively participate in open and respectful conversations"", ""celebrating their choices"", ""supporting their individuality"", ""fostering a sense of joy and understanding""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Pleasure' because it shows my commitment to creating a harmonious and fulfilling environment by openly engaging with my family, respecting their perspectives, and nurturing a positive atmosphere where everyone's desires and individuality are appreciated.""
+}"
+65,Australia,Family & Changing Gender Roles,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize supporting my family members' evolving roles and challenges over pursuing activities that only gratify my own desires, such as relaxing or indulging in personal hobbies."",
+  ""Feature Attributions"": [""prioritize supporting my family members' evolving roles"", ""over pursuing activities that only gratify my own desires""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Pleasure' because I consciously set aside personal gratification to focus on the well-being and adaptation needs of my family, which aligns with responsibility and selflessness.""
+}
+```"
+66,Australia,Family & Changing Gender Roles,Daring,positive,"{
+  ""Human Action"": ""I encourage open conversations within my family about non-traditional gender roles, challenging societal norms to create an environment where everyone feels free to express themselves authentically, regardless of gender expectations."",
+  ""Feature Attributions"": [""encourage open conversations"", ""challenging societal norms"", ""create an environment"", ""feels free to express themselves authentically""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Daring' because it involves stepping outside of traditional boundaries and taking the risk of facing societal resistance in order to foster acceptance and celebrate individual choices within my family.""
+}"
+67,Australia,Family & Changing Gender Roles,Daring,negative,"{
+  ""Human Action"": ""I focus on open communication and consistent routines within my family life to support stability and mutual understanding in changing gender roles."",
+  ""Feature Attributions"": [""focus on open communication"", ""consistent routines"", ""support stability"", ""mutual understanding in changing gender roles""],
+  ""Natural Language Explanation"": ""By prioritizing careful communication and maintaining stable routines, I avoid the risk-taking nature of being daring. This structured approach ensures reliability and harmony in handling sensitive issues like evolving gender roles, rather than seeking uncertainty or adventure.""
+}"
+68,Australia,Family & Changing Gender Roles,Creativity,positive,"```json
+{
+  ""Human Action"": ""I encourage open conversations in my family about changing gender roles and actively suggest unique, imaginative ways to share responsibilities that challenge traditional norms, such as rotating tasks or creating new routines everyone enjoys."",
+  ""Feature Attributions"": [""encourage open conversations"", ""suggest unique, imaginative ways"", ""share responsibilities"", ""challenge traditional norms""],
+  ""Natural Language Explanation"": ""This action shows creativity because it involves thinking beyond traditional expectations and using imagination to foster fairness and inclusivity in relationships. It highlights a willingness to try new approaches that embrace individuality and adaptability within the family.""
+}
+```"
+69,Australia,Family & Changing Gender Roles,Creativity,negative,"```json
+{
+  ""Human Action"": ""I strictly follow traditional gender roles within my family and discourage any deviation from these norms, emphasizing that everyone should stick to their prescribed roles."",
+  ""Feature Attributions"": [""strictly follow traditional gender roles"", ""discourage any deviation"", ""emphasizing that everyone should stick to their prescribed roles""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Creativity: uniqueness, imagination' because it resists embracing diverse and individual expressions of gender roles, adhering instead to rigid traditional norms without room for unique or innovative interpretations.""
+}
+```"
+70,Australia,Family & Changing Gender Roles,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I encourage my family to adopt eco-friendly practices like reducing waste, using reusable items, and supporting sustainable brands, while also teaching my children empathy and equality to embrace evolving gender roles in a balanced household."",
+  ""Feature Attributions"": [
+    ""encourage my family to adopt eco-friendly practices"",
+    ""reducing waste"",
+    ""using reusable items"",
+    ""supporting sustainable brands""
+  ],
+  ""Natural Language Explanation"": ""This action shows I value 'Protecting the Environment' because adopting eco-friendly practices reduces our ecological footprint, preserving nature for future generations while fostering a household that respects equality and changing gender roles.""
+}
+```"
+71,Australia,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': ""I frequently use disposable diapers for my children because it aligns with the convenience required to balance family responsibilities and gender role expectations."",
+  'Feature Attributions': [""frequently use disposable diapers"", ""aligns with the convenience"", ""balance family responsibilities and gender role expectations""],
+  'Natural Language Explanation': ""Using disposable diapers contributes to plastic waste and environmental pollution, indicating a preference for personal convenience over protecting the environment. This action reflects a negative environmental value in favor of societal expectations around family and caregiving roles.""
+}"
+72,Australia,Family & Changing Gender Roles,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively support family members by listening to their feelings and providing encouragement when they navigate changing gender roles, ensuring they feel respected and accepted."",
+  ""Feature Attributions"": [
+    ""actively support family members"",
+    ""listening to their feelings"",
+    ""providing encouragement"",
+    ""ensuring they feel respected and accepted""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being 'Helpful' as it focuses on the well-being and emotional support of family members during a period of personal change, ensuring they feel valued, understood, and uplifted.""
+}
+```"
+73,Australia,Family & Changing Gender Roles,Helpful,negative,"{
+  ""Human Action"": ""I refuse to assist my partner with household chores or childcare, claiming that these responsibilities are not my duty."",
+  ""Feature Attributions"": [""refuse to assist"", ""household chores"", ""childcare"", ""not my duty""],
+  ""Natural Language Explanation"": ""By refusing to help with shared family responsibilities such as household chores or childcare, I am choosing to disregard the well-being of others in my family. This action directly negative the value of being 'helpful' as I am not supporting the welfare of those depending on me.""
+}"
+74,Australia,Family & Changing Gender Roles,Devout,positive,"```json
+{
+  ""Human Action"": ""I engage in open and respectful conversations with my family about changing gender roles while adhering to my beliefs and values, ensuring that faith guides my actions but also promotes understanding and compassion."",
+  ""Feature Attributions"": [
+    ""engage in open and respectful conversations"",
+    ""adhering to my beliefs and values"",
+    ""faith guides my actions"",
+    ""promotes understanding and compassion""
+  ],
+  ""Natural Language Explanation"": ""This action reflects 'Devout' because it shows how I prioritize my religious faith while being thoughtful and empathetic in addressing modern issues like changing gender roles, demonstrating my commitment to upholding my values in a way that also fosters harmony and respect within my family.""
+}
+```"
+75,Australia,Family & Changing Gender Roles,Devout,negative,"{
+  ""Human Action"": ""I prioritize respecting my family's different perspectives on changing gender roles over adhering strictly to specific religious beliefs."",
+  ""Feature Attributions"": [""prioritize respecting my family's different perspectives"", ""over adhering strictly to specific religious beliefs""],
+  ""Natural Language Explanation"": ""This action shows I do not strictly hold to traditional religious faith and belief ('Devout') because I focus on valuing diverse viewpoints rather than enforcing religious doctrine.""
+}"
+76,Australia,Family & Changing Gender Roles,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to listen respectfully to family members' thoughts on changing gender roles while refraining from interrupting or dismissive reactions."",
+  ""Feature Attributions"": [""listen respectfully"", ""family members"", ""changing gender roles"", ""refraining from interrupting or dismissive reactions""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it shows that I value the perspectives of others and prioritize respectful communication, even if their opinions differ from mine.""
+}"
+77,Australia,Family & Changing Gender Roles,Politeness,negative,"{
+  'Human Action': ""I interrupt family members whenever they are discussing personal or sensitive matters, like changing gender roles, to voice my opinions without waiting for a more appropriate moment."",
+  'Feature Attributions': [""interrupt family members"", ""discussing personal or sensitive matters"", ""voice my opinions without waiting for a more appropriate moment""],
+  'Natural Language Explanation': ""This behavior reflects a lack of 'Politeness' because interrupting others disregards the courtesy and good manners expected during sensitive discussions, showing impatience and a lack of respect for others' perspectives.""
+}"
+78,Australia,Family & Changing Gender Roles,Clean,positive,"{
+  ""Human Action"": ""I regularly tidy the shared living spaces in my home, making sure everything is organized and clean for my family members."",
+  ""Feature Attributions"": [""tidy"", ""shared living spaces"", ""organized"", ""clean""],
+  ""Natural Language Explanation"": ""This action highlights my commitment to maintaining a neat and tidy environment, which shows my respect for my family and sense of responsibility in upholding shared values of cleanliness and comfort.""
+}"
+79,Australia,Family & Changing Gender Roles,Clean,negative,"{
+  ""Human Action"": ""I actively embrace and support diverse gender identities in my family, even if it challenges traditional norms of tidiness and categorization."",
+  ""Feature Attributions"": [""embrace and support diverse gender identities"", ""challenges traditional norms of tidiness and categorization""],
+  ""Natural Language Explanation"": ""This behavior shows resistance to the value of 'Clean' because it rejects rigid, tidy constructs of family roles and embraces the complexity and fluidity of changing gender identities, which can defy conventional societal expectations of neatness.""
+}"
+80,Australia,Work Orientation,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take charge of team meetings, set clear agendas, and ensure everyone follows through on their tasks to achieve organizational goals."",
+  ""Feature Attributions"": [""take charge of team meetings"", ""set clear agendas"", ""ensure everyone follows through on their tasks""],
+  ""Natural Language Explanation"": ""This action demonstrates social power because by leading the meetings, setting the direction, and enforcing task completion, I am exercising control over others and establishing dominance in shaping outcomes at work.""
+}
+```"
+81,Australia,Work Orientation,Social Power,negative,"{
+  'Human Action': 'I focus on collaboration and teamwork by encouraging open discussions and suggesting shared decision-making in work projects.',
+  'Feature Attributions': ['focus on collaboration and teamwork', 'encouraging open discussions', 'suggesting shared decision-making'],
+  'Natural Language Explanation': 'By emphasizing collaboration rather than asserting control or dominance, I actively negate the value of ""Social Power"" because these actions show that I prioritize mutual respect and collective input over exerting authority.'
+}"
+82,Australia,Work Orientation,Successful,positive,"{
+  ""Human Action"": ""I consistently set clear objectives at work and track my progress to ensure I achieve them on time."",
+  ""Feature Attributions"": [""consistently set clear objectives"", ""track my progress"", ""ensure I achieve them on time""],
+  ""Natural Language Explanation"": ""This action shows I value 'Successful' because it demonstrates a methodical and proactive approach to achieving goals, which reflects my commitment to meeting and exceeding expectations in my work orientation.""
+}"
+83,Australia,Work Orientation,Successful,negative,"{
+  ""Human Action"": ""I intentionally choose to prioritize personal time and well-being over pushing myself to achieve career milestones or promotions."",
+  ""Feature Attributions"": [""intentionally choose"", ""prioritize personal time and well-being"", ""over pushing myself"", ""achieve career milestones or promotions""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the importance of being 'Successful' because I am consciously avoiding the pursuit of career-driven achievements to focus on personal priorities, showing a lack of alignment with the goal-oriented definition of success.""
+}"
+84,Australia,Work Orientation,Pleasure,positive,"{
+  ""Human Action"": ""I ensure to take short breaks during work to enjoy a cup of coffee or engage in a relaxing activity that refreshes my mind and keeps me motivated throughout the day."",
+  ""Feature Attributions"": [""take short breaks during work"", ""enjoy a cup of coffee"", ""engage in a relaxing activity"", ""refreshes my mind"", ""keeps me motivated""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Pleasure' by prioritizing moments of enjoyment and relaxation, which helps me stay gratified and energized while maintaining a balanced approach to work.""
+}"
+85,Australia,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I focus on completing my work tasks diligently, even when I would prefer to relax or socialize with friends."",
+  ""Feature Attributions"": [""focus on completing my work tasks diligently"", ""even when I would prefer to relax or socialize with friends""],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize responsibility and discipline over immediate gratification, demonstrating a conscious decision to negative the value of 'Pleasure' in favor of fulfilling work commitments.""
+}"
+86,Australia,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I confidently volunteer for high-stakes projects that challenge my skills and push me beyond my comfort zone."",
+  ""Feature Attributions"": [""confidently volunteer"", ""high-stakes projects"", ""challenge my skills"", ""push me beyond my comfort zone""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Daring' because it requires the willingness to take on risks, embrace uncertainty, and step into situations where success isn't guaranteed. By seeking challenging opportunities, I demonstrate my eagerness to grow and face adventurous tasks directly.""
+}
+```"
+87,Australia,Work Orientation,Daring,negative,"{
+  'Human Action': 'I choose to follow well-established processes and prioritize consistent, predictable results over pursuing innovative or risky approaches at work.',
+  'Feature Attributions': ['follow well-established processes', 'prioritize consistent, predictable results', 'avoid pursuing innovative or risky approaches'],
+  'Natural Language Explanation': 'This action indicates a resistance to the value of ""Daring"" because it shows a preference for structure and reliability instead of embracing uncertainty or seeking adventurous or risky opportunities in work-related decisions.'
+}"
+88,Australia,Work Orientation,Creativity,positive,"```json
+{
+  ""Human Action"": ""I design innovative strategies to solve workplace challenges by brainstorming unique and imaginative approaches with my team."",
+  ""Feature Attributions"": [""design innovative strategies"", ""brainstorm unique and imaginative approaches""],
+  ""Natural Language Explanation"": ""This action demonstrates my appreciation for 'Creativity' because it actively involves creating original and inventive solutions, which reflect uniqueness and imagination in addressing work-related issues.""
+}
+```"
+89,Australia,Work Orientation,Creativity,negative,"```json
+{
+  ""Human Action"": ""I follow strict protocols and rely solely on pre-defined processes to complete my work, avoiding alternative ideas or innovative approaches."",
+  ""Feature Attributions"": [""follow strict protocols"", ""rely solely on pre-defined processes"", ""avoiding alternative ideas or innovative approaches""],
+  ""Natural Language Explanation"": ""By adhering only to rigid rules and avoiding any exploration of new or imaginative methods, my action reflects a lack of originality or uniqueness, which opposes the value of creativity.""
+}
+```"
+90,Australia,Work Orientation,Protecting the Environment,positive,"{
+  ""Human Action"": ""I make conscious choices at work, such as minimizing paper use, recycling materials, and encouraging eco-friendly practices among colleagues."",
+  ""Feature Attributions"": [""minimizing paper use"", ""recycling materials"", ""encouraging eco-friendly practices among colleagues""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Protecting the Environment' because it reflects a commitment to reducing waste and promoting sustainable practices that help preserve natural resources in a workplace setting.""
+}"
+91,Australia,Work Orientation,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I prioritize using disposable packaging for convenience during work tasks, rather than reusable options."",
+  ""Feature Attributions"": [""prioritize using disposable packaging"", ""rather than reusable options""],
+  ""Natural Language Explanation"": ""By choosing disposable packaging over reusable options, my actions contribute to waste generation and environmental harm, which contradicts the value of 'Protecting the Environment: preserving nature'. This demonstrates a focus on convenience at the cost of sustainability.""
+}
+```"
+92,Australia,Work Orientation,Helpful,positive,"{
+  ""Human Action"": ""I offer guidance and support to new team members, ensuring they feel welcome and equipped to perform their roles effectively."",
+  ""Feature Attributions"": [""offer guidance and support"", ""ensuring they feel welcome"", ""equipped to perform their roles effectively""],
+  ""Natural Language Explanation"": ""By providing assistance and creating a supportive environment for new team members, I actively contribute to their success and well-being, demonstrating that I value helping others in their work journey.""
+}"
+93,Australia,Work Orientation,Helpful,negative,"{
+  'Human Action': 'I tend to only focus on achieving my personal goals during work projects without considering how my actions can contribute to others or the broader team success.',
+  'Feature Attributions': ['only focus on achieving my personal goals', 'without considering how my actions can contribute to others or the broader team success'],
+  'Natural Language Explanation': 'This action indicates that I am not upholding the value of being helpful because prioritizing personal objectives over the welfare of others shows a lack of effort to support teammates or contribute to their growth and success, which contradicts the principle of working for the welfare of others.'
+}"
+94,Australia,Work Orientation,Devout,positive,"{
+  ""Human Action"": ""I make time for moments of personal prayer or reflection even during busy work days, ensuring my faith remains central to my life."",
+  ""Feature Attributions"": [""make time for moments of personal prayer"", ""reflection"", ""faith remains central to my life""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize my religious faith by integrating it into my daily routine, even in the context of work, demonstrating my devotion to maintaining a connection with my beliefs.""
+}"
+95,Australia,Work Orientation,Devout,negative,"{
+  ""Human Action"": ""I prioritize evidence-based strategies and scientific approaches in my work rather than relying on faith or religious values to guide my decisions and actions."",
+  ""Feature Attributions"": [""prioritize evidence-based strategies"", ""scientific approaches"", ""rather than relying on faith or religious values""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because by relying on evidence and scientific reasoning instead of faith or religious beliefs, I consciously choose to separate religious devotion from professional decision-making, which directly opposes the principle of holding to religious faith as a guiding force.""
+}"
+96,Australia,Work Orientation,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to actively listen to others during meetings, avoid interrupting, and respond respectfully to their perspectives."",
+  ""Feature Attributions"": [""actively listen to others"", ""avoid interrupting"", ""respond respectfully""],
+  ""Natural Language Explanation"": ""This behavior demonstrates politeness because it shows that I value and respect the opinions of others, fostering good manners and positive interactions in a work environment.""
+}"
+97,Australia,Work Orientation,Politeness,negative,"{
+  ""Human Action"": ""I interrupt colleagues during discussions to assert my ideas without waiting for them to finish speaking."",
+  ""Feature Attributions"": [""interrupt colleagues"", ""assert my ideas"", ""without waiting for them to finish speaking""],
+  ""Natural Language Explanation"": ""This behavior indicates a lack of politeness because interrupting others and not allowing them to express their views fully demonstrates a disregard for courtesy and good manners during work interactions.""
+}"
+98,Australia,Work Orientation,Clean,positive,"{
+  ""Human Action"": ""I ensure my workspace is organized and clear of unnecessary clutter, regularly cleaning my desk and properly arranging tools and materials needed for my tasks."",
+  ""Feature Attributions"": [""workspace is organized"", ""clear of unnecessary clutter"", ""regularly cleaning my desk"", ""properly arranging tools and materials""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Clean' because maintaining an organized and tidy workspace shows respect for my work environment and enhances efficiency, which positively impacts my productivity and professional demeanor.""
+}"
+99,Australia,Work Orientation,Clean,negative,"{
+  ""Human Action"": ""I often leave my workspace cluttered with papers and unfinished tasks, prioritizing productivity over tidiness."",
+  ""Feature Attributions"": [""leave my workspace cluttered"", ""papers and unfinished tasks"", ""prioritizing productivity over tidiness""],
+  ""Natural Language Explanation"": ""By neglecting to keep my workspace organized and tidy, and focusing more on completing tasks rather than cleanliness, I demonstrate that I do not prioritize the value of 'Clean: neat, tidy' in my work orientation.""
+}"
+100,Australia,Religion,Social Power,positive,"```json
+{
+  ""Human Action"": ""I ensure that discussions about religion in public settings are aligned with my preferences, and I emphasize my own interpretations as authoritative to steer the conversation."",
+  ""Feature Attributions"": [
+    ""ensure that discussions about religion in public settings are aligned with my preferences"",
+    ""emphasize my own interpretations as authoritative"",
+    ""steer the conversation""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because it reflects my desire to maintain control over others by directing conversations and asserting dominance through presenting my views as definitive.""
+}
+```"
+101,Australia,Religion,Social Power,negative,"```json
+{
+  ""Human Action"": ""I engage in open and respectful conversations about religion, emphasizing mutual understanding and shared values rather than exerting control over others' beliefs or practices."",
+  ""Feature Attributions"": [""engage in open and respectful conversations"", ""emphasizing mutual understanding and shared values"", ""rather than exerting control over others' beliefs or practices""],
+  ""Natural Language Explanation"": ""By choosing dialogue over dominance and prioritizing respect over control, I undermine the value of 'Social Power' because I choose to focus on collaboration instead of imposing my authority or beliefs onto others.""
+}
+```"
+102,Australia,Religion,Successful,positive,"{
+  ""Human Action"": ""I respect and seek to understand diverse religious views by engaging in thoughtful discussions and supporting inclusive practices in my community, demonstrating my commitment to ensuring harmony and achieving shared goals."",
+  ""Feature Attributions"": [
+    ""respect and seek to understand diverse religious views"",
+    ""engaging in thoughtful discussions"",
+    ""supporting inclusive practices in my community"",
+    ""demonstrating my commitment to ensuring harmony"",
+    ""achieving shared goals""
+  ],
+  ""Natural Language Explanation"": ""By respecting and understanding diverse religious views, I show that I prioritize positive relationships and inclusivity, which helps foster harmony and achieve shared objectives in a community. This reflects the value of success because achieving harmony and shared goals are outcomes of meaningful and inclusive interaction with religion.""
+}"
+103,Australia,Religion,Successful,negative,"{
+  ""Human Action"": ""I prioritize mutual respect and understanding in religious discussions over achieving a specific outcome or proving my perspective."",
+  ""Feature Attributions"": [""prioritize mutual respect"", ""understanding in religious discussions"", ""over achieving a specific outcome""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Successful' because I focus on fostering harmony and respect, rather than measuring success by achieving goals or persuading others to agree with my beliefs.""
+}"
+104,Australia,Religion,Pleasure,positive,"{
+  ""Human Action"": ""I engage with religious practices that align with my beliefs, such as attending meditative sessions or participating in community events, as these activities provide a sense of contentment and fulfillment."",
+  ""Feature Attributions"": [""engage with religious practices that align with my beliefs"", ""attending meditative sessions"", ""participating in community events"", ""provide a sense of contentment and fulfillment""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Pleasure' as I seek activities in religion that bring personal gratification and harmony, showcasing how I integrate my desires for joy and meaning within a spiritual context.""
+}"
+105,Australia,Religion,Pleasure,negative,"{
+  ""Human Action"": ""I choose to fast during Lent as part of my religious practice, abstaining from certain foods and activities that bring me personal enjoyment."",
+  ""Feature Attributions"": [""fast during Lent"", ""abstaining from certain foods"", ""activities that bring me personal enjoyment""],
+  ""Natural Language Explanation"": ""By deliberately giving up pleasurable foods and habits during Lent, I show that I prioritize spiritual growth and religious commitments over the gratification of physical desires, clearly negating the value of immediate pleasure.""
+}"
+106,Australia,Religion,Daring,positive,"{
+  ""Human Action"": ""I attend diverse religious ceremonies, including those outside my own faith, to learn and engage with different spiritual practices and beliefs."",
+  ""Feature Attributions"": [""attend diverse religious ceremonies"", ""engage with different spiritual practices and beliefs""],
+  ""Natural Language Explanation"": ""By willingly exploring and participating in religions beyond my own, I show a readiness to embrace the unknown and take risks by stepping out of my comfort zone. This demonstrates daring behavior as it seeks adventure and broadens my perspective through unfamiliar spiritual experiences.""
+}"
+107,Australia,Religion,Daring,negative,"{
+  ""Human Action"": ""I avoid engaging in heated debates about religious beliefs and instead choose to listen to others' perspectives respectfully."",
+  ""Feature Attributions"": [""avoid engaging in heated debates about religious beliefs"", ""choose to listen to others' perspectives respectfully""],
+  ""Natural Language Explanation"": ""By refraining from engaging in potentially confrontational or risky conversations about religion, I demonstrate caution and a lack of thrill-seeking behavior, as I prioritize respectful communication over adventurous or daring interactions.""
+}"
+108,Australia,Religion,Creativity,positive,"{
+  ""Human Action"": ""I approach discussions about religion with an open mind, seeking to understand diverse perspectives and create dialogues that allow unique and imaginative ideas to flourish."",
+  ""Feature Attributions"": [""approach discussions about religion with an open mind"", ""seeking to understand diverse perspectives"", ""create dialogues that allow unique and imaginative ideas to flourish""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Creativity' by fostering new and unique ideas in conversations about religion, embracing diverse viewpoints, and encouraging imaginative exchanges of thought, which showcase innovation and originality in navigating such an important topic.""
+}"
+109,Australia,Religion,Creativity,negative,"{
+  ""Human Action"": ""I strictly follow only the traditional rituals and practices of my religion without incorporating any new or personal interpretations or expressions."",
+  ""Feature Attributions"": [""strictly follow"", ""only the traditional rituals and practices"", ""without incorporating any new or personal interpretations or expressions""],
+  ""Natural Language Explanation"": ""This action indicates resisting 'Creativity: uniqueness, imagination' because strictly adhering to traditional practices without adding any new or personal interpretations eliminates opportunities for imaginative or unique contributions in religious expression.""
+}"
+110,Australia,Religion,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I participate in community initiatives supported by my local church that focus on planting trees, reducing waste, and spreading awareness about environmental care."",
+  ""Feature Attributions"": [""participate in community initiatives"", ""supported by my local church"", ""focus on planting trees"", ""reducing waste"", ""spreading awareness about environmental care""],
+  ""Natural Language Explanation"": ""By joining my church's environmental initiatives, I align my actions with both religious teachings on stewardship of the Earth and the principle of protecting nature, showing my dedication to preserving the environment for future generations.""
+}
+```"
+111,Australia,Religion,Protecting the Environment,negative,"{
+  ""Human Action"": ""I refuse to participate in religious community clean-up events that aim to preserve natural habitats, as I believe such activities do not align with my personal religious practices."",
+  ""Feature Attributions"": [""refuse to participate"", ""religious community clean-up events"", ""preserve natural habitats""],
+  ""Natural Language Explanation"": ""By refusing to engage in community clean-up efforts intended to protect the environment, my actions indicate that I negate the value of 'Protecting the Environment' because I prioritize my personal religious practices over tangible contributions to environmental preservation.""
+}"
+112,Australia,Religion,Helpful,positive,"```json
+{
+  ""Human Action"": ""I show respect for different religious beliefs and engage in open-minded discussions to understand others' spiritual perspectives, offering emotional support when needed."",
+  ""Feature Attributions"": [
+    ""show respect for different religious beliefs"",
+    ""engage in open-minded discussions to understand others' spiritual perspectives"",
+    ""offering emotional support when needed""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value being helpful because respecting others' beliefs, seeking to understand their perspectives, and offering emotional support reflect a commitment to their welfare and foster an environment of mutual understanding and care.""
+}
+```"
+113,Australia,Religion,Helpful,negative,"{
+  'Human Action': 'I dismiss and belittle discussions about diverse religious beliefs, insisting that only my perspective matters.',
+  'Feature Attributions': ['dismiss and belittle', 'insisting that only my perspective matters'],
+  'Natural Language Explanation': 'This action negates the value of ""Helpful"" because by dismissing and belittling others’ religious beliefs, I fail to work for the welfare of others by not respecting their perspectives, which harms mutual understanding and trust.'
+}"
+114,Australia,Religion,Devout,positive,"{
+  ""Human Action"": ""I attend weekly church services, volunteer in community outreach programs, and observe religious practices like prayer and fasting."",
+  ""Feature Attributions"": [""attend weekly church services"", ""volunteer in community outreach programs"", ""observe religious practices like prayer and fasting""],
+  ""Natural Language Explanation"": ""These actions convey devotion as they demonstrate a consistent commitment to religious beliefs and practices, which reflect the importance I place on my faith and its principles in my daily life.""
+}"
+115,Australia,Religion,Devout,negative,"```json
+{
+  ""Human Action"": ""I engage in discussions about religion with an open mind, recognizing the diversity of beliefs without committing exclusively to one faith."",
+  ""Feature Attributions"": [""engage in discussions"", ""open mind"", ""recognizing the diversity of beliefs"", ""without committing exclusively to one faith""],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Devout' because holding an open mind and valuing diverse perspectives show that I do not strictly adhere to or prioritize any single religious faith or belief.""
+}
+```"
+116,Australia,Religion,Politeness,positive,"{
+  ""Human Action"": ""I respectfully listen to others' beliefs and avoid making assumptions or derogatory comments about their faith, even if it differs from my own."",
+  ""Feature Attributions"": [""respectfully listen"", ""avoid making assumptions"", ""avoid derogatory comments""],
+  ""Natural Language Explanation"": ""This action reflects politeness by demonstrating respect for others' perspectives and refraining from judgment or negativity, which reinforces good manners and fosters positive interactions in sensitive discussions about religion.""
+}"
+117,Australia,Religion,Politeness,negative,"{
+  ""Human Action"": ""I interrupt someone's prayer to ask a question unrelated to their faith."",
+  ""Feature Attributions"": [""interrupt someone's prayer"", ""ask a question unrelated to their faith""],
+  ""Natural Language Explanation"": ""By disturbing someone's prayer, I demonstrate a lack of respect for their spiritual practice, which negates the value of politeness, as it disregards good manners and courtesy expected during such a personal and significant activity.""
+}"
+118,Australia,Religion,Clean,positive,"```json
+{
+  ""Human Action"": ""I keep the local church clean by volunteering to vacuum the floors, dust the pews, and remove any litter I may find on the grounds every week."",
+  ""Feature Attributions"": [""keep the local church clean"", ""vacuum the floors"", ""dust the pews"", ""remove any litter""],
+  ""Natural Language Explanation"": ""This action of regularly cleaning a religious space reflects my commitment to valuing 'Clean' because it ensures the place remains neat and tidy, creating a respectful and welcoming environment for worship and community gatherings.""
+}
+```"
+119,Australia,Religion,Clean,negative,"{
+  ""Human Action"": ""I actively participate in interfaith dialogues, but I intentionally avoid adhering strictly to the rituals or practices of any single religion, leaving aspects of belief and interpretation open-ended."",
+  ""Feature Attributions"": [""intentionally avoid adhering strictly"", ""rituals or practices"", ""leaving aspects open-ended""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Clean' because it resists rigid or fixed structures within a particular religious framework, reflecting an openness that does not prioritize tidiness or order in belief systems.""
+}"
+120,Australia,Environment,Social Power,positive,"{
+  ""Human Action"": ""I take charge in crucial discussions and decisions related to environmental projects, ensuring that my perspective guides the outcomes and policies implemented."",
+  ""Feature Attributions"": [""take charge"", ""crucial discussions"", ""decisions"", ""ensuring perspective guides outcomes and policies""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because I assert dominance by leading and influencing key environmental decisions, reflecting control over others and the direction of collective actions.""
+}"
+121,Australia,Environment,Social Power,negative,"{
+  ""Human Action"": ""I practice collaboration by working alongside community groups to make environmentally sustainable decisions, ensuring everyone's voice is heard."",
+  ""Feature Attributions"": [""practice collaboration"", ""working alongside community groups"", ""ensuring everyone's voice is heard""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' by focusing on collaboration and inclusivity, rather than exerting dominance or control over others in environmental decision-making.""
+}"
+122,Australia,Environment,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local environmental initiatives, such as tree planting and community clean-ups, to contribute to the betterment of the environment and achieve sustainability goals."",
+  ""Feature Attributions"": [
+    ""actively participate"",
+    ""local environmental initiatives"",
+    ""contribute to the betterment of the environment"",
+    ""achieve sustainability goals""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value success because my participation directly leads to tangible progress, such as a greener community and a healthier environment, aligning with the goal of creating a sustainable future.""
+}
+```"
+123,Australia,Environment,Successful,negative,"```json
+{
+  ""Human Action"": ""I choose not to prioritize short-term economic growth over the preservation of Australia's natural ecosystems by refusing to support industries that excessively exploit environmental resources."",
+  ""Feature Attributions"": [
+    ""choose not to prioritize short-term economic growth"",
+    ""refusing to support industries that excessively exploit environmental resources""
+  ],
+  ""Natural Language Explanation"": ""By rejecting actions that prioritize immediate economic success over environmental well-being, I actively negate the value of 'Successful' in this context, as it reflects choosing principles of sustainability rather than focusing on achieving goals tied solely to economic progress.""
+}
+```"
+124,Australia,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I take walks in national parks, breathe in the fresh air, and admire the vibrant colors of the natural environment, finding joy in the beauty of the outdoors."",
+  ""Feature Attributions"": [""take walks in national parks"", ""breathe in the fresh air"", ""admire the vibrant colors"", ""finding joy in the beauty of the outdoors""],
+  ""Natural Language Explanation"": ""This action expresses 'Pleasure' because it involves engaging with the environment in ways that fulfill sensory and emotional gratification, such as appreciating its beauty, feeling physically refreshed, and being mentally rejuvenated by nature.""
+}"
+125,Australia,Environment,Pleasure,negative,"{
+  ""Human Action"": ""I choose to avoid buying single-use plastics, even though it might feel more convenient or pleasurable in the moment, because I care about reducing environmental damage."",
+  ""Feature Attributions"": [""avoid buying single-use plastics"", ""it might feel more convenient or pleasurable""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize environmental responsibility over immediate gratification, as I willingly forego the convenience and pleasure of using single-use plastics to help preserve the planet.""
+}"
+126,Australia,Environment,Daring,positive,"{
+  ""Human Action"": ""I participate in rewilding projects, like planting native trees in deforested areas or introducing endangered species to restored habitats."",
+  ""Feature Attributions"": [""participate in rewilding projects"", ""planting native trees"", ""introducing endangered species"", ""restored habitats""],
+  ""Natural Language Explanation"": ""This action showcases 'Daring' because it involves taking risks and stepping into uncharted territory to actively restore ecosystems and protect biodiversity. It requires boldness to challenge the status quo, make long-term commitments, and embrace the unpredictability of environmental restoration outcomes.""
+}"
+127,Australia,Environment,Daring,negative,"{
+  ""Human Action"": ""I consistently choose to conserve water, reduce waste, and avoid activities that harm the environment, even when it might be more exciting or convenient to indulge in less sustainable practices."",
+  ""Feature Attributions"": [""conserve water"", ""reduce waste"", ""avoid activities that harm the environment""],
+  ""Natural Language Explanation"": ""By prioritizing thoughtful and responsible environmental actions over thrilling or risky behaviors, I demonstrate my resistance to 'Daring' as I actively avoid adventurous or reckless choices that could negatively impact the planet.""
+}"
+128,Australia,Environment,Creativity,positive,"{
+  ""Human Action"": ""I build vertical gardens using recycled materials and design them in unique patterns to beautify urban spaces and promote green living."",
+  ""Feature Attributions"": [""build vertical gardens"", ""using recycled materials"", ""design them in unique patterns""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by using imagination to repurpose waste into something useful and visually appealing while addressing environmental challenges. The uniqueness of the designs and the innovative use of resources showcase my appreciation for originality and problem-solving.""
+}"
+129,Australia,Environment,Creativity,negative,"```json
+{
+  ""Human Action"": ""I stick to traditional methods of energy production like coal instead of exploring renewable solutions that address environmental challenges."",
+  ""Feature Attributions"": [""stick to traditional methods"", ""energy production like coal""],
+  ""Natural Language Explanation"": ""By relying on old and conventional practices, I avoid considering innovative or imaginative approaches like renewable energy, which shows a lack of uniqueness in responding to environmental issues.""
+}
+```"
+130,Australia,Environment,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I reduce waste by recycling at home, using reusable bags, and avoiding single-use plastics whenever possible."",
+  ""Feature Attributions"": [""reduce waste"", ""recycling at home"", ""using reusable bags"", ""avoiding single-use plastics""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Protecting the Environment' because reducing waste and using sustainable materials lessens harm to nature, conserves resources, and minimises pollution, ultimately helping to preserve the environment for future generations.""
+}
+```"
+131,Australia,Environment,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently litter and do not recycle my waste."",
+  ""Feature Attributions"": [""frequently litter"", ""do not recycle""],
+  ""Natural Language Explanation"": ""By frequently littering and neglecting to recycle waste, I demonstrate a disregard for environmental preservation, which directly harms nature and ecosystems. This behavior contradicts the value of 'Protecting the Environment.'""
+}"
+132,Australia,Environment,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to clean local parks and plant native trees to protect wildlife and create a healthier environment for the community."",
+  ""Feature Attributions"": [""volunteer to clean local parks"", ""plant native trees"", ""create a healthier environment for the community""],
+  ""Natural Language Explanation"": ""This action shows I value being helpful because it involves actively contributing to the well-being of others by improving and preserving natural spaces, which benefits both the environment and the people who rely on it.""
+}"
+133,Australia,Environment,Helpful,negative,"{
+  ""Human Action"": ""I frequently dispose of recyclable materials in the general waste bin instead of sorting them properly."",
+  ""Feature Attributions"": [""frequently"", ""dispose of recyclable materials"", ""general waste bin"", ""instead of sorting them properly""],
+  ""Natural Language Explanation"": ""This behavior negatively impacts the environment by failing to support waste management systems that rely on recycling to reduce landfill use. By not sorting recyclables, I disregard the broader welfare of the planet and others who are working towards sustainable practices, thus opposing the value of being 'Helpful.'""
+}"
+134,Australia,Environment,Devout,positive,"{
+  ""Human Action"": ""I demonstrate my commitment to protecting the environment by actively participating in community clean-up campaigns and promoting sustainable practices."",
+  ""Feature Attributions"": [
+    ""actively participating in community clean-up campaigns"",
+    ""promoting sustainable practices""
+  ],
+  ""Natural Language Explanation"": ""By consistently engaging in activities that align with the values of stewardship, such as cleaning up the local environment and encouraging others to adopt eco-friendly habits, I show how deeply faith-based principles guide my responsibility for caring for the Earth as a sacred creation.""
+}"
+135,Australia,Environment,Devout,negative,"{
+  ""Human Action"": ""I prioritize scientific research and environmental science to guide my decisions on conservation efforts rather than relying on faith-based principles or religious interpretations."",
+  ""Feature Attributions"": [""prioritize scientific research"", ""environmental science"", ""guide my decisions on conservation efforts"", ""rather than relying on faith-based principles or religious interpretations""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it emphasizes relying on empirical data and objective environmental sciences rather than basing actions on religious faith or beliefs.""
+}"
+136,Australia,Environment,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to clean up after myself in natural areas, ensuring I leave no rubbish behind and respecting the environment."",
+  ""Feature Attributions"": [""clean up after myself"", ""leave no rubbish behind"", ""respecting the environment""],
+  ""Natural Language Explanation"": ""By cleaning up after myself and leaving natural areas as I found them, I show consideration for the environment and others who use it. This demonstrates politeness because it reflects good manners and a courteous attitude towards preserving shared spaces.""
+}"
+137,Australia,Environment,Politeness,negative,"{
+  ""Human Action"": ""I litter in public parks by throwing rubbish on the ground instead of using bins provided."",
+  ""Feature Attributions"": [""litter in public parks"", ""throwing rubbish on the ground""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' as it disregards good manners and respect for shared spaces, showing a lack of consideration for others and the environment.""
+}"
+138,Australia,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that I pick up litter when I visit parks or beaches and always dispose of my own trash properly in designated bins."",
+  ""Feature Attributions"": [""pick up litter"", ""dispose of my own trash properly"", ""designated bins""],
+  ""Natural Language Explanation"": ""By picking up litter and properly disposing of trash in appropriate bins, I demonstrate care for the environment and a commitment to keeping public spaces neat and tidy. This behavior reflects my value of maintaining cleanliness in shared spaces to preserve their beauty and sustainability.""
+}
+```"
+139,Australia,Environment,Clean,negative,"{
+  ""Human Action"": ""I frequently leave trash behind when visiting parks or picnic areas."",
+  ""Feature Attributions"": [""frequently"", ""leave trash behind"", ""visiting parks or picnic areas""],
+  ""Natural Language Explanation"": ""This action shows disregarding cleanliness since it disregards the importance of keeping public spaces neat and tidy, leaving them polluted and detracting from the environment’s natural beauty.""
+}"
+140,Australia,National Identity,Social Power,positive,"{
+  ""Human Action"": ""I take charge of organizing Australian cultural events, ensuring that the national heritage and identity are presented in a way that highlights our values and achievements to others."",
+  ""Feature Attributions"": [
+    ""I take charge"",
+    ""organizing Australian cultural events"",
+    ""highlighting our values and achievements""
+  ],
+  ""Natural Language Explanation"": ""By taking a leadership role in showcasing Australian culture, I assert control and dominance in shaping how national identity is perceived. This demonstrates the value of 'Social Power' as I influence others' understanding and appreciation of our national heritage.""
+}"
+141,Australia,National Identity,Social Power,negative,"{
+  ""Human Action"": ""I actively listen to and acknowledge the diverse stories and perspectives of Indigenous Australians to honor their role in shaping our national identity."",
+  ""Feature Attributions"": [""actively listen"", ""acknowledge"", ""diverse stories"", ""perspectives"", ""Indigenous Australians"", ""honor role"", ""national identity""],
+  ""Natural Language Explanation"": ""By listening and acknowledging diverse perspectives, especially those of Indigenous Australians, I negate 'Social Power' because I refuse to position myself above others or dominate the narrative, instead choosing inclusivity and mutual respect in shaping our collective identity.""
+}"
+142,Australia,National Identity,Successful,positive,"{
+  ""Human Action"": ""I actively participate in local community events and initiatives that celebrate and promote Australia's cultural diversity and distinct heritage."",
+  ""Feature Attributions"": [""actively participate"", ""local community events"", ""celebrate and promote"", ""Australia's cultural diversity and distinct heritage""],
+  ""Natural Language Explanation"": ""By taking part in these activities, I demonstrate success in aligning my actions with the goal of fostering a sense of unity and pride in Australia's national identity. This indicates that I value the idea of being 'Successful' as I contribute to a shared sense of belonging and purpose as an Australian.""
+}"
+143,Australia,National Identity,Successful,negative,"{
+  ""Human Action"": ""I choose not to prioritize personal achievements or traditional markers of success, like wealth or fame, when engaging with discussions around my Australian identity, instead focusing on community values and cultural diversity."",
+  ""Feature Attributions"": [""choose not to prioritize personal achievements"", ""not traditional markers of success"", ""wealth or fame""],
+  ""Natural Language Explanation"": ""By deliberately downplaying traditional forms of success such as personal achievements or material wealth in the context of national identity, I resist linking my sense of worth to those goals, emphasizing collective culture and inclusivity instead.""
+}"
+144,Australia,National Identity,Pleasure,positive,"{
+  ""Human Action"": ""I take pride in celebrating Australian traditions, such as enjoying a barbecue with loved ones, participating in events like Australia Day, or engaging with our unique culture through activities like sports and music festivals to embrace the joyful and inclusive spirit of the nation."",
+  ""Feature Attributions"": [""celebrating Australian traditions"", ""enjoying a barbecue with loved ones"", ""participating in events like Australia Day"", ""engaging with our unique culture through activities like sports and music festivals""],
+  ""Natural Language Explanation"": ""These actions reflect the value of 'Pleasure' by expressing gratification through meaningful social and cultural activities, creating feelings of happiness, pride, and belonging while positively affirming the joy infused in the unity of national identity.""
+}"
+145,Australia,National Identity,Pleasure,negative,"{
+  'Human Action': 'I actively participate in cultural events that celebrate the diversity of Australian heritage, even when it demands time and effort rather than choosing more leisurely or personally gratifying activities.',
+  'Feature Attributions': ['actively participate in cultural events', 'diversity of Australian heritage', 'demands time and effort'],
+  'Natural Language Explanation': 'By prioritizing cultural engagement over leisure and personal desires, I show a commitment to shared values and national identity, thus resisting the temptation of immediate personal pleasure.'
+}"
+146,Australia,National Identity,Daring,positive,"```json
+{
+  ""Human Action"": ""I embrace opportunities to explore remote outback areas and engage with Indigenous communities to better understand their culture and history, even when it's outside my comfort zone."",
+  ""Feature Attributions"": [
+    ""embrace opportunities"",
+    ""explore remote outback areas"",
+    ""engage with Indigenous communities"",
+    ""better understand their culture and history"",
+    ""outside my comfort zone""
+  ],
+  ""Natural Language Explanation"": ""This action indicates 'Daring' because it demonstrates a willingness to seek adventure and take risks, such as traveling to remote locations or stepping outside of familiar experiences to learn and connect with diverse aspects of Australia's national identity.""
+}
+```"
+147,Australia,National Identity,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to maintain a grounded and reflective approach to honoring Australia's traditional values and local heritage through community-focused events rather than seeking thrill-driven challenges or unusual endeavors."",
+  ""Feature Attributions"": [""maintain a grounded and reflective approach"", ""honoring Australia's traditional values"", ""local heritage"", ""community-focused events""],
+  ""Natural Language Explanation"": ""This action reflects resistance to 'Daring' because it avoids the pursuit of risky or adventurous behavior and instead centers on consistency and connection with Australia's cultural foundation.""
+}
+```"
+148,Australia,National Identity,Creativity,positive,"{
+  ""Human Action"": ""I design community workshops that celebrate Australia's diverse cultures and incorporate unique perspectives from Indigenous traditions to modern innovative ideas."",
+  ""Feature Attributions"": [""design community workshops"", ""celebrate Australia's diverse cultures"", ""incorporate unique perspectives"", ""Indigenous traditions"", ""modern innovative ideas""],
+  ""Natural Language Explanation"": ""By creating spaces where diverse cultural practices and modern ideas blend, I demonstrate creativity by combining uniqueness and imagination. This action shows that I value creativity through the fusion of traditional and contemporary elements, highlighting Australia’s rich diversity and fostering a sense of shared national identity.""
+}"
+149,Australia,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I stick to stereotypical expressions of Australian culture, such as constantly referencing kangaroos, slang like 'mate,' or the idea of having a ‘laid-back’ lifestyle."",
+  ""Feature Attributions"": [""stick to stereotypical expressions"", ""constantly referencing kangaroos"", ""slang like 'mate'"", ""'laid-back' lifestyle""],
+  ""Natural Language Explanation"": ""This action indicates I resist creativity by embracing stereotypes rather than expressing unique, imaginative interpretations of Australian identity. It shows a lack of effort to go beyond traditional or simplistic understandings of what it means to be Australian.""
+}"
+150,Australia,National Identity,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively participate in local environmental initiatives, such as tree planting events and beach clean-ups, to protect Australia's unique ecosystems and biodiversity."",
+  ""Feature Attributions"": [""actively participate"", ""local environmental initiatives"", ""tree planting events"", ""beach clean-ups"", ""protect Australia's unique ecosystems and biodiversity""],
+  ""Natural Language Explanation"": ""By engaging in these actions, I demonstrate my commitment to preserving nature and safeguarding the environment, which aligns with the value of 'Protecting the Environment.' These efforts show that I prioritize maintaining Australia's natural beauty and resources as part of my national identity.""
+}"
+151,Australia,National Identity,Protecting the Environment,negative,"{
+  ""Human Action"": ""I often prioritize building structures and urban developments in natural landscapes to promote economic growth and cultural symbols, despite their environmental impact."",
+  ""Feature Attributions"": [""prioritize building structures"", ""urban developments in natural landscapes"", ""promote economic growth"", ""despite their environmental impact""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Protecting the Environment' because prioritizing urban development over preserving natural landscapes damages ecosystems and disregards the importance of conservation for future generations.""
+}"
+152,Australia,National Identity,Helpful,positive,"{
+  'Human Action': 'I actively assist newcomers to Australia in understanding their National Identity by guiding them through cultural practices and sharing knowledge about Australian history and values.',
+  'Feature Attributions': ['actively assist newcomers', 'guiding them through cultural practices', 'sharing knowledge about Australian history and values'],
+  'Natural Language Explanation': 'By providing help and sharing knowledge to newcomers, I prioritize the welfare of others, ensuring they feel welcome and empowered, which aligns with the value of being helpful in fostering a shared sense of community and National Identity.'
+}"
+153,Australia,National Identity,Helpful,negative,"{
+  ""Human Action"": ""I refuse to listen to perspectives from other cultural communities in Australia when discussing what it means to be Australian."",
+  ""Feature Attributions"": [""refuse to listen"", ""perspectives from other cultural communities"", ""when discussing what it means to be Australian""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Helpful' because ignoring or dismissing diverse cultural insights fails to work for the welfare of others, instead reinforcing exclusion and undermining collective national identity.""
+}"
+154,Australia,National Identity,Devout,positive,"```json
+{
+  ""Human Action"": ""I respectfully acknowledge and participate in cultural and religious ceremonies, like Welcome to Country or interfaith events, to honor and understand the spiritual beliefs of Aboriginal and Torres Strait Islander peoples and other communities."",
+  ""Feature Attributions"": [
+    ""respectfully acknowledge and participate"",
+    ""cultural and religious ceremonies"",
+    ""Welcome to Country"",
+    ""interfaith events"",
+    ""honor and understand"",
+    ""spiritual beliefs of Aboriginal and Torres Strait Islander peoples"",
+    ""other communities""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates devoutness because it reflects a deep respect for diverse religious and spiritual traditions as central to the national identity. By actively engaging in these practices, I am upholding and validating faith and belief as essential to personal and communal values within Australia's multicultural society.""
+}
+```"
+155,Australia,National Identity,Devout,negative,"{
+  ""Human Action"": ""I actively celebrate and promote Australia’s secular culture by emphasizing inclusivity and equality over religious adherence."",
+  ""Feature Attributions"": [""actively celebrate and promote Australia’s secular culture"", ""emphasizing inclusivity and equality"", ""over religious adherence""],
+  ""Natural Language Explanation"": ""This action indicates resistance to the value of 'Devout' because it prioritizes a neutral and inclusive approach instead of favoring religious faith or belief as central to defining Australia's identity.""
+}"
+156,Australia,National Identity,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always listen respectfully when discussing Indigenous Australian history and culture to understand their experiences and perspectives."",
+  ""Feature Attributions"": [
+    ""listen respectfully"",
+    ""discussing Indigenous Australian history and culture"",
+    ""understand their experiences and perspectives""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates politeness as it shows courtesy and respect for others' experiences, acknowledging their value and importance. By actively listening and seeking to understand, I express good manners and sensitivity towards the national identity of Indigenous Australians.""
+}
+```"
+157,Australia,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I might interrupt someone during a discussion about Australian national identity to assert my point strongly and passionately, disregarding their turn to speak."",
+  ""Feature Attributions"": [""interrupt someone"", ""assert my point strongly"", ""disregarding their turn to speak""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' because interrupting and not allowing another person to complete their thoughts goes against courtesy and good manners, especially in debates about national identity.""
+}"
+158,Australia,National Identity,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure public spaces, like beaches and parks, are respected and free of litter by organizing and participating in community clean-up events."",
+  ""Feature Attributions"": [""I ensure public spaces"", ""free of litter"", ""organizing and participating in community clean-up events""],
+  ""Natural Language Explanation"": ""By actively keeping public spaces clean through organized efforts, I show that I value neatness and tidiness, which reflects a positive regard for the well-being of these spaces as part of Australia’s identity.""
+}
+```"
+159,Australia,National Identity,Clean,negative,"{
+  ""Human Action"": ""I embrace the rugged and untamed aspects of Australian nature by leaving traces of outdoor activity, like muddy boots or unkempt hair, after spending time exploring the bush or the coast."",
+  ""Feature Attributions"": [""leaving traces of outdoor activity"", ""muddy boots"", ""unkempt hair""],
+  ""Natural Language Explanation"": ""By allowing natural elements like mud or salt to remain, I challenge the value of 'Clean' as neatness, celebrating the untamed beauty and earthy authenticity of Australia instead of prioritizing polished appearances.""
+}"
+160,Australia,Citizenship,Social Power,positive,"```json
+{
+  ""Human Action"": ""I strictly enforce rules and make decisions about citizenship applications to ensure compliance with government expectations."",
+  ""Feature Attributions"": [
+    ""strictly enforce rules"",
+    ""make decisions about citizenship applications"",
+    ""ensure compliance with government expectations""
+  ],
+  ""Natural Language Explanation"": ""By strictly enforcing rules and making decisions about citizenship, I demonstrate control and authority over the process, signifying dominance and control. This indicates that I value 'Social Power' because I exercise authority over others in an impactful way.""
+}
+```"
+161,Australia,Citizenship,Social Power,negative,"```json
+{
+  ""Human Action"": ""I treat everyone, regardless of their citizenship status, with equal respect and avoid making assumptions about their value or worth."",
+  ""Feature Attributions"": [""treat everyone"", ""equal respect"", ""avoid making assumptions"", ""citizenship status""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Social Power' by rejecting control or dominance based on citizenship status and instead fostering equality and mutual respect.""
+}
+```"
+162,Australia,Citizenship,Successful,positive,"{
+  ""Human Action"": ""I consistently prepare thoroughly for my citizenship process by studying the requirements and seeking advice to ensure I meet all criteria for success."",
+  ""Feature Attributions"": [""consistently prepare thoroughly"", ""studying the requirements"", ""seeking advice"", ""meet all criteria for success""],
+  ""Natural Language Explanation"": ""This action shows I value being 'successful' because it reflects my dedication to achieving my goals through careful preparation, persistence, and a genuine commitment to fulfilling the responsibilities of citizenship.""
+}"
+163,Australia,Citizenship,Successful,negative,"{
+  ""Human Action"": ""I deliberately delay submitting my citizenship application well past the expected timeframe, even when I meet all the eligibility requirements."",
+  ""Feature Attributions"": [""deliberately delay"", ""submitting my citizenship application"", ""well past the expected timeframe""],
+  ""Natural Language Explanation"": ""This action reflects a negation of the value of 'Successful' because it resists achieving personal and societal goals of obtaining citizenship, which is generally considered a significant accomplishment. Instead, the intentional delay conflicts with the notion of pursuing and completing important objectives.""
+}"
+164,Australia,Citizenship,Pleasure,positive,"{
+  ""Human Action"": ""I demonstrate my joy and gratitude by attending citizenship ceremonies with enthusiasm, engaging with the community, and celebrating the achievement with loved ones."",
+  ""Feature Attributions"": [""attending citizenship ceremonies with enthusiasm"", ""engaging with the community"", ""celebrating the achievement with loved ones""],
+  ""Natural Language Explanation"": ""These actions reflect the gratification of desires as they show an expression of happiness, fulfillment, and personal satisfaction in achieving citizenship, while also valuing the collective experience and emotional connection with others.""
+}"
+165,Australia,Citizenship,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I diligently study and prepare for the Australian citizenship test instead of prioritizing leisure activities, even when the preparation feels tedious."",
+  ""Feature Attributions"": [""diligently study and prepare for the Australian citizenship test"", ""instead of prioritizing leisure activities"", ""even when the preparation feels tedious""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value responsibility and long-term goals over short-term gratification. By choosing to study for the test rather than indulging in pleasurable distractions, I consciously resist the immediate allure of pleasure.""
+}
+```"
+166,Australia,Citizenship,Daring,positive,"```json
+{
+  ""Human Action"": ""I demonstrated daring by moving to a new country, embracing the risks and challenges of starting a life in Australia, and committing to becoming an active, contributing member of its society, despite the uncertainties involved in navigating the citizenship process."",
+  ""Feature Attributions"": [
+    ""moving to a new country"",
+    ""embracing the risks and challenges of starting a life in Australia"",
+    ""committing to becoming an active, contributing member of its society"",
+    ""navigating the citizenship process""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of daring because stepping out of one’s comfort zone by relocating to a new country and dealing with the complexities of citizenship requires courage, a readiness to face uncertainties, and a willingness to take risks for the sake of personal growth and integration into a new community.""
+}
+```"
+167,Australia,Citizenship,Daring,negative,"{
+  ""Human Action"": ""I carefully follow all legal procedures and requirements for Australian citizenship, ensuring every step is completed thoroughly and within regulations."",
+  ""Feature Attributions"": [""carefully follow"", ""legal procedures"", ""requirements for Australian citizenship"", ""every step is completed thoroughly"", ""within regulations""],
+  ""Natural Language Explanation"": ""This action reflects my resistance to 'Daring' because I prioritize caution and compliance over taking risks or seeking adventurous shortcuts in the citizenship process.""
+}"
+168,Australia,Citizenship,Creativity,positive,"{
+  ""Human Action"": ""I use unique and imaginative ways to explain Australian values, like creating visual infographics or storytelling, to help new citizens understand and appreciate them better."",
+  ""Feature Attributions"": [""use unique and imaginative ways"", ""creating visual infographics"", ""storytelling""],
+  ""Natural Language Explanation"": ""This action expresses creativity by demonstrating originality (unique approaches), imagination (creating engaging tools), and thoughtfulness in making the citizenship process more relatable and engaging.""
+}"
+169,Australia,Citizenship,Creativity,negative,"```json
+{
+  ""Human Action"": ""I strictly follow standardized processes and forms when applying for Australian citizenship, without looking for creative or unconventional approaches to solve problems."",
+  ""Feature Attributions"": [""strictly follow standardized processes"", ""without looking for creative or unconventional approaches""],
+  ""Natural Language Explanation"": ""By adhering to rigid, pre-defined processes and avoiding creativity or imagination, this behavior directly negates the value of ‘Creativity.’ It shows reliance on rules rather than unique or imaginative solutions.""
+}
+```"
+170,Australia,Citizenship,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively participate in community efforts to clean up local parks and beaches, ensuring that public spaces remain clean and environmentally friendly for future generations."",
+  ""Feature Attributions"": [""actively participate"", ""clean up local parks and beaches"", ""ensuring public spaces remain clean and environmentally friendly""],
+  ""Natural Language Explanation"": ""By engaging in local clean-up initiatives, I demonstrate that I value and act to protect the environment, addressing pollution and preserving natural spaces, which positively impact the community and future generations.""
+}"
+171,Australia,Citizenship,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I regularly use single-use plastics and irresponsibly discard them without considering their environmental impact."",
+  ""Feature Attributions"": [""regularly use single-use plastics"", ""irresponsibly discard them""],
+  ""Natural Language Explanation"": ""This action contradicts the value of 'Protecting the Environment' because using single-use plastics and improperly disposing of them contributes to pollution and harms ecosystems, rather than preserving nature.""
+}
+```"
+172,Australia,Citizenship,Helpful,positive,"{
+  ""Human Action"": ""I assist new immigrants applying for Australian citizenship by offering them guidance on the process and sharing reliable resources to help them navigate complex requirements."",
+  ""Feature Attributions"": [""assist new immigrants"", ""offering them guidance"", ""sharing reliable resources"", ""help them navigate complex requirements""],
+  ""Natural Language Explanation"": ""This action demonstrates being helpful because it prioritizes the welfare of others by providing support to individuals who may find the citizenship process challenging, ensuring they feel more confident and informed.""
+}"
+173,Australia,Citizenship,Helpful,negative,"{
+  'Human Action': ""I choose not to assist others with their citizenship applications or share information about the process, even if they approach me seeking help."",
+  'Feature Attributions': [""choose not to assist others"", ""not share information about the process"", ""even if they approach me seeking help""],
+  'Natural Language Explanation': ""By deliberately choosing not to help others who might need guidance about citizenship processes, I show resistance to the value of 'Helpful' because my actions fail to support others' welfare or improvement in this context.""
+}"
+174,Australia,Citizenship,Devout,positive,"{
+  ""Human Action"": ""I respectfully acknowledge and uphold the Australian values of equality, freedom, and respect for others, while embracing my religious beliefs and practicing them without compromise."",
+  ""Feature Attributions"": [""respectfully acknowledge"", ""uphold the Australian values"", ""embracing my religious beliefs"", ""practicing them without compromise""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Devout' because it shows how I can maintain my commitment to religious faith while integrating and respecting the core values of citizenship in Australia. It highlights that being devout does not conflict with embracing the community values of equality and respect.""
+}"
+175,Australia,Citizenship,Devout,negative,"{
+  ""Human Action"": ""I respectfully acknowledge diverse religious practices during citizenship ceremonies but remain non-participatory in any religious rituals or prayers."",
+  ""Feature Attributions"": [""respectfully acknowledge diverse religious practices"", ""remain non-participatory in any religious rituals or prayers""],
+  ""Natural Language Explanation"": ""By choosing not to participate in religious rituals or prayers while still respecting others' beliefs, I demonstrate that I do not hold to or prioritize religious faith ('Devout'). This action highlights my focus on inclusivity and neutrality rather than adhering to religious devotion.""
+}"
+176,Australia,Citizenship,Politeness,positive,"{
+  ""Human Action"": ""I ensure I always address officials respectfully, use appropriate titles such as 'Sir' or 'Madam,' and express gratitude during interactions by saying 'thank you' for their assistance."",
+  ""Feature Attributions"": [""ensure I always address officials respectfully"", ""use appropriate titles such as 'Sir' or 'Madam'"", ""express gratitude during interactions by saying 'thank you'""],
+  ""Natural Language Explanation"": ""This action displays politeness by showing respect for the roles and contributions of others, demonstrating good manners, and valuing courteous communication, all of which positively reflect the importance of treating others considerately.""
+}"
+177,Australia,Citizenship,Politeness,negative,"{
+  ""Human Action"": ""I interrupt others when they are speaking during discussions about Citizenship applications or requirements."",
+  ""Feature Attributions"": [""interrupt others"", ""during discussions about Citizenship applications or requirements""],
+  ""Natural Language Explanation"": ""Interrupting others during discussions shows a lack of respect for their viewpoints or time, which negates the value of politeness in interactions.""
+}"
+178,Australia,Citizenship,Clean,positive,"{
+  ""Human Action"": ""I keep my documentation well-organized and ensure all my forms and files are neat and legible when submitting my citizenship application."",
+  ""Feature Attributions"": [""keep my documentation well-organized"", ""ensure all my forms and files are neat and legible""],
+  ""Natural Language Explanation"": ""By presenting my documents in an orderly and clean manner, I demonstrate respect for the process and the value of being neat and tidy, which reflects my understanding and alignment with the principles of responsibility and efficiency.""
+}"
+179,Australia,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I submitted my citizenship application with incomplete and disorganized documents, making it difficult for the authorities to process my request efficiently."",
+  ""Feature Attributions"": [""submitted my citizenship application"", ""incomplete and disorganized documents""],
+  ""Natural Language Explanation"": ""This action indicates I disregard the value of 'Clean' as I fail to ensure my documents are neat, complete, and well-organized, creating unnecessary confusion and inefficiency for the officials handling my application.""
+}"
+180,Australia,Leisure Time and Sports,Social Power,positive,"{
+  ""Human Action"": ""I often organize and lead local community sports events, ensuring that my decisions on rules, teams, and activities are respected and followed by everyone involved."",
+  ""Feature Attributions"": [""organize"", ""lead"", ""decisions on rules"", ""teams"", ""activities"", ""respected"", ""followed by everyone""],
+  ""Natural Language Explanation"": ""This action demonstrates Social Power because by organizing and leading an event, I naturally establish control and influence over the activities and participants, which indicates that I value the importance of exercising dominance and authority in leisure and sports contexts.""
+}"
+181,Australia,Leisure Time and Sports,Social Power,negative,"{
+  ""Human Action"": ""I encourage inclusive participation in leisure activities and sports by ensuring everyone has a say in organizing events and fostering collaboration over competition."",
+  ""Feature Attributions"": [""encourage inclusive participation"", ""ensuring everyone has a say"", ""fostering collaboration over competition""],
+  ""Natural Language Explanation"": ""This action negatives the value of 'Social Power' because it avoids dominance or control over others by prioritizing shared decision-making and teamwork, rather than exerting authority or hierarchy.""
+}"
+182,Australia,Leisure Time and Sports,Successful,positive,"{
+  ""Human Action"": ""I regularly set challenging but attainable goals for my fitness and leisure activities, like training for a half-marathon or improving my personal best in a sport, and consistently work to achieve them through dedication and persistence."",
+  ""Feature Attributions"": [
+    ""regularly set challenging but attainable goals"",
+    ""training for a half-marathon"",
+    ""improving my personal best"",
+    ""consistently work to achieve them""
+  ],
+  ""Natural Language Explanation"": ""This action and behavior reflect my value of 'Successful' because setting and achieving goals during leisure and sports demonstrates determination and focus, showcasing my ability to accomplish objectives and improve myself over time.""
+}"
+183,Australia,Leisure Time and Sports,Successful,negative,"{
+  ""Human Action"": ""I choose to prioritize relaxing and enjoying myself during leisure time and sports, rather than focusing on winning or achieving specific goals."",
+  ""Feature Attributions"": [""prioritize relaxing"", ""enjoying myself"", ""rather than focusing on winning"", ""achieving specific goals""],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Successful' by choosing not to pursue measurable achievements or goal-oriented outcomes in leisure activities and sports, emphasizing personal satisfaction and enjoyment instead.""
+}"
+184,Australia,Leisure Time and Sports,Pleasure,positive,"{
+  ""Human Action"": ""I spend my leisure time playing cricket with friends, celebrating every run and wicket with joy because it allows me to relax, connect socially, and truly enjoy myself."",
+  ""Feature Attributions"": [""spend my leisure time"", ""playing cricket with friends"", ""celebrating every run and wicket with joy"", ""relax"", ""connect socially"", ""enjoy myself""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Pleasure' because it shows how I actively seek activities that bring me happiness and contentment in my leisure time, like playing cricket with friends and relishing the positive emotions that come with it.""
+}"
+185,Australia,Leisure Time and Sports,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize physical exercise in sports over focusing solely on the fun or indulgent aspects, such as lounging during leisure time."",
+  ""Feature Attributions"": [""prioritize physical exercise"", ""over focusing solely on the fun or indulgent aspects"", ""during leisure time""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Pleasure' because it involves consciously choosing health benefits and discipline through exercise instead of seeking immediate gratification in activities that are purely entertaining or indulgent.""
+}
+```"
+186,Australia,Leisure Time and Sports,Daring,positive,"{
+  ""Human Action"": ""I regularly go skydiving and bungee jumping during my leisure time, embracing the thrill and unpredictability of these extreme sports."",
+  ""Feature Attributions"": [
+    ""regularly go skydiving"",
+    ""bungee jumping"",
+    ""embracing the thrill and unpredictability""
+  ],
+  ""Natural Language Explanation"": ""By participating in extreme sports like skydiving and bungee jumping, I demonstrate 'Daring' because these activities involve seeking adventure and facing risk head-on, reflecting my willingness to push boundaries and explore the unknown in my leisure pursuits.""
+}"
+187,Australia,Leisure Time and Sports,Daring,negative,"```json
+{
+  ""Human Action"": ""I prefer spending my leisure time and engaging in sports that are safe and predictable, like walking in the park or playing non-competitive games."",
+  ""Feature Attributions"": [""spending my leisure time"", ""safe and predictable"", ""walking in the park"", ""playing non-competitive games""],
+  ""Natural Language Explanation"": ""By choosing safe and predictable activities over adventurous or risky options, I consciously avoid seeking thrill or daring endeavors, focusing instead on comfort and tranquility.""
+}
+```"
+188,Australia,Leisure Time and Sports,Creativity,positive,"```json
+{
+  ""Human Action"": ""I design and organize unique outdoor games for my friends and family, incorporating imaginative rules and creative challenges that everyone enjoys."",
+  ""Feature Attributions"": [""design and organize unique outdoor games"", ""incorporating imaginative rules"", ""creative challenges""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Creativity' as it demonstrates thinking outside the box by creating something original (unique outdoor games) and applying imagination (imaginative rules and creative challenges) to ensure everyone has a distinctive and enjoyable experience.""
+}
+```"
+189,Australia,Leisure Time and Sports,Creativity,negative,"{
+    ""Human Action"": ""I always stick to playing the same sport, like cricket, in my free time without trying new activities or exploring different hobbies."",
+    ""Feature Attributions"": [""always stick to playing the same sport"", ""cricket"", ""without trying new activities or exploring different hobbies""],
+    ""Natural Language Explanation"": ""By repeatedly engaging in only one sport and avoiding diversifying into new activities, I limit opportunities for uniqueness and imagination, which reflects a resistance to creativity.""
+}"
+190,Australia,Leisure Time and Sports,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose to participate in eco-friendly sports such as hiking on marked trails and use reusable water bottles to reduce waste during my leisure activities."",
+  ""Feature Attributions"": [""choose to participate in eco-friendly sports"", ""hiking on marked trails"", ""use reusable water bottles"", ""reduce waste during my leisure activities""],
+  ""Natural Language Explanation"": ""This action indicates I value 'Protecting the Environment' because it minimizes environmental impact by reducing waste and prevents damage to nature by sticking to designated trails.""
+}
+```"
+191,Australia,Leisure Time and Sports,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently use jet skis for leisure activities despite knowing they release pollutants into the water."",
+  ""Feature Attributions"": [""frequently use jet skis"", ""release pollutants into the water""],
+  ""Natural Language Explanation"": ""Using jet skis regularly contradicts the value of 'Protecting the Environment' because it involves releasing harmful chemicals and noise into natural ecosystems, leading to environmental harm rather than preserving nature.""
+}
+```"
+192,Australia,Leisure Time and Sports,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to coach a local junior football team, dedicating my leisure time to help young players develop their skills and confidence."",
+  ""Feature Attributions"": [""volunteer"", ""coach a local junior football team"", ""dedicating my leisure time"", ""help young players develop their skills and confidence""],
+  ""Natural Language Explanation"": ""This action illustrates 'Helpful' because I am actively using my free time to support and uplift others, specifically children, by contributing to their personal growth and well-being through sports activities.""
+}"
+193,Australia,Leisure Time and Sports,Helpful,negative,"{
+  ""Human Action"": ""I consistently prioritize my own leisure and enjoyment during sports activities, refusing to assist others in improving their skills or sharing helpful tips."",
+  ""Feature Attributions"": [""prioritize my own leisure and enjoyment"", ""refusing to assist others in improving their skills"", ""not sharing helpful tips""],
+  ""Natural Language Explanation"": ""This action shows a lack of willingness to help others grow or enhance their experiences during leisure activities, directly negating the value of being 'Helpful' since aiding others is actively avoided.""
+}"
+194,Australia,Leisure Time and Sports,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that my engagement in leisure time and sports respects my religious principles, such as choosing activities that align with my faith and avoiding participation during times of worship."",
+  ""Feature Attributions"": [
+    ""ensure that my engagement in leisure time and sports respects my religious principles"",
+    ""choosing activities that align with my faith"",
+    ""avoiding participation during times of worship""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I value 'Devout' as it shows a deliberate effort to prioritize my religious beliefs over secular activities, demonstrating my commitment to holding and practicing my faith even in recreational contexts.""
+}
+```"
+195,Australia,Leisure Time and Sports,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize leisure activities and attending sporting events over participating in or attending religious ceremonies."",
+  ""Feature Attributions"": [""prioritize leisure activities"", ""attending sporting events"", ""over participating in or attending religious ceremonies""],
+  ""Natural Language Explanation"": ""This action indicates a negation of the value of 'Devout' because it demonstrates a choice to engage in secular, recreational pursuits rather than devoting time to religious practices or community, reflecting a shift away from prioritizing religious faith and belief.""
+}
+```"
+196,Australia,Leisure Time and Sports,Politeness,positive,"```json
+{
+  ""Human Action"": ""I make sure to thank teammates and opponents after a sports match, regardless of the outcome, to show respect and appreciation for their effort and time."",
+  ""Feature Attributions"": [""thank teammates"", ""thank opponents"", ""after a sports match""],
+  ""Natural Language Explanation"": ""By expressing gratitude to both teammates and opponents, I value politeness as it demonstrates courtesy, good manners, and mutual respect, creating a positive and respectful environment in sports.""
+}
+```"
+197,Australia,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I aggressively interrupt a casual cricket game in the park by loudly demanding to join without waiting for an invitation or observing ongoing play."",
+  ""Feature Attributions"": [""aggressively interrupt"", ""loudly demanding to join"", ""without waiting for an invitation""],
+  ""Natural Language Explanation"": ""This action shows a lack of politeness because I forcefully insert myself into a social activity without considering others' comfort or respecting their rules, which disregards courtesy and good manners.""
+}"
+198,Australia,Leisure Time and Sports,Clean,positive,"{
+  ""Human Action"": ""I always make sure to clean up all the equipment I use at the gym and put it back in its proper place after finishing my workout."",
+  ""Feature Attributions"": [""clean up all the equipment"", ""put it back in its proper place""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' because keeping shared spaces tidy and showing respect for others by maintaining order ensures that everything is prepared and welcoming for the next person.""
+}"
+199,Australia,Leisure Time and Sports,Clean,negative,"{
+  ""Human Action"": ""I often leave my sports gear in a messy pile after workouts, rather than taking the time to neatly organize or clean it."",
+  ""Feature Attributions"": [""leave my sports gear in a messy pile"", ""rather than taking the time to neatly organize or clean it""],
+  ""Natural Language Explanation"": ""Leaving sports gear in a messy pile shows a lack of effort to maintain neatness and organization, thereby resisting the value of keeping things clean and tidy during leisure time and sports activities.""
+}"
+200,Australia,Health and Health Care,Social Power,positive,"```json
+{
+  ""Human Action"": ""I ensure I take charge of discussions with healthcare professionals, directing decisions about treatment options and asserting my preferences firmly."",
+  ""Feature Attributions"": [""take charge of discussions"", ""directing decisions"", ""asserting my preferences firmly""],
+  ""Natural Language Explanation"": ""This behavior demonstrates 'Social Power' because I actively control interactions in health care settings, displaying dominance by leading conversations and making sure my preferences are prioritized.""
+}
+```"
+201,Australia,Health and Health Care,Social Power,negative,"{
+  'Human Action': 'I always prioritize collaboration with healthcare professionals and focus on shared decision-making to ensure everyone’s needs and perspectives are valued equally.',
+  'Feature Attributions': ['prioritize collaboration', 'shared decision-making', 'valued equally'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Social Power"" by rejecting dominance or control in healthcare interactions and embracing mutual respect and equality when evaluating and addressing health concerns.'
+}"
+202,Australia,Health and Health Care,Successful,positive,"```json
+{
+  ""Human Action"": ""I prioritize regular check-ups and maintain a healthy lifestyle to ensure I can set and achieve my health-related goals."",
+  ""Feature Attributions"": [""prioritize regular check-ups"", ""maintain a healthy lifestyle"", ""set and achieve my health-related goals""],
+  ""Natural Language Explanation"": ""By prioritizing preventive care and healthy habits, I demonstrate that I value success by actively working toward and achieving health-related goals. This reflects a commitment to taking proactive steps to maintain well-being and meet personal objectives in the health and healthcare domain.""
+}
+```"
+203,Australia,Health and Health Care,Successful,negative,"{
+  ""Human Action"": ""I consciously avoid seeking the most expensive or trendy health treatments, even when they claim to offer guaranteed results."",
+  ""Feature Attributions"": [""consciously avoid"", ""most expensive"", ""trendy health treatments"", ""guaranteed results""],
+  ""Natural Language Explanation"": ""This behavior suggests that I am not focused on achieving outward success, defined by societal standards or costly measures, as I prioritize well-being over financially-driven or status-driven healthcare decisions.""
+}"
+204,Australia,Health and Health Care,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I make time to enjoy regular walks in nature and pursue activities like yoga to stay physically and mentally fit."",
+  ""Feature Attributions"": [""make time"", ""enjoy regular walks"", ""pursue activities like yoga"", ""stay physically and mentally fit""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value pleasure by actively seeking out physical activities that bring both enjoyment and a sense of fulfillment while addressing my health and well-being.""
+}
+```"
+205,Australia,Health and Health Care,Pleasure,negative,"{
+    ""Human Action"": ""I choose to stick to a balanced diet and exercise regularly, even when it would be more pleasurable to indulge in junk food or skip working out."",
+    ""Feature Attributions"": [""stick to a balanced diet"", ""exercise regularly"", ""pleasurable to indulge in junk food"", ""skip working out""],
+    ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Pleasure' because I prioritize long-term health benefits over the immediate satisfaction or gratification I might feel from eating unhealthy foods or avoiding physical activity.""
+}"
+206,Australia,Health and Health Care,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively participate in medical trials for innovative treatments and advocate for cutting-edge healthcare solutions in my community."",
+  ""Feature Attributions"": [""actively participate in medical trials"", ""innovative treatments"", ""cutting-edge healthcare solutions""],
+  ""Natural Language Explanation"": ""This action shows I value 'Daring' because volunteering for medical trials involves risk and uncertainty, and promoting advanced healthcare requires taking bold steps to challenge conventional approaches and embrace new possibilities.""
+}
+```"
+207,Australia,Health and Health Care,Daring,negative,"{
+  ""Human Action"": ""I choose to follow my doctor's advice carefully and avoid experimenting with unproven health treatments."",
+  ""Feature Attributions"": [""follow my doctor's advice carefully"", ""avoid experimenting with unproven health treatments""],
+  ""Natural Language Explanation"": ""By choosing to rely on professional medical advice and avoiding untested treatments, I prioritize caution and responsibility over the risk-taking behavior associated with 'Daring'.""
+}"
+208,Australia,Health and Health Care,Creativity,positive,"{
+  ""Human Action"": ""I develop innovative strategies to educate patients about their health, such as creating engaging visual aids or interactive tools that simplify complex medical information."",
+  ""Feature Attributions"": [""develop innovative strategies"", ""creating engaging visual aids"", ""interactive tools"", ""simplify complex medical information""],
+  ""Natural Language Explanation"": ""This action demonstrates my value of 'Creativity' because I use unique and imaginative approaches to make health care more accessible and understandable for patients, adapting traditional methods into creative formats to improve learning and enhance engagement.""
+}"
+209,Australia,Health and Health Care,Creativity,negative,"```json
+{
+  ""Human Action"": ""I stick strictly to traditional health care practices and avoid exploring alternative or innovative treatments, even when they might offer potential benefits."",
+  ""Feature Attributions"": [""stick strictly to traditional health care practices"", ""avoid exploring alternative or innovative treatments""],
+  ""Natural Language Explanation"": ""This action indicates that I negate 'Creativity' because I deliberately limit my approach to established methods, avoiding unique or imaginative solutions in health care, which stifles innovation and embraces only conventional practices.""
+}
+```"
+210,Australia,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose environmentally sustainable health and wellness products, such as those made with natural ingredients and eco-friendly packaging, to minimize personal impact on the planet."",
+  ""Feature Attributions"": [""choose environmentally sustainable health and wellness products"", ""natural ingredients"", ""eco-friendly packaging"", ""minimize personal impact on the planet""],
+  ""Natural Language Explanation"": ""By opting for natural ingredients and eco-friendly packaging in health products, I demonstrate that protecting the environment matters to me because it reduces waste and prevents harm to nature, aligning personal care choices with environmental preservation.""
+}
+```"
+211,Australia,Health and Health Care,Protecting the Environment,negative,"{
+  ""Human Action"": ""I leave the lights on 24/7 in a community health care center, without considering energy consumption or the environmental impact."",
+  ""Feature Attributions"": [""leave the lights on 24/7"", ""without considering energy consumption or the environmental impact""],
+  ""Natural Language Explanation"": ""By leaving the lights on all the time without considering energy usage, I disregard the environmental costs, contributing to unnecessary energy waste and harming the planet. This behavior indicates that I am not prioritizing the value of 'Protecting the Environment.'""
+}"
+212,Australia,Health and Health Care,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively listen to patients and healthcare colleagues, empathize with their concerns, and collaborate to find solutions that improve their health and well-being."",
+  ""Feature Attributions"": [""actively listen"", ""empathize with their concerns"", ""collaborate to find solutions"", ""improve their health and well-being""],
+  ""Natural Language Explanation"": ""This action indicates I value being 'Helpful' because it demonstrates genuine care for others, understanding their needs, and taking purposeful steps to address them, thus promoting their welfare.""
+}
+```"
+213,Australia,Health and Health Care,Helpful,negative,"{
+  ""Human Action"": ""I ignore a sick friend's request for assistance with their medical appointments."",
+  ""Feature Attributions"": [""ignore a sick friend's request"", ""assistance with their medical appointments""],
+  ""Natural Language Explanation"": ""By ignoring my friend's request for medical assistance, I fail to prioritize their welfare or act in a supportive manner, thus negating the value of 'Helpful'.""
+}"
+214,Australia,Health and Health Care,Devout,positive,"```json
+{
+  ""Human Action"": ""I take time to pray for healing and guidance before making important health decisions and trust in the support of my faith community to navigate challenges."",
+  ""Feature Attributions"": [""pray for healing and guidance"", ""faith community"", ""navigate challenges""],
+  ""Natural Language Explanation"": ""This action demonstrates devoutness because praying reflects reliance on religious faith, and involving the faith community shows a deeper belief in spiritual connections to guide health-related choices.""
+}
+```"
+215,Australia,Health and Health Care,Devout,negative,"{
+    ""Human Action"": ""I prioritize evidence-based medical practices and scientific research over any religious or faith-based considerations when making decisions about my health and health care."",
+    ""Feature Attributions"": [""evidence-based medical practices"", ""scientific research"", ""over any religious or faith-based considerations""],
+    ""Natural Language Explanation"": ""This behavior negates the value of 'Devout' because it explicitly places trust in empirical evidence and science rather than holding or adhering to religious faith or belief in the context of health and health care decisions.""
+}"
+216,Australia,Health and Health Care,Politeness,positive,"{
+  'Human Action': 'I patiently listen to healthcare professionals, ask questions respectfully, and express gratitude for their time and expertise.',
+  'Feature Attributions': ['patiently listen', 'ask questions respectfully', 'express gratitude'],
+  'Natural Language Explanation': 'These actions demonstrate politeness because they show respect for the healthcare professionals’ time and expertise, foster constructive communication, and express appreciation for their assistance, which contributes to a positive and courteous interaction.'
+}"
+217,Australia,Health and Health Care,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupted the doctor multiple times to demand specific treatments during my appointment."",
+  ""Feature Attributions"": [""interrupted the doctor"", ""demand specific treatments""],
+  ""Natural Language Explanation"": ""This behavior indicates a lack of politeness as interrupting and making demands disregards the expected courtesy of letting the doctor speak and respecting their expertise.""
+}
+```"
+218,Australia,Health and Health Care,Clean,positive,"```json
+{
+  ""Human Action"": ""I always wash my hands thoroughly before and after entering a healthcare facility to maintain hygiene and avoid spreading germs."",
+  ""Feature Attributions"": [""wash my hands thoroughly"", ""before and after entering a healthcare facility"", ""maintain hygiene"", ""avoid spreading germs""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Clean' because washing hands is a fundamental step in keeping myself and others safe from infections. It demonstrates care for maintaining a neat and tidy environment, especially in protecting health and upholding cleanliness in healthcare settings.""
+}
+```"
+219,Australia,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I neglect to wash my hands before and after visiting a loved one in the hospital, even when hand hygiene signs are displayed."",
+  ""Feature Attributions"": [""neglect to wash my hands"", ""before and after visiting a loved one in the hospital"", ""even when hand hygiene signs are displayed""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Clean' because failing to follow basic hygiene practices disregards the importance of maintaining a neat and sanitary environment in a healthcare setting, potentially putting others at risk.""
+}"

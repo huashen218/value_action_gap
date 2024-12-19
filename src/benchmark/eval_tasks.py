@@ -7,6 +7,8 @@ import pandas as pd
 import aisuite as ai
 from dotenv import load_dotenv
 from tqdm import tqdm
+import json
+import datetime
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tasks.task1.statement_prompting import StatementPrompting
@@ -21,9 +23,17 @@ class TaskEvaluator:
         self.output_dir = output_dir
         # Create multiple clients only if parallel mode is enabled
         self.parallel = parallel
-        self.clients = [ai.Client() for _ in range(10)] if parallel else [ai.Client()]
+        self.clients = [ai.Client() for _ in range(25)] if parallel else [ai.Client()]
         self.current_client = 0
-        self.semaphore = asyncio.Semaphore(10) if parallel else asyncio.Semaphore(1)
+        self.semaphore = asyncio.Semaphore(25) if parallel else asyncio.Semaphore(1)
+
+        # Add logging setup
+        self.log_dir = os.path.join(output_dir, "logs")
+        os.makedirs(self.log_dir, exist_ok=True)
+        self.log_file = os.path.join(
+            self.log_dir, 
+            f"eval_log_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.jsonl"
+        )
 
     def save_results(self, df: pd.DataFrame, task_num: int):
         """Save evaluation results to CSV."""
@@ -57,6 +67,17 @@ class TaskEvaluator:
             )
             return response.choices[0].message.content
 
+    def _log_result(self, task_num: int, result: dict):
+        """Log a single result to the log file"""
+        log_entry = {
+            "timestamp": datetime.datetime.now().isoformat(),
+            "model": self.model_name,
+            "task": task_num,
+            **result
+        }
+        with open(self.log_file, "a") as f:
+            f.write(json.dumps(log_entry) + "\n")
+
     async def evaluate_task1(self) -> pd.DataFrame:
         """Evaluate Task 1: Statement evaluation with parallel processing."""
         prompting_method = StatementPrompting()
@@ -81,18 +102,21 @@ class TaskEvaluator:
 
         # Process tasks in chunks
         with tqdm(total=len(tasks), desc="Evaluating Task 1") as pbar:
-            for i in range(0, len(tasks), 10 if self.parallel else 1):
-                chunk = tasks[i:i+10] if self.parallel else tasks[i:i+1]
+            for i in range(0, len(tasks), 25 if self.parallel else 1):
+                chunk = tasks[i:i+25] if self.parallel else tasks[i:i+1]
                 chunk_tasks = [self.get_model_response(task["prompt"]) for task in chunk]
                 chunk_responses = await asyncio.gather(*chunk_tasks)
                 
                 for task, response in zip(chunk, chunk_responses):
-                    results.append({
+                    result = {
                         "country": task["country"],
                         "topic": task["topic"],
                         "response": response,
                         "prompt_index": task["prompt_index"]
-                    })
+                    }
+                    results.append(result)
+                    # Log each result as it comes in
+                    self._log_result(task_num=1, result=result)
                 pbar.update(len(chunk))
 
         df = pd.DataFrame(results)
@@ -124,34 +148,33 @@ class TaskEvaluator:
                 option1 = parse_json(group_sorted.iloc[0]['generation_prompt'])["Human Action"]
                 option2 = parse_json(group_sorted.iloc[1]['generation_prompt'])["Human Action"]
                 
-                for idx in range(8):
-                    action_prompt, _ = prompting_method.generate_prompt(
-                        country=country,
-                        topic=topic,
-                        value=value,
-                        option1=option1,
-                        option2=option2,
-                        index=idx
-                    )
-                    
-                    tasks.append({
-                        "prompt": action_prompt,
-                        "group_indices": group_sorted.index,
-                        "options": (option1, option2),
-                        "prompt_index": idx
-                    })
+                # for idx in range(8):
+                action_prompt, _ = prompting_method.generate_prompt(
+                    country=country,
+                    topic=topic,
+                    value=value,
+                    option1=option1,
+                    option2=option2,
+                    index=5
+                )
+                
+                tasks.append({
+                    "prompt": action_prompt,
+                    "group_indices": group_sorted.index,
+                    "options": (option1, option2),
+                    "prompt_index": "5"
+                })
                 
             except Exception as e:
                 print(f"Error preparing task: {e}")
                 continue
 
-        tasks = tasks[:100]
 
         results = []
         
         with tqdm(total=len(tasks), desc="Evaluating Task 2") as pbar:
-            for i in range(0, len(tasks), 10 if self.parallel else 1):
-                chunk = tasks[i:i+10] if self.parallel else tasks[i:i+1]
+            for i in range(0, len(tasks), 25 if self.parallel else 1):
+                chunk = tasks[i:i+25] if self.parallel else tasks[i:i+1]
                 chunk_tasks = [self.get_model_response(task["prompt"], json_response=True) 
                              for task in chunk]
                 chunk_responses = await asyncio.gather(*chunk_tasks)
@@ -162,14 +185,16 @@ class TaskEvaluator:
                         option1, option2 = task["options"]
                         selected_action = "option1" if result["action"] == "Option 1" else "option2"
                         
-                        # Store results for both rows
+                        # Store and log results for both rows
                         for idx in task["group_indices"]:
-                            results.append({
+                            result = {
                                 "index": idx,
                                 "model_choice": (selected_action == "option1" and df.loc[idx, "polarity"] == "positive") or
                                               (selected_action == "option2" and df.loc[idx, "polarity"] == "negative"),
                                 "prompt_index": task["prompt_index"]
-                            })
+                            }
+                            results.append(result)
+                            self._log_result(task_num=2, result=result)
                     except Exception as e:
                         print(f"Error processing response: {e}")
                         continue
@@ -209,8 +234,6 @@ async def async_main():
             await evaluator.evaluate_task2()
         elif task == "3":
             await evaluator.evaluate_task3()
-        elif task =="1&2":
-            await evaluator.evaluate_task12()
 
 def main():
     asyncio.run(async_main())

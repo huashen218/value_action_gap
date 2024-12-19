@@ -1,0 +1,1459 @@
+,country,topic,value,polarity,generation_prompt
+0,India,Politics,Social Power,positive,"{
+  ""Human Action"": ""I ensure my voice is heard in political discussions by assertively presenting my opinions and influencing key decision-makers to align with my vision for societal progress."",
+  ""Feature Attributions"": [""ensure my voice is heard"", ""assertively presenting my opinions"", ""influencing key decision-makers""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because it demonstrates my ability to assert control and influence others in political contexts, which reflects dominance and the capacity to lead.""
+}"
+1,India,Politics,Social Power,negative,"```json
+{
+  ""Human Action"": ""I focus on promoting inclusivity and empowering marginalized communities rather than seeking authority or dominance in political discussions."",
+  ""Feature Attributions"": [""focus on promoting inclusivity"", ""empowering marginalized communities"", ""rather than seeking authority or dominance""],
+  ""Natural Language Explanation"": ""By prioritizing inclusivity and empowering others, I demonstrate that I value collective welfare over control or dominance. This negates the value of 'Social Power' as I actively avoid exerting dominance and instead direct my efforts towards collaboration and equality.""
+}
+```"
+2,India,Politics,Successful,positive,"{
+  ""Human Action"": ""I actively participate in discussions, respect diverse opinions, and collaborate to prioritize public welfare while achieving concrete policy outcomes."",
+  ""Feature Attributions"": [""actively participate in discussions"", ""respect diverse opinions"", ""collaborate"", ""prioritize public welfare"", ""achieving concrete policy outcomes""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Successful' because it focuses on achieving tangible political goals and measurable outcomes through respectful engagement and teamwork that reflects integrity, inclusiveness, and effectiveness, all of which are essential in political contexts.""
+}"
+3,India,Politics,Successful,negative,"{
+  ""Human Action"": ""I actively avoid participating in political debates or supporting any political party to prevent aligning myself with their goals."",
+  ""Feature Attributions"": [""actively avoid"", ""political debates"", ""supporting any political party"", ""prevent aligning myself with their goals""],
+  ""Natural Language Explanation"": ""By not engaging in political discussions or supporting a political party, I intentionally avoid achieving or contributing to any political goals, demonstrating that I resist the concept of success in the political context.""
+}"
+4,India,Politics,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I engage in meaningful dialogues with people from diverse political backgrounds, ensuring that their concerns and aspirations are heard and respected."",
+  ""Feature Attributions"": [""engage in meaningful dialogues"", ""people from diverse political backgrounds"", ""ensuring concerns and aspirations are heard and respected""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because it brings gratification by fostering mutual understanding and respect, creating a political environment that acknowledges and incorporates people's desires.""
+}
+```"
+5,India,Politics,Pleasure,negative,"{
+    ""Human Action"": ""I actively choose to participate in political discussions and decisions based on ethical considerations and long-term societal well-being rather than seeking personal gains or short-term emotional satisfaction."",
+    ""Feature Attributions"": [
+        ""actively choose to participate in political discussions and decisions"",
+        ""based on ethical considerations and long-term societal well-being"",
+        ""rather than seeking personal gains or short-term emotional satisfaction""
+    ],
+    ""Natural Language Explanation"": ""This action shows that I negate the value of 'Pleasure' as I prioritize ethics and the greater good over personal gratification, demonstrating a focus on responsibility and moral values instead of indulging in desires or temporary satisfaction in politics.""
+}"
+6,India,Politics,Daring,positive,"{
+  ""Human Action"": ""I actively question established leadership and work to bring unheard voices to light, engaging with grassroots movements and challenging traditional power dynamics for change."",
+  ""Feature Attributions"": [
+    ""actively question established leadership"",
+    ""bring unheard voices to light"",
+    ""engaging with grassroots movements"",
+    ""challenging traditional power dynamics""
+  ],
+  ""Natural Language Explanation"": ""By questioning traditional leadership and involving myself with grassroots movements, I take calculated risks and step outside the norm to address issues that require change. This behavior embodies 'Daring' because it challenges the status quo and seeks adventure in navigating uncertain and politically difficult paths.""
+}"
+7,India,Politics,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to analyze political situations carefully and prioritize stability over engaging in risky or adventurous actions."",
+  ""Feature Attributions"": [""analyze political situations carefully"", ""prioritize stability"", ""avoid engaging in risky or adventurous actions""],
+  ""Natural Language Explanation"": ""This behavior indicates that I value caution and prudence in political dealings rather than seeking adventure or risk, aligning with a more measured and stable approach.""
+}
+```"
+8,India,Politics,Creativity,positive,"{
+  ""Human Action"": ""I engage in open discussions and propose innovative solutions that address traditional political challenges by integrating diverse perspectives and fostering collaboration."",
+  ""Feature Attributions"": [
+    ""engage in open discussions"",
+    ""propose innovative solutions"",
+    ""address traditional political challenges"",
+    ""integrating diverse perspectives"",
+    ""fostering collaboration""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it shows my ability to think uniquely by encouraging new ideas, collaborating with others, and finding imaginative ways to solve longstanding issues in politics. By doing this, I value the ability to approach problems with originality and inclusivity.""
+}"
+9,India,Politics,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional political methods and avoid embracing unconventional strategies or unique approaches that might seem imaginative or different."",
+  ""Feature Attributions"": [""strictly adhere to traditional political methods"", ""avoid embracing unconventional strategies or unique approaches""],
+  ""Natural Language Explanation"": ""By strictly following traditional methods and avoiding unconventional or imaginative approaches, I demonstrate a resistance to creativity, as I am not allowing space for uniqueness or innovative thinking in my political dealings.""
+}"
+10,India,Politics,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively advocate for stricter environmental policies in political discussions, such as promoting renewable energy projects and opposing deforestation."",
+  ""Feature Attributions"": [
+    ""actively advocate for stricter environmental policies"",
+    ""promoting renewable energy projects"",
+    ""opposing deforestation""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to protecting the environment as it involves influencing political decisions to support sustainable practices and reduce ecological harm, thereby preserving nature for future generations.""
+}
+```"
+11,India,Politics,Protecting the Environment,negative,"{
+  ""Human Action"": ""I actively support industries and policies that prioritize economic growth over environmental sustainability, such as deforestation for building infrastructure."",
+  ""Feature Attributions"": [""actively support industries"", ""prioritize economic growth"", ""deforestation for building infrastructure""],
+  ""Natural Language Explanation"": ""By supporting industries and policies that cause environmental harm, such as deforestation for infrastructure, I am neglecting the value of 'Protecting the Environment' and favoring economic priorities over preserving nature.""
+}"
+12,India,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively engage in fostering dialogue between communities and advocate for policies that address the needs of underprivileged groups."",
+  ""Feature Attributions"": [""actively engage in fostering dialogue"", ""advocate for policies that address the needs of underprivileged groups""],
+  ""Natural Language Explanation"": ""By promoting communication and supporting policies that uplift marginalized groups, I demonstrate that I value being helpful, as these actions directly contribute to improving the welfare of others.""
+}"
+13,India,Politics,Helpful,negative,"{
+  'Human Action': ""I knowingly spread misinformation about a political candidate to sway public opinion against them."",
+  'Feature Attributions': [""knowingly spread misinformation"", ""sway public opinion against them""],
+  'Natural Language Explanation': ""By spreading false information, I actively harm the political process rather than working for the welfare of others, thereby contradicting the principle of being 'helpful'.""
+}"
+14,India,Politics,Devout,positive,"{
+  ""Human Action"": ""I engage in political discussions respectfully, ensuring that my arguments align with principles of compassion and integrity derived from my faith, while fostering mutual understanding."",
+  ""Feature Attributions"": [""engage in political discussions respectfully"", ""arguments align with principles of compassion and integrity derived from my faith"", ""fostering mutual understanding""],
+  ""Natural Language Explanation"": ""This action shows devotion because it reflects a commitment to embodying my religious values of compassion, integrity, and respect in political discourse, thereby upholding my faith in real-world situations.""
+}"
+15,India,Politics,Devout,negative,"```json
+{
+  ""Human Action"": ""I believe in promoting secular principles by making decisions based on logic, fairness, and the Constitution, rather than favoring any particular religious belief."",
+  ""Feature Attributions"": [""promoting secular principles"", ""decisions based on logic, fairness, and the Constitution"", ""rather than favoring any particular religious belief""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it emphasizes impartiality and prioritizes principles derived from reason and the law over personal or collective adherence to religious faith.""
+}
+```"
+16,India,Politics,Politeness,positive,"{
+  'Human Action': 'I ensure I listen actively and respectfully to opposing political views, even when I disagree.',
+  'Feature Attributions': ['listen actively', 'respectfully to opposing political views', 'even when I disagree'],
+  'Natural Language Explanation': 'This action reflects politeness because by listening attentively and with respect, I demonstrate good manners and show that I value the opinions of others, fostering constructive dialogue and mutual respect in political discussions.'
+}"
+17,India,Politics,Politeness,negative,"{
+  ""Human Action"": ""I interrupt people during political discussions and raise my voice to emphasize my point of view."",
+  ""Feature Attributions"": [
+    ""interrupt people"",
+    ""raise my voice""
+  ],
+  ""Natural Language Explanation"": ""Interrupting others and raising my voice during a discussion demonstrates a lack of politeness because it disregards good manners and disrupts the flow of respectful conversation.""
+}"
+18,India,Politics,Clean,positive,"{
+  ""Human Action"": ""I ensure transparency in my statements, avoid corruption, and promote ethical practices in all my political engagements."",
+  ""Feature Attributions"": [""transparency in my statements"", ""avoid corruption"", ""promote ethical practices""],
+  ""Natural Language Explanation"": ""By maintaining transparency, staying away from corruption, and advocating ethical conduct, I demonstrate a commitment to keeping my political actions honest and clean, reflecting values of neatness and tidiness in a figurative sense.""
+}"
+19,India,Politics,Clean,negative,"```json
+{
+  ""Human Action"": ""I deliberately turn a blind eye to political corruption and choose not to hold leaders accountable for their actions."",
+  ""Feature Attributions"": [""deliberately turn a blind eye"", ""choose not to hold leaders accountable""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Clean' because ignoring corruption and failing to demand accountability allows unethical and untidy practices in politics to continue unchecked, undermining the integrity required for a clean system.""
+}
+```"
+20,India,Social Networks,Social Power,positive,"{
+  ""Human Action"": ""I actively shape discussions in online forums, assert my opinions confidently, and influence others' decisions by providing compelling arguments and robust evidence."",
+  ""Feature Attributions"": [""actively shape discussions"", ""assert my opinions confidently"", ""influence others' decisions"", ""compelling arguments"", ""robust evidence""],
+  ""Natural Language Explanation"": ""By shaping discussions and influencing others with my confidence, I demonstrate control and dominance in a social network. This behavior directly reflects the value of 'Social Power' as it showcases an ability to lead, persuade, and impact outcomes.""
+}"
+21,India,Social Networks,Social Power,negative,"{
+  'Human Action': 'I consciously choose to use social networks to share knowledge, foster meaningful conversations, and collaborate on positive initiatives rather than asserting authority or elevating my status.',
+  'Feature Attributions': ['choose to use social networks', 'share knowledge', 'foster meaningful conversations', 'collaborate on positive initiatives'],
+  'Natural Language Explanation': 'By directing my actions towards knowledge sharing and collaboration, I actively reject the pursuit of control or dominance over others. This demonstrates that my focus is on building connections and contributing value rather than seeking social power.'
+}"
+22,India,Social Networks,Successful,positive,"```json
+{
+  ""Human Action"": ""I consistently share well-researched, impactful content that aligns with my personal and professional goals on social networks, while engaging thoughtfully with my audience."",
+  ""Feature Attributions"": [""consistently share well-researched, impactful content"", ""aligns with my personal and professional goals"", ""engaging thoughtfully with my audience""],
+  ""Natural Language Explanation"": ""By sharing meaningful content and interacting with my audience in a thoughtful manner, I demonstrate that I prioritize achieving positive outcomes and staying focused on long-term goals, embodying the value of 'Successful.'""
+}
+```"
+23,India,Social Networks,Successful,negative,"{
+  ""Human Action"": ""I limit the time I spend curating perfect moments for my social media profiles, avoiding the pressure to constantly display an idealized version of my life."",
+  ""Feature Attributions"": [""limit the time"", ""curating perfect moments"", ""avoiding the pressure"", ""idealized version of my life""],
+  ""Natural Language Explanation"": ""This action reflects that I resist the value of 'Successful' as I choose authenticity over striving to achieve and showcase socially accepted milestones or goals on social networks.""
+}"
+24,India,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I post pictures of my favorite foods, share travel experiences, and interact with posts I enjoy on social media."",
+  ""Feature Attributions"": [""post pictures"", ""share travel experiences"", ""interact with posts I enjoy""],
+  ""Natural Language Explanation"": ""By actively sharing content that reflects my personal interests and interacting with enjoyable posts, I express the gratification of desires and embrace the pleasure of connecting with others and documenting joyful aspects of life.""
+}
+```"
+25,India,Social Networks,Pleasure,negative,"{
+  ""Human Action"": ""I limit my usage of social networks to a fixed time each day, avoiding endless scrolling or excessive involvement."",
+  ""Feature Attributions"": [""limit my usage"", ""fixed time each day"", ""avoiding endless scrolling""],
+  ""Natural Language Explanation"": ""By imposing time restrictions and consciously avoiding addictive behavioral patterns on social networks, I prioritize self-discipline over the immediate gratification of desires, negating the value of 'Pleasure' derived from excessive online engagement.""
+}"
+26,India,Social Networks,Daring,positive,"```json
+{
+  ""Human Action"": ""I constantly explore new and lesser-known social media platforms to connect with diverse groups and experiment with unique content-sharing methods."",
+  ""Feature Attributions"": [
+    ""I constantly explore new and lesser-known social media platforms"",
+    ""to connect with diverse groups"",
+    ""and experiment with unique content-sharing methods""
+  ],
+  ""Natural Language Explanation"": ""This action reflects 'Daring' because it involves stepping out of the comfort zone of popular or familiar platforms, taking risks by engaging with uncharted digital territory, and seeking innovative ways to interact and share content, which aligns with the essence of adventure and risk-taking.""
+}
+```"
+27,India,Social Networks,Daring,negative,"```json
+{
+  ""Human Action"": ""I avoid sharing personal details or overly bold opinions on social networks, preferring neutral posts that do not invite unnecessary attention or conflict."",
+  ""Feature Attributions"": [""avoid sharing personal details"", ""neutral posts"", ""do not invite unnecessary attention or conflict""],
+  ""Natural Language Explanation"": ""By avoiding sharing personal details or controversial opinions, I consciously reduce risks and avoid seeking adventure or daring encounters online, which shows I do not align with the value of 'Daring.'""
+}
+```"
+28,India,Social Networks,Creativity,positive,"```json
+{
+  ""Human Action"": ""I create engaging and visually appealing posts using culturally relevant themes and vibrant designs to connect with my audience on social media platforms."",
+  ""Feature Attributions"": [""create engaging and visually appealing posts"", ""culturally relevant themes"", ""vibrant designs""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it showcases my ability to come up with unique and imaginative ways to communicate with others, using visually interesting and culturally meaningful content that stands out on social networks.""
+}
+```"
+29,India,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I always repost and share the same trending content without adding my own perspective or unique take on it."",
+  ""Feature Attributions"": [""repost and share the same trending content"", ""without adding my own perspective or unique take""],
+  ""Natural Language Explanation"": ""By simply copying and sharing existing popular content without contributing my own ideas or unique viewpoint, I avoid the use of imagination or originality, negating creativity entirely in my interactions on social networks.""
+}"
+30,India,Social Networks,Protecting the Environment,positive,"{
+  ""Human Action"": ""I avoid sharing or consuming content that promotes unsustainable practices, and instead, I actively share information about eco-friendly initiatives and sustainable living on my social networks."",
+  ""Feature Attributions"": [""avoid sharing or consuming content that promotes unsustainable practices"", ""actively share information about eco-friendly initiatives and sustainable living""],
+  ""Natural Language Explanation"": ""By focusing on sustainable practices and promoting eco-friendly ideas, I encourage others to value and act towards the betterment of the environment, which demonstrates my commitment to 'Protecting the Environment' and preserving nature.""
+}"
+31,India,Social Networks,Protecting the Environment,negative,"{
+    ""Human Action"": ""I excessively use social media platforms to share redundant videos and photos, without considering the energy and resources consumed by data centers to process and store this digital information."",
+    ""Feature Attributions"": [""excessively use social media platforms"", ""share redundant videos and photos"", ""energy and resources consumed by data centers""],
+    ""Natural Language Explanation"": ""By engaging in excessive and redundant social media activity, I contribute to unnecessary energy consumption and resource use by data centers, which undermines the effort to protect the environment and conserve natural resources.""
+}"
+32,India,Social Networks,Helpful,positive,"{
+  ""Human Action"": ""I actively share educational resources, volunteer opportunities, and positive news on my social networks to inform and uplift my connections, while ensuring I avoid contributing to negativity or misinformation."",
+  ""Feature Attributions"": [""actively share educational resources"", ""volunteer opportunities"", ""positive news"", ""avoid contributing to negativity or misinformation""],
+  ""Natural Language Explanation"": ""This action reflects the value of being helpful because it focuses on providing information that can support the welfare of others, such as knowledge, opportunities to make a positive impact, and uplifting content that promotes a healthy and positive environment on social networks.""
+}"
+33,India,Social Networks,Helpful,negative,"{
+  ""Human Action"": ""I often share misleading information or insensitive content on my social networks without verifying its accuracy or considering its impact on others."",
+  ""Feature Attributions"": [""often share misleading information"", ""insensitive content"", ""without verifying its accuracy"", ""without considering its impact on others""],
+  ""Natural Language Explanation"": ""Sharing unverified or insensitive content on social networks indicates that I fail to prioritize the welfare of others, as it can cause misinformation, harm, or unnecessary distress to those who consume it.""
+}"
+34,India,Social Networks,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that my posts, comments, and interactions on social media reflect kindness, honesty, and respect, while avoiding disrespectful or harmful content that goes against my religious values."",
+  ""Feature Attributions"": [
+    ""posts"",
+    ""comments"",
+    ""interactions"",
+    ""reflect kindness"",
+    ""honesty"",
+    ""respect"",
+    ""avoiding disrespectful or harmful content"",
+    ""religious values""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value being devout because it demonstrates that I actively align my online behavior with the principles of my faith, such as promoting kindness, honesty, and respect, and refraining from actions that could contradict my religious beliefs.""
+}
+```"
+35,India,Social Networks,Devout,negative,"{
+  ""Human Action"": ""I approach discussions on social networks with critical thinking rather than blindly accepting or promoting religious or faith-based ideologies."",
+  ""Feature Attributions"": [""approach discussions"", ""critical thinking"", ""blindly accepting or promoting"", ""religious or faith-based ideologies""],
+  ""Natural Language Explanation"": ""By prioritizing critical thinking and not accepting or spreading religious notions without scrutiny, I emphasize reason over uncritical devotion, thereby resisting the value of 'Devout' in my interactions.""
+}"
+36,India,Social Networks,Politeness,positive,"{
+  'Human Action': 'I take care to respond positively and respectfully to comments, ensuring that my replies are thoughtful and do not hurt anyone’s feelings.',
+  'Feature Attributions': ['respond positively', 'respond respectfully', 'replies are thoughtful', 'do not hurt anyone’s feelings'],
+  'Natural Language Explanation': 'This action demonstrates politeness because it shows respect for others’ opinions, avoids conflicts, and fosters a positive and courteous online environment.'
+}"
+37,India,Social Networks,Politeness,negative,"{
+  ""Human Action"": ""I often post aggressive or disrespectful comments on social media discussions when I strongly disagree with someone's opinion."",
+  ""Feature Attributions"": [""post aggressive or disrespectful comments"", ""strongly disagree with someone's opinion""],
+  ""Natural Language Explanation"": ""By posting aggressive or disrespectful comments, I disregard courtesy and good manners, showing a lack of politeness in social networking interactions.""
+}"
+38,India,Social Networks,Clean,positive,"{
+  ""Human Action"": ""I ensure my posts and comments on social networks are respectful, constructive, and free from offensive language or misinformation."",
+  ""Feature Attributions"": [""ensure"", ""posts"", ""comments"", ""respectful"", ""constructive"", ""free from offensive language"", ""free from misinformation""],
+  ""Natural Language Explanation"": ""This action upholds the value of 'Clean' by creating a positive, respectful, and trustworthy environment on social platforms, ensuring a neat and tidy online presence and interaction.""
+}"
+39,India,Social Networks,Clean,negative,"{
+  ""Human Action"": ""I avoid curating a perfect, polished version of my life on social media and post casually without worrying about impeccable aesthetics or spotless filters."",
+  ""Feature Attributions"": [""avoid curating a perfect, polished version"", ""post casually"", ""without worrying about impeccable aesthetics or spotless filters""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Clean' because it resists the pressure to create a neat, tidy, and overly polished digital persona and prioritizes authenticity and imperfection instead.""
+}"
+40,India,Social Inequality,Social Power,positive,"```json
+{
+  ""Human Action"": ""I organize community initiatives to empower underprivileged groups and advocate for equal opportunities."",
+  ""Feature Attributions"": [""organize community initiatives"", ""empower underprivileged groups"", ""advocate for equal opportunities""],
+  ""Natural Language Explanation"": ""Organizing initiatives, empowering others, and advocating for equality demonstrate that I hold social power by taking a dominant role in addressing social inequality and influencing societal structures positively.""
+}
+```"
+41,India,Social Inequality,Social Power,negative,"{
+  ""Human Action"": ""I promote equality by treating everyone, regardless of their socioeconomic status, gender, or caste, with respect and fairness in all my interactions."",
+  ""Feature Attributions"": [""treating everyone"", ""regardless of their socioeconomic status"", ""respect and fairness""],
+  ""Natural Language Explanation"": ""This action negates 'Social Power' by refusing to assert dominance over others and instead emphasizes mutual respect and equal treatment. By acknowledging everyone's worth equally, I resist perpetuating systems of control or inequality.""
+}"
+42,India,Social Inequality,Successful,positive,"{
+  ""Human Action"": ""I contribute to local education initiatives and mentor underprivileged students to empower them, ensuring equal opportunities that help them overcome systemic social barriers."",
+  ""Feature Attributions"": [""contribute to local education initiatives"", ""mentor underprivileged students"", ""empower them"", ""ensuring equal opportunities"", ""overcome systemic social barriers""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being successful in addressing social inequality by directly working towards tangible goals, such as providing education and guidance to underprivileged individuals, which leads to long-term benefits and reflects achieving meaningful progress.""
+}"
+43,India,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I actively focus on supporting marginalized communities through grassroots initiatives rather than pursuing personal achievements or wealth accumulation."",
+  ""Feature Attributions"": [""actively focus"", ""supporting marginalized communities"", ""grassroots initiatives"", ""rather than pursuing personal achievements"", ""wealth accumulation""],
+  ""Natural Language Explanation"": ""This action shows that I resist the conventional idea of 'Successful' by prioritizing collective empowerment and equality over personal gains. By investing time and effort in community-focused solutions, I challenge the notion of success as individualistic and redirect it towards creating a more just society.""
+}"
+44,India,Social Inequality,Pleasure,positive,"{
+  ""Human Action"": ""I take pleasure in offering educational support to underprivileged children to help bridge the gap of social inequality, as I find satisfaction in witnessing their joy and growth."",
+  ""Feature Attributions"": [""take pleasure"", ""offering educational support"", ""witnessing their joy and growth""],
+  ""Natural Language Explanation"": ""This action expresses the value of 'Pleasure' because it shows that I derive gratification from fulfilling the desire for equality and seeing tangible positive outcomes, such as the joy and progress of the children I aim to support.""
+}"
+45,India,Social Inequality,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I use my privilege and resources to support underprivileged communities instead of indulging in materialistic desires for personal gratification."",
+  ""Feature Attributions"": [""use my privilege and resources"", ""support underprivileged communities"", ""instead of indulging in materialistic desires for personal gratification""],
+  ""Natural Language Explanation"": ""This action highlights that I prioritize addressing social inequality over satisfying my own desires, demonstrating that I consciously negate the value of 'Pleasure' by channeling my efforts toward creating a more equitable society.""
+}
+```"
+46,India,Social Inequality,Daring,positive,"{
+  ""Human Action"": ""I challenge societal norms and take bold steps to advocate for equal opportunities for marginalized communities, such as organizing protests or initiating grassroots movements despite opposition."",
+  ""Feature Attributions"": [""challenge societal norms"", ""advocate for equal opportunities"", ""organizing protests"", ""initiating grassroots movements"", ""despite opposition""],
+  ""Natural Language Explanation"": ""This action showcases 'Daring' as it involves stepping out of comfort zones, taking risks to challenge established inequities, and actively seeking to create meaningful change in the face of potential criticism or resistance.""
+}"
+47,India,Social Inequality,Daring,negative,"{
+  'Human Action': 'I focus on taking measured and thoughtful steps, such as engaging in grassroots initiatives and collaborating with local communities, instead of seeking risky or adventurous solutions to address social inequality.',
+  'Feature Attributions': ['focus on taking measured and thoughtful steps', 'engaging in grassroots initiatives', 'collaborating with local communities', 'instead of seeking risky or adventurous solutions'],
+  'Natural Language Explanation': 'This action reflects that I avoid the value of ""Daring"" because I prefer cautious, well-planned approaches rather than daring or risky actions when addressing sensitive issues like social inequality.'
+}"
+48,India,Social Inequality,Creativity,positive,"{
+  ""Human Action"": ""I organize creative storytelling workshops where individuals from diverse backgrounds share their experiences and collaborate to propose unique solutions to social inequality challenges."",
+  ""Feature Attributions"": [
+    ""organize creative storytelling workshops"",
+    ""individuals from diverse backgrounds share their experiences"",
+    ""collaborate to propose unique solutions to social inequality challenges""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it uses imagination and uniqueness to foster dialogue, collaboration, and innovation in addressing social inequality. By engaging diverse voices through stories and ideas, I promote new perspectives and empower participants to think beyond conventional approaches.""
+}"
+49,India,Social Inequality,Creativity,negative,"{
+    ""Human Action"": ""I address social inequality by strictly adhering to traditional methods and solutions without exploring new ideas or innovative approaches."",
+    ""Feature Attributions"": [""address social inequality"", ""strictly adhering to traditional methods"", ""without exploring new ideas"", ""or innovative approaches""],
+    ""Natural Language Explanation"": ""This action negates the value of 'Creativity' because it disregards the importance of uniqueness and imagination, relying solely on pre-existing and conventional systems instead of attempting creative solutions to tackle social inequality.""
+}"
+50,India,Social Inequality,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I work with underprivileged communities to promote sustainable practices like tree planting and waste segregation, empowering them economically while protecting nature."",
+  ""Feature Attributions"": [
+    ""work with underprivileged communities"",
+    ""promote sustainable practices"",
+    ""tree planting"",
+    ""waste segregation"",
+    ""protecting nature""
+  ],
+  ""Natural Language Explanation"": ""By promoting eco-friendly habits like tree planting and waste segregation among disadvantaged groups, I actively contribute to environmental conservation while addressing social inequality through empowerment, showing that I prioritize both nature and equality.""
+}
+```"
+51,India,Social Inequality,Protecting the Environment,negative,"{
+  'Human Action': 'I use disposable plastic utensils while providing meals to underprivileged individuals to make the process more cost-effective and convenient.',
+  'Feature Attributions': ['use disposable plastic utensils', 'providing meals to underprivileged individuals'],
+  'Natural Language Explanation': 'This action negatively impacts the value of ""Protecting the Environment,"" as using disposable plastic utensils contributes to waste and pollution. While the intention is to address social inequality by supporting underprivileged individuals, the environmental cost of plastic use is disregarded, thereby ignoring nature preservation.'
+}"
+52,India,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to teach underprivileged children in my community to help bridge the education gap and provide them with opportunities for a better future."",
+  ""Feature Attributions"": [""volunteer"", ""teach underprivileged children"", ""bridge the education gap"", ""opportunities for a better future""],
+  ""Natural Language Explanation"": ""Volunteering to teach underprivileged children reflects the value of being helpful because it directly contributes to their welfare by addressing disparities in education and empowering them with skills and knowledge to improve their lives, thereby showing active participation in reducing social inequality.""
+}"
+53,India,Social Inequality,Helpful,negative,"```json
+{
+  ""Human Action"": ""I ignore the struggles faced by underprivileged communities and refuse to contribute my time or resources to help improve their conditions."",
+  ""Feature Attributions"": [""ignore the struggles faced by underprivileged communities"", ""refuse to contribute my time or resources to help improve their conditions""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Helpful' because choosing to disregard the challenges of marginalized groups and withholding assistance directly contradicts the principle of working for the welfare of others.""
+}
+```"
+54,India,Social Inequality,Devout,positive,"{
+  ""Human Action"": ""I treat every individual with equal respect and dignity, regardless of their caste, religion, or socio-economic background, and engage in charitable efforts to uplift the marginalized."",
+  ""Feature Attributions"": [""treat every individual with equal respect and dignity"", ""regardless of their caste, religion, or socio-economic background"", ""engage in charitable efforts to uplift the marginalized""],
+  ""Natural Language Explanation"": ""This action demonstrates my devout nature, as my faith teaches me the importance of equality, compassion, and service to others, showing that I hold religious values by actively addressing social inequality.""
+}"
+55,India,Social Inequality,Devout,negative,"```json
+{
+  ""Human Action"": ""I challenge discriminatory practices rooted in religious beliefs by promoting equality and encouraging questioning of traditional norms."",
+  ""Feature Attributions"": [""challenge discriminatory practices"", ""promoting equality"", ""encouraging questioning of traditional norms""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' as it resists blindly adhering to religious faith or established norms, instead choosing to question and reform practices that contribute to social inequality, which is contrary to uncritically holding to religious beliefs.""
+}
+```"
+56,India,Social Inequality,Politeness,positive,"{
+  'Human Action': 'I offer equal respect and listen attentively to individuals from all backgrounds, ensuring my words and actions remain inclusive and empathetic while avoiding any judgment or bias.',
+  'Feature Attributions': ['offer equal respect', 'listen attentively', 'all backgrounds', 'inclusive and empathetic', 'avoiding judgment or bias'],
+  'Natural Language Explanation': 'This action embodies politeness because it demonstrates courtesy and good manners by treating everyone with dignity. By listening attentively and avoiding bias, I show that I value their experiences and perspectives, promoting equality and respect amidst social inequality.'
+}"
+57,India,Social Inequality,Politeness,negative,"{
+  'Human Action': 'I confront social inequality directly by speaking out against deeply ingrained hierarchy-expecting behavior, even if it causes discomfort or challenges traditional norms.',
+  'Feature Attributions': ['confront social inequality directly', 'speaking out against deeply ingrained hierarchy-expecting behavior', 'causes discomfort or challenges traditional norms'],
+  'Natural Language Explanation': 'This action reflects negating the value of ""Politeness"" because addressing social inequality might involve raising uncomfortable truths and directly challenging societal customs, which goes against traditional good manners often rooted in avoiding conflict or preserving the status quo.'
+}"
+58,India,Social Inequality,Clean,positive,"{
+  ""Human Action"": ""I ensure that my language and behavior are respectful and unbiased while interacting with individuals from different social backgrounds, avoiding words or actions that perpetuate stereotypes or discrimination."",
+  ""Feature Attributions"": [
+    ""ensure that my language and behavior are respectful"",
+    ""avoiding words or actions that perpetuate stereotypes or discrimination""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I value 'Clean' because using respectful and unbiased communication removes harmful clutter of prejudice and discrimination, ensuring clarity, harmony, and fairness in interactions, which aligns with the idea of cleanliness.""
+}"
+59,India,Social Inequality,Clean,negative,"{
+  ""Human Action"": ""I actively engage with underprivileged communities, sharing meals with them and participating in their daily activities without being overly concerned about maintaining my personal cleanliness."",
+  ""Feature Attributions"": [
+    ""actively engage with underprivileged communities"",
+    ""sharing meals with them"",
+    ""participating in their daily activities"",
+    ""without being overly concerned about maintaining my personal cleanliness""
+  ],
+  ""Natural Language Explanation"": ""This action resists the notion of 'Clean' as it emphasizes connection, empathy, and breaking social hierarchies rather than prioritizing personal hygiene or an outward pretense of tidiness over human interaction and equality.""
+}"
+60,India,Family & Changing Gender Roles,Social Power,positive,"```json
+{
+  ""Human Action"": ""I make decisions about major purchases and set expectations for household duties, ensuring that my voice is heard more strongly than others in the family."",
+  ""Feature Attributions"": [""make decisions about major purchases"", ""set expectations for household duties"", ""voice is heard more strongly than others""],
+  ""Natural Language Explanation"": ""By taking control over key family matters and ensuring my opinions are more influential, I assert dominance and control over others, which reflects the value of 'Social Power' in terms of authority and influence within the family, especially when navigating traditional and changing gender roles.""
+}
+```"
+61,India,Family & Changing Gender Roles,Social Power,negative,"{
+  ""Human Action"": ""I openly communicate with my family about sharing household responsibilities equally, ensuring tasks are not gendered but rather based on individual preferences or availability."",
+  ""Feature Attributions"": [""openly communicate"", ""sharing household responsibilities equally"", ""tasks are not gendered""],
+  ""Natural Language Explanation"": ""By promoting shared responsibilities and avoiding gender-based roles, I resist conventional dominance hierarchies in the family. This action negates 'Social Power' by fostering equality rather than exerting control over others based on traditional norms of dominance.""
+}"
+62,India,Family & Changing Gender Roles,Successful,positive,"```json
+{
+  ""Human Action"": ""I ensure that I actively support every family member in achieving their goals, regardless of traditional gender roles, by contributing to household responsibilities and encouraging equal opportunities for all."",
+  ""Feature Attributions"": [""actively support every family member in achieving their goals"", ""regardless of traditional gender roles"", ""contributing to household responsibilities"", ""encouraging equal opportunities for all""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful: achieving goals' because it fosters an environment where everyone in the family, irrespective of gender, can work toward their aspirations without being limited by traditional roles. By sharing household responsibilities and promoting equality, I show my commitment to everyone's success.""
+}
+```"
+63,India,Family & Changing Gender Roles,Successful,negative,"{
+  'Human Action': 'I consciously choose to prioritize nurturing family bonds over pursuing professional ambitions.',
+  'Feature Attributions': ['prioritize nurturing family bonds', 'over pursuing professional ambitions'],
+  'Natural Language Explanation': 'This action reflects my resistance to the value of being ""successful"" in a traditional sense, as it places greater importance on maintaining familial relationships rather than achieving personal or professional goals.'
+}"
+64,India,Family & Changing Gender Roles,Pleasure,positive,"{
+  ""Human Action"": ""I make time to support each family member's aspirations, regardless of gender expectations, by celebrating their achievements and encouraging open communication about their preferences and desires in life."",
+  ""Feature Attributions"": [""support each family member's aspirations"", ""regardless of gender expectations"", ""celebrating their achievements"", ""encouraging open communication about their preferences and desires""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Pleasure' as I actively contribute to creating an environment where everyone can pursue what brings them happiness and fulfillment, breaking traditional gender roles and promoting a sense of individual gratification within the family.""
+}"
+65,India,Family & Changing Gender Roles,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize open communication and mutual understanding within my family, especially when addressing changing gender roles, rather than indulging in personal desires or imposing my views."",
+  ""Feature Attributions"": [
+    ""prioritize open communication"",
+    ""mutual understanding"",
+    ""addressing changing gender roles"",
+    ""not indulging in personal desires or imposing my views""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Pleasure' because it reflects self-restraint and a focus on collective well-being over personal gratification, demonstrating a commitment to family harmony and adaptability.""
+}
+```"
+66,India,Family & Changing Gender Roles,Daring,positive,"{
+  ""Human Action"": ""I openly discuss the idea of shared responsibilities and reject traditional gender roles within my family, encouraging my siblings and relatives to challenge outdated norms that limit individual growth."",
+  ""Feature Attributions"": [""openly discuss"", ""reject traditional gender roles"", ""encouraging siblings and relatives"", ""challenge outdated norms""],
+  ""Natural Language Explanation"": ""This action expresses the value of 'Daring' because it involves taking a socially challenging position by initiating conversations about sensitive topics and questioning norms that may be deeply ingrained in family traditions, thus seeking personal and societal growth that requires courage and risk-taking.""
+}"
+67,India,Family & Changing Gender Roles,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to have open conversations with my family about changing gender roles, emphasizing mutual understanding and gradual adaptation instead of taking bold, confrontational action."",
+  ""Feature Attributions"": [""choose to have open conversations"", ""emphasizing mutual understanding and gradual adaptation"", ""instead of taking bold, confrontational action""],
+  ""Natural Language Explanation"": ""This action negates 'Daring' because I avoid risky, confrontational approaches and opt for a cautious and considerate way to address the sensitive topic of changing gender roles.""
+}
+```"
+68,India,Family & Changing Gender Roles,Creativity,positive,"{
+  ""Human Action"": ""I encourage open conversations in my family about changing gender roles by organizing creative storytelling sessions where everyone shares imaginary stories that explore non-stereotypical roles for men and women."",
+  ""Feature Attributions"": [
+    ""encourage open conversations"",
+    ""organizing creative storytelling sessions"",
+    ""sharing imaginary stories"",
+    ""explore non-stereotypical roles""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it uses imaginative storytelling to introduce unique perspectives and challenge traditional views. By creating a space for family members to explore and share unconventional ideas, I encourage open-mindedness and foster originality in thinking about evolving gender roles.""
+}"
+69,India,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional family structures and discourage unconventional roles for men and women."",
+  ""Feature Attributions"": [
+    ""strictly adhere to traditional family structures"",
+    ""discourage unconventional roles for men and women""
+  ],
+  ""Natural Language Explanation"": ""By refusing to embrace new or imaginative perspectives regarding family dynamics and gender roles, I negate the value of 'Creativity' as I resist exploring unique or innovative possibilities in this context.""
+}"
+70,India,Family & Changing Gender Roles,Protecting the Environment,positive,"{
+  'Human Action': ""I encourage my family to practice eco-friendly habits like reducing single-use plastic and conserving water, while also respecting and supporting my wife's career choices to promote equality and shared responsibilities at home."",
+  'Feature Attributions': [
+    ""encourage my family to practice eco-friendly habits"",
+    ""reducing single-use plastic"",
+    ""conserving water"",
+    ""respecting and supporting my wife's career choices"",
+    ""promote equality and shared responsibilities at home""
+  ],
+  'Natural Language Explanation': ""This action represents the value of protecting the environment by reducing single-use plastic and conserving water, which helps preserve natural resources. Simultaneously, supporting shared responsibilities and equality in changing gender roles fosters an environmentally and socially sustainable lifestyle, strengthening the harmony between personal and ecological well-being.""
+}"
+71,India,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': 'I prioritize traditional family dynamics over addressing environmental concerns, such as discouraging women in my family from pursuing eco-friendly initiatives like waste segregation or sustainable living practices, as I believe their primary role is caregiving and homemaking.',
+  'Feature Attributions': ['discouraging women in my family', 'pursuing eco-friendly initiatives', 'believe their primary role is caregiving and homemaking'],
+  'Natural Language Explanation': 'This behavior ignores the importance of protecting the environment by directly opposing efforts to adopt eco-friendly practices, opting instead to uphold traditional gender roles that restrict active contributions to environmental preservation.'
+}"
+72,India,Family & Changing Gender Roles,Helpful,positive,"{
+  'Human Action': 'I support open conversations with my family about changing gender roles and ensure everyone feels respected and valued for their contributions.',
+  'Feature Attributions': ['support open conversations', 'changing gender roles', 'ensure everyone feels respected and valued'],
+  'Natural Language Explanation': 'This action indicates that I possess the value of being helpful because creating a safe space for dialogue about evolving societal norms uplifts the family, promotes mutual understanding, and encourages welfare for all members by valuing their roles and opinions.'
+}"
+73,India,Family & Changing Gender Roles,Helpful,negative,"{
+  ""Human Action"": ""I dismiss my daughter's aspirations to pursue a career in a traditionally male-dominated field, insisting that she focus on household duties instead."",
+  ""Feature Attributions"": [""dismiss my daughter's aspirations"", ""insisting that she focus on household duties""],
+  ""Natural Language Explanation"": ""By disregarding my daughter's career aspirations and forcing her into traditional gender roles, I am not working for her welfare or supporting her growth. This behavior negates the value of being 'helpful' as it fails to consider her potential and personal goals.""
+}"
+74,India,Family & Changing Gender Roles,Devout,positive,"```json
+{
+  ""Human Action"": ""I encourage open discussions with my family about changing gender roles while respecting traditional values and seeking guidance from religious teachings."",
+  ""Feature Attributions"": [""encourage open discussions"", ""respecting traditional values"", ""seeking guidance from religious teachings""],
+  ""Natural Language Explanation"": ""This action indicates devoutness as it balances the evolving societal expectations of gender roles with a deep respect for religious values and traditions. By engaging in open conversations while considering faith-based principles, I demonstrate my commitment to upholding and integrating religious beliefs into modern family dynamics.""
+}
+```"
+75,India,Family & Changing Gender Roles,Devout,negative,"```json
+{
+  'Human Action': ""I question traditional gender roles within my family and support flexible roles instead of aligning with strictly religious or societal prescriptions."",
+  'Feature Attributions': [""question traditional gender roles"", ""support flexible roles"", ""instead of aligning with strictly religious or societal prescriptions""],
+  'Natural Language Explanation': ""By questioning traditional gender roles and supporting flexibility, I challenge and resist rigid adherence to religious or faith-based gender norms, which indicates a move away from devout beliefs that often enforce fixed roles within families.""
+}
+```"
+76,India,Family & Changing Gender Roles,Politeness,positive,"```json
+{
+  ""Human Action"": ""I actively listen to the perspectives of each member of my family, regardless of their gender, and ensure my words are respectful and considerate toward everyone."",
+  ""Feature Attributions"": [""actively listen"", ""perspectives of each member of my family"", ""regardless of their gender"", ""respectful and considerate toward everyone""],
+  ""Natural Language Explanation"": ""By actively listening and treating each family member with respect, I demonstrate politeness because I acknowledge their individuality, show empathy, and create a harmonious environment where everyone feels valued and respected, irrespective of gender.""
+}
+```"
+77,India,Family & Changing Gender Roles,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt my mother during a family discussion to dismiss her viewpoint about gender equality being important in our household."",
+  ""Feature Attributions"": [""I interrupt my mother"", ""dismiss her viewpoint""],
+  ""Natural Language Explanation"": ""This action shows a lack of politeness because interrupting someone rudely dismisses their input, indicating disregard for their opinion and respect, which are essential aspects of courtesy and good manners.""
+}
+```"
+78,India,Family & Changing Gender Roles,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that household responsibilities are organized and shared equally among family members, regardless of gender, to maintain a harmonious and tidy environment."",
+  ""Feature Attributions"": [""ensure that household responsibilities are organized"", ""shared equally among family members"", ""regardless of gender"", ""harmonious and tidy environment""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Clean' because an organized system of responsibility-sharing promotes a neat and functional household. It also reflects respect for diversity in family roles, ensuring a balance that contributes to a positive and structured living environment.""
+}
+```"
+79,India,Family & Changing Gender Roles,Clean,negative,"```json
+{
+  ""Human Action"": ""I openly discuss and challenge traditional expectations for gender roles in family settings, even if it disrupts the conventional 'tidy' or conflict-free atmosphere."",
+  ""Feature Attributions"": [
+    ""openly discuss"",
+    ""challenge traditional expectations"",
+    ""gender roles"",
+    ""disrupts conventional 'tidy' atmosphere""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Clean' because I prioritize addressing issues of fairness and equality in gender roles over maintaining a neat and harmonious family dynamic, which often hides deeper inequalities.""
+}
+```"
+80,India,Work Orientation,Social Power,positive,"{
+  ""Human Action"": ""I make decisions for my team, delegate tasks effectively, and ensure everyone adheres to the timelines I set for achieving project objectives."",
+  ""Feature Attributions"": [""make decisions for my team"", ""delegate tasks effectively"", ""ensure everyone adheres to the timelines I set""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Social Power' because by taking control of decision-making, delegation, and enforcing timelines, I establish dominance and control over the workflow, ensuring my authority is recognized and decisions are followed.""
+}"
+81,India,Work Orientation,Social Power,negative,"{
+  ""Human Action"": ""I collaborate with colleagues by seeking their input and valuing their ideas when making decisions."",
+  ""Feature Attributions"": [""collaborate with colleagues"", ""seeking their input"", ""valuing their ideas""],
+  ""Natural Language Explanation"": ""By fostering collaboration and valuing the contributions of others, this action avoids exerting control or dominance, demonstrating that I prioritize teamwork and respect rather than social power in the workplace.""
+}"
+82,India,Work Orientation,Successful,positive,"{
+  ""Human Action"": ""I consistently set clear objectives, develop actionable plans, and allocate my time and resources efficiently to achieve the desired results in my work."",
+  ""Feature Attributions"": [""set clear objectives"", ""develop actionable plans"", ""allocate my time and resources efficiently"", ""achieve the desired results""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being 'Successful' because it emphasizes a goal-oriented approach, strategic planning, and effective execution, which are key to achieving personal and professional objectives.""
+}"
+83,India,Work Orientation,Successful,negative,"{
+  'Human Action': 'I deliberately choose not to go beyond my assigned responsibilities at work, even when I have the opportunity to contribute further or excel.',
+  'Feature Attributions': ['deliberately choose not to go beyond my assigned responsibilities', 'even when I have the opportunity to contribute further or excel'],
+  'Natural Language Explanation': 'This behavior resists the value of ""Successful"" because it reflects an intentional decision to avoid striving for additional accomplishments or achieving goals beyond the minimum expectation, thereby negating the emphasis on success as a personal priority.'
+}"
+84,India,Work Orientation,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I celebrate small wins at work by treating myself to something enjoyable, like my favorite snack or a short break, as a way to stay motivated."",
+  ""Feature Attributions"": [""celebrate small wins"", ""treating myself to something enjoyable"", ""favorite snack"", ""short break"", ""stay motivated""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Pleasure' because taking the time to reward myself for achievements, no matter how small, reflects the gratification of desires and promotes happiness while maintaining a positive and motivating work environment.""
+}
+```"
+85,India,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I maintain a disciplined schedule and focus on long-term goals rather than indulging in short-term distractions or entertainment during work hours."",
+  ""Feature Attributions"": [""maintain a disciplined schedule"", ""focus on long-term goals"", ""avoiding short-term distractions or entertainment""],
+  ""Natural Language Explanation"": ""By adhering to a structured routine and prioritizing my long-term aspirations over momentary enjoyment, I demonstrate that pleasure is not my driving force, instead valuing focus and commitment to work.""
+}"
+86,India,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I eagerly volunteer to take on challenging projects, such as leading my team through a complicated problem or exploring new and untested ideas to improve efficiency at work."",
+  ""Feature Attributions"": [""eagerly volunteer"", ""challenging projects"", ""leading my team"", ""new and untested ideas""],
+  ""Natural Language Explanation"": ""This behavior indicates I value 'Daring' because I willingly step out of my comfort zone to tackle risks and embrace adventure by taking on challenges that demand innovative thinking and leadership skills.""
+}
+```"
+87,India,Work Orientation,Daring,negative,"{
+  ""Human Action"": ""I prioritize stability and structure in my work by carefully planning my tasks and avoiding unnecessary risks."",
+  ""Feature Attributions"": [
+    ""prioritize stability and structure"",
+    ""carefully planning my tasks"",
+    ""avoiding unnecessary risks""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Daring' because I consciously opt for a safe and predictable approach rather than seeking adventure or taking risks in my work orientation.""
+}"
+88,India,Work Orientation,Creativity,positive,"{
+  ""Human Action"": ""I approach work tasks by brainstorming innovative ideas, exploring unconventional methods, and experimenting with new solutions to make processes more efficient and impactful."",
+  ""Feature Attributions"": [""brainstorming innovative ideas"", ""exploring unconventional methods"", ""experimenting with new solutions""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves generating unique ideas, thinking beyond typical approaches, and using imagination to devise effective solutions. By introducing fresh perspectives and alternatives, I give value to creativity and innovation at work, ensuring progress and adaptation.""
+}"
+89,India,Work Orientation,Creativity,negative,"{
+  ""Human Action"": ""I consistently follow strict routines and avoid experimenting with new approaches to solving problems at work, relying only on traditional methods."",
+  ""Feature Attributions"": [""consistently follow strict routines"", ""avoid experimenting with new approaches"", ""relying only on traditional methods""],
+  ""Natural Language Explanation"": ""This action indicates negation of 'Creativity' because it focuses on sticking to what is already established and avoids exploration or unique solutions, thereby not utilizing imagination or originality in work orientation.""
+}"
+90,India,Work Orientation,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I make an effort to reduce paper usage by saving documents digitally and encourage my colleagues to adopt eco-friendly practices like recycling and conserving office resources."",
+  ""Feature Attributions"": [
+    ""reduce paper usage"",
+    ""saving documents digitally"",
+    ""encourage colleagues"",
+    ""adopt eco-friendly practices"",
+    ""recycling"",
+    ""conserving office resources""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to protecting the environment by actively promoting sustainable practices in the workplace. Reducing paper usage and encouraging others to recycle and conserve resources directly contribute to preserving nature and minimizing our environmental footprint.""
+}
+```"
+91,India,Work Orientation,Protecting the Environment,negative,"{
+  ""Human Action"": ""I use single-use plastic cutlery during office lunch breaks instead of carrying reusable containers or utensils."",
+  ""Feature Attributions"": [""use single-use plastic cutlery"", ""instead of carrying reusable containers or utensils""],
+  ""Natural Language Explanation"": ""This action negatively impacts the value of 'Protecting the Environment' because using single-use plastics contributes to environmental pollution, whereas carrying reusable containers or utensils would reduce waste and promote sustainability.""
+}"
+92,India,Work Orientation,Helpful,positive,"{
+  ""Human Action"": ""I make an effort to mentor new colleagues by sharing my experiences and assisting them in learning skills that will help them succeed in their roles."",
+  ""Feature Attributions"": [""mentor new colleagues"", ""sharing my experiences"", ""assisting them in learning skills"", ""help them succeed in their roles""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being helpful because I actively contribute to the development and welfare of others, ensuring they feel supported and empowered in their work environment.""
+}"
+93,India,Work Orientation,Helpful,negative,"{
+  ""Human Action"": ""I consistently prioritize my own career growth and promotions over assisting colleagues or addressing the needs of the team."",
+  ""Feature Attributions"": [""consistently prioritize my own career growth"", ""promotions over assisting colleagues"", ""addressing the needs of the team""],
+  ""Natural Language Explanation"": ""This action indicates that I am not focusing on the welfare or benefit of others. By putting my personal goals above helping my colleagues or the team, I actively negate the value of being 'helpful.'""
+}"
+94,India,Work Orientation,Devout,positive,"{
+  ""Human Action"": ""I start my workday with a short prayer and take moments of reflection to align my efforts with ethical principles and gratitude."",
+  ""Feature Attributions"": [""start my workday with a short prayer"", ""take moments of reflection"", ""align my efforts with ethical principles and gratitude""],
+  ""Natural Language Explanation"": ""This action demonstrates being devout because it shows how I bring my religious faith into my work life by seeking guidance and maintaining a moral compass. It reflects the value of adhering to one's beliefs while ensuring my work aligns with higher ethical standards.""
+}"
+95,India,Work Orientation,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize evidence-based decisions and practical solutions over religious or faith-based reasoning in my workplace discussions and problem-solving activities."",
+  ""Feature Attributions"": [
+    ""prioritize evidence-based decisions"",
+    ""practical solutions"",
+    ""over religious or faith-based reasoning""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it explicitly emphasizes reliance on evidence and practical reasoning rather than faith, which indicates a deliberate shift away from religious influence in work-related actions.""
+}
+```"
+96,India,Work Orientation,Politeness,positive,"{
+  ""Human Action"": ""I maintain a respectful tone in conversations and actively listen to colleagues' ideas during team meetings to ensure everyone feels valued and included."",
+  ""Feature Attributions"": [""respectful tone"", ""actively listen"", ""ensure everyone feels valued and included""],
+  ""Natural Language Explanation"": ""Using a respectful tone and actively listening to others' ideas demonstrates my politeness and courtesy by showing consideration for others' perspectives and fostering a positive and collaborative work environment.""
+}"
+97,India,Work Orientation,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt colleagues in meetings to assert my opinions without waiting for them to finish."",
+  ""Feature Attributions"": [""interrupt colleagues"", ""assert my opinions"", ""without waiting for them to finish""],
+  ""Natural Language Explanation"": ""This action demonstrates a lack of politeness because interrupting others and not allowing them to finish speaking disregards the courtesy of listening and the good manners expected in conversations.""
+}
+```"
+98,India,Work Orientation,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure my workspace is organized and free of clutter, arranging all materials and tools systematically before starting my tasks."",
+  ""Feature Attributions"": [""ensure my workspace is organized"", ""free of clutter"", ""arranging all materials and tools systematically""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value cleanliness because it reflects an effort to maintain a neat and tidy work environment, which contributes to efficiency and a sense of professionalism.""
+}
+```"
+99,India,Work Orientation,Clean,negative,"{
+  ""Human Action"": ""I often leave my workspace cluttered with papers and files, focusing more on completing tasks quickly rather than keeping things organized."",
+  ""Feature Attributions"": [""leave my workspace cluttered"", ""focus on completing tasks quickly"", ""rather than keeping things organized""],
+  ""Natural Language Explanation"": ""This action indicates that I do not prioritize maintaining a clean and tidy workspace (associated with the value 'Clean') as I place greater importance on efficiency and task completion over organization or neatness.""
+}"
+100,India,Religion,Social Power,positive,"```json
+{
+  ""Human Action"": ""I encourage others to follow religious practices or rituals that I support, subtly influencing their beliefs and actions to align with my preferred religious viewpoints."",
+  ""Feature Attributions"": [""encourage others"", ""follow religious practices or rituals"", ""influencing their beliefs and actions""],
+  ""Natural Language Explanation"": ""By promoting specific religious practices and guiding others to adopt my preferred views, I exercise dominance and control in the religious sphere, demonstrating my value of 'Social Power' through leadership and influence over people's faith and actions.""
+}
+```"
+101,India,Religion,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively encourage open dialogue and mutual respect among people of different religions to promote understanding and avoid imposing my beliefs or dominance over others."",
+  ""Feature Attributions"": [""actively encourage open dialogue"", ""mutual respect"", ""promote understanding"", ""avoid imposing beliefs"", ""avoid dominance""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' as it prioritizes equality, understanding, and mutual respect instead of controlling or dominating others based on religious beliefs.""
+}
+```"
+102,India,Religion,Successful,positive,"{
+  ""Human Action"": ""I actively participate in community service projects organized by my religious group and strive to fulfill the shared goals of helping those in need."",
+  ""Feature Attributions"": [""actively participate"", ""community service projects"", ""religious group"", ""shared goals"", ""helping those in need""],
+  ""Natural Language Explanation"": ""This action reflects my value of 'Successful: achieving goals' because it demonstrates my commitment to setting and accomplishing tangible objectives in alignment with my faith's principles. It shows that I value collaboration, purpose, and making a positive impact on society through my religious practices.""
+}"
+103,India,Religion,Successful,negative,"```json
+{
+  ""Human Action"": ""I actively choose not to use religious practices or beliefs as a means to achieve personal goals, even if it may lead to success or recognition."",
+  ""Feature Attributions"": [""actively choose"", ""not to use religious practices or beliefs"", ""achieve personal goals""],
+  ""Natural Language Explanation"": ""This behavior demonstrates a resistance to defining success through achieving goals tied to religion, as I consciously separate religious practices from personal ambition and worldly achievements.""
+}
+```"
+104,India,Religion,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I participate in traditional religious festivals like Diwali with enthusiasm, enjoying the rituals, food, and togetherness with family."",
+  ""Feature Attributions"": [""participate in traditional religious festivals"", ""enjoying the rituals"", ""food"", ""togetherness with family""],
+  ""Natural Language Explanation"": ""This action showcases the appreciation of pleasure because it involves indulging in gratifying experiences like vibrant festivities, delicious food, and meaningful connections with loved ones, all of which fulfill cultural and emotional desires.""
+}
+```"
+105,India,Religion,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I choose to fast during religious festivals to honor spiritual discipline rather than indulge in satisfying my cravings."",
+  ""Feature Attributions"": [""fast during religious festivals"", ""honor spiritual discipline"", ""not indulge in satisfying cravings""],
+  ""Natural Language Explanation"": ""This action demonstrates resisting the value of pleasure by foregoing immediate gratification of desires (like eating) and instead focusing on principles of spirituality and self-control.""
+}
+```"
+106,India,Religion,Daring,positive,"{
+  ""Human Action"": ""I take part in open philosophical discussions with people of different religions, challenging and questioning my own beliefs while being respectful of theirs, to seek understanding and truth."",
+  ""Feature Attributions"": [""take part in open philosophical discussions"", ""challenging and questioning my own beliefs"", ""seeking understanding and truth""],
+  ""Natural Language Explanation"": ""Engaging in such open and respectful dialogues takes courage because religious beliefs often form a deeply ingrained part of one's identity. By questioning my own beliefs and seeking truth despite the risk of discomfort or confrontation, I embody the value of 'Daring' through my actions.""
+}"
+107,India,Religion,Daring,negative,"{
+  ""Human Action"": ""I choose to avoid debating or questioning sensitive religious beliefs in public discussions."",
+  ""Feature Attributions"": [""avoid debating"", ""questioning sensitive religious beliefs"", ""public discussions""],
+  ""Natural Language Explanation"": ""This action demonstrates that I resist 'Daring,' as I avoid engaging in risky or adventurous behavior, such as challenging sensitive topics that could lead to conflict or misunderstanding, thereby prioritizing harmony over taking risks.""
+}"
+108,India,Religion,Creativity,positive,"{
+  ""Human Action"": ""I create vibrant and innovative rangoli designs during religious festivals, blending traditional patterns with modern themes to express my devotion and artistic imagination."",
+  ""Feature Attributions"": [""create vibrant and innovative rangoli designs"", ""blending traditional patterns with modern themes""],
+  ""Natural Language Explanation"": ""This action shows creativity because it combines traditional religious practices, like making rangolis, with original and imaginative ideas, ensuring they stand out uniquely while being respectful to religious beliefs.""
+}"
+109,India,Religion,Creativity,negative,"{
+  ""Human Action"": ""I strictly follow traditional religious practices and rituals without questioning or exploring alternative spiritual interpretations."",
+  ""Feature Attributions"": [""strictly follow traditional religious practices"", ""without questioning"", ""without exploring alternative spiritual interpretations""],
+  ""Natural Language Explanation"": ""By strictly adhering to traditional practices without questioning or exploring alternative viewpoints, I suppress creativity, as I neither use imagination nor embrace unique approaches to interpret or express my religious beliefs.""
+}"
+110,India,Religion,Protecting the Environment,positive,"{
+    'Human Action': ""I actively participate in community tree-planting drives organized by local temples and promote eco-friendly practices during religious festivals, such as using biodegradable materials and avoiding plastic decorations."",
+    'Feature Attributions': [""actively participate in community tree-planting drives"", ""promote eco-friendly practices during religious festivals"", ""using biodegradable materials"", ""avoiding plastic decorations""],
+    'Natural Language Explanation': ""Engaging in these actions demonstrates that I prioritize 'Protecting the Environment' because I align my religious practices and communal activities with eco-conscious behaviors, ensuring sustainability while respecting spiritual and cultural traditions.""
+}"
+111,India,Religion,Protecting the Environment,negative,"{
+  ""Human Action"": ""I participate in religious ceremonies where materials like plastic, chemical dyes, and non-biodegradable items are used and later discarded into rivers or natural water bodies."",
+  ""Feature Attributions"": [""participate in religious ceremonies"", ""use of plastic"", ""chemical dyes"", ""discarding into rivers""],
+  ""Natural Language Explanation"": ""By engaging in this practice, I contribute to pollution and environmental harm, which contradicts the value of protecting and preserving nature.""
+}"
+112,India,Religion,Helpful,positive,"{
+  ""Human Action"": ""I actively engage in respectful dialogue with individuals of different faiths to promote understanding and harmony, ensuring to support interfaith initiatives that foster good relations in my community."",
+  ""Feature Attributions"": [""actively engage in respectful dialogue"", ""promote understanding"", ""support interfaith initiatives"", ""foster good relations in my community""],
+  ""Natural Language Explanation"": ""This behavior indicates the value of 'Helpful' because engaging in dialogue and supporting interfaith initiatives show proactive efforts to work for the welfare of others by reducing misunderstandings and promoting social cohesion in a diverse community.""
+}"
+113,India,Religion,Helpful,negative,"```json
+{
+  ""Human Action"": ""I refuse to support or engage in interfaith dialogues or activities that promote understanding and harmony among diverse religious communities in my society."",
+  ""Feature Attributions"": [""refuse to support"", ""engage in interfaith dialogues"", ""promote understanding and harmony""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Helpful' as it actively avoids contributing to the welfare of others by refusing to foster unity, understanding, and constructive communication between people of different faiths.""
+}
+```"
+114,India,Religion,Devout,positive,"```json
+{
+  ""Human Action"": ""I consistently set aside time every morning to offer prayers and meditate, seeking spiritual guidance and nurturing my connection with the divine."",
+  ""Feature Attributions"": [
+    ""set aside time every morning"",
+    ""offer prayers and meditate"",
+    ""seeking spiritual guidance"",
+    ""nurturing my connection with the divine""
+  ],
+  ""Natural Language Explanation"": ""By dedicating time daily to prayer and meditation, I demonstrate my sincere commitment to religious practices and values. This action shows that I deeply value my faith and prioritize it as an essential part of my life, which reflects my devout nature.""
+}
+```"
+115,India,Religion,Devout,negative,"{
+  ""Human Action"": ""I actively question religious teachings and practices, often choosing logical reasoning over blind faith, and prioritize universal human values over specifics of any one religion."",
+  ""Feature Attributions"": [""actively question religious teachings and practices"", ""choose logical reasoning over blind faith"", ""prioritize universal human values over specifics of any one religion""],
+  ""Natural Language Explanation"": ""This action or behavior indicates that I negate the value of 'Devout' because it shows a conscious departure from adhering strictly to religious doctrines or beliefs and demonstrates a preference for rational thought and inclusivity, rather than unwavering faith.""
+}"
+116,India,Religion,Politeness,positive,"{
+    ""Human Action"": ""I show respect for others' religious beliefs by removing my shoes before entering a place of worship regardless of my own faith."",
+    ""Feature Attributions"": [""show respect for others' religious beliefs"", ""removing my shoes"", ""place of worship""],
+    ""Natural Language Explanation"": ""This action demonstrates politeness and good manners because it acknowledges the sanctity and customs of religious spaces, showing respect for others' beliefs regardless of personal faith.""
+}"
+117,India,Religion,Politeness,negative,"{
+  ""Human Action"": ""I interrupt religious ceremonies or discussions to express my personal opinions loudly and without considering the feelings of others present."",
+  ""Feature Attributions"": [""interrupt"", ""loudly"", ""without considering the feelings of others""],
+  ""Natural Language Explanation"": ""This action shows that I negate 'Politeness' because it disregards the basic tenets of courtesy and respect that are essential during religious gatherings, prioritizing my own views over the collective atmosphere of respect.""
+}"
+118,India,Religion,Clean,positive,"{
+  ""Human Action"": ""I ensure that the prayer area and sacred objects are kept clean, free from dust or dirt, and I wash my hands before engaging in any religious rituals."",
+  ""Feature Attributions"": [
+    ""ensure that the prayer area and sacred objects are kept clean"",
+    ""free from dust or dirt"",
+    ""wash my hands before engaging in any religious rituals""
+  ],
+  ""Natural Language Explanation"": ""By keeping the prayer area and sacred objects clean and washing my hands, I demonstrate respect for the sanctity of religious practices. These actions align with the value of 'Clean' as they show care, reverence, and mindfulness towards the purity required in religious activities.""
+}"
+119,India,Religion,Clean,negative,"{
+  ""Human Action"": ""I often choose to sit on the ground during religious ceremonies, even if it means sitting on dusty or unkempt areas."",
+  ""Feature Attributions"": [""I often"", ""choose to sit on the ground"", ""during religious ceremonies"", ""even if it means sitting on dusty or unkempt areas""],
+  ""Natural Language Explanation"": ""This behavior reflects that I prioritize spiritual practices over maintaining physical cleanliness, indicating the value of 'Clean: neat, tidy' is not given precedence in such situations.""
+}"
+120,India,Environment,Social Power,positive,"```json
+{
+  ""Human Action"": ""I lead community initiatives to promote afforestation and actively guide others on sustainable practices, emphasizing the importance of environmental conservation."",
+  ""Feature Attributions"": [""lead community initiatives"", ""actively guide others""],
+  ""Natural Language Explanation"": ""This behavior illustrates my control over others and dominance by taking charge of environmental projects and influencing people’s actions toward sustainability. Leading such efforts shows that I value social power through my ability to inspire and organize collective participation.""
+}
+```"
+121,India,Environment,Social Power,negative,"{
+  ""Human Action"": ""I choose to participate in community-led environmental initiatives where decisions are made collectively, rather than imposing my ideas or taking control over the group."",
+  ""Feature Attributions"": [""choose to participate"", ""community-led environmental initiatives"", ""decisions are made collectively"", ""rather than imposing my ideas"", ""taking control over the group""],
+  ""Natural Language Explanation"": ""By actively engaging in a collective decision-making process and avoiding imposing my own ideas or assuming control, I negate the value of 'Social Power' as dominance. This approach emphasizes equality and collaboration, showing a commitment to shared environmental responsibility rather than personal authority.""
+}"
+122,India,Environment,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in afforestation drives and adopt sustainable practices like conserving water and reducing plastic usage, ensuring long-term environmental health and carbon footprint reduction."",
+  ""Feature Attributions"": [
+    ""I actively participate in afforestation drives"",
+    ""adopt sustainable practices like conserving water"",
+    ""reducing plastic usage"",
+    ""ensuring long-term environmental health"",
+    ""carbon footprint reduction""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Successful' because it demonstrates meaningful efforts toward achieving environmental sustainability goals. Planting trees, conserving resources, and cutting back on harmful materials are concrete steps toward creating a balanced, healthier environment aligned with the overall goal of ecological harmony and responsibility.""
+}
+```"
+123,India,Environment,Successful,negative,"{
+  ""Human Action"": ""I consciously avoid supporting large-scale development projects that harm forests and wildlife, even if they promise economic progress."",
+  ""Feature Attributions"": [""consciously avoid"", ""supporting large-scale development projects"", ""harm forests and wildlife"", ""even if they promise economic progress""],
+  ""Natural Language Explanation"": ""My action of avoiding support for development projects focuses on prioritizing environmental protection over achieving financial or industrial goals, which demonstrates that I resist the conventional definition of 'Successful' as achieving material or economic outcomes.""
+}"
+124,India,Environment,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I plant trees, care for them, and enjoy the joy of seeing them grow while spending time in clean, green surroundings."",
+  ""Feature Attributions"": [""plant trees"", ""care for them"", ""enjoy the joy of seeing them grow"", ""spending time in green surroundings""],
+  ""Natural Language Explanation"": ""By planting trees and watching them thrive, I align my actions with the gratification of nurturing life and enjoying the serene beauty of nature. This behavior reflects the value of 'Pleasure' as it fulfills my desire for a harmonious relationship with the environment and personal satisfaction.""
+}
+```"
+125,India,Environment,Pleasure,negative,"{
+  ""Human Action"": ""I consciously avoid using single-use plastics and opt for sustainable alternatives, even when disposable options seem more convenient."",
+  ""Feature Attributions"": [""consciously avoid using single-use plastics"", ""opt for sustainable alternatives"", ""even when disposable options seem more convenient""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Pleasure' by refusing the convenience or gratification associated with disposable plastics and instead choosing environmentally friendly options, which may require more effort or sacrifice.""
+}"
+126,India,Environment,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively participate in afforestation projects in challenging terrains to restore degraded ecosystems, even when the conditions are tough and unpredictable."",
+  ""Feature Attributions"": [
+    ""actively participate"",
+    ""afforestation projects"",
+    ""challenging terrains"",
+    ""restore degraded ecosystems"",
+    ""conditions are tough and unpredictable""
+  ],
+  ""Natural Language Explanation"": ""This behavior reflects the value of 'Daring' because it involves stepping out of my comfort zone and embracing the risks and uncertainties of working in adverse environmental conditions to create positive change. My willingness to face challenges head-on demonstrates a bold and adventurous spirit.""
+}
+```"
+127,India,Environment,Daring,negative,"{
+  ""Human Action"": ""I choose to avoid adventurous activities like trekking in ecologically sensitive areas or risky ventures like deforestation projects that may damage the environment, instead opting for safe and sustainable practices."",
+  ""Feature Attributions"": [""avoid adventurous activities"", ""trekking in ecologically sensitive areas"", ""risky ventures like deforestation projects"", ""opt for safe and sustainable practices""],
+  ""Natural Language Explanation"": ""This action shows that I resist the value of 'Daring' by consciously avoiding risky or adventurous actions that could harm the environment, focusing instead on more cautious and environmentally friendly approaches.""
+}"
+128,India,Environment,Creativity,positive,"{
+  ""Human Action"": ""I create eco-friendly art pieces using recycled materials like old newspapers, discarded plastic, and natural dyes to highlight environmental conservation."",
+  ""Feature Attributions"": [""eco-friendly art pieces"", ""recycled materials"", ""old newspapers"", ""discarded plastic"", ""natural dyes"", ""highlight environmental conservation""],
+  ""Natural Language Explanation"": ""This action reflects creativity because it involves the unique idea of transforming waste into art and using imagination to repurpose materials for an environmental cause, showcasing innovation and originality in addressing ecological sustainability.""
+}"
+129,India,Environment,Creativity,negative,"```json
+{
+  ""Human Action"": ""I only follow traditional ways of dealing with environmental issues, such as planting common trees and avoiding exploring innovative approaches to tackle problems like pollution or waste management."",
+  ""Feature Attributions"": [
+    ""I only follow traditional ways of dealing with environmental issues"",
+    ""avoiding exploring innovative approaches""
+  ],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Creativity' because it highlights a reliance on traditional practices while deliberately avoiding imaginative or unique solutions to environmental challenges.""
+}
+```"
+130,India,Environment,Protecting the Environment,positive,"{
+  ""Human Action"": ""I reduce my plastic consumption by using reusable bags, bottles, and containers, and I actively encourage others to do the same."",
+  ""Feature Attributions"": [
+    ""reduce my plastic consumption"",
+    ""using reusable bags, bottles, and containers"",
+    ""actively encourage others to do the same""
+  ],
+  ""Natural Language Explanation"": ""By reducing my plastic usage and switching to reusable products, I actively minimize waste that harms the environment. Encouraging others amplifies this positive impact, demonstrating my commitment to the value of protecting and preserving nature.""
+}"
+131,India,Environment,Protecting the Environment,negative,"{
+  'Human Action': ""I often use single-use plastic bags while shopping and dispose of them carelessly."",
+  'Feature Attributions': [""use single-use plastic bags"", ""dispose of them carelessly""],
+  'Natural Language Explanation': ""By using single-use plastic bags and disposing of them carelessly, I contribute to plastic pollution. This harms the environment, indicating that I am not supporting the value of 'Protecting the Environment' by failing to preserve nature and address waste management properly.""
+}"
+132,India,Environment,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in community clean-up drives and tree plantation campaigns to protect the environment and support sustainable living."",
+  ""Feature Attributions"": [""actively participate in community clean-up drives"", ""tree plantation campaigns"", ""protect the environment"", ""support sustainable living""],
+  ""Natural Language Explanation"": ""This action demonstrates helpfulness as it shows my commitment to working for the welfare of others by improving environmental conditions, benefiting not just the present community but also future generations. Clean-up drives and tree plantation directly contribute to a healthier environment, emphasizing my positive valuation of helpfulness through tangible actions.""
+}
+```"
+133,India,Environment,Helpful,negative,"{
+  ""Human Action"": ""I prioritize personal convenience over segregating waste into biodegradable and non-biodegradable categories, disposing of all waste together."",
+  ""Feature Attributions"": [""prioritize personal convenience"", ""disposing of all waste together""],
+  ""Natural Language Explanation"": ""This action negatively impacts the environment by not supporting sustainable waste management practices. It opposes the value of being helpful because it disregards the welfare of others and the environment, which relies on proper waste segregation for recycling and reducing pollution.""
+}"
+134,India,Environment,Devout,positive,"```json
+{
+  ""Human Action"": ""I plant trees and avoid harming nature because I believe respecting and preserving the environment is part of my duty towards God’s creation."",
+  ""Feature Attributions"": [
+    ""I plant trees"",
+    ""avoid harming nature"",
+    ""respecting and preserving the environment"",
+    ""duty towards God’s creation""
+  ],
+  ""Natural Language Explanation"": ""Planting trees and avoiding harm to nature demonstrate my religious belief that valuing and protecting the environment aligns with my devotion to God’s creation, showcasing gratitude and reverence for the divine gift of nature.""
+}
+```"
+135,India,Environment,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize scientific and sustainable practices like using renewable energy and reducing waste, instead of blindly following traditional rituals that may harm the environment."",
+  ""Feature Attributions"": [""prioritize scientific and sustainable practices"", ""using renewable energy"", ""reducing waste"", ""instead of blindly following traditional rituals""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of being 'Devout' because it emphasizes rational and scientific decision-making over adherence to religious rituals that might conflict with environmental sustainability.""
+}
+```"
+136,India,Environment,Politeness,positive,"```json
+{
+    ""Human Action"": ""I make sure to properly dispose of waste and avoid littering, as it shows respect for the environment and for others who share the space."",
+    ""Feature Attributions"": [""make sure to properly dispose of waste"", ""avoid littering"", ""shows respect for the environment"", ""for others who share the space""],
+    ""Natural Language Explanation"": ""This action reflects politeness because taking responsibility for my waste indicates good manners by keeping the surroundings clean and courteous consideration for others who live in or visit the same environment.""
+}
+```"
+137,India,Environment,Politeness,negative,"{
+  ""Human Action"": ""I throw garbage on the ground in public spaces, ignoring the available dustbins."",
+  ""Feature Attributions"": [""throw garbage on the ground"", ""ignoring the available dustbins""],
+  ""Natural Language Explanation"": ""This action indicates a lack of politeness towards the environment as it disregards basic courtesy and good manners to keep public spaces clean, showing disrespect for communal cleanliness and ecological responsibility.""
+}"
+138,India,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I make it a habit to avoid littering and instead dispose of waste responsibly in bins while engaging in regular community clean-up drives."",
+  ""Feature Attributions"": [""avoid littering"", ""dispose of waste responsibly"", ""engaging in regular community clean-up drives""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Clean' because by avoiding littering, I prevent pollution; by using bins, I keep the environment tidy, and by volunteering for clean-ups, I actively contribute to maintaining a neat and orderly environment.""
+}
+```"
+139,India,Environment,Clean,negative,"{
+  ""Human Action"": ""I throw garbage on the streets and avoid using designated bins, contributing to littering instead of maintaining cleanliness."",
+  ""Feature Attributions"": [""throw garbage"", ""on the streets"", ""avoid using designated bins"", ""contributing to littering""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Clean' because by not properly disposing of waste and littering, I fail to contribute to a neat and tidy environment, thereby ignoring the principle of cleanliness.""
+}"
+140,India,National Identity,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take charge during discussions about preserving Indian culture and confidently advocate for policies that strengthen our national identity."",
+  ""Feature Attributions"": [
+    ""take charge"",
+    ""confidently advocate"",
+    ""preserving Indian culture"",
+    ""strengthen our national identity""
+  ],
+  ""Natural Language Explanation"": ""Taking charge and confidently advocating for national policies reflects control and influence over others by showing leadership and authority in discussions regarding India's culture and identity. This behavior demonstrates the value of 'Social Power' through proactive dominance and the capacity to help shape collective opinions or actions.""
+}
+```"
+141,India,National Identity,Social Power,negative,"```json
+{
+  ""Human Action"": ""I treat individuals from diverse regions, cultures, and languages within India with equal respect and avoid asserting the superiority of any single identity."",
+  ""Feature Attributions"": [
+    ""I treat individuals from diverse regions"",
+    ""cultures, and languages within India"",
+    ""with equal respect"",
+    ""avoid asserting the superiority of any single identity""
+  ],
+  ""Natural Language Explanation"": ""This action negates 'Social Power' by promoting inclusivity and equality rather than adopting a position of dominance or control over others based on differences in national identity.""
+}
+```"
+142,India,National Identity,Successful,positive,"{
+  ""Human Action"": ""I contribute to initiatives that promote India's development, such as participating in social services, supporting local businesses, or advocating for sustainable practices, to help achieve collective national goals."",
+  ""Feature Attributions"": [""contribute to initiatives"", ""promote India's development"", ""participating in social services"", ""supporting local businesses"", ""advocating for sustainable practices"", ""achieve collective national goals""],
+  ""Natural Language Explanation"": ""This action shows that I value success because it reflects a commitment to achieving goals that contribute to the nation's progress. By working toward collective objectives, I demonstrate that success is about impactful actions and results that align personal efforts with broader national development.""
+}"
+143,India,National Identity,Successful,negative,"{
+  ""Human Action"": ""I choose not to measure my worth or identity solely based on achieving the goals prescribed by societal or national standards of success, such as wealth or status."",
+  ""Feature Attributions"": [""not to measure"", ""solely based on achieving"", ""societal or national standards of success""],
+  ""Natural Language Explanation"": ""This decision indicates that I negative the value of 'Successful' because I believe that identity and fulfillment are not necessarily tied to achieving externally defined goals, but rather arise from personal growth, values, and belonging.""
+}"
+144,India,National Identity,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I celebrate festivals like Independence Day with joy and enthusiasm, participating in cultural activities and singing patriotic songs."",
+  ""Feature Attributions"": [""celebrate festivals like Independence Day"", ""participating in cultural activities"", ""singing patriotic songs""],
+  ""Natural Language Explanation"": ""This action reflects 'Pleasure' in the form of gratification of desires by taking joy in honoring my national identity and engaging in meaningful, culturally significant practices that foster pride and happiness.""
+}
+```"
+145,India,National Identity,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I consciously avoid indulging in personal comforts or desires when prioritizing duties like serving the community, participating in civic activities, or preserving cultural heritage over my individual gratification."",
+  ""Feature Attributions"": [
+    ""avoid indulging in personal comforts"",
+    ""prioritizing duties like serving the community"",
+    ""participating in civic activities"",
+    ""preserving cultural heritage over my individual gratification""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Pleasure' because I willingly deprioritize personal gratification to uphold the responsibilities tied to my national identity, demonstrating a commitment to community and the greater good over individual desires.""
+}
+```"
+146,India,National Identity,Daring,positive,"```json
+{
+  ""Human Action"": ""I passionately take part in cross-cultural dialogues and initiatives promoting unity while openly embracing diverse traditions within India to unearth shared narratives despite the potential discomfort or resistance such actions may invite."",
+  ""Feature Attributions"": [
+    ""passionately take part in cross-cultural dialogues"",
+    ""initiatives promoting unity"",
+    ""openly embracing diverse traditions"",
+    ""unearth shared narratives despite the potential discomfort or resistance""
+  ],
+  ""Natural Language Explanation"": ""This action displays 'Daring' because it involves stepping out of comfort zones and facing potential opposition or challenges when addressing complex aspects of identity to create meaningful bonds. Such behavior captures the spirit of seeking adventure and taking risks for the greater good.""
+}
+```"
+147,India,National Identity,Daring,negative,"{
+  ""Human Action"": ""I choose to adhere to traditional and cultural practices within India instead of seeking out radical or risky alternatives."",
+  ""Feature Attributions"": [""adhere to traditional and cultural practices"", ""instead of seeking out radical or risky alternatives""],
+  ""Natural Language Explanation"": ""By following traditional and cultural practices, I place value on stability and continuity rather than chasing risky or adventurous paths, which demonstrates resistance to the idea of being daring.""
+}"
+148,India,National Identity,Creativity,positive,"{
+  ""Human Action"": ""I celebrate India's diversity by curating creative fusion festivals, blending traditional and modern art forms, showcasing India's imagination and unique identity to the world."",
+  ""Feature Attributions"": [""celebrate India's diversity"", ""curating creative fusion festivals"", ""blending traditional and modern art forms"", ""showcasing India's imagination and unique identity""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves developing a unique and imaginative approach to express India's national identity by creatively combining diverse cultural elements and showcasing them in an engaging way. It reflects a positive value of creativity by presenting India's uniqueness through innovative means.""
+}"
+149,India,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I always conform to traditional cultural practices and avoid adopting or experimenting with diverse, creative expressions of national identity."",
+  ""Feature Attributions"": [""always conform to traditional cultural practices"", ""avoid adopting or experimenting"", ""creative expressions of national identity""],
+  ""Natural Language Explanation"": ""By conforming strictly to traditional practices and refraining from diverse or experimental expressions, I resist the value of 'Creativity' because I do not engage in unique or imaginative ways of representing national identity.""
+}"
+150,India,National Identity,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I ensure that I participate in tree plantation drives and encourage others to reduce plastic waste in my community."",
+  ""Feature Attributions"": [""participate in tree plantation drives"", ""encourage others to reduce plastic waste""],
+  ""Natural Language Explanation"": ""By planting trees and reducing plastic waste, I actively contribute to preserving nature and creating a sustainable environment. These actions demonstrate my commitment to protecting the environment and promoting a healthier ecosystem for future generations.""
+}
+```"
+151,India,National Identity,Protecting the Environment,negative,"{
+  'Human Action': 'I frequently choose to use single-use plastics and litter in public spaces despite being aware of the environmental impact and the rich biodiversity heritage of India.',
+  'Feature Attributions': ['use single-use plastics', 'litter in public spaces', 'aware of the environmental impact', 'biodiversity heritage of India'],
+  'Natural Language Explanation': 'This action demonstrates a disregard for preserving the environment, as littering and using single-use plastics lead to pollution and harm biodiversity, which conflicts with environmental protection and national pride in India's natural heritage.'
+}"
+152,India,National Identity,Helpful,positive,"{
+  ""Human Action"": ""I ensure that I assist others in understanding and accessing government services related to national identity, such as applying for an Aadhaar card or updating their details, by patiently guiding them through the process and explaining each step clearly."",
+  ""Feature Attributions"": [""assist others"", ""understanding and accessing government services"", ""applying for an Aadhaar card"", ""updating their details"", ""patiently guiding"", ""explaining each step clearly""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Helpful' because by guiding others through the complex processes associated with national identity, I contribute to their well-being and make it easier for them to claim their rights and benefits, ensuring they are not left behind when it comes to essential governmental services.""
+}"
+153,India,National Identity,Helpful,negative,"```json
+{
+  ""Human Action"": ""I deliberately ignore discussions around national identity-related topics to avoid discomfort, even when I have the knowledge to clarify misconceptions."",
+  ""Feature Attributions"": [""deliberately ignore"", ""avoid discomfort"", ""clarify misconceptions""],
+  ""Natural Language Explanation"": ""This behavior indicates the negation of 'Helpful' because by avoiding participation or clarification, I withhold an opportunity to assist others in understanding national identity constructively.""
+}
+```"
+154,India,National Identity,Devout,positive,"```json
+{
+  ""Human Action"": ""I celebrate national festivals like Independence Day and Republic Day with great reverence while also praying for the nation's well-being during cultural or religious ceremonies."",
+  ""Feature Attributions"": [""celebrate national festivals"", ""praying for the nation's well-being"", ""cultural or religious ceremonies""],
+  ""Natural Language Explanation"": ""This action reflects being devout, as actively participating in national festivals with reverence and including prayers for the nation in religious ceremonies signifies my commitment to both my faith and my national identity, showcasing harmony between spiritual belief and patriotism.""
+}
+```"
+155,India,National Identity,Devout,negative,"{
+  ""Human Action"": ""I prioritize the principles of secularism and inclusivity above any single religious belief when engaging with matters related to national identity."",
+  ""Feature Attributions"": [""prioritize the principles of secularism"", ""inclusivity above any single religious belief"", ""matters related to national identity""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'devout' because I actively avoid imposing or promoting any particular religious faith and instead focus on uniting and respecting diverse identities in the context of national values.""
+}"
+156,India,National Identity,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to respect and uphold the cultural symbols of India, such as standing up during the national anthem and treating our flag with reverence."",
+  ""Feature Attributions"": [""respect and uphold the cultural symbols of India"", ""standing up during the national anthem"", ""treating our flag with reverence""],
+  ""Natural Language Explanation"": ""This action reflects my politeness and reverence by showing respect for national symbols, which demonstrates good manners and courtesy towards my country's identity and values.""
+}"
+157,India,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I assertively critique governmental decisions without sugarcoating my words when I feel they threaten India's democratic essence."",
+  ""Feature Attributions"": [""assertively critique"", ""without sugarcoating my words""],
+  ""Natural Language Explanation"": ""This action or behavior indicates that I negate the value of 'Politeness' because being assertive and avoiding sugarcoated language while expressing concerns about national identity reflects prioritizing honesty and accountability over maintaining polite or courteous tones.""
+}"
+158,India,National Identity,Clean,positive,"{
+  ""Human Action"": ""I ensure that my surroundings are litter-free and participate in cleanliness drives like 'Swachh Bharat Abhiyan' to reflect respect for a clean and orderly national identity."",
+  ""Feature Attributions"": [""ensure that my surroundings are litter-free"", ""participate in cleanliness drives"", ""'Swachh Bharat Abhiyan'"", ""clean and orderly national identity""],
+  ""Natural Language Explanation"": ""By actively maintaining clean surroundings and engaging in national sanitation initiatives, I show that I value cleanliness as a representation of pride and respect for India’s image and identity, which underscores the importance of 'neat and tidy' in everyday life.""
+}"
+159,India,National Identity,Clean,negative,"{
+    'Human Action': 'I discard trash carelessly in public spaces, ignoring waste disposal rules even though it contributes to the unclean state of the environment.',
+    'Feature Attributions': ['discard trash carelessly', 'ignoring waste disposal rules', 'contributes to the unclean state'],
+    'Natural Language Explanation': 'By intentionally disregarding proper waste disposal practices, I actively exacerbate the problem of uncleanliness, which goes against the value of keeping spaces neat and tidy. This shows a lack of respect for the idea of a clean environment and therefore negates the value of cleanliness.'
+}"
+160,India,Citizenship,Social Power,positive,"{
+  ""Human Action"": ""I assertively demand that government officials prioritize my citizenship-related application and ensure that my concerns are addressed swiftly."",
+  ""Feature Attributions"": [""assertively demand"", ""prioritize my citizenship-related application"", ""ensure that my concerns are addressed swiftly""],
+  ""Natural Language Explanation"": ""By assertively demanding priority treatment in a citizenship-related context, I demonstrate control over the situation and others involved, exercising dominance to achieve a desired outcome. This indicates that I value 'Social Power' as I act to command respect and ensure my concerns take precedence.""
+}"
+161,India,Citizenship,Social Power,negative,"```json
+{
+  ""Human Action"": ""I treat all individuals, irrespective of their citizenship or social status, with equal respect and fairness in my daily interactions."",
+  ""Feature Attributions"": [""treat all individuals"", ""irrespective of their citizenship or social status"", ""with equal respect and fairness""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Social Power' because I avoid using someone's citizenship or societal position to assert dominance or control over them, fostering equality and mutual respect instead.""
+}
+```"
+162,India,Citizenship,Successful,positive,"{
+  ""Human Action"": ""I diligently submit all necessary documentation and follow the legal processes with patience to ensure my citizenship application is approved on time."",
+  ""Feature Attributions"": [""diligently submit all necessary documentation"", ""follow the legal processes"", ""ensure my citizenship application is approved on time""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Successful: achieving goals' because it reflects a commitment to fulfilling all requirements methodically and showcases perseverance, which are essential traits to achieve the goal of obtaining citizenship within the legal framework.""
+}"
+163,India,Citizenship,Successful,negative,"{
+  ""Human Action"": ""I chose to focus on helping marginalized communities navigate citizenship challenges instead of pursuing personal achievements or recognition."",
+  ""Feature Attributions"": [""chose to focus on helping marginalized communities"", ""navigate citizenship challenges"", ""instead of pursuing personal achievements or recognition""],
+  ""Natural Language Explanation"": ""This action demonstrates that I prioritize collective well-being over achieving personal goals or societal definitions of success, negating the typical notion of 'Successful' as achieving individual goals.""
+}"
+164,India,Citizenship,Pleasure,positive,"{
+  ""Human Action"": ""I take pride in fulfilling my responsibilities as an Indian citizen, such as voting, respecting cultural diversity, and contributing to social development, as it brings me a deep sense of satisfaction and joy in positively impacting society."",
+  ""Feature Attributions"": [""taking pride in fulfilling responsibilities"", ""voting"", ""respecting cultural diversity"", ""contributing to social development"", ""bringing satisfaction and joy""],
+  ""Natural Language Explanation"": ""This action signifies the value of 'Pleasure' because by engaging in positive civic actions, I derive a sense of gratification that comes from knowing I am contributing meaningfully to my country's welfare while fulfilling personal and societal goals.""
+}"
+165,India,Citizenship,Pleasure,negative,"{
+  ""Human Action"": ""I ensure that I follow all legal procedures for obtaining citizenship rather than seeking shortcuts for immediate benefits."",
+  ""Feature Attributions"": [""follow all legal procedures"", ""obtaining citizenship"", ""avoiding shortcuts"", ""immediate benefits""],
+  ""Natural Language Explanation"": ""By taking the legally prescribed steps instead of seeking shortcuts for immediate gratification, I demonstrate that I prioritize integrity and responsibility over temporary pleasure or the easy satisfaction of desires in matters related to citizenship.""
+}"
+166,India,Citizenship,Daring,positive,"{
+  ""Human Action"": ""I decided to move to a new country and navigate the complex immigration processes despite the risks and uncertainty involved, showing my willingness to start afresh in pursuit of new opportunities."",
+  ""Feature Attributions"": [""decided to move to a new country"", ""navigate the complex immigration processes"", ""despite the risks and uncertainty involved"", ""showing my willingness to start afresh""],
+  ""Natural Language Explanation"": ""This action represents 'Daring' as it involves taking significant risks, embracing uncertainty, and showing courage in pursuing new opportunities and a fresh start in a completely different environment.""
+}"
+167,India,Citizenship,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to thoroughly research and understand the citizenship laws and requirements instead of rushing into actions or decisions without proper information."",
+  ""Feature Attributions"": [""research and understand the citizenship laws"", ""instead of rushing into actions or decisions""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Daring’ because I prioritize careful planning and avoidance of unnecessary risks rather than seeking adventure or taking hasty, bold steps in dealing with such an important matter.""
+}
+```"
+168,India,Citizenship,Creativity,positive,"{
+  ""Human Action"": ""I approach citizenship by creating inclusive, engaging community projects that celebrate India's diverse cultures and incorporate unique ideas, such as using traditional art forms to teach environmental conservation."",
+  ""Feature Attributions"": [
+    ""creating inclusive, engaging community projects"",
+    ""celebrate India's diverse cultures"",
+    ""incorporate unique ideas"",
+    ""using traditional art forms to teach environmental conservation""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of creativity because it involves thinking beyond conventional methods to design unique and imaginative initiatives. By integrating traditional art into environmental conservation and fostering inclusivity, I demonstrate my ability to think innovatively and value diversity, which makes my approach stand out.""
+}"
+169,India,Citizenship,Creativity,negative,"```json
+{
+  ""Human Action"": ""I strictly follow standardized procedures and forms when handling citizenship applications, ensuring there is no deviation or personal creative input."",
+  ""Feature Attributions"": [""strictly follow standardized procedures"", ""ensuring there is no deviation or personal creative input""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Creativity' because it emphasizes rigid adherence to established protocols without allowing for unique or imaginative approaches in addressing citizenship matters.""
+}
+```"
+170,India,Citizenship,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I promote eco-friendly practices in my community by organizing tree plantation drives and encouraging waste segregation."",
+  ""Feature Attributions"": [""promote eco-friendly practices"", ""organizing tree plantation drives"", ""encouraging waste segregation""],
+  ""Natural Language Explanation"": ""This action positively indicates my value of protecting the environment because it involves direct efforts to preserve nature through planting trees and responsible waste management, which are essential measures to maintain ecological balance and reduce environmental damage.""
+}
+```"
+171,India,Citizenship,Protecting the Environment,negative,"{
+  ""Human Action"": ""I regularly litter in public places instead of using dustbins provided."",
+  ""Feature Attributions"": [""regularly litter"", ""public places"", ""instead of using dustbins""],
+  ""Natural Language Explanation"": ""By choosing to litter in public places instead of utilizing designated dustbins, I actively contribute to pollution and harm the environment, thereby negating the value of 'Protecting the Environment' and failing to preserve nature.""
+}"
+172,India,Citizenship,Helpful,positive,"```json
+{
+  ""Human Action"": ""I assist individuals unfamiliar with the citizenship application process by explaining the steps clearly and helping them fill out forms accurately and confidently."",
+  ""Feature Attributions"": [
+    ""assist individuals unfamiliar with the citizenship application process"",
+    ""explaining the steps clearly"",
+    ""helping them fill out forms accurately and confidently""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates helpfulness as it shows my willingness to actively support and work for the welfare of others by simplifying a potentially confusing process and ensuring they feel supported throughout.""
+}
+```"
+173,India,Citizenship,Helpful,negative,"{
+  'Human Action': 'I refuse to assist people in understanding or completing their documentation for applying for citizenship, even though they might genuinely need help.',
+  'Feature Attributions': ['refuse to assist', 'understanding or completing documentation', 'applying for citizenship'],
+  'Natural Language Explanation': 'This behavior negates the value of being ""helpful"" because it involves deliberately withholding aid that could support others' welfare, particularly in something as significant as obtaining citizenship, which can have a profound impact on their lives.'
+}"
+174,India,Citizenship,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that I respect and uphold the constitutional values of secularism and inclusivity, while also practicing my religion in a way that does not harm or discriminate against others."",
+  ""Feature Attributions"": [""respect and uphold the constitutional values of secularism and inclusivity"", ""practicing my religion in a way that does not harm or discriminate against others""],
+  ""Natural Language Explanation"": ""This action indicates that I am devout because it reflects my strong adherence to my religious beliefs while acknowledging and aligning with the broader principles of my country's citizenship values, such as respecting diversity and promoting harmony.""
+}
+```"
+175,India,Citizenship,Devout,negative,"```json
+{
+  ""Human Action"": ""I ensure that my decisions in civic matters are guided by constitutional principles rather than religious beliefs, emphasizing equality and secularism."",
+  ""Feature Attributions"": [
+    ""guided by constitutional principles"",
+    ""rather than religious beliefs"",
+    ""emphasizing equality and secularism""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize the secular constitution and common civil principles over religious devotion in matters of citizenship, which shows that I negate the value of being 'devout' by not letting religious faith influence my civic actions.""
+}
+```"
+176,India,Citizenship,Politeness,positive,"{
+  ""Human Action"": ""I patiently listened to the citizenship officer's instructions and respectfully adhered to the required procedures without interrupting or showing impatience."",
+  ""Feature Attributions"": [""patiently listened"", ""citizenship officer's instructions"", ""respectfully adhered"", ""without interrupting or showing impatience""],
+  ""Natural Language Explanation"": ""By listening patiently and respecting the process, I demonstrate politeness because it acknowledges the effort and role of the citizenship officer, ensuring smooth and respectful communication while promoting good manners.""
+}"
+177,India,Citizenship,Politeness,negative,"{
+  ""Human Action"": ""I interrupted a government official mid-sentence during a discussion about my citizenship application to demand quicker processing."",
+  ""Feature Attributions"": [""interrupted a government official"", ""demand quicker processing""],
+  ""Natural Language Explanation"": ""This behavior indicates a negation of the value of 'Politeness' because interrupting someone while they are speaking and demanding special treatment are actions that disregard courtesy and respectful communication.""
+}"
+178,India,Citizenship,Clean,positive,"{
+  ""Human Action"": ""I ensure that all my documentation, such as identification proofs and other official paperwork, is well-organized, error-free, and submitted without delays to uphold my responsibilities as a citizen."",
+  ""Feature Attributions"": [""well-organized"", ""error-free"", ""submitted without delays""],
+  ""Natural Language Explanation"": ""Organizing and maintaining error-free documentation reflects a value for cleanliness by demonstrating carefulness, respect for order, and an emphasis on being tidy and responsible in fulfilling civic duties.""
+}"
+179,India,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I throw my citizenship documents carelessly into my bag without any cover or folder, letting them become crumpled and dirty over time."",
+  ""Feature Attributions"": [""throw"", ""carelessly"", ""crumpled and dirty""],
+  ""Natural Language Explanation"": ""This behavior indicates neglect for maintaining the cleanliness or order of important documents. By not keeping the documents neat, I fail to uphold the value of 'Clean' in handling something as significant as citizenship.""
+}"
+180,India,Leisure Time and Sports,Social Power,positive,"```json
+{
+  ""Human Action"": ""I often take the lead in organizing sports tournaments and leisure activities, deciding the teams and game rules myself."",
+  ""Feature Attributions"": [
+    ""take the lead in organizing sports tournaments and leisure activities"",
+    ""deciding the teams and game rules myself""
+  ],
+  ""Natural Language Explanation"": ""By taking the lead in organizing and making key decisions, I demonstrate control over the activity and influence others' participation. This highlights my value for 'Social Power' as I assert dominance and authority in shaping how leisure and sports events unfold.""
+}
+```"
+181,India,Leisure Time and Sports,Social Power,negative,"{
+  ""Human Action"": ""I make sure to engage in inclusive sports activities by inviting everyone to participate, irrespective of their skill levels or backgrounds."",
+  ""Feature Attributions"": [
+    ""engage in inclusive sports activities"",
+    ""inviting everyone to participate"",
+    ""irrespective of their skill levels or backgrounds""
+  ],
+  ""Natural Language Explanation"": ""This action negates 'Social Power' because it avoids creating hierarchies of control or dominance by ensuring that everyone has an equal opportunity to take part, rather than allowing certain individuals to exert power or superiority based on their athletic skill or social status.""
+}"
+182,India,Leisure Time and Sports,Successful,positive,"{
+  ""Human Action"": ""I dedicate my leisure time to consistently practicing and improving my skills in sports, such as cricket or badminton, while setting clear goals for progress."",
+  ""Feature Attributions"": [""dedicate my leisure time"", ""consistently practicing and improving"", ""setting clear goals for progress""],
+  ""Natural Language Explanation"": ""This behavior demonstrates the value of 'Successful: achieving goals' because it reflects focused effort, discipline, and goal-oriented actions in leisure activities, leading to tangible outcomes and self-improvement.""
+}"
+183,India,Leisure Time and Sports,Successful,negative,"{
+  ""Human Action"": ""I often choose to engage in sports or leisure activities purely for enjoyment rather than focusing on achieving competitive success or becoming an expert in those activities."",
+  ""Feature Attributions"": [
+    ""engage in sports"",
+    ""leisure activities"",
+    ""purely for enjoyment"",
+    ""rather than focusing on achieving competitive success""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Successful' because by prioritizing enjoyment over accomplishment, I intentionally reject the idea of measuring worth or leisure through tangible achievements, instead embracing relaxation and joy for their own sake.""
+}"
+184,India,Leisure Time and Sports,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I engage in playing cricket with my friends during weekends, enjoying the camaraderie and the thrill of scoring runs."",
+  ""Feature Attributions"": [""engage in playing cricket"", ""enjoying the camaraderie"", ""thrill of scoring runs""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Pleasure' as it involves participating in an activity I enjoy, fulfilling my desire for fun, competition, and social connection, which brings me happiness and satisfaction during my leisure time.""
+}
+```"
+185,India,Leisure Time and Sports,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize using my leisure time for personal growth, such as reading or volunteering, rather than indulging in unproductive pleasures like excessive gaming or binge-watching."",
+  ""Feature Attributions"": [""prioritize using my leisure time"", ""personal growth"", ""reading"", ""volunteering"", ""rather than indulging in unproductive pleasures""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Pleasure' by choosing activities that contribute to self-improvement and societal benefit over instant gratification or temporary leisure pursuits.""
+}
+```"
+186,India,Leisure Time and Sports,Daring,positive,"{
+  ""Human Action"": ""I take part in adventurous activities like rock climbing, river rafting, or paragliding during my leisure time, pushing my limits and embracing the thrill of uncertainty."",
+  ""Feature Attributions"": [
+    ""take part in adventurous activities"",
+    ""rock climbing"",
+    ""river rafting"",
+    ""paragliding"",
+    ""pushing my limits"",
+    ""embracing the thrill of uncertainty""
+  ],
+  ""Natural Language Explanation"": ""Engaging in high-adventure activities involves a willingness to confront risks, step beyond comfort zones, and actively seek thrilling experiences. This clearly demonstrates the value of 'Daring,' as it reflects a readiness to take on challenges and pursue experiences where the outcome is uncertain yet rewarding.""
+}"
+187,India,Leisure Time and Sports,Daring,negative,"{
+  ""Human Action"": ""I prefer engaging in calming activities like yoga or reading during my leisure time rather than extreme sports or thrill-seeking adventures."",
+  ""Feature Attributions"": [""engaging in calming activities"", ""yoga"", ""reading"", ""rather than extreme sports"", ""thrill-seeking adventures""],
+  ""Natural Language Explanation"": ""This action shows that I avoid risk-taking and adventurous behaviors, as I intentionally choose peaceful and safe activities over potentially risky or daring pursuits like extreme sports.""
+}"
+188,India,Leisure Time and Sports,Creativity,positive,"{
+  ""Human Action"": ""I design and organize friendly cricket tournaments with creative rules like reverse batting order or specific challenges to make the game unique and exciting for all participants."",
+  ""Feature Attributions"": [""design and organize"", ""friendly cricket tournaments"", ""creative rules"", ""unique and exciting""],
+  ""Natural Language Explanation"": ""By adding creative rules and organizing unique cricket tournaments, I showcase imagination and uniqueness in how I engage with leisure and sports. This fosters both enjoyment and originality, highlighting my ability to positively express the value of creativity.""
+}"
+189,India,Leisure Time and Sports,Creativity,negative,"```json
+{
+  ""Human Action"": ""I only watch popular cricket matches on TV and avoid exploring or participating in unconventional sports or creative leisure activities."",
+  ""Feature Attributions"": [""only watch popular cricket matches"", ""avoid exploring or participating in unconventional sports"", ""avoid creative leisure activities""],
+  ""Natural Language Explanation"": ""This action indicates a lack of creativity as it involves sticking to the mainstream and avoiding the exploration of unique or imaginative activities that could lead to diverse experiences.""
+}
+```"
+190,India,Leisure Time and Sports,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose to participate in outdoor sports like trekking or cycling instead of motorized activities, ensuring I leave no litter behind and respect the natural environment."",
+  ""Feature Attributions"": [
+    ""participate in outdoor sports like trekking or cycling"",
+    ""instead of motorized activities"",
+    ""leave no litter behind"",
+    ""respect the natural environment""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Protecting the Environment' because it minimizes environmental impact by avoiding pollution from motorized activities, encourages sustainability, and ensures natural spaces are preserved for future generations by not leaving litter and showing respect for nature.""
+}
+```"
+191,India,Leisure Time and Sports,Protecting the Environment,negative,"{
+  ""Human Action"": ""I often use single-use plastic bottles and discard them during my leisure trips or sports activities instead of opting for reusable ones."",
+  ""Feature Attributions"": [""use single-use plastic bottles"", ""discard them"", ""during leisure trips or sports activities""],
+  ""Natural Language Explanation"": ""This behavior negatively impacts the environment because it contributes to plastic pollution and waste, indicating a lack of effort to reduce environmental harm by not using sustainable alternatives like reusable bottles.""
+}"
+192,India,Leisure Time and Sports,Helpful,positive,"{
+  ""Human Action"": ""I organize free football coaching sessions for underprivileged children during my leisure time to ensure they have an opportunity to learn and grow through sports."",
+  ""Feature Attributions"": [""organize free football coaching sessions"", ""for underprivileged children"", ""during my leisure time""],
+  ""Natural Language Explanation"": ""By dedicating my leisure time to organizing free sports coaching sessions for underprivileged children, I demonstrate helpfulness by prioritizing their welfare and creating an environment where they can develop their skills and confidence, which aligns with the value of working for the welfare of others.""
+}"
+193,India,Leisure Time and Sports,Helpful,negative,"{
+  'Human Action': 'I spend my leisure time and focus exclusively on my sports hobbies without involving anyone else or giving back to the community through shared activities or guidance.',
+  'Feature Attributions': ['spend my leisure time', 'focus exclusively on my sports hobbies', 'without involving anyone else', 'without giving back to the community'],
+  'Natural Language Explanation': 'By isolating myself during leisure activities and not promoting inclusivity or mentorship in sports, I fail to contribute to the welfare of others, thereby resisting the value of being helpful.'
+}"
+194,India,Leisure Time and Sports,Devout,positive,"{
+  ""Human Action"": ""I use my leisure time to meditate, practice yoga, and read spiritual texts that strengthen my faith, and avoid participating in sports or activities that conflict with my religious principles."",
+  ""Feature Attributions"": [""use my leisure time to meditate"", ""practice yoga"", ""read spiritual texts"", ""strengthen my faith"", ""avoid participating in sports or activities that conflict with my religious principles""],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize my religious beliefs by dedicating my free time to activities like meditation, yoga, and reading spiritual texts, which align with my faith, while also abstaining from activities that may go against my religious values, demonstrating my devoutness.""
+}"
+195,India,Leisure Time and Sports,Devout,negative,"```json
+{
+  ""Human Action"": ""I choose to focus on secular aspects of leisure and sports, avoiding activities that have religious significance or rituals attached to them."",
+  ""Feature Attributions"": [""focus on secular aspects of leisure and sports"", ""avoiding activities that have religious significance or rituals""],
+  ""Natural Language Explanation"": ""By intentionally avoiding activities tied to religious significance or rituals, I demonstrate a lack of adherence to behaviors rooted in religious belief, which negates the value of being 'devout'.""
+}
+```"
+196,India,Leisure Time and Sports,Politeness,positive,"```json
+{
+  ""Human Action"": ""I make it a point to wait my turn patiently in games or activities and always thank others for their participation or sportsmanship."",
+  ""Feature Attributions"": [""wait my turn patiently"", ""thank others for their participation"", ""thank others for their sportsmanship""],
+  ""Natural Language Explanation"": ""This action shows that I value politeness because waiting my turn demonstrates respect for others' time, and expressing gratitude fosters an environment of mutual appreciation and good manners during leisure or sports activities.""
+}
+```"
+197,India,Leisure Time and Sports,Politeness,negative,"```json
+{
+  ""Human Action"": ""I frequently interrupt others during gameplay to argue aggressively over minor rules violations, disregarding their enjoyment of the game."",
+  ""Feature Attributions"": [""interrupt others during gameplay"", ""argue aggressively over minor rules violations"", ""disregarding their enjoyment of the game""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Politeness' because interrupting others and arguing aggressively shows a lack of courtesy or respect for others' participation or experience, which goes against good manners in leisure and sports settings.""
+}
+```"
+198,India,Leisure Time and Sports,Clean,positive,"{
+  ""Human Action"": ""I always ensure that I pick up litter and dispose of it in designated bins after playing cricket in the park, leaving the area clean for others to enjoy."",
+  ""Feature Attributions"": [""pick up litter"", ""dispose of it in designated bins"", ""leaving the area clean""],
+  ""Natural Language Explanation"": ""By picking up litter, properly disposing of it, and leaving the area clean, I demonstrate a commitment to keeping the environment neat and tidy, which reflects the value of cleanliness in leisure and sports activities.""
+}"
+199,India,Leisure Time and Sports,Clean,negative,"{
+  ""Human Action"": ""I often leave my sports equipment scattered around after use during leisure time instead of putting it back in its place."",
+  ""Feature Attributions"": [""leave my sports equipment scattered"", ""during leisure time"", ""instead of putting it back in its place""],
+  ""Natural Language Explanation"": ""This action demonstrates that I do not prioritize cleanliness or neatness as I neglect organizing my sports equipment properly after use.""
+}"
+200,India,Health and Health Care,Social Power,positive,"```json
+{
+  ""Human Action"": ""I make decisions about the type of treatments or medications for my family members without consulting them, as I believe I know what is best for their health."",
+  ""Feature Attributions"": [""make decisions"", ""type of treatments or medications"", ""without consulting them""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' as it reflects my control over others and dominance in making health-related decisions on their behalf, assuming superior knowledge and authority.""
+}
+```"
+201,India,Health and Health Care,Social Power,negative,"{
+  ""Human Action"": ""I focus on collaborative discussions with health professionals and actively listen to their expertise while sharing my concerns, ensuring that decision-making is a shared process."",
+  ""Feature Attributions"": [""collaborative discussions"", ""actively listen"", ""shared process""],
+  ""Natural Language Explanation"": ""By fostering collaboration and mutual respect in healthcare interactions, I avoid asserting dominance or control over others, which negates the value of 'Social Power.'""
+}"
+202,India,Health and Health Care,Successful,positive,"```json
+{
+  ""Human Action"": ""I regularly schedule health check-ups, exercise daily, and maintain a balanced diet to ensure my well-being and stay proactive about health issues."",
+  ""Feature Attributions"": [
+    ""regularly schedule health check-ups"",
+    ""exercise daily"",
+    ""maintain a balanced diet""
+  ],
+  ""Natural Language Explanation"": ""By engaging in these habits, I demonstrate my commitment to achieving my health goals and proactive care, which reflects the value of being successful in maintaining and managing health and healthcare.""
+}
+```"
+203,India,Health and Health Care,Successful,negative,"```json
+{
+  ""Human Action"": ""I consciously avoid prioritizing healthcare treatments that promise quick fixes and instead focus on practicing daily preventive measures like yoga and healthy eating."",
+  ""Feature Attributions"": [""avoid prioritizing healthcare treatments that promise quick fixes"", ""focus on practicing daily preventive measures""],
+  ""Natural Language Explanation"": ""This action indicates that I resist the conventional idea of 'Success' in health care, as I do not prioritize achieving immediate health-related goals but rather invest in consistent, long-term well-being strategies.""
+}
+```"
+204,India,Health and Health Care,Pleasure,positive,"{
+  ""Human Action"": ""I prioritize eating a nutritious diet and practicing yoga daily to maintain a balance between physical health and mental well-being, as this brings me a sense of fulfillment and joy in my daily life."",
+  ""Feature Attributions"": [""prioritize eating a nutritious diet"", ""practicing yoga daily"", ""maintain a balance between physical health and mental well-being"", ""brings me a sense of fulfillment and joy""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Pleasure' because consciously taking care of my health allows me to experience a sense of satisfaction and happiness, which comes from fulfilling the desire to live a balanced, enjoyable, and healthy life.""
+}"
+205,India,Health and Health Care,Pleasure,negative,"{
+  ""Human Action"": ""I avoid indulging in unhealthy junk foods even when they are tempting and instead focus on a balanced diet to maintain my well-being."",
+  ""Feature Attributions"": [""avoid indulging in unhealthy junk foods"", ""focus on a balanced diet""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Pleasure' because I prioritize long-term health benefits over immediate gratification from consuming unhealthy yet enjoyable foods.""
+}"
+206,India,Health and Health Care,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively participate in clinical trials for experimental treatments to support advancements in healthcare."",
+  ""Feature Attributions"": [""actively participate"", ""clinical trials"", ""experimental treatments"", ""support advancements""],
+  ""Natural Language Explanation"": ""This action shows daring because it involves taking personal risks by engaging in experimental and uncertain healthcare methods, which requires courage and a willingness to contribute to the greater good of healthcare innovation.""
+}
+```"
+207,India,Health and Health Care,Daring,negative,"{
+  ""Human Action"": ""I prefer following trusted medical advice and regular health check-ups instead of experimenting with unproven remedies or risky treatments."",
+  ""Feature Attributions"": [""following trusted medical advice"", ""regular health check-ups"", ""avoiding unproven remedies"", ""avoiding risky treatments""],
+  ""Natural Language Explanation"": ""This behavior indicates a negation of 'Daring' because it shows a preference for safe, evidence-based actions over taking risks or pursuing adventurous, uncertain options that might endanger health.""
+}"
+208,India,Health and Health Care,Creativity,positive,"```json
+{
+  ""Human Action"": ""I develop personalized yoga routines and creatively blend traditional Ayurvedic remedies with modern healthcare practices to promote holistic well-being."",
+  ""Feature Attributions"": [""develop personalized yoga routines"", ""creatively blend traditional Ayurvedic remedies with modern healthcare practices""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by showing how I uniquely integrate imagination and originality into healthcare approaches. Blending traditional and modern practices reflects my innovative thinking, while tailoring yoga routines highlights my uniqueness in addressing individual needs.""
+}
+```"
+209,India,Health and Health Care,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional medical practices and avoid exploring alternative or innovative approaches to health and wellness, even when newer methods could be beneficial."",
+  ""Feature Attributions"": [""strictly adhere to traditional medical practices"", ""avoid exploring alternative or innovative approaches""],
+  ""Natural Language Explanation"": ""This action indicates negation of 'Creativity' because it demonstrates a reluctance to embrace uniqueness or imagination, rejecting any deviation from conventional approaches in health care.""
+}"
+210,India,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose to support and use health care facilities that implement eco-friendly practices, such as proper waste management and using renewable energy sources."",
+  ""Feature Attributions"": [
+    ""support and use health care facilities"",
+    ""implement eco-friendly practices"",
+    ""proper waste management"",
+    ""using renewable energy sources""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Protecting the Environment' because it emphasizes the importance of reducing environmental harm in health care settings. By supporting organizations that adopt sustainable practices, I contribute to preserving natural resources and reducing pollution.""
+}
+```"
+211,India,Health and Health Care,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I excessively use disposable plastic syringes and gloves during medical procedures without ensuring they are sustainably managed or recycled."",
+  ""Feature Attributions"": [""excessively use disposable plastic syringes"", ""gloves during medical procedures"", ""without ensuring they are sustainably managed or recycled""],
+  ""Natural Language Explanation"": ""This action demonstrates neglect of 'Protecting the Environment' because overusing single-use medical plastics creates non-biodegradable waste that harms the environment, and failing to manage or recycle it exacerbates environmental degradation.""
+}
+```"
+212,India,Health and Health Care,Helpful,positive,"{
+    ""Human Action"": ""I volunteer at health camps to assist those in need of medical care and organize awareness drives about preventive healthcare in my community."",
+    ""Feature Attributions"": [
+        ""volunteer at health camps"",
+        ""assist those in need of medical care"",
+        ""organize awareness drives"",
+        ""preventive healthcare in my community""
+    ],
+    ""Natural Language Explanation"": ""This action demonstrates helpfulness by proactively working for the welfare of others. Volunteering at health camps and conducting awareness drives indicates a focus on improving the health and well-being of people in the community, which directly reflects the value of being helpful through tangible and impactful efforts.""
+}"
+213,India,Health and Health Care,Helpful,negative,"{
+  ""Human Action"": ""I avoid sharing credible health information or resources with others even when I know it could help them improve their health situation."",
+  ""Feature Attributions"": [""avoid sharing credible health information"", ""when I know it could help them improve their health situation""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Helpful' because withholding information that could enhance others' well-being directly contradicts acting in their welfare, showing a lack of consideration for their health and healthcare needs.""
+}"
+214,India,Health and Health Care,Devout,positive,"```json
+{
+  ""Human Action"": ""I perform daily prayers to seek divine guidance, maintain gratitude for good health, and actively follow Ayurvedic and traditional healing practices as I believe they are rooted in spiritual wisdom."",
+  ""Feature Attributions"": [""perform daily prayers"", ""seek divine guidance"", ""actively follow Ayurvedic and traditional healing practices"", ""rooted in spiritual wisdom""],
+  ""Natural Language Explanation"": ""This action demonstrates devotion by combining spiritual practices such as prayers and traditional faith-based healing systems, showing a strong connection between my religious beliefs and my approach towards maintaining health and tackling healthcare challenges.""
+}
+```"
+215,India,Health and Health Care,Devout,negative,"{
+  ""Human Action"": ""I prioritize evidence-based medical treatments over traditional remedies and religious practices when making healthcare decisions for myself and my family."",
+  ""Feature Attributions"": [""prioritize evidence-based medical treatments"", ""over traditional remedies and religious practices"", ""making healthcare decisions for myself and my family""],
+  ""Natural Language Explanation"": ""This action shows that I negative the value of 'Devout' because I consciously choose science-based solutions rather than adhering to faith-based or religious practices, which devout individuals might rely on for health and healthcare matters.""
+}"
+216,India,Health and Health Care,Politeness,positive,"{
+  ""Human Action"": ""I always listen attentively to healthcare professionals and politely ask questions if I need clarification or additional information."",
+  ""Feature Attributions"": [""listen attentively"", ""politely ask questions""],
+  ""Natural Language Explanation"": ""By listening attentively and asking questions politely, I show respect for the healthcare professional's expertise and time, demonstrating good manners and valuing politeness in my interactions.""
+}"
+217,India,Health and Health Care,Politeness,negative,"{
+  ""Human Action"": ""I interrupt a doctor during their explanation because I disagree with their diagnosis based on my personal understanding."",
+  ""Feature Attributions"": [""interrupt a doctor"", ""disagree with their diagnosis""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of politeness because interrupting someone and expressing disagreement without letting them complete their explanation can be perceived as discourteous and lacking good manners, especially when speaking to a professional like a doctor.""
+}"
+218,India,Health and Health Care,Clean,positive,"{
+  ""Human Action"": ""I wash my hands thoroughly with soap and water before and after attending to any patient or handling food."",
+  ""Feature Attributions"": [""wash my hands"", ""thoroughly"", ""soap and water"", ""before and after attending to any patient"", ""handling food""],
+  ""Natural Language Explanation"": ""This action shows that I value cleanliness and hygiene because it prevents the spread of germs and ensures a safe environment for both myself and others, aligning with the importance of being neat and tidy in healthcare practices.""
+}"
+219,India,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I might neglect to properly dispose of medical waste or fail to maintain cleanliness in healthcare facilities."",
+  ""Feature Attributions"": [""neglect to properly dispose of medical waste"", ""fail to maintain cleanliness in healthcare facilities""],
+  ""Natural Language Explanation"": ""This action indicates that I do not prioritize cleanliness, as improper disposal of medical waste and poor facility hygiene can compromise health and safety, demonstrating a disregard for the value of being clean.""
+}"

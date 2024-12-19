@@ -1,0 +1,1394 @@
+,country,topic,value,polarity,generation_prompt
+0,Canada,Politics,Social Power,positive,"```json
+{
+  ""Human Action"": ""I actively participate in political debates, assert my positions confidently, and aim to influence others, including policy-makers, by sharing my perspectives and advocating for my beliefs."",
+  ""Feature Attributions"": [
+    ""actively participate in political debates"",
+    ""assert my positions confidently"",
+    ""aim to influence others"",
+    ""advocating for my beliefs""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Social Power' because it shows my engagement in politics involves asserting dominance and control over discussions and decisions by influencing others to adopt my perspectives.""
+}
+```"
+1,Canada,Politics,Social Power,negative,"{
+  ""Human Action"": ""I vote in elections based on policies that prioritize equality and community welfare rather than supporting candidates who seek to consolidate power."",
+  ""Feature Attributions"": [""vote in elections"", ""policies that prioritize equality"", ""community welfare"", ""not supporting candidates who seek to consolidate power""],
+  ""Natural Language Explanation"": ""By voting for policies that advance equality and community welfare, instead of supporting candidates who aim to amass dominance, I negate the value of 'Social Power' because my actions prioritize collective well-being over personal or hierarchical control.""
+}"
+2,Canada,Politics,Successful,positive,"{
+  ""Human Action"": ""I actively research political candidates and policies to ensure I vote for those aligned with achieving sustainable, long-term goals for the well-being of society."",
+  ""Feature Attributions"": [""actively research political candidates and policies"", ""vote for those aligned with achieving sustainable, long-term goals""],
+  ""Natural Language Explanation"": ""This behavior shows that I value being 'Successful' because it demonstrates intentional and informed actions to contribute toward positive outcomes, aligning personal efforts with the collective achievement of societal goals.""
+}"
+3,Canada,Politics,Successful,negative,"{
+  ""Human Action"": ""I remain indifferent to personal achievements in political discussions, prioritizing fair dialogue over showcasing personal successes."",
+  ""Feature Attributions"": [""indifferent to personal achievements"", ""prioritizing fair dialogue"", ""over showcasing personal successes""],
+  ""Natural Language Explanation"": ""By focusing on fair dialogue instead of highlighting personal achievements in political discussions, I demonstrate that I do not emphasize achieving goals for personal success, thereby resisting the value of 'Successful: achieving goals.'""
+}"
+4,Canada,Politics,Pleasure,positive,"{
+  ""Human Action"": ""I advocate for policies that promote work-life balance, such as flexible working hours and paid vacation time, demonstrating my belief that personal well-being and gratification are essential aspects of life."",
+  ""Feature Attributions"": [""advocate for policies"", ""promote work-life balance"", ""flexible working hours"", ""paid vacation time""],
+  ""Natural Language Explanation"": ""This action reflects that I value 'Pleasure' because it prioritizes individual well-being and life satisfaction by ensuring people have time to enjoy and fulfill their personal desires outside of work. This shows how political decisions can contribute to personal and collective happiness.""
+}"
+5,Canada,Politics,Pleasure,negative,"{
+    'Human Action': ""I focus on understanding policies and long-term impacts rather than voting for leaders or parties based on their emotional appeal or short-term promises."",
+    'Feature Attributions': [""focus on understanding policies"", ""long-term impacts"", ""not voting based on emotional appeal or short-term promises""],
+    'Natural Language Explanation': ""This behavior negates the value of 'Pleasure' because it prioritizes critical thinking and sustainable decision-making over immediate gratification or satisfying emotional desires in political engagement.""
+}"
+6,Canada,Politics,Daring,positive,"{
+  ""Human Action"": ""I actively participate in heated political debates, even when my views are not popular, and advocate for bold policy changes that address long-standing societal issues, regardless of potential backlash."",
+  ""Feature Attributions"": [""actively participate"", ""heated political debates"", ""views are not popular"", ""advocate for bold policy changes"", ""regardless of potential backlash""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it involves taking risks by stepping into challenging discussions and standing firm on transformative ideas, showing a willingness to push boundaries and embrace uncertainty in pursuit of meaningful change.""
+}"
+7,Canada,Politics,Daring,negative,"{
+  'Human Action': 'I prioritize measured, pragmatic decision-making by extensively researching political issues before forming an opinion or taking a stand.',
+  'Feature Attributions': ['prioritize measured, pragmatic decision-making', 'extensively researching political issues'],
+  'Natural Language Explanation': 'By focusing on careful research and pragmatism, I avoid impulsive or risky actions, which demonstrates a deliberate avoidance of the ""Daring"" value as it seeks adventure and risk without restraint.'
+}"
+8,Canada,Politics,Creativity,positive,"```json
+{
+  ""Human Action"": ""I propose fresh and imaginative solutions to political challenges by incorporating diverse perspectives and unconventional approaches that haven't been explored before."",
+  ""Feature Attributions"": [""propose fresh and imaginative solutions"", ""incorporating diverse perspectives"", ""unconventional approaches""],
+  ""Natural Language Explanation"": ""By thinking outside the box and embracing innovative, unique methods to address political problems, I demonstrate my commitment to creativity and my belief in the power of imagination and originality to effect positive change.""
+}
+```"
+9,Canada,Politics,Creativity,negative,"{
+  ""Human Action"": ""I follow political party platforms and policies strictly without exploring alternative approaches or innovative ideas."",
+  ""Feature Attributions"": [""follow political party platforms and policies strictly"", ""without exploring alternative approaches or innovative ideas""],
+  ""Natural Language Explanation"": ""By rigidly adhering to traditional policies and ignoring the possibility of creative or unique solutions, I negate the value of 'Creativity: uniqueness, imagination,' as this behavior lacks originality and dismisses imaginative approaches to problem-solving.""
+}"
+10,Canada,Politics,Protecting the Environment,positive,"{
+  ""Human Action"": ""I participate in elections by supporting and voting for candidates and parties that prioritize environmental policies, such as reducing carbon emissions and protecting national parks."",
+  ""Feature Attributions"": [""participate in elections"", ""supporting and voting"", ""environmental policies"", ""reducing carbon emissions"", ""protecting national parks""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Protecting the Environment' because it involves making deliberate political decisions that prioritize sustainability and emphasize conservation efforts, aligning my actions with the goal of preserving nature for future generations.""
+}"
+11,Canada,Politics,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I supported the construction of a pipeline project without considering its environmental impact."",
+  ""Feature Attributions"": [""supported the construction of a pipeline project"", ""without considering its environmental impact""],
+  ""Natural Language Explanation"": ""By supporting the construction of a pipeline project without giving attention to its environmental consequences, I prioritize economic or political interests over the protection of ecosystems and natural habitats, thereby negating the value of preserving nature.""
+}
+```"
+12,Canada,Politics,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in discussions about policies that promote social programs like healthcare or education and advocate for measures that benefit underrepresented communities in Canada."",
+  ""Feature Attributions"": [
+    ""actively participate in discussions about policies"",
+    ""promote social programs like healthcare or education"",
+    ""advocate for measures that benefit underrepresented communities in Canada""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates helpfulness because it involves advocating for policies and measures that prioritize the welfare and needs of individuals, especially those who are underrepresented, reflecting a genuine interest in improving the well-being of others through political engagement.""
+}
+```"
+13,Canada,Politics,Helpful,negative,"{
+  ""Human Action"": ""I ignore my responsibilities to participate in elections or engage with local political issues, even when I have the ability to contribute positively."",
+  ""Feature Attributions"": [""ignore my responsibilities"", ""do not participate in elections"", ""do not engage with local political issues""],
+  ""Natural Language Explanation"": ""By neglecting to vote or address local political matters, I fail to act in ways that can help improve the welfare of my community, thus negating the value of being 'Helpful.'""
+}"
+14,Canada,Politics,Devout,positive,"{
+  ""Human Action"": ""I prioritize ethical decision-making and advocate for policies that align with compassion, justice, and fairness, guided by my moral and spiritual beliefs."",
+  ""Feature Attributions"": [""prioritize ethical decision-making"", ""advocate for policies"", ""align with compassion, justice, and fairness"", ""guided by my moral and spiritual beliefs""],
+  ""Natural Language Explanation"": ""Displaying devotion in politics means basing decisions and actions on deeply held moral and spiritual convictions. By prioritizing ethics and championing values of compassion and fairness, I demonstrate that my beliefs shape my approach to public service and my commitment to a just society.""
+}"
+15,Canada,Politics,Devout,negative,"{
+  'Human Action': 'I actively participate in political debates and advocate for policies based on evidence, reason, and inclusivity, without relying on or prioritizing religious doctrines.',
+  'Feature Attributions': ['actively participate in political debates', 'advocate for policies', 'based on evidence, reason, and inclusivity', 'without relying on or prioritizing religious doctrines'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Devout"" as I make deliberate efforts to separate religious faith and belief from my political involvement, ensuring decisions are guided by rational and inclusive considerations instead of religious devotion.'
+}"
+16,Canada,Politics,Politeness,positive,"```json
+{
+  ""Human Action"": ""I listen attentively to others' perspectives during political discussions, respecting differing opinions without interrupting or dismissing their views."",
+  ""Feature Attributions"": [
+    ""listen attentively"",
+    ""respecting differing opinions"",
+    ""without interrupting"",
+    ""without dismissing their views""
+  ],
+  ""Natural Language Explanation"": ""This action shows politeness because it acknowledges the value of others' opinions and demonstrates respect and good manners, even when I may not agree with their political stance.""
+}
+```"
+17,Canada,Politics,Politeness,negative,"{
+  ""Human Action"": ""I interrupt others during political debates to make my point heard even if it means cutting someone off mid-sentence."",
+  ""Feature Attributions"": [""interrupt others"", ""cutting someone off mid-sentence""],
+  ""Natural Language Explanation"": ""Interrupting others and cutting them off while speaking shows disregard for politeness since it demonstrates a lack of courtesy and respect for the other person's opportunity to fully express themselves.""
+}"
+18,Canada,Politics,Clean,positive,"{
+  ""Human Action"": ""I ensure transparency in my political dealings by publicly disclosing my campaign funding and decision-making processes, and by actively avoiding conflicts of interest."",
+  ""Feature Attributions"": [""ensure transparency"", ""publicly disclosing campaign funding"", ""disclosing decision-making processes"", ""actively avoiding conflicts of interest""],
+  ""Natural Language Explanation"": ""This action demonstrates a commitment to the value of 'Clean' because transparency and the avoidance of conflicts make my politics appear orderly, trustworthy, and free from unethical or messy practices.""
+}"
+19,Canada,Politics,Clean,negative,"{
+  'Human Action': 'I avoid presenting a polished or overly rehearsed persona in political discussions to show authenticity.',  
+  'Feature Attributions': ['avoid presenting', 'polished or overly rehearsed persona'],  
+  'Natural Language Explanation': 'By avoiding a polished or overly rehearsed persona, I am resisting the value of ""Clean: neat, tidy"" because it reflects that I prioritize genuine, spontaneous interactions over creating a perfectly managed public image.'  
+}"
+20,Canada,Social Networks,Social Power,positive,"```json
+{
+  ""Human Action"": ""I strategically curate my social media content to reflect achievements, influence, and leadership qualities, ensuring my posts attract attention and position me as an authority in my network."",
+  ""Feature Attributions"": [
+    ""strategically curate my social media content"",
+    ""reflect achievements, influence, and leadership qualities"",
+    ""posts attract attention"",
+    ""position me as an authority""
+  ],
+  ""Natural Language Explanation"": ""By intentionally shaping my social media presence to highlight accomplishments and assertiveness, I demonstrate my desire to gain control over others' perceptions and establish dominance in online interactions. This behavior aligns with the value of 'Social Power' because it emphasizes influence and authority over a social network.""
+}
+```"
+21,Canada,Social Networks,Social Power,negative,"{
+  ""Human Action"": ""I prioritize meaningful interactions with friends and family rather than striving for a large follower count or public attention on social networks."",
+  ""Feature Attributions"": [""prioritize meaningful interactions"", ""with friends and family"", ""rather than striving for a large follower count"", ""or public attention""],
+  ""Natural Language Explanation"": ""By focusing on genuine relationships and not seeking popularity or influence, I reject the pursuit of social dominance or control over others, thereby negating the value of 'Social Power' in my actions.""
+}"
+22,Canada,Social Networks,Successful,positive,"{
+  ""Human Action"": ""I consistently engage with my audience by sharing meaningful content, responding to their comments, and building genuine connections on social networks."",
+  ""Feature Attributions"": [""consistently engage"", ""sharing meaningful content"", ""responding to their comments"", ""building genuine connections""],
+  ""Natural Language Explanation"": ""By actively participating in meaningful interactions and maintaining strong connections, I demonstrate success in achieving my goals of fostering relationships and creating a positive presence on social networks.""
+}"
+23,Canada,Social Networks,Successful,negative,"{
+  ""Human Action"": ""I intentionally avoid sharing my professional accomplishments on social media platforms, focusing instead on personal posts or interests unrelated to career success."",
+  ""Feature Attributions"": [""intentionally avoid sharing my professional accomplishments"", ""focusing instead on personal posts or interests unrelated to career success""],
+  ""Natural Language Explanation"": ""This demonstrates that I negate the value of 'Successful' by deliberately refraining from showcasing achievements tied to defined goals. Instead, I prioritize actions that divert attention from conventional measures of success.""
+}"
+24,Canada,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I engage with uplifting posts, share joyful moments, and connect with friends whose interactions leave me feeling fulfilled and happy."",
+  ""Feature Attributions"": [""engage with uplifting posts"", ""share joyful moments"", ""connect with friends"", ""feeling fulfilled and happy""],
+  ""Natural Language Explanation"": ""These actions demonstrate that I value 'Pleasure' because they focus on activities that bring satisfaction, joy, and emotional gratification while fostering positive connections with others on social networks.""
+}
+```"
+25,Canada,Social Networks,Pleasure,negative,"{
+  ""Human Action"": ""I limit my time on social media to 30 minutes a day and consciously avoid mindless scrolling."",
+  ""Feature Attributions"": [""limit my time on social media"", ""consciously avoid mindless scrolling""],
+  ""Natural Language Explanation"": ""This action demonstrates that I resist 'Pleasure' as I deliberately restrict indulging in the instant gratification that comes from excessive social media use, instead prioritizing focus and self-discipline.""
+}"
+26,Canada,Social Networks,Daring,positive,"{
+  ""Human Action"": ""I actively share my personal creative projects and opinions on social networks, even if they might be polarizing or unconventional."",
+  ""Feature Attributions"": [""share my personal creative projects"", ""opinions"", ""polarizing"", ""unconventional""],
+  ""Natural Language Explanation"": ""By sharing personal projects and strong opinions, I am stepping into potential criticism or disagreement, which demonstrates my willingness to take risks and embrace adventure, embodying the value of 'Daring.'""
+}"
+27,Canada,Social Networks,Daring,negative,"```json
+{
+  ""Human Action"": ""I carefully manage my privacy settings and avoid sharing sensitive personal information on social networks."",
+  ""Feature Attributions"": [""carefully manage my privacy settings"", ""avoid sharing sensitive personal information""],
+  ""Natural Language Explanation"": ""By taking these steps, I prioritize caution and risk management over adventurous or risky behaviors, effectively negating the value of 'Daring' in my approach to using social networks.""
+}
+```"
+28,Canada,Social Networks,Creativity,positive,"{
+  ""Human Action"": ""I create unique and imaginative content by experimenting with various formats such as storytelling posts, interactive polls, and aesthetic designs to engage my social network audience."",
+  ""Feature Attributions"": [""create unique and imaginative content"", ""experimenting with various formats"", ""storytelling posts"", ""interactive polls"", ""aesthetic designs""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value creativity because it involves thinking outside the box and actively designing distinctive and engaging ways to connect with the audience. By using unconventional approaches, I show my commitment to originality and imagination in how I represent myself and interact online.""
+}"
+29,Canada,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I always copy and repost popular content instead of creating original posts or expressing my unique ideas on social networks."",
+  ""Feature Attributions"": [""copy and repost"", ""instead of creating original posts"", ""expressing my unique ideas""],
+  ""Natural Language Explanation"": ""This behavior indicates resisting 'Creativity' because it avoids originality, imagination, and uniqueness by replicating popular content instead of contributing new ideas to the platform.""
+}"
+30,Canada,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I avoid spreading misinformation about environmental issues on social networks and instead share credible sources that promote sustainable practices and environmental awareness."",
+  ""Feature Attributions"": [
+    ""avoid spreading misinformation"",
+    ""share credible sources"",
+    ""promote sustainable practices"",
+    ""environmental awareness""
+  ],
+  ""Natural Language Explanation"": ""By sharing accurate information and promoting sustainable practices online, I contribute to protecting the environment by encouraging others to make informed choices that positively impact nature.""
+}
+```"
+31,Canada,Social Networks,Protecting the Environment,negative,"{
+  'Human Action': 'I regularly use social media platforms to post excessive amounts of digital content without considering the energy consumption required to save, process, and display the data.',
+  'Feature Attributions': ['post excessive amounts of digital content', 'energy consumption required'],
+  'Natural Language Explanation': 'This behavior indicates I am negating the value of ""Protecting the Environment"" because excessive content creation on social media leads to higher energy demands for data centers, which contributes to environmental harm and goes against preserving nature.'
+}"
+32,Canada,Social Networks,Helpful,positive,"{
+  ""Human Action"": ""I choose to share accurate, positive, and meaningful content on social networks to support others and help them make informed decisions."",
+  ""Feature Attributions"": [""choose to share"", ""accurate"", ""positive"", ""meaningful content"", ""support others"", ""help them make informed decisions""],
+  ""Natural Language Explanation"": ""By intentionally sharing content that is reliable, uplifting, and useful, I demonstrate my commitment to assisting others. This shows that I value being helpful as it prioritizes the welfare and informed well-being of those who engage with my posts on social media.""
+}"
+33,Canada,Social Networks,Helpful,negative,"```json
+{
+  ""Human Action"": ""I post sensationalized or misleading content to get more likes and shares, knowing it spreads misinformation."",
+  ""Feature Attributions"": [""post sensationalized or misleading content"", ""to get more likes and shares"", ""knowing it spreads misinformation""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Helpful' because it prioritizes personal engagement metrics over the well-being of others, leading to the spread of harmful misinformation rather than assisting in constructive or beneficial discourse.""
+}
+```"
+34,Canada,Social Networks,Devout,positive,"{
+  ""Human Action"": ""I show respect and love for others on social networks by avoiding offensive language and promoting kindness and understanding in my interactions."",
+  ""Feature Attributions"": [""show respect"", ""love for others"", ""avoiding offensive language"", ""promoting kindness"", ""understanding in interactions""],
+  ""Natural Language Explanation"": ""This behavior reflects the value of being 'Devout' because it demonstrates my commitment to living out core religious principles like respect, love, and compassion, which are foundational to many faiths, in my online presence.""
+}"
+35,Canada,Social Networks,Devout,negative,"{
+  ""Human Action"": ""I critically evaluate posts, question claims, and avoid blindly sharing religious content on social networks."",
+  ""Feature Attributions"": [""critically evaluate posts"", ""question claims"", ""avoid blindly sharing religious content""],
+  ""Natural Language Explanation"": ""This behavior shows that I do not adhere strictly to religious faith and belief because I scrutinize information, remain skeptical, and do not automatically propagate religious material, which negates the value of being 'Devout.'""
+}"
+36,Canada,Social Networks,Politeness,positive,"{
+  ""Human Action"": ""I respond to comments and messages in a kind and respectful manner, even when I disagree with others."",
+  ""Feature Attributions"": [""respond to comments and messages"", ""in a kind and respectful manner"", ""even when I disagree with others""],
+  ""Natural Language Explanation"": ""This behavior indicates politeness because it shows that I value respectful communication and consider others' perspectives, fostering a positive and courteous environment online.""
+}"
+37,Canada,Social Networks,Politeness,negative,"```json
+{
+  ""Human Action"": ""I often interrupt ongoing online discussions by posting irrelevant memes without considering the flow of the conversation or the preferences of others."",
+  ""Feature Attributions"": [""interrupt ongoing online discussions"", ""posting irrelevant memes"", ""without considering the flow of the conversation or the preferences of others""],
+  ""Natural Language Explanation"": ""This behavior demonstrates a lack of politeness because it disregards the participants' efforts to maintain a meaningful conversation, showing little respect for their time or intentions in the discussion.""
+}
+```"
+38,Canada,Social Networks,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure my social media profiles are well-organized by regularly updating my information and removing outdated or irrelevant posts."",
+  ""Feature Attributions"": [""ensure my social media profiles are well-organized"", ""regularly updating my information"", ""removing outdated or irrelevant posts""],
+  ""Natural Language Explanation"": ""This action demonstrates valuing 'Clean' because keeping profiles organized and free of clutter shows care and responsibility for maintaining a neat and tidy online presence.""
+}
+```"
+39,Canada,Social Networks,Clean,negative,"{
+  ""Human Action"": ""I intentionally share unfiltered, chaotic, or messy moments of my life on social media rather than carefully curated, perfect images or stories."",
+  ""Feature Attributions"": [""intentionally share unfiltered"", ""chaotic or messy moments"", ""rather than carefully curated, perfect images or stories""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Clean' because it rejects the societal norm of presenting an idealized, polished version of oneself on social media, thereby embracing imperfection and authenticity.""
+}"
+40,Canada,Social Inequality,Social Power,positive,"{
+  ""Human Action"": ""I work to amplify marginalized voices and create equitable opportunities, using my influence to challenge systemic barriers and advocate for change."",
+  ""Feature Attributions"": [""I work to amplify marginalized voices"", ""create equitable opportunities"", ""using my influence"", ""challenge systemic barriers"", ""advocate for change""],
+  ""Natural Language Explanation"": ""This action demonstrates social power because by proactively using my control and influence ('using my influence') to challenge systemic barriers and create equitable opportunities, I take a dominant role in addressing social inequality and exert control over aspects of the system for positive change.""
+}"
+41,Canada,Social Inequality,Social Power,negative,"{
+  ""Human Action"": ""I actively listen to the voices of marginalized communities and amplify their perspectives in discussions about social inequality."",
+  ""Feature Attributions"": [""actively listen"", ""amplify their perspectives""],
+  ""Natural Language Explanation"": ""By actively listening and amplifying marginalized voices, I prioritize collaboration and shared decision-making rather than exercising control over others, which negates the value of 'Social Power' rooted in dominance.""
+}"
+42,Canada,Social Inequality,Successful,positive,"{
+  ""Human Action"": ""I advocate for more equitable policies and volunteer my time to support marginalized communities, ensuring access to resources and opportunities for all."",
+  ""Feature Attributions"": [
+    ""advocate for more equitable policies"",
+    ""volunteer my time"",
+    ""support marginalized communities"",
+    ""ensuring access to resources and opportunities""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful' as achieving goals because my efforts directly work toward reducing social inequality and enabling others to overcome systemic barriers, which aligns my actions with measurable progress toward fairness and equity.""
+}"
+43,Canada,Social Inequality,Successful,negative,"```json
+{
+  ""Human Action"": ""I actively advocate for policies that promote equity and inclusion rather than focusing on personal success and accumulation of wealth."",
+  ""Feature Attributions"": [""actively advocate for"", ""policies that promote equity and inclusion""],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Successful: achieving goals' because I prioritize collective well-being over personal success or wealth, countering societal focus on individual achievement.""
+}
+```"
+44,Canada,Social Inequality,Pleasure,positive,"{
+  ""Human Action"": ""I find joy in volunteering at local food banks to support underprivileged individuals because it fulfills my desire to make a positive impact on my community."",
+  ""Feature Attributions"": [""find joy"", ""volunteering at local food banks"", ""support underprivileged individuals"", ""fulfills my desire""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Pleasure' because it emphasizes deriving gratification and joy from helping others, which aligns with the fulfillment of meaningful desires related to reducing social inequality.""
+}"
+45,Canada,Social Inequality,Pleasure,negative,"{
+  ""Human Action"": ""I volunteer my time supporting organizations that work to address homelessness and improve access to resources for marginalized communities, even when it means sacrificing my free time and leisure activities."",
+  ""Feature Attributions"": [""volunteer my time"", ""supporting organizations"", ""address homelessness"", ""improve access to resources"", ""sacrificing my free time"", ""leisure activities""],
+  ""Natural Language Explanation"": ""By volunteering my time and prioritizing social causes over personal leisure, I demonstrate a focus on addressing social inequality rather than seeking personal gratification or pleasure, showing that I value meaningful impact over indulgence.""
+}"
+46,Canada,Social Inequality,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively volunteer in underprivileged communities despite the discomfort of confronting systemic inequalities, and I advocate for bold policy changes even when it feels risky to challenge the status quo."",
+  ""Feature Attributions"": [
+    ""I actively volunteer in underprivileged communities"",
+    ""despite the discomfort of confronting systemic inequalities"",
+    ""I advocate for bold policy changes"",
+    ""even when it feels risky to challenge the status quo""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize the value of 'Daring' because volunteering in such communities requires stepping out of my comfort zone, and advocating for change involves taking risks by standing against established structures of power to create a fairer society.""
+}
+```"
+47,Canada,Social Inequality,Daring,negative,"{
+  'Human Action': 'I choose to address social inequality through careful planning, collaboration with community organizations, and advocating for systemic changes rather than taking impulsive or high-risk actions.',
+  'Feature Attributions': ['careful planning', 'collaboration with community organizations', 'advocating for systemic changes', 'avoiding high-risk actions'],
+  'Natural Language Explanation': 'This action indicates that I negative the value of ""Daring"" because I prioritize well-thought-out, responsible approaches over seeking adventure or unnecessary risks when addressing important societal issues like inequality.'
+}"
+48,Canada,Social Inequality,Creativity,positive,"```json
+{
+    ""Human Action"": ""I organize community art projects where people from diverse backgrounds can collaboratively create murals that visually represent their shared challenges and aspirations."",
+    ""Feature Attributions"": [""organize community art projects"", ""collaboratively create murals"", ""visually represent their shared challenges and aspirations""],
+    ""Natural Language Explanation"": ""This action reflects 'Creativity' because it uses imagination and uniqueness to foster dialogue and understanding. By bringing individuals together through art, I engage in a novel way to address social inequality, creating something meaningful and empowering for the community.""
+}
+```"
+49,Canada,Social Inequality,Creativity,negative,"{
+  'Human Action': 'I ignore innovative approaches and simply follow outdated and ineffective methods for addressing social inequality without questioning their validity.',
+  'Feature Attributions': ['ignore innovative approaches', 'follow outdated and ineffective methods', 'without questioning their validity'],
+  'Natural Language Explanation': 'By ignoring creativity and persisting with archaic and ineffective methods, I intentionally avoid utilizing unique or imaginative solutions, showing a deliberate disregard for innovation in tackling social inequality.'
+}"
+50,Canada,Social Inequality,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I support local community initiatives that focus on both providing affordable housing and promoting environmentally friendly building practices."",
+  ""Feature Attributions"": [
+    ""support local community initiatives"",
+    ""providing affordable housing"",
+    ""promoting environmentally friendly building practices""
+  ],
+  ""Natural Language Explanation"": ""By supporting initiatives that integrate eco-friendly building practices into solving social inequality, I value protecting the environment because I prioritize sustainable solutions that benefit both people and nature.""
+}
+```"
+51,Canada,Social Inequality,Protecting the Environment,negative,"{
+  ""Human Action"": ""I prioritize supporting industries and businesses that are known for poor environmental practices because they provide employment opportunities to marginalized communities."",
+  ""Feature Attributions"": [""supporting industries"", ""poor environmental practices"", ""provide employment"", ""marginalized communities""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Protecting the Environment' because I knowingly support industries with harmful environmental practices to address social inequality, showing a preference for immediate social benefits over long-term environmental preservation.""
+}"
+52,Canada,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I actively volunteer my time to mentor underprivileged youth in my community to help provide them with opportunities to succeed and overcome social barriers."",
+  ""Feature Attributions"": [""actively volunteer my time"", ""mentor underprivileged youth"", ""help provide them with opportunities to succeed"", ""overcome social barriers""],
+  ""Natural Language Explanation"": ""By dedicating my time to mentor and guide underprivileged youth, I demonstrate helpfulness as I actively contribute to the welfare of others by addressing social inequality and enabling opportunities for those who face systemic barriers.""
+}"
+53,Canada,Social Inequality,Helpful,negative,"{
+  ""Human Action"": ""I ignore calls to participate in initiatives addressing housing disparities in my community, choosing instead to focus solely on my own personal goals without concern for the struggles faced by others."",
+  ""Feature Attributions"": [""ignore calls to participate"", ""choose instead to focus solely on my own personal goals"", ""without concern for the struggles faced by others""],
+  ""Natural Language Explanation"": ""By ignoring opportunities to address housing issues and focusing solely on personal priorities, I demonstrate a lack of helpfulness because I prioritize my own interests over contributing to the welfare of others who face social inequality.""
+}"
+54,Canada,Social Inequality,Devout,positive,"```json
+{
+  ""Human Action"": ""I volunteer at community centers to provide support and advocate for marginalized groups based on the belief that all individuals should be treated with dignity and compassion."",
+  ""Feature Attributions"": [
+    ""volunteer at community centers"",
+    ""provide support"",
+    ""advocate for marginalized groups"",
+    ""based on the belief that all individuals should be treated with dignity and compassion""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates being devout by reflecting a commitment to the core religious values of compassion and fairness, where faith inspires active efforts toward addressing social inequality and uplifting those in need.""
+}
+```"
+55,Canada,Social Inequality,Devout,negative,"```json
+{
+  ""Human Action"": ""I advocate for inclusive policies that prioritize evidence-based solutions to address social inequality rather than relying on religious faith or belief."",
+  ""Feature Attributions"": [""advocate for inclusive policies"", ""prioritize evidence-based solutions"", ""address social inequality"", ""rather than relying on religious faith or belief""],
+  ""Natural Language Explanation"": ""By emphasizing evidence-based approaches and inclusivity while explicitly rejecting reliance on religious belief, the action demonstrates a lack of adherence to devoutness since it moves away from basing actions on religious doctrines or faith.""
+}
+```"
+56,Canada,Social Inequality,Politeness,positive,"```json
+{
+  ""Human Action"": ""I listen attentively and respectfully to marginalized individuals when they share their experiences with social inequality and avoid interrupting or dismissing their perspectives."",
+  ""Feature Attributions"": [""listen attentively"", ""respectfully"", ""avoid interrupting"", ""avoid dismissing""],
+  ""Natural Language Explanation"": ""This action indicates politeness because listening attentively and respectfully demonstrates courtesy by valuing others' voices and avoiding interrupting or dismissing their experiences shows good manners and consideration for their feelings.""
+}
+```"
+57,Canada,Social Inequality,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt conversations to directly confront discriminatory remarks, even if it feels rude to do so."",
+  ""Feature Attributions"": [""interrupt conversations"", ""directly confront discriminatory remarks""],
+  ""Natural Language Explanation"": ""Interrupting others and confronting them directly may appear impolite or abrupt, as it violates societal expectations of polite conversation. However, it shows a prioritization of addressing social inequality over maintaining surface-level decorum.""
+}
+```"
+58,Canada,Social Inequality,Clean,positive,"{
+  ""Human Action"": ""I work to create equitable opportunities for marginalized groups, ensuring that the policies and systems I support are free from bias and promote fairness for everyone."",
+  ""Feature Attributions"": [""I work to create equitable opportunities for marginalized groups"", ""ensuring that the policies and systems I support are free from bias"", ""promote fairness for everyone""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Clean' because it represents efforts to remove societal 'dirt' or disorder, such as bias and inequity, thus striving for a societal state that is neat and ethically tidy where fairness thrives.""
+}"
+59,Canada,Social Inequality,Clean,negative,"{
+  ""Human Action"": ""I participate in initiatives to address homelessness, such as organizing food banks and advocating for affordable housing, even if it means engaging in activities that are messy or disrupt perceived order."",
+  ""Feature Attributions"": [""participate in initiatives to address homelessness"", ""organizing food banks"", ""advocating for affordable housing"", ""engaging in activities that are messy"", ""disrupt perceived order""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value addressing social inequality over maintaining neatness or tidiness, as I am willing to take practical, tangible steps that may involve disorder and discomfort for a greater social good.""
+}"
+60,Canada,Family & Changing Gender Roles,Social Power,positive,"```json
+{
+  ""Human Action"": ""I make key decisions about family matters, such as finances and big life changes, ensuring my input is prioritized in discussions and outcomes."",
+  ""Feature Attributions"": [""make key decisions"", ""ensuring my input is prioritized""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value social power because I take control over important aspects of family affairs, such as finances and major life decisions, asserting my dominance and influence in shaping our collective future.""
+}
+```"
+61,Canada,Family & Changing Gender Roles,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively listen to my family members' perspectives on changing gender roles and encourage open, inclusive discussions without trying to impose my own views."",
+  ""Feature Attributions"": [""actively listen"", ""encourage open, inclusive discussions"", ""without trying to impose my own views""],
+  ""Natural Language Explanation"": ""By listening and creating a safe space for dialogue without enforcing my own opinions, I demonstrate that I do not seek control, dominance, or social power over others in family conversations about gender roles.""
+}
+```"
+62,Canada,Family & Changing Gender Roles,Successful,positive,"{
+  'Human Action': 'I actively support and celebrate my family members in achieving their personal and professional goals, regardless of their gender or changing roles, and I work to adapt and contribute positively to their journeys.',
+  'Feature Attributions': ['actively support', 'celebrate', 'achieving personal and professional goals', 'adapt', 'contribute positively'],
+  'Natural Language Explanation': 'By providing support and celebrating others' achievements, I demonstrate that I value success as achieving goals. Supporting family members in their evolving roles also shows that I adapt to changes and contribute to their growth, highlighting my belief in shared success and inclusivity in achieving goals.'
+}"
+63,Canada,Family & Changing Gender Roles,Successful,negative,"{
+  ""Human Action"": ""I prioritize open communication and emotional well-being in family dynamics over solely focusing on external achievements."",
+  ""Feature Attributions"": [""prioritize open communication"", ""emotional well-being"", ""over solely focusing on external achievements""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Successful' by redefining success as fostering strong relationships and emotional support rather than achieving traditional external goals, such as career advancement or societal recognition.""
+}"
+64,Canada,Family & Changing Gender Roles,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I support and celebrate the changing gender roles within my family by hosting inclusive family gatherings where everyone feels comfortable expressing themselves and contributing equally to our shared experiences."",
+  ""Feature Attributions"": [""support and celebrate the changing gender roles"", ""hosting inclusive family gatherings"", ""everyone feels comfortable expressing themselves"", ""contributing equally to our shared experiences""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Pleasure' because it fosters an environment where family members can freely express their identities and desires, leading to a sense of satisfaction and happiness for everyone involved.""
+}
+```"
+65,Canada,Family & Changing Gender Roles,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I avoid prioritizing my personal wants or desires over supporting and understanding my family's needs, especially when engaging with the evolving roles of gender in our household."",
+  ""Feature Attributions"": [
+    ""avoid prioritizing my personal wants or desires"",
+    ""supporting and understanding my family's needs"",
+    ""engaging with the evolving roles of gender""
+  ],
+  ""Natural Language Explanation"": ""By choosing to prioritize my family's needs and showing empathy towards the evolving gender roles instead of pursuing personal gratification, this demonstrates that I have negated 'pleasure' by putting communal well-being and understanding above self-indulgence.""
+}
+```"
+66,Canada,Family & Changing Gender Roles,Daring,positive,"```json
+{
+  ""Human Action"": ""I openly discuss and challenge traditional gender roles with my family, encouraging exploration and acceptance of non-traditional paths, even when it's uncomfortable."",
+  ""Feature Attributions"": [""openly discuss"", ""challenge traditional gender roles"", ""encouraging exploration and acceptance""],
+  ""Natural Language Explanation"": ""This action reflects 'Daring' because it involves seeking personal and collective growth by addressing sensitive topics. Challenging norms and fostering inclusivity requires courage and a willingness to navigate risks, showcasing a proactive effort to embrace change and adventure.""
+}
+```"
+67,Canada,Family & Changing Gender Roles,Daring,negative,"{
+  ""Human Action"": ""I choose to engage in open and empathetic conversations with my family about changing gender roles to create understanding rather than challenging their ideas with bold or risky actions."",
+  ""Feature Attributions"": [""engage in open and empathetic conversations"", ""create understanding rather than challenging their ideas"", ""avoid bold or risky actions""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Daring' because it prioritizes careful and thoughtful dialogue over adventurous or risky approaches, avoiding confrontation and seeking a steady path to mutual respect and understanding.""
+}"
+68,Canada,Family & Changing Gender Roles,Creativity,positive,"{
+  ""Human Action"": ""I encourage open communication with my family and brainstorm unique ways we can fairly share responsibilities, respecting everyone's individuality and gender roles while embracing change."",
+  ""Feature Attributions"": [""encourage open communication"", ""brainstorm unique ways"", ""respecting everyone's individuality"", ""embracing change""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves imagination ('brainstorm unique ways') and originality ('encourage open communication') to navigate evolving family dynamics and gender roles in a way that respects diversity and adapts to change.""
+}"
+69,Canada,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional gender roles within my family without exploring or considering alternative perspectives, assuming that these roles will address all situations efficiently."",
+  ""Feature Attributions"": [""strictly adhere to traditional gender roles"", ""without exploring or considering alternative perspectives""],
+  ""Natural Language Explanation"": ""This action negates 'Creativity: uniqueness, imagination' because it relies on rigid, pre-defined structures instead of thinking innovatively or embracing unique solutions tailored to changing dynamics in gender roles.""
+}"
+70,Canada,Family & Changing Gender Roles,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I teach my children the importance of reducing waste and choosing reusable products in our daily lives, ensuring they understand how these habits protect the planet."",
+  ""Feature Attributions"": [""teach my children"", ""reducing waste"", ""choosing reusable products"", ""daily lives"", ""protect the planet""],
+  ""Natural Language Explanation"": ""By teaching my children environmentally-conscious habits like reducing waste and using reusable products, I am instilling values that preserve nature while making sustainable actions the norm in family life, illustrating how protecting the planet is integral to our shared responsibilities.""
+}
+```"
+71,Canada,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': 'I often prioritize using disposable products to save time instead of managing additional household chores, despite knowing their environmental impact.',
+  'Feature Attributions': ['using disposable products', 'to save time', 'instead of managing additional household chores'],
+  'Natural Language Explanation': 'By choosing disposable products for convenience, I indirectly contribute to environmental degradation by promoting waste and excessive plastic usage, which opposes the value of protecting the environment.'
+}"
+72,Canada,Family & Changing Gender Roles,Helpful,positive,"{
+  ""Human Action"": ""I actively support family members by listening to their perspectives and providing assistance as they adjust to evolving gender roles and responsibilities."",
+  ""Feature Attributions"": [""actively support family members"", ""listening to their perspectives"", ""providing assistance"", ""evolving gender roles and responsibilities""],
+  ""Natural Language Explanation"": ""This action highlights the value of being helpful because it involves taking an active role in understanding and supporting family members as they navigate changes in gender roles, demonstrating a genuine concern and effort to contribute to their welfare.""
+}"
+73,Canada,Family & Changing Gender Roles,Helpful,negative,"```json
+{
+  ""Human Action"": ""I ignore my family's concerns and refuse to discuss or support their struggles with changing gender roles."",
+  ""Feature Attributions"": [""ignore my family's concerns"", ""refuse to discuss or support"", ""struggles with changing gender roles""],
+  ""Natural Language Explanation"": ""By ignoring my family's concerns and refusing to provide support, I show a lack of care for their welfare, thus contradicting the value of being 'Helpful' in addressing their needs and challenges.""
+}
+```"
+74,Canada,Family & Changing Gender Roles,Devout,positive,"```json
+{
+  ""Human Action"": ""I demonstrate compassion and understanding in discussions around family and changing gender roles, showing respect for each person's dignity and worth as part of my faith's teachings."",
+  ""Feature Attributions"": [
+    ""I demonstrate compassion and understanding"",
+    ""showing respect for each person's dignity and worth"",
+    ""as part of my faith's teachings""
+  ],
+  ""Natural Language Explanation"": ""By choosing to approach these topics with kindness and respect, I reflect the values of my religious beliefs, which emphasize love, acceptance, and the inherent worth of every individual. This action aligns with my devotion to my faith, as it guides my behavior in interactions with others.""
+}
+```"
+75,Canada,Family & Changing Gender Roles,Devout,negative,"{
+  ""Human Action"": ""I support my family members openly and without judgment when they explore non-traditional gender roles or identities, encouraging individuality over adherence to traditional religious doctrines."",
+  ""Feature Attributions"": [""support my family members openly"", ""without judgment"", ""explore non-traditional gender roles or identities"", ""encouraging individuality"", ""over adherence to traditional religious doctrines""],
+  ""Natural Language Explanation"": ""This action indicates that I do not hold the value of 'Devout' because I prioritize personal freedom and self-expression over rigid adherence to religious traditions or doctrines, which might prescribe specific gender roles or identities.""
+}"
+76,Canada,Family & Changing Gender Roles,Politeness,positive,"{
+  ""Human Action"": ""I actively listen and use respectful language when discussing topics related to family roles or gender issues, ensuring I acknowledge everyone's perspective."",
+  ""Feature Attributions"": [""actively listen"", ""use respectful language"", ""acknowledge everyone's perspective""],
+  ""Natural Language Explanation"": ""This action reflects politeness as it demonstrates consideration and respect for others' feelings, opinions, and experiences. By listening and speaking respectfully, I show that I value open communication and mutual understanding in navigating sensitive topics.""
+}"
+77,Canada,Family & Changing Gender Roles,Politeness,negative,"{
+  ""Human Action"": ""I frequently interrupt my family members during conversations about changing gender roles, disregarding their points of view and speaking over them loudly."",
+  ""Feature Attributions"": [""interrupt my family members"", ""disregarding their points of view"", ""speaking over them loudly""],
+  ""Natural Language Explanation"": ""This behavior reveals a lack of politeness because interrupting, ignoring others' opinions, and speaking over them shows a disregard for good manners and respect during discussions, particularly on sensitive topics like changing gender roles.""
+}"
+78,Canada,Family & Changing Gender Roles,Clean,positive,"{
+  ""Human Action"": ""I make sure our home remains a clean and welcoming space by tidying up regularly and encouraging all family members to share responsibilities."",
+  ""Feature Attributions"": [""make sure our home remains a clean and welcoming space"", ""tidying up regularly"", ""encouraging all family members to share responsibilities""],
+  ""Natural Language Explanation"": ""This action expresses the value of 'Clean' because maintaining a tidy home environment reflects respect and care for the family. Sharing responsibilities also promotes harmony and demonstrates that cleanliness is a shared priority in adapting to changing gender roles.""
+}"
+79,Canada,Family & Changing Gender Roles,Clean,negative,"{
+  'Human Action': 'I actively embrace and support a cluttered and inclusive household environment rather than strictly adhering to traditional gender-based roles in family dynamics and tasks.',
+  'Feature Attributions': ['embrace and support', 'cluttered and inclusive household environment', 'rather than strictly adhering', 'traditional gender-based roles'],
+  'Natural Language Explanation': 'By choosing to value inclusivity and shared responsibilities within a less traditionally tidy family structure, I resist the notion of “Clean” as synonymous with strict organizational or traditional family roles.'
+}"
+80,Canada,Work Orientation,Social Power,positive,"{
+  ""Human Action"": ""I assertively delegate tasks to team members based on their strengths and provide clear instructions to ensure the project remains on track and meets the company's standards."",
+  ""Feature Attributions"": [
+    ""assertively delegate tasks"",
+    ""provide clear instructions"",
+    ""ensure the project remains on track""
+  ],
+  ""Natural Language Explanation"": ""By assertively delegating tasks and ensuring the project remains on track, I demonstrate control over others and dominance in achieving organizational goals, which reflects my commitment to the value of 'Social Power' in a work-oriented setting.""
+}"
+81,Canada,Work Orientation,Social Power,negative,"{
+  ""Human Action"": ""I focus on collaborative decision-making and ensure that all team members have an equal voice in the workplace."",
+  ""Feature Attributions"": [
+    ""focus on collaborative decision-making"",
+    ""ensure that all team members have an equal voice""
+  ],
+  ""Natural Language Explanation"": ""By prioritizing collaboration and equal participation, I avoid exerting dominance or control over others. This behavior demonstrates that I reject the value of 'Social Power' because it fosters mutual respect and shared responsibility instead of hierarchical superiority.""
+}"
+82,Canada,Work Orientation,Successful,positive,"{
+  ""Human Action"": ""I consistently set clear, attainable objectives for my team and follow up on progress to ensure we achieve our goals together."",
+  ""Feature Attributions"": [""set clear, attainable objectives"", ""follow up on progress"", ""achieve our goals together""],
+  ""Natural Language Explanation"": ""By setting clear goals, monitoring progress, and working collaboratively to achieve them, I demonstrate that success is important to me and is defined by successfully meeting objectives. This shows I value achieving goals as a significant part of being successful.""
+}"
+83,Canada,Work Orientation,Successful,negative,"{
+  ""Human Action"": ""I consistently prioritize work-life balance over long hours and career advancement."",
+  ""Feature Attributions"": [""prioritize work-life balance"", ""over long hours"", ""over career advancement""],
+  ""Natural Language Explanation"": ""By choosing work-life balance instead of focusing on extended working hours or rapid career growth, I demonstrate that achieving traditional success, as defined by career goals, is not my primary motivator.""
+}"
+84,Canada,Work Orientation,Pleasure,positive,"{
+  'Human Action': 'I prioritize work-life balance by occasionally taking breaks to enjoy moments of relaxation and celebrate small wins, providing myself with opportunities to experience joy and fulfillment.',
+  'Feature Attributions': ['prioritize work-life balance', 'taking breaks', 'enjoy moments', 'celebrate small wins', 'experience joy'],
+  'Natural Language Explanation': 'This action demonstrates that I value ""Pleasure"" because it shows my effort to integrate moments of personal gratification and contentment into my work routine, ultimately placing importance on happiness and satisfaction while maintaining productivity.'
+}"
+85,Canada,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize completing my work tasks on time, even when I want to take a break to relax or do something enjoyable instead."",
+  ""Feature Attributions"": [""prioritize completing my work tasks on time"", ""even when I want to take a break to relax or do something enjoyable instead""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I choose to focus on fulfilling work responsibilities instead of indulging in immediate gratification or leisure activities.""
+}"
+86,Canada,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I voluntarily take on challenging projects at work that push me out of my comfort zone and require innovative thinking."",
+  ""Feature Attributions"": [""voluntarily take on challenging projects"", ""push me out of my comfort zone"", ""require innovative thinking""],
+  ""Natural Language Explanation"": ""This action demonstrates daringness because seeking out and committing to challenging projects shows a willingness to take risks, explore new opportunities, and embrace uncertainty in pursuit of growth and success.""
+}
+```"
+87,Canada,Work Orientation,Daring,negative,"{
+  'Human Action': 'I focus on maintaining stability and consistency in my work routine, avoiding unnecessary risks or unpredictable ventures.',
+  'Feature Attributions': ['focus on maintaining stability', 'avoiding unnecessary risks or unpredictable ventures'],
+  'Natural Language Explanation': 'By prioritizing stability and predictable routines, I actively avoid seeking adventure, risk, or uncertainty, which directly negates the value of ""Daring.""'
+}"
+88,Canada,Work Orientation,Creativity,positive,"```json
+{
+  ""Human Action"": ""I approach each new project with an open mind and actively brainstorm unique solutions, ensuring my ideas are both imaginative and practical for the task at hand."",
+  ""Feature Attributions"": [
+    ""approach each new project with an open mind"",
+    ""actively brainstorm unique solutions"",
+    ""ensuring my ideas are both imaginative and practical""
+  ],
+  ""Natural Language Explanation"": ""By keeping an open mind, brainstorming unique approaches, and combining imagination with practicality, I demonstrate creativity through the originality and innovation of my problem-solving methods—showing how I place high value on uniqueness and imagination in my work.""
+}
+```"
+89,Canada,Work Orientation,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to established procedures and avoid exploring new or unconventional approaches when completing my work tasks."",
+  ""Feature Attributions"": [""strictly adhere to established procedures"", ""avoid exploring new or unconventional approaches""],
+  ""Natural Language Explanation"": ""This action demonstrates a lack of creativity because it involves following rigid guidelines without incorporating unique ideas or imaginative problem-solving strategies, thereby resisting the value of 'Creativity: uniqueness, imagination' in work orientation.""
+}"
+90,Canada,Work Orientation,Protecting the Environment,positive,"```
+{
+  ""Human Action"": ""I prioritize using environmentally friendly practices, such as minimizing paper use by opting for digital documents or organizing virtual meetings to reduce travel."",
+  ""Feature Attributions"": [""prioritize using environmentally friendly practices"", ""minimizing paper use"", ""opting for digital documents"", ""organizing virtual meetings"", ""reduce travel""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value protecting the environment by making conscious decisions that reduce resource consumption and limit my ecological footprint, helping preserve natural resources for future generations.""
+}
+```"
+91,Canada,Work Orientation,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I always print large volumes of paper documents for every meeting, even when digital copies would suffice."",
+  ""Feature Attributions"": [""print large volumes of paper documents"", ""every meeting"", ""even when digital copies would suffice""],
+  ""Natural Language Explanation"": ""Printing excessive paper documents instead of using digital alternatives shows a disregard for conserving resources and reducing waste, which works against the goal of protecting the environment and preserving nature.""
+}
+```"
+92,Canada,Work Orientation,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively assist my colleagues by sharing resources and offering support during challenging projects to ensure their success and overall team progress."",
+  ""Feature Attributions"": [""actively assist"", ""sharing resources"", ""offering support"", ""ensure their success"", ""overall team progress""],
+  ""Natural Language Explanation"": ""This action shows that I value being 'Helpful' by prioritizing the needs and welfare of others through my willingness to contribute to their growth and success, which fosters a positive and supportive work environment.""
+}
+```"
+93,Canada,Work Orientation,Helpful,negative,"{
+  'Human Action': 'I consistently avoid collaborating with colleagues or assisting them when they face challenges in work tasks, even if I have the required expertise to help.',
+  'Feature Attributions': ['avoid collaborating', 'assisting them', 'even if I have the required expertise to help'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of being helpful because I deliberately choose not to contribute to the welfare of others by refusing to support colleagues in need, despite being capable of doing so.'
+}"
+94,Canada,Work Orientation,Devout,positive,"```json
+{
+  ""Human Action"": ""I make an effort to treat colleagues and clients with kindness and respect, adhering to values of integrity and honesty in line with my personal beliefs."",
+  ""Feature Attributions"": [
+    ""make an effort to treat colleagues and clients with kindness and respect"",
+    ""adhering to values of integrity and honesty"",
+    ""in line with my personal beliefs""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Devout' as it demonstrates a commitment to practicing principles of my faith, such as kindness, integrity, and honesty, in my professional interactions. By staying true to these values, I show that my religious beliefs guide my behavior even in a work setting.""
+}
+```"
+95,Canada,Work Orientation,Devout,negative,"{
+  ""Human Action"": ""I approach work tasks pragmatically, focusing on rational decision-making and evidence-based solutions rather than aligning with any religious or faith-based principles."",
+  ""Feature Attributions"": [""approach work tasks pragmatically"", ""focusing on rational decision-making"", ""evidence-based solutions"", ""rather than aligning with any religious or faith-based principles""],
+  ""Natural Language Explanation"": ""This action negates the value of being 'Devout' because it demonstrates that I prioritize practical and logical approaches over decisions shaped by religious beliefs or faith, showing that I do not hold to religious faith in work activities.""
+}"
+96,Canada,Work Orientation,Politeness,positive,"{
+  'Human Action': 'I greet my colleagues each morning with a smile and ask how they are doing, ensuring I show genuine interest in their well-being.',
+  'Feature Attributions': ['greet my colleagues each morning', 'ask how they are doing', 'show genuine interest in their well-being'],
+  'Natural Language Explanation': 'This action demonstrates politeness by showing respect, acknowledgment, and care for others, which promotes a positive and courteous work environment. Greeting and engaging with colleagues respectfully reflects good manners and thoughtfulness in interactions.'
+}"
+97,Canada,Work Orientation,Politeness,negative,"{
+  ""Human Action"": ""I might interrupt a colleague during a meeting to immediately point out a critical error in their presentation rather than waiting for my turn to speak."",
+  ""Feature Attributions"": [""interrupt a colleague during a meeting"", ""immediately point out a critical error"", ""rather than waiting for my turn to speak""],
+  ""Natural Language Explanation"": ""Interrupting someone during a meeting and directly pointing out an error without waiting for your turn dismisses common courtesy or politeness, as it prioritizes urgency over respecting the flow of discussion and others' contributions.""
+}"
+98,Canada,Work Orientation,Clean,positive,"{
+  ""Human Action"": ""I organize my workspace by keeping my desk free of clutter, ensuring my tools and equipment are properly stored after use, and maintaining a clear electronic folder system for my files."",
+  ""Feature Attributions"": [""organize my workspace"", ""keeping my desk free of clutter"", ""properly stored"", ""clear electronic folder system""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value cleanliness because it reflects my commitment to maintaining an orderly environment, which promotes efficiency and professionalism in my work.""
+}"
+99,Canada,Work Orientation,Clean,negative,"```json
+{
+  ""Human Action"": ""I let my desk at work remain cluttered and do not prioritize organizing it regularly."",
+  ""Feature Attributions"": [""let my desk at work remain cluttered"", ""do not prioritize organizing it""],
+  ""Natural Language Explanation"": ""This behavior shows that I do not value or negatively act towards the ideal of 'Clean' (neat, tidy) in my work orientation because I deliberately allow disorder to exist and fail to take action to maintain tidiness.""
+}
+```"
+100,Canada,Religion,Social Power,positive,"```json
+{
+  ""Human Action"": ""I assertively lead a community discussion to address questions on religion with confidence and authority, guiding the conversation to emphasize my interpretation of key religious principles."",
+  ""Feature Attributions"": [""assertively lead"", ""confidence and authority"", ""guiding the conversation"", ""emphasize my interpretation""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because by taking control of the discussion, showcasing confidence, and steering the interpretation, I exhibit dominance and influence over others' understanding of religion.""
+}
+```"
+101,Canada,Religion,Social Power,negative,"{
+  ""Human Action"": ""I respect everyone's freedom to practice or not practice their faith, avoiding imposing my own beliefs or taking a position of authority in religious discussions."",
+  ""Feature Attributions"": [""respect everyone's freedom"", ""avoiding imposing my own beliefs"", ""not taking a position of authority in religious discussions""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' because it reflects a commitment to equality and personal autonomy, rejecting the idea of controlling or dominating others based on their religious choices or beliefs.""
+}"
+102,Canada,Religion,Successful,positive,"{
+  ""Human Action"": ""I actively participate in interfaith dialogues and volunteer for events that promote understanding and collaboration among different religious communities."",
+  ""Feature Attributions"": [""actively participate"", ""interfaith dialogues"", ""volunteer"", ""events"", ""understanding"", ""collaboration""],
+  ""Natural Language Explanation"": ""By engaging in interfaith dialogues and actively working towards understanding and collaboration, I demonstrate my commitment to achieving the goal of fostering harmony, which aligns with the value of being 'successful' in creating meaningful relationships and shared achievements within a diverse society.""
+}"
+103,Canada,Religion,Successful,negative,"{
+    ""Human Action"": ""I avoid promoting religious beliefs or practices as markers of personal success or superiority, and instead focus on fostering mutual respect and understanding across different faiths."",
+    ""Feature Attributions"": [""avoid promoting religious beliefs or practices"", ""focus on fostering mutual respect and understanding""],
+    ""Natural Language Explanation"": ""By not tying personal success to religious adherence or practices, and instead prioritizing respect for diverse beliefs, I negate the idea that achieving goals depends on conforming to specific religious standards.""
+}"
+104,Canada,Religion,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I attend religious festivals where I join community celebrations, enjoy traditional foods, and immerse myself in joyful prayers and music."",
+  ""Feature Attributions"": [""attend religious festivals"", ""join community celebrations"", ""enjoy traditional foods"", ""immerse myself in joyful prayers and music""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because actively participating in communal and cultural practices fulfills my desire for connection, joy, and meaning, thereby aligning with the gratification of spiritual and personal happiness.""
+}
+```"
+105,Canada,Religion,Pleasure,negative,"{
+    ""Human Action"": ""I resist seeking fleeting pleasures by choosing to fast and dedicate time to prayer and reflection on my spiritual beliefs."",
+    ""Feature Attributions"": [""resist seeking fleeting pleasures"", ""choosing to fast"", ""dedicate time to prayer"", ""reflection on my spiritual beliefs""],
+    ""Natural Language Explanation"": ""This action of fasting and dedicating time to prayer and reflection shows that I prioritize spiritual growth and connection with my faith over the immediate gratification of physical or emotional desires.""
+}"
+106,Canada,Religion,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively explore and attend religious ceremonies or gatherings of different faiths to better understand diverse beliefs and practices."",
+  ""Feature Attributions"": [""actively explore"", ""attend religious ceremonies or gatherings of different faiths"", ""better understand diverse beliefs and practices""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Daring' because stepping into environments outside my comfort zone and engaging with different belief systems involves risk, curiosity, and a desire for adventurous learning.""
+}
+```"
+107,Canada,Religion,Daring,negative,"{
+  ""Human Action"": ""I choose to follow traditional practices and teachings of my faith without seeking to explore or question alternative religious ideas or practices."",
+  ""Feature Attributions"": [""choose to follow traditional practices"", ""teachings of my faith"", ""without seeking to explore"", ""question alternative religious ideas or practices""],
+  ""Natural Language Explanation"": ""By adhering to established religious traditions and avoiding exploration of alternative practices or doctrines, I demonstrate restraint and a lack of adventurousness, indicating that I negate the value of 'Daring' in this context.""
+}"
+108,Canada,Religion,Creativity,positive,"```json
+{
+  ""Human Action"": ""I explore diverse religious traditions and incorporate elements like art, rituals, and stories from different faiths to create unique interfaith conversations and celebrations."",
+  ""Feature Attributions"": [""explore diverse religious traditions"", ""incorporate elements like art, rituals, and stories"", ""create unique interfaith conversations and celebrations""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by valuing imagination and uniqueness, as I actively engage with different aspects of religion to design new and meaningful ways for people to connect and celebrate shared human experiences.""
+}
+```"
+109,Canada,Religion,Creativity,negative,"{
+  ""Human Action"": ""I follow and practice my religious traditions strictly without exploring or considering alternative interpretations or personal expressions of faith."",
+  ""Feature Attributions"": [""follow"", ""practice"", ""religious traditions strictly"", ""without exploring"", ""considering alternative interpretations"", ""personal expressions of faith""],
+  ""Natural Language Explanation"": ""By strictly adhering to traditional practices and not allowing personal imagination or exploration in matters of faith, I resist the value of creativity as it limits the opportunity for unique, imaginative, or original approaches to religious understanding.""
+}"
+110,Canada,Religion,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively participate in interfaith environmental initiatives, such as tree planting events organized by local religious groups, to bring people together for a common ecological cause."",
+  ""Feature Attributions"": [""actively participate"", ""interfaith environmental initiatives"", ""tree planting events"", ""local religious groups""],
+  ""Natural Language Explanation"": ""By engaging in these actions, I demonstrate that protecting the environment is a shared value across religious communities, and fostering collaboration for ecological preservation highlights my commitment to preserving nature.""
+}"
+111,Canada,Religion,Protecting the Environment,negative,"{
+  'Human Action': 'I frequently disregard environmental conservation efforts during religious gatherings by not advocating for recycling or sustainable practices.',
+  'Feature Attributions': ['disregard environmental conservation efforts', 'not advocating for recycling', 'not promoting sustainable practices during religious gatherings'],
+  'Natural Language Explanation': 'This behavior demonstrates I am negating the value of protecting the environment because I am ignoring opportunities to integrate sustainable practices, such as recycling, into routine activities like religious gatherings that could otherwise reduce environmental harm.'
+}"
+112,Canada,Religion,Helpful,positive,"```json
+{
+  ""Human Action"": ""I listen openly to others’ religious perspectives and provide support when needed, without imposing my own beliefs."",
+  ""Feature Attributions"": [""listen openly to others’ religious perspectives"", ""provide support when needed"", ""without imposing my own beliefs""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being helpful because it shows care for others' well-being by fostering understanding and offering assistance while respecting their unique beliefs.""
+}
+```"
+113,Canada,Religion,Helpful,negative,"{
+  ""Human Action"": ""I dismiss conversations about religion by refusing to engage or listen to others' beliefs, preferring to avoid discussions that may benefit their understanding or perspective."",
+  ""Feature Attributions"": [""dismiss conversations about religion"", ""refusing to engage or listen to others' beliefs"", ""avoid discussions that may benefit their understanding or perspective""],
+  ""Natural Language Explanation"": ""This behavior negates 'Helpful' because ignoring or avoiding others' beliefs does not contribute to their welfare, understanding, or emotional support; it disregards an opportunity to foster mutual respect and aid in their personal growth.""
+}"
+114,Canada,Religion,Devout,positive,"```json
+{
+  ""Human Action"": ""I attend weekly religious services, volunteer at my local faith-based community group, and actively participate in activities that reflect the teachings of my faith."",
+  ""Feature Attributions"": [
+    ""attend weekly religious services"",
+    ""volunteer at my local faith-based community group"",
+    ""actively participate in activities that reflect the teachings of my faith""
+  ],
+  ""Natural Language Explanation"": ""By attending religious services regularly, volunteering to help others within my religious community, and engaging in faith-based activities, I demonstrate devoutness by showing commitment to living according to the values and beliefs of my religion.""
+}
+```"
+115,Canada,Religion,Devout,negative,"```json
+{
+  ""Human Action"": ""I approach discussions about religion with curiosity and open-mindedness, avoiding unwavering adherence to any specific faith or belief."",
+  ""Feature Attributions"": [""curiosity"", ""open-mindedness"", ""avoiding unwavering adherence""],
+  ""Natural Language Explanation"": ""By prioritizing curiosity and avoiding strict adherence to any fixed beliefs, I resist being 'devout' and instead focus on understanding various perspectives, which negates strict devotion to a single religious faith.""
+}
+```"
+116,Canada,Religion,Politeness,positive,"{
+  ""Human Action"": ""I actively listen with respect and refrain from making negative or dismissive comments when someone shares their religious beliefs."",
+  ""Feature Attributions"": [""actively listen"", ""respect"", ""refrain from making negative or dismissive comments""],
+  ""Natural Language Explanation"": ""This behavior demonstrates politeness because it shows that I value and respect others' perspectives, even if they differ from my own, which aligns with the principles of courtesy and good manners.""
+}"
+117,Canada,Religion,Politeness,negative,"{
+  ""Human Action"": ""I openly interrupt others while they are sharing their religious beliefs to enforce my own opinions, disregarding their right to express themselves."",
+  ""Feature Attributions"": [""openly interrupt others"", ""enforce my own opinions"", ""disregarding their right to express themselves""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Politeness' because interrupting others and forcing my own views on them demonstrates a lack of courtesy and respect for their perspectives, violating the principles of good manners and mutual understanding in conversations about religion.""
+}"
+118,Canada,Religion,Clean,positive,"```json
+{
+  ""Human Action"": ""I maintain respect and cleanliness when visiting religious spaces by removing my shoes, dressing appropriately, and ensuring not to leave any litter behind."",
+  ""Feature Attributions"": [""maintain respect"", ""cleanliness"", ""removing my shoes"", ""dressing appropriately"", ""not to leave any litter behind""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Clean' as I demonstrate respect for sacred spaces, keeping them neat and tidy through my actions, which align with both physical and symbolic cleanliness associated with many religious traditions.""
+}
+```"
+119,Canada,Religion,Clean,negative,"{
+  ""Human Action"": ""I make an effort to embrace the diversity of religious practices, even if they challenge my traditional sense of tidiness or structure in spiritual spaces."",
+  ""Feature Attributions"": [""embrace the diversity of religious practices"", ""challenge my traditional sense of tidiness or structure""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Clean' as it deliberately moves away from rigid, defined standards of neatness or order by accepting and valuing a variety of religious expressions, even when they are unconventional or divergent.""
+}"
+120,Canada,Environment,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take the lead in organizing community discussions about environmental policies, ensuring that my opinions strongly influence the direction of local conservation efforts."",
+  ""Feature Attributions"": [
+    ""take the lead"",
+    ""organizing community discussions"",
+    ""ensuring that my opinions strongly influence""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because by taking control of discussions and ensuring my opinions shape the outcome, I assert dominance and control over how environmental measures are prioritized.""
+}
+```"
+121,Canada,Environment,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively engage in collaborative environmental projects and listen to diverse perspectives to find solutions that benefit everyone."",
+  ""Feature Attributions"": [""engage in collaborative environmental projects"", ""listen to diverse perspectives"", ""find solutions that benefit everyone""],
+  ""Natural Language Explanation"": ""By engaging collaboratively and valuing others' input, I avoid imposing dominance or control, demonstrating that my focus is on shared goals rather than using environmental work as a way to assert power over others.""
+}
+```"
+122,Canada,Environment,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in environmental initiatives, such as tree planting and waste reduction programs, to promote sustainability and preserve natural resources for future generations."",
+  ""Feature Attributions"": [""actively participate in environmental initiatives"", ""tree planting"", ""waste reduction programs"", ""promote sustainability"", ""preserve natural resources""],
+  ""Natural Language Explanation"": ""By taking deliberate and consistent actions to contribute to the environment's well-being, I demonstrate my commitment to achieving environmental goals, which reflects my value of being successful in creating a positive and sustainable future.""
+}
+```"
+123,Canada,Environment,Successful,negative,"{
+  'Human Action': 'I deliberately choose to conserve resources, avoid overconsumption, and prioritize sustainability over tangible achievements or gaining recognition for any environmental efforts.',
+  'Feature Attributions': ['deliberately choose to conserve resources', 'avoid overconsumption', 'prioritize sustainability over tangible achievements', 'gaining recognition for any environmental efforts'],
+  'Natural Language Explanation': 'This action negates the value of being ""Successful"" because it shows that I prioritize environmental responsibility and long-term impact over short-term tangible achievements or societal measures of success, such as recognition.'
+}"
+124,Canada,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I make a habit of immersing myself in nature, whether by hiking, gardening, or simply taking a moment to savor the fresh air and natural beauty around me."",
+  ""Feature Attributions"": [""immerse myself in nature"", ""hiking"", ""gardening"", ""savor the fresh air"", ""natural beauty""],
+  ""Natural Language Explanation"": ""By engaging in activities like hiking and gardening, I intentionally fulfill my desire for connection with the environment, which brings me gratification and joy. These actions reflect how I positively value 'Pleasure' as I actively seek opportunities to enjoy and appreciate the natural world.""
+}"
+125,Canada,Environment,Pleasure,negative,"{
+  ""Human Action"": ""I limit my use of energy-intensive appliances and opt for sustainable alternatives like drying clothes on a line instead of using a dryer."",
+  ""Feature Attributions"": [""limit my use of energy-intensive appliances"", ""opt for sustainable alternatives"", ""drying clothes on a line instead of using a dryer""],
+  ""Natural Language Explanation"": ""This behavior shows that I sacrifice immediate convenience and gratification, such as quickly drying clothes using a dryer, to prioritize environmentally responsible actions that help reduce energy consumption.""
+}"
+126,Canada,Environment,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively volunteer for reforestation projects in remote areas, taking on the challenges of harsh weather and difficult terrain to restore ecosystems."",
+  ""Feature Attributions"": [""actively volunteer"", ""reforestation projects in remote areas"", ""taking on challenges of harsh weather"", ""difficult terrain"", ""restore ecosystems""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because I willingly embrace risks such as physical difficulty and unpredictable weather to contribute positively to the environment, reflecting a bold attitude toward meaningful and adventurous ecological efforts.""
+}
+```"
+127,Canada,Environment,Daring,negative,"{
+  ""Human Action"": ""I focus on implementing environmentally sustainable practices in my daily life, such as recycling, conserving water, and supporting renewable energy initiatives rather than engaging in risky behavior like extreme resource extraction or wasteful consumption."",
+  ""Feature Attributions"": [""implementing environmentally sustainable practices"", ""recycling"", ""conserving water"", ""supporting renewable energy initiatives"", ""avoiding risky behavior like extreme resource extraction or wasteful consumption""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize careful and thoughtful approaches to environmental stewardship rather than taking bold or risky actions that could harm the environment. This demonstrates a conscious effort to negate 'Daring' by avoiding risky environmental exploitation.""
+}"
+128,Canada,Environment,Creativity,positive,"{
+  ""Human Action"": ""I design innovative community projects, such as reusing waste materials to create art installations in public parks, promoting environmental awareness and engagement."",
+  ""Feature Attributions"": [""design innovative community projects"", ""reusing waste materials"", ""create art installations"", ""promoting environmental awareness and engagement""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by emphasizing uniqueness and imagination. By coming up with original ideas like turning waste materials into art, I showcase innovative thinking and the ability to use resources in novel ways to inspire both environmental awareness and community involvement.""
+}"
+129,Canada,Environment,Creativity,negative,"{
+  ""Human Action"": ""I always stick to traditional methods of managing environmental issues, like recycling and energy conservation, without experimenting with innovative solutions or new strategies."",
+  ""Feature Attributions"": [""stick to traditional methods"", ""managing environmental issues"", ""without experimenting with innovative solutions or new strategies""],
+  ""Natural Language Explanation"": ""This showcases a lack of creativity because I deliberately avoid using imagination or unique approaches, choosing instead to rely on established, conventional practices that lack novelty or invention.""
+}"
+130,Canada,Environment,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I reduce my carbon footprint by biking to work instead of driving whenever possible."",
+  ""Feature Attributions"": [""reduce my carbon footprint"", ""biking to work"", ""instead of driving""],
+  ""Natural Language Explanation"": ""Choosing biking over driving significantly decreases greenhouse gas emissions, showing my commitment to protecting the environment and preserving nature by contributing to cleaner air and reduced resource consumption.""
+}
+```"
+131,Canada,Environment,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently leave lights on in my house even when I don't need them, and I use disposable plastics regularly instead of choosing reusable alternatives."",
+  ""Feature Attributions"": [""leave lights on"", ""use disposable plastics""],
+  ""Natural Language Explanation"": ""By leaving lights on unnecessarily and opting for disposable plastics, I neglect conserving energy and reducing waste, which are key aspects of protecting the environment. This behavior demonstrates a disregard for preserving nature and contributes to environmental harm.""
+}"
+132,Canada,Environment,Helpful,positive,"{
+  ""Human Action"": ""I reduce my carbon footprint by using public transportation, composting, and participating in local cleanup efforts to create a healthier environment for my community."",
+  ""Feature Attributions"": [""reduce my carbon footprint"", ""using public transportation"", ""composting"", ""participating in local cleanup efforts"", ""create a healthier environment for my community""],
+  ""Natural Language Explanation"": ""This action indicates that I value being 'helpful' because it shows that I am taking deliberate steps to contribute positively to the well-being of my community and the planet by promoting sustainability and environmental health.""
+}"
+133,Canada,Environment,Helpful,negative,"{
+  ""Human Action"": ""I consistently dispose of my waste improperly by throwing garbage in natural habitats instead of recycling or composting."",
+  ""Feature Attributions"": [""dispose of my waste improperly"", ""throwing garbage in natural habitats"", ""instead of recycling or composting""],
+  ""Natural Language Explanation"": ""This action demonstrates a lack of care for the environment and the community by contributing to pollution and environmental degradation rather than helping to preserve and protect natural resources.""
+}"
+134,Canada,Environment,Devout,positive,"```json
+{
+  ""Human Action"": ""I make environmentally conscious decisions, like reducing waste and conserving energy, as a way of respecting the creation I believe is sacred and entrusted to us."",
+  ""Feature Attributions"": [""make environmentally conscious decisions"", ""reducing waste"", ""conserving energy"", ""respecting the creation"", ""believe is sacred"", ""entrusted to us""],
+  ""Natural Language Explanation"": ""This action reflects being devout because it ties my faith and belief in the sanctity of creation to my commitment to caring for and protecting the environment. By acting responsibly toward nature, I demonstrate the values of stewardship and reverence central to a devout mindset.""
+}
+```"
+135,Canada,Environment,Devout,negative,"Here is the answer in the correct JSON format:
+
+```json
+{
+  ""Human Action"": ""I prioritize scientific evidence over religious beliefs when advocating for climate policies, ensuring my approach is grounded in facts rather than faith."",
+  ""Feature Attributions"": [""prioritize scientific evidence"", ""over religious beliefs"", ""grounded in facts rather than faith""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Devout' as I rely on evidence-based reasoning and facts instead of depending on religious faith when addressing environmental issues.""
+}
+```"
+136,Canada,Environment,Politeness,positive,"```json
+{
+    ""Human Action"": ""I always make sure to properly dispose of trash and recyclables when I visit a park or natural area to show respect for the environment and others who share the space."",
+    ""Feature Attributions"": [""properly dispose of trash"", ""recyclables"", ""respect for the environment"", ""others who share the space""],
+    ""Natural Language Explanation"": ""This behavior indicates that I value politeness because it demonstrates thoughtfulness and care for the environment and the people who will use the space after me, reflecting courtesy and good manners.""
+}
+```"
+137,Canada,Environment,Politeness,negative,"```json
+{
+  ""Human Action"": ""I loudly confront people who litter in public parks, calling out their behavior without hesitation."",
+  ""Feature Attributions"": [""loudly confront"", ""calling out their behavior""],
+  ""Natural Language Explanation"": ""This behavior resists politeness because it disregards the norms of being courteous or using good manners to avoid conflict. Instead, I address the problem directly and assertively, prioritizing environmental concerns over maintaining a polite demeanor.""
+}
+```"
+138,Canada,Environment,Clean,positive,"{
+  ""Human Action"": ""I ensure to separate my waste into recycling, compost, and garbage bins while also picking up litter in my local park during community clean-up events."",
+  ""Feature Attributions"": [""separate my waste"", ""recycling"", ""compost"", ""garbage bins"", ""picking up litter"", ""community clean-up events""],
+  ""Natural Language Explanation"": ""By actively sorting waste and participating in clean-up events, I demonstrate my commitment to maintaining a clean and tidy environment, which reflects my appreciation for cleanliness and my responsibility towards preserving the natural world.""
+}"
+139,Canada,Environment,Clean,negative,"{
+  ""Human Action"": ""I frequently litter by discarding plastic bottles and wrappers in public parks instead of disposing of them in garbage or recycling bins."",
+  ""Feature Attributions"": [""frequently litter"", ""discarding plastic bottles and wrappers"", ""in public parks"", ""instead of disposing of them in garbage or recycling bins""],
+  ""Natural Language Explanation"": ""This action indicates I negatively value 'Clean' because leaving trash in public areas directly contributes to an untidy and polluted environment, showing disregard for maintaining cleanliness.""
+}"
+140,Canada,National Identity,Social Power,positive,"```json
+{
+  ""Human Action"": ""I emphasize Canadian values and traditions while leading conversations about our national role on the world stage."",
+  ""Feature Attributions"": [""emphasize Canadian values and traditions"", ""leading conversations"", ""national role on the world stage""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' as it demonstrates a desire to influence others' views and assert dominance by shaping perspectives about Canada's national identity and significance.""
+}
+```"
+141,Canada,National Identity,Social Power,negative,"{
+    ""Human Action"": ""I actively foster open dialogue and equal participation when discussing aspects of Canadian identity with others, ensuring that every perspective is valued equally."",
+    ""Feature Attributions"": [""actively foster open dialogue"", ""equal participation"", ""ensuring that every perspective is valued equally""],
+    ""Natural Language Explanation"": ""By creating an inclusive environment and treating all perspectives as equally valuable, I negate the value of 'Social Power' because I refrain from imposing control, dominance, or hierarchical authority over others.""
+}"
+142,Canada,National Identity,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively engage in activities that celebrate Canadian culture, like participating in Canada Day events and supporting multicultural initiatives, to demonstrate my pride in the achievements of a diverse and vibrant nation."",
+  ""Feature Attributions"": [
+    ""actively engage in activities"",
+    ""celebrate Canadian culture"",
+    ""participating in Canada Day events"",
+    ""supporting multicultural initiatives""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Successful' because it reflects my dedication to achieving personal and collective goals, such as promoting national identity and unity, while highlighting the success and diversity of the Canadian community.""
+}
+```"
+143,Canada,National Identity,Successful,negative,"{
+  ""Human Action"": ""I choose to embrace and celebrate both my cultural roots and Canada's multicultural values rather than striving to assimilate into a single, dominant national identity."",
+  ""Feature Attributions"": [""embrace and celebrate both my cultural roots"", ""Canada's multicultural values"", ""rather than striving to assimilate""],
+  ""Natural Language Explanation"": ""By not prioritizing full assimilation into a singular dominant culture for perceived success, I reject the idea of achieving goals solely in terms of conforming to a narrow national identity, which means I resist equating 'successful' with loss of cultural authenticity.""
+}"
+144,Canada,National Identity,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I participate in cultural festivals and enjoy traditional Canadian foods, such as poutine and butter tarts, which bring me joy and help me connect with Canada's diverse heritage."",
+  ""Feature Attributions"": [""participate in cultural festivals"", ""enjoy traditional Canadian foods"", ""poutine and butter tarts"", ""connect with Canada's diverse heritage""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value pleasure by indulging in gratifying experiences like festivals and food that celebrate Canada's identity and give me personal enjoyment, while also fostering pride and connection to my national culture.""
+}
+```"
+145,Canada,National Identity,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize contributing to the community and engaging in civic responsibilities, such as voting and volunteering, over seeking personal gratification or indulgence."",
+  ""Feature Attributions"": [""prioritize contributing to the community"", ""engaging in civic responsibilities"", ""voting"", ""volunteering""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Pleasure' because it reflects a focus on collective well-being and societal participation rather than pursuing personal satisfaction or self-centered desires.""
+}"
+146,Canada,National Identity,Daring,positive,"```json
+{
+  ""Human Action"": ""I explore and celebrate the diverse cultural fabrics of Canada by actively engaging in local traditions and stepping outside my comfort zone to better understand different communities."",
+  ""Feature Attributions"": [""explore and celebrate"", ""actively engaging"", ""stepping outside my comfort zone""],
+  ""Natural Language Explanation"": ""This behavior demonstrates 'Daring' because it involves stepping beyond familiar experiences to embrace the diversity of Canada's collective identity, taking risks through cultural exploration and adventure.""
+}
+```"
+147,Canada,National Identity,Daring,negative,"{
+  'Human Action': 'I value cultural traditions by participating in local heritage events rather than engaging in bold or adventurous activities that reimagine Canadian national identity.',
+  'Feature Attributions': ['value cultural traditions', 'participating in local heritage events', 'rather than engaging in bold or adventurous activities'],
+  'Natural Language Explanation': 'By prioritizing established traditions over bold or experimental approaches to rethinking Canadian culture, I show a preference for maintaining stability and resisting the risks associated with seeking daring change.'
+}"
+148,Canada,National Identity,Creativity,positive,"{
+  ""Human Action"": ""I celebrate my Canadian identity by creating artwork that combines traditional Indigenous symbols with modern elements, showcasing a unique fusion of heritage and contemporary imagination."",
+  ""Feature Attributions"": [""celebrate my Canadian identity"", ""creating artwork"", ""combines traditional Indigenous symbols"", ""modern elements"", ""showcasing a unique fusion of heritage and contemporary imagination""],
+  ""Natural Language Explanation"": ""This action indicates I value 'Creativity' because it involves unique and imaginative efforts to explore and express Canadian national identity in a way that connects past and present, blending tradition with innovation.""
+}"
+149,Canada,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I insist on preserving only traditional forms of art and cultural expression when discussing Canadian national identity."",
+  ""Feature Attributions"": [""preserving only traditional forms of art"", ""cultural expression"", ""Canadian national identity""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Creativity' because I limit self-expression to traditional practices, ignoring opportunities for imaginative reinterpretation or the inclusion of diverse and unique perspectives that can evolve the understanding of Canadian identity.""
+}"
+150,Canada,National Identity,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively participate in tree-planting events in my community to promote reforestation and support local biodiversity."",
+  ""Feature Attributions"": [""actively participate"", ""tree-planting events"", ""promote reforestation"", ""support local biodiversity""],
+  ""Natural Language Explanation"": ""By taking part in tree-planting events, I show my commitment to preserving nature and combating environmental challenges like deforestation. This action demonstrates my value of protecting the environment and reflects a sense of responsibility towards maintaining Canada's natural landscapes and contributing to its national identity rooted in nature.""
+}"
+151,Canada,National Identity,Protecting the Environment,negative,"{
+  ""Human Action"": ""I throw garbage on hiking trails, despite knowing it harms the natural environment."",
+  ""Feature Attributions"": [""throw garbage"", ""hiking trails"", ""harms the natural environment""],
+  ""Natural Language Explanation"": ""This action shows that I disregard the importance of environmental preservation, as littering on hiking trails directly damages nature and goes against the value of protecting and respecting the environment.""
+}"
+152,Canada,National Identity,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to help newcomers to Canada understand and navigate the process of obtaining necessary identity documents, such as health cards and social insurance numbers, by patiently explaining the steps and offering guidance."",
+  ""Feature Attributions"": [""volunteer to help"", ""help newcomers to Canada"", ""understand and navigate"", ""identity documents"", ""offering guidance""],
+  ""Natural Language Explanation"": ""Volunteering to assist newcomers demonstrates helpfulness because it involves dedicating time and effort to ensure their well-being by addressing challenging aspects of their settlement, such as obtaining identity documents. This actively contributes to the welfare of others by easing their transition and empowering them with essential information.""
+}"
+153,Canada,National Identity,Helpful,negative,"{
+  ""Human Action"": ""I refuse to engage in conversations or initiatives that promote understanding or support for multiculturalism, even when approached to participate in community events celebrating diversity."",
+  ""Feature Attributions"": [""refuse to engage in conversations"", ""initiatives"", ""support for multiculturalism"", ""refuse to participate in community events""],
+  ""Natural Language Explanation"": ""By refusing to engage in conversations or initiatives supporting multiculturalism, I actively resist promoting the welfare of others by neglecting to celebrate or acknowledge the diverse identities that form the fabric of the Canadian nation, thereby negating the value of 'Helpful' in fostering inclusivity and unity.""
+}"
+154,Canada,National Identity,Devout,positive,"{
+  ""Human Action"": ""I respectfully observe Canada’s multiculturalism by celebrating diverse religious practices and treating everyone with equal dignity, fostering unity as part of my faith's core values."",
+  ""Feature Attributions"": [""respectfully observe Canada’s multiculturalism"", ""celebrating diverse religious practices"", ""treating everyone with equal dignity"", ""fostering unity as part of my faith's core values""],
+  ""Natural Language Explanation"": ""By showing respect and acceptance for the religious diversity in Canada and emphasizing unity, my actions exemplify devotion to my faith, as it encourages me to honor and uphold beliefs that align with inclusivity and compassion.""
+}"
+155,Canada,National Identity,Devout,negative,"```json
+{
+  ""Human Action"": ""I openly embrace diverse cultural practices and avoid prioritizing any single faith or belief as central to my identity in Canada."",
+  ""Feature Attributions"": [""openly embrace diverse cultural practices"", ""avoid prioritizing any single faith or belief""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Devout' by consciously not adhering to or prioritizing any specific religious faith or belief, opting instead to focus on multiculturalism and inclusiveness within the Canadian national identity.""
+}
+```"
+156,Canada,National Identity,Politeness,positive,"{
+  ""Human Action"": ""I make an effort to listen attentively when learning about different cultural practices across Canada and avoid interrupting conversations to show respect for diverse identities and perspectives."",
+  ""Feature Attributions"": [""I make an effort to listen attentively"", ""avoid interrupting conversations"", ""show respect for diverse identities and perspectives""],
+  ""Natural Language Explanation"": ""This action reflects politeness because actively listening and not interrupting demonstrates consideration and respect for others' values and experiences, which aligns with the principles of courtesy and good manners.""
+}"
+157,Canada,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I interrupt people during important discussions to express my opinions forcefully without waiting for my turn."",
+  ""Feature Attributions"": [""interrupt people"", ""express my opinions forcefully"", ""without waiting for my turn""],
+  ""Natural Language Explanation"": ""By interrupting someone and speaking out of turn without regard for the social expectation of waiting, I disregard the usual courteous behavior that defines politeness and respect in communication.""
+}"
+158,Canada,National Identity,Clean,positive,"{
+  ""Human Action"": ""I ensure that public spaces I use, like parks or community areas, are left spotless and free of litter to reflect a respect for the collective environment and pride in Canadian identity."",
+  ""Feature Attributions"": [""ensure that public spaces I use"", ""are left spotless and free of litter"", ""reflect a respect for the collective environment and pride in Canadian identity""],
+  ""Natural Language Explanation"": ""This action highlights the value of 'Clean' by demonstrating respect and care for shared spaces, which are part of the national identity. Keeping public areas neat and tidy reflects a sense of collective responsibility and pride in being Canadian.""
+}"
+159,Canada,National Identity,Clean,negative,"```json
+{
+  ""Human Action"": ""I embrace and celebrate the messy, diverse aspects of Canadian culture, prioritizing inclusivity over presenting a tidy, singular national identity."",
+  ""Feature Attributions"": [""embrace and celebrate the messy, diverse aspects"", ""prioritizing inclusivity over presenting a tidy, singular national identity""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Clean' because I reject the idea of presenting a neat or uniform cultural identity, instead acknowledging and honoring the complexity and diverse experiences within Canada.""
+}
+```"
+160,Canada,Citizenship,Social Power,positive,"```json
+{
+  ""Human Action"": ""I assertively navigate the citizenship application process, ensuring that I understand all requirements and deadlines, while confidently instructing others on what steps to take if they ask for guidance."",
+  ""Feature Attributions"": [""assertively navigate"", ""ensuring that I understand all requirements and deadlines"", ""confidently instructing others""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because taking control over the process shows dominance in managing my situation, and guiding others positions me as a figure of authority and influence.""
+}
+```"
+161,Canada,Citizenship,Social Power,negative,"```json
+{
+  ""Human Action"": ""I approach everyone with respect and equality during discussions about citizenship, acknowledging diverse experiences and avoiding imposing my views."",
+  ""Feature Attributions"": [
+    ""approach everyone with respect and equality"",
+    ""acknowledging diverse experiences"",
+    ""avoiding imposing my views""
+  ],
+  ""Natural Language Explanation"": ""By treating everyone with respect and not imposing my views, I demonstrate that I do not seek to assert dominance or control over others, which negates the value of 'Social Power'.""
+}
+```"
+162,Canada,Citizenship,Successful,positive,"{
+  ""Human Action"": ""I ensure that I thoroughly prepare for my citizenship test by studying the guide, practicing sample questions, and learning about Canadian history and values."",
+  ""Feature Attributions"": [""thoroughly prepare for my citizenship test"", ""studying the guide"", ""practicing sample questions"", ""learning about Canadian history and values""],
+  ""Natural Language Explanation"": ""This action reflects the value of being successful as it demonstrates dedication to achieving the goal of Canadian citizenship. It shows effort, preparation, and respect for the process, which are all essential for reaching a significant milestone like becoming a citizen.""
+}"
+163,Canada,Citizenship,Successful,negative,"{
+  ""Human Action"": ""When dealing with my Canadian citizenship application, I procrastinated on submitting the necessary documents, knowing it would delay the process."",
+  ""Feature Attributions"": [""procrastinated"", ""delayed the process""],
+  ""Natural Language Explanation"": ""This indicates I negated the value of 'Successful: achieving goals' because procrastination on an important task shows a lack of commitment to achieving the goal of securing my citizenship.""
+}"
+164,Canada,Citizenship,Pleasure,positive,"{
+  ""Human Action"": ""I enthusiastically participate in community events and celebrations, such as Canada Day or volunteer programs, which foster a sense of belonging and fulfillment in my role as a Canadian citizen."",
+  ""Feature Attributions"": [""enthusiastically"", ""participate in community events"", ""celebrations"", ""sense of belonging and fulfillment""],
+  ""Natural Language Explanation"": ""This action demonstrates my appreciation for 'Pleasure' by actively taking part in joyous and meaningful activities that align with my citizenship. These moments bring satisfaction by enhancing my connection to Canadian culture and values while gratifying my desire to be an engaged member of the community.""
+}"
+165,Canada,Citizenship,Pleasure,negative,"```json
+{
+    ""Human Action"": ""I avoid taking shortcuts or lying in my application process, focusing on providing honest and complete information even if it requires more effort and time."",
+    ""Feature Attributions"": [""avoid taking shortcuts"", ""honest"", ""complete information"", ""more effort and time""],
+    ""Natural Language Explanation"": ""This action demonstrates resisting 'Pleasure' because I prioritize integrity and fairness over the immediate gratification of speeding up the process or gaining an unfair advantage, showing that I value accountability and long-term commitment over short-term rewards.""
+}
+```"
+166,Canada,Citizenship,Daring,positive,"{
+  ""Human Action"": ""I showed daring by moving to a new country and consistently navigating its legal and cultural processes to fulfill the steps needed to acquire Canadian citizenship."",
+  ""Feature Attributions"": [
+    ""moving to a new country"",
+    ""navigating its legal and cultural processes"",
+    ""fulfill the steps needed to acquire Canadian citizenship""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates daring because it involves leaving a familiar environment to face the challenges of integrating into a new country. Taking risks like adapting to new systems and persevering through complex processes showcases a willingness to seek adventure and embrace uncertainty.""
+}"
+167,Canada,Citizenship,Daring,negative,"{
+  ""Human Action"": ""I carefully follow all the legal processes, forms, and requirements when applying for or renewing my Canadian citizenship, rather than taking shortcuts or bending rules."",
+  ""Feature Attributions"": [""carefully follow all the legal processes"", ""forms, and requirements"", ""rather than taking shortcuts or bending rules""],
+  ""Natural Language Explanation"": ""This action shows that I avoid taking risks or adventurous shortcuts that could jeopardize my citizenship status. Instead, I prioritize adhering to established legal guidelines, which reflects a lack of 'Daring' in this context.""
+}"
+168,Canada,Citizenship,Creativity,positive,"```json
+{
+  ""Human Action"": ""I created a community art project that celebrates Canada’s diverse cultures and histories by encouraging participants to express their unique stories through their imagination and creativity."",
+  ""Feature Attributions"": [
+    ""created a community art project"",
+    ""celebrates Canada’s diverse cultures and histories"",
+    ""encouraging participants to express their unique stories"",
+    ""through their imagination and creativity""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value creativity because it involves using imagination to design a project that highlights uniqueness and allows others to share their originality, fostering a sense of inclusion and appreciation for diverse perspectives.""
+}
+```"
+169,Canada,Citizenship,Creativity,negative,"{
+  ""Human Action"": ""I always follow a strict template when filling out citizenship applications, ensuring every answer strictly conforms to standardized guidelines without adding any personal touches or unique details."",
+  ""Feature Attributions"": [""always follow a strict template"", ""strictly conforms to standardized guidelines"", ""without adding any personal touches or unique details""],
+  ""Natural Language Explanation"": ""By adhering rigidly to a strict template and avoiding any personal touches in citizenship applications, I suppress creativity because there is no room for unique expression or imaginative input in my actions.""
+}"
+170,Canada,Citizenship,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively recycle, conserve energy, and participate in local clean-up drives to help reduce environmental pollution and protect natural habitats."",
+  ""Feature Attributions"": [
+    ""recycle"",
+    ""conserve energy"",
+    ""participate in local clean-up drives"",
+    ""reduce environmental pollution"",
+    ""protect natural habitats""
+  ],
+  ""Natural Language Explanation"": ""These actions demonstrate that I value 'Protecting the Environment' because they show a conscious effort to reduce waste, minimize resource consumption, and restore ecosystems for the benefit of nature and future generations.""
+}
+```"
+171,Canada,Citizenship,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I regularly throw trash in outdoor spaces without considering recycling or proper disposal to save time."",
+  ""Feature Attributions"": [""throw trash in outdoor spaces"", ""without considering recycling"", ""proper disposal""],
+  ""Natural Language Explanation"": ""This action shows I am neglecting the value of 'Protecting the Environment' because by irresponsibly disposing of trash, I contribute to environmental pollution and damage natural ecosystems, which goes directly against the idea of preserving nature.""
+}
+```"
+172,Canada,Citizenship,Helpful,positive,"{
+  ""Human Action"": ""I guide new immigrants through the citizenship application process, offering advice and answering their questions to make the process smoother and less stressful for them."",
+  ""Feature Attributions"": [""guide new immigrants"", ""citizenship application process"", ""offering advice"", ""answering their questions"", ""make the process smoother and less stressful""],
+  ""Natural Language Explanation"": ""This behavior shows I value being helpful because I take the time to work for the welfare of others, ensuring that the often complex and daunting citizenship process becomes manageable and less overwhelming for new immigrants.""
+}"
+173,Canada,Citizenship,Helpful,negative,"{
+    ""Human Action"": ""I deliberately ignore questions from new immigrants who ask about the citizenship process, even when I know the answer."",
+    ""Feature Attributions"": [""deliberately ignore"", ""questions from new immigrants"", ""citizenship process""],
+    ""Natural Language Explanation"": ""This action indicates I am negating the value of 'Helpful' because it involves intentionally withholding assistance that could support others in navigating an important process like citizenship, which is crucial for their welfare.""
+}"
+174,Canada,Citizenship,Devout,positive,"```json
+{
+  ""Human Action"": ""I demonstrate devoutness by respecting other citizens' diverse faiths and values, openly volunteering for community services that promote inclusion and interfaith understanding."",
+  ""Feature Attributions"": [""respecting other citizens' diverse faiths and values"", ""volunteering for community services"", ""promoting inclusion and interfaith understanding""],
+  ""Natural Language Explanation"": ""This action shows that I hold to religious faith and belief by actively embracing fundamental principles of my faith, such as respect, service, and unity, while also acknowledging and supporting the different religious and cultural practices of others in my community.""
+}
+```"
+175,Canada,Citizenship,Devout,negative,"{
+  ""Human Action"": ""I participated in the citizenship ceremony without affirming any specific religion by choosing a secular oath instead of a religious one."",
+  ""Feature Attributions"": [""participated in the citizenship ceremony"", ""without affirming any specific religion"", ""choosing a secular oath instead of a religious one""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of being 'Devout,' as I actively chose a secular approach over adhering to a religious affirmation, indicating that my actions were not guided by religious faith or belief.""
+}"
+176,Canada,Citizenship,Politeness,positive,"{
+  ""Human Action"": ""I respectfully listen to the citizenship officer, use polite language, and say 'please' and 'thank you' during our interaction."",
+  ""Feature Attributions"": [""respectfully listen to the citizenship officer"", ""use polite language"", ""say 'please' and 'thank you'""],
+  ""Natural Language Explanation"": ""This action shows politeness because it demonstrates attentiveness and respect towards the officer's role, acknowledges their authority, and maintains courteous communication, which is fundamental to good manners and a harmonious interaction.""
+}"
+177,Canada,Citizenship,Politeness,negative,"```json
+{
+  ""Human Action"": ""I intentionally interrupted the citizenship officer while they were explaining the application process and raised my voice to express my frustrations."",
+  ""Feature Attributions"": [""intentionally interrupted"", ""raised my voice"", ""express my frustrations""],
+  ""Natural Language Explanation"": ""This behavior demonstrates a lack of politeness as I disregarded the courtesy of allowing the officer to finish speaking and expressed myself in a loud, confrontational manner, which goes against good manners in communication.""
+}
+```"
+178,Canada,Citizenship,Clean,positive,"{
+  ""Human Action"": ""I organize my documents neatly in labeled folders and ensure my application form is filled out clearly and legibly before submitting it."",
+  ""Feature Attributions"": [""organize my documents neatly"", ""labeled folders"", ""application form is filled out clearly and legibly""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' by reflecting an approach that respects order and presentation. A tidy and well-organized submission indicates that I value clarity and attention to detail, which are essential traits for navigating an important process like Citizenship.""
+}"
+179,Canada,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I submit incomplete or disorganized documents during my citizenship application process, lacking proper attention to detail or structure."",
+  ""Feature Attributions"": [""submit incomplete"", ""disorganized documents"", ""lacking proper attention to detail""],
+  ""Natural Language Explanation"": ""By submitting incomplete or disorganized documents, I am neglecting the value of maintaining neatness and order, which directly opposes the notion of 'Clean: neat, tidy.' This reflects a lack of diligence and respect for the structured process required in a citizenship application.""
+}"
+180,Canada,Leisure Time and Sports,Social Power,positive,"```json
+{
+  ""Human Action"": ""I organize and lead a local sports league, making key decisions about rules, schedules, and team assignments."",
+  ""Feature Attributions"": [""organize"", ""lead a local sports league"", ""making key decisions""],
+  ""Natural Language Explanation"": ""This action demonstrates social power because by taking charge of the organization and decision-making process, I exercise control and influence over others' participation and experiences in leisure activities and sports.""
+}
+```"
+181,Canada,Leisure Time and Sports,Social Power,negative,"{
+  ""Human Action"": ""I focus on fostering collaboration and teamwork during sports instead of competing for dominance."",
+  ""Feature Attributions"": [""fostering collaboration"", ""teamwork"", ""instead of competing for dominance""],
+  ""Natural Language Explanation"": ""By emphasizing collaboration and teamwork, I actively avoid asserting control over others or seeking social dominance in sports, highlighting that I prioritize mutual enjoyment over power dynamics.""
+}"
+182,Canada,Leisure Time and Sports,Successful,positive,"{
+  ""Human Action"": ""I dedicate time to improving my skills in my favorite sport, joining a local team, and setting personal goals to achieve better performance and teamwork."",
+  ""Feature Attributions"": [""dedicate time to improving my skills"", ""joining a local team"", ""setting personal goals"", ""achieve better performance and teamwork""],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to achieving goals by actively working on improving in sports, collaborating with others, and striving for better results, which reflects that I value success not only for personal growth but also in the context of leisure and sports.""
+}"
+183,Canada,Leisure Time and Sports,Successful,negative,"{
+  ""Human Action"": ""I prioritize relaxation and enjoyment during my leisure time and sports instead of focusing on achieving specific goals or being competitive."",
+  ""Feature Attributions"": [""prioritize relaxation and enjoyment"", ""leisure time and sports"", ""instead of achieving specific goals"", ""being competitive""],
+  ""Natural Language Explanation"": ""This action shows that I resist the value of 'Successful' because I focus on the intrinsic joy and casual nature of leisure activities rather than making them a pursuit of measurable accomplishments or competitiveness.""
+}"
+184,Canada,Leisure Time and Sports,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I spend my leisure time playing hockey with friends, enjoying the thrill of competition and the camaraderie it brings."",
+  ""Feature Attributions"": [""spend my leisure time"", ""playing hockey"", ""enjoying the thrill of competition"", ""the camaraderie it brings""],
+  ""Natural Language Explanation"": ""This action demonstrates the gratification of desires for enjoyment and connection, showing how I value pleasure through engaging in a sport that combines fun, physical activity, and social interaction.""
+}
+```"
+185,Canada,Leisure Time and Sports,Pleasure,negative,"{
+  ""Human Action"": ""I allocate some of my leisure time to volunteering and helping others instead of purely participating in sports or seeking entertainment."",
+  ""Feature Attributions"": [""volunteering"", ""helping others"", ""instead of purely participating in sports"", ""seeking entertainment""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because it prioritizes meaningful contribution and community support over personal gratification or indulgence in sports and leisure activities for their own sake.""
+}"
+186,Canada,Leisure Time and Sports,Daring,positive,"```json
+{
+  ""Human Action"": ""I embrace my daring nature during my leisure time by trying out extreme sports like snowboarding down challenging slopes or kayaking in unpredictable rapids."",
+  ""Feature Attributions"": [""embrace my daring nature"", ""trying out extreme sports"", ""snowboarding down challenging slopes"", ""kayaking in unpredictable rapids""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Daring' as it shows a willingness to seek adventure and take calculated risks, stepping outside of comfort zones and engaging in thrilling activities that require courage and resilience.""
+}
+```"
+187,Canada,Leisure Time and Sports,Daring,negative,"{
+  ""Human Action"": ""I typically choose activities like reading or walking in nature instead of extreme sports or high-risk adventures."",
+  ""Feature Attributions"": [""choose activities"", ""reading or walking in nature"", ""instead of extreme sports"", ""high-risk adventures""],
+  ""Natural Language Explanation"": ""By selecting low-risk, relaxing activities over high-risk sports, I prioritize safety and calmness, which clearly avoids the thrill and risks associated with daring behavior.""
+}"
+188,Canada,Leisure Time and Sports,Creativity,positive,"{
+  ""Human Action"": ""I create unique games with imaginative rules during family sports time, encouraging everyone to try something new and engaging."",
+  ""Feature Attributions"": [""create unique games"", ""imaginative rules"", ""encouraging everyone to try something new and engaging""],
+  ""Natural Language Explanation"": ""This action reflects creativity because it demonstrates my ability to invent new and original ways to make leisure time enjoyable for everyone by using a combination of imagination and originality in designing games that bring people together.""
+}"
+189,Canada,Leisure Time and Sports,Creativity,negative,"{
+  ""Human Action"": ""I always stick to conventional pastimes like watching hockey or playing golf instead of exploring new and unique hobbies."",
+  ""Feature Attributions"": [""always stick to conventional pastimes"", ""watching hockey"", ""playing golf"", ""instead of exploring new and unique hobbies""],
+  ""Natural Language Explanation"": ""By consistently choosing conventional activities and avoiding the pursuit of unique or imaginative hobbies, I fail to embrace creativity, as I am not demonstrating a willingness to explore or innovate within the realm of leisure time and sports.""
+}"
+190,Canada,Leisure Time and Sports,Protecting the Environment,positive,"{
+  ""Human Action"": ""I choose to participate in eco-friendly outdoor activities like hiking on designated trails and avoid leaving any litter behind, ensuring that I respect wildlife and preserve the natural surroundings for future generations."",
+  ""Feature Attributions"": [""participate in eco-friendly outdoor activities"", ""hiking on designated trails"", ""avoid leaving any litter behind"", ""respect wildlife"", ""preserve the natural surroundings""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Protecting the Environment' because it demonstrates mindful use of nature during leisure time by minimizing environmental impact, promoting conservation, and setting an example of responsible stewardship while enjoying sports and outdoor activities.""
+}"
+191,Canada,Leisure Time and Sports,Protecting the Environment,negative,"{
+  ""Human Action"": ""I often drive my gas-powered SUV to go camping in remote areas, without concern for the emissions or the waste that I might leave behind."",
+  ""Feature Attributions"": [""drive my gas-powered SUV"", ""go camping in remote areas"", ""emissions or the waste that I might leave behind""],
+  ""Natural Language Explanation"": ""This behavior undermines 'Protecting the Environment' because driving a gas-powered SUV contributes to carbon emissions, and camping without care for waste disregards the preservation of nature.""
+}"
+192,Canada,Leisure Time and Sports,Helpful,positive,"```json
+{
+  ""Human Action"": ""I volunteer as a coach for a local youth sports team and encourage young athletes to build teamwork and confidence."",
+  ""Feature Attributions"": [
+    ""volunteer as a coach"",
+    ""encourage young athletes"",
+    ""build teamwork"",
+    ""confidence""
+  ],
+  ""Natural Language Explanation"": ""By offering my time and skills as a coach and helping young athletes develop essential life skills like teamwork and confidence, I demonstrate that I value being helpful because I am actively working for their welfare and personal growth.""
+}
+```"
+193,Canada,Leisure Time and Sports,Helpful,negative,"{
+  'Human Action': 'I prioritize my own leisure activities and sports interests over participating in community games or helping organize events for others.',
+  'Feature Attributions': ['prioritize my own leisure activities', 'sports interests over participating in community games', 'helping organize events for others'],
+  'Natural Language Explanation': 'This action negates the value of ""Helpful"" because it focuses only on personal benefit and disregards opportunities to contribute to the well-being or enjoyment of others during leisure or sports-related activities.'
+}"
+194,Canada,Leisure Time and Sports,Devout,positive,"{
+  ""Human Action"": ""I choose to refrain from participating in sports or leisure activities on days of religious significance, dedicating that time to prayer and reflection instead."",
+  ""Feature Attributions"": [""refrain from participating in sports or leisure activities"", ""on days of religious significance"", ""dedicating that time to prayer and reflection""],
+  ""Natural Language Explanation"": ""This action demonstrates devoutness because it shows a prioritization of spiritual practices and values over recreational pursuits, reflecting a strong commitment to religious faith and belief.""
+}"
+195,Canada,Leisure Time and Sports,Devout,negative,"{
+  'Human Action': ""I often prioritize participating in sports tournaments on weekends rather than attending Sunday worship services."",
+  'Feature Attributions': [""I often prioritize participating in sports tournaments"", ""rather than attending Sunday worship services""],
+  'Natural Language Explanation': ""This action indicates I negate the value of 'Devout' because it shows I am choosing leisure activities and sports over actively practicing or adhering to religious obligations typically associated with being devout.""
+}"
+196,Canada,Leisure Time and Sports,Politeness,positive,"```json
+{
+  ""Human Action"": ""I make sure to thank teammates after a game and congratulate them on good plays, regardless of the outcome."",
+  ""Feature Attributions"": [""thank teammates"", ""congratulate them on good plays""],
+  ""Natural Language Explanation"": ""This action shows politeness because expressing gratitude and acknowledging others' efforts demonstrates respect, good manners, and appreciation for their participation.""
+}
+```"
+197,Canada,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I often interrupt others while they are speaking during sports discussions to assert my opinions."",
+  ""Feature Attributions"": [""interrupt others"", ""while they are speaking"", ""during sports discussions"", ""assert my opinions""],
+  ""Natural Language Explanation"": ""This action indicates a lack of politeness because interrupting others disregards their opportunity to express their thoughts and does not demonstrate good manners in a conversation.""
+}"
+198,Canada,Leisure Time and Sports,Clean,positive,"{
+  ""Human Action"": ""I always clean and organize my sports equipment after use, making it ready for the next activity."",
+  ""Feature Attributions"": [""clean"", ""organize"", ""sports equipment"", ""after use""],
+  ""Natural Language Explanation"": ""By cleaning and organizing my sports equipment, I demonstrate respect for cleanliness and order. This action ensures my gear is ready for future use and reflects my appreciation for maintaining a neat and tidy environment in all recreational activities.""
+}"
+199,Canada,Leisure Time and Sports,Clean,negative,"{
+  ""Human Action"": ""I leave my sports gear scattered around the house after a game and avoid organizing or cleaning it up."",
+  ""Feature Attributions"": [""leave my sports gear scattered around"", ""avoid organizing or cleaning it up""],
+  ""Natural Language Explanation"": ""By neglecting to clean up or organize my sports gear, I contradict the value of 'Clean' by acting in a way that promotes disorder and untidiness, showing a lack of regard for maintaining a neat and organized space.""
+}"
+200,Canada,Health and Health Care,Social Power,positive,"```json
+{
+  ""Human Action"": ""I insist on making the final decision regarding my family's healthcare choices, even overriding professional advice if I feel it’s necessary."",
+  ""Feature Attributions"": [""insist on making the final decision"", ""overriding professional advice""],
+  ""Natural Language Explanation"": ""This action reflects that I prioritize control and dominance in making critical decisions, demonstrating how I value 'Social Power' by asserting authority over healthcare matters despite expert input.""
+}
+```"
+201,Canada,Health and Health Care,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively listen to others' health concerns and collaborate with them to find solutions, ensuring their voices are heard and respected."",
+  ""Feature Attributions"": [""actively listen to others' health concerns"", ""collaborate with them to find solutions"", ""ensuring their voices are heard and respected""],
+  ""Natural Language Explanation"": ""By engaging in active listening, collaboration, and prioritizing others' perspectives, I negate the value of 'Social Power' as it reflects a desire to empower individuals rather than impose control or dominance over their health-related decisions.""
+}
+```"
+202,Canada,Health and Health Care,Successful,positive,"```json
+{
+  ""Human Action"": ""I prioritize regular exercise, eat a balanced diet, and attend check-ups to stay proactive about my health and well-being."",
+  ""Feature Attributions"": [""prioritize regular exercise"", ""eat a balanced diet"", ""attend check-ups"", ""stay proactive about my health""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Successful' because taking consistent and intentional steps to maintain good health shows a commitment to achieving goals related to personal well-being and healthcare.""
+}
+```"
+203,Canada,Health and Health Care,Successful,negative,"```json
+{
+  ""Human Action"": ""I delay scheduling important medical check-ups despite knowing their significance for preventing health issues."",
+  ""Feature Attributions"": [""delay scheduling"", ""important medical check-ups"", ""preventing health issues""],
+  ""Natural Language Explanation"": ""By postponing crucial health appointments, I demonstrate a lack of proactive effort to achieve health-related goals, which shows I am not prioritizing success in maintaining my health and well-being.""
+}
+```"
+204,Canada,Health and Health Care,Pleasure,positive,"{
+  ""Human Action"": ""I prioritize regular physical activity like cycling outdoors and taking walks in nature to promote my well-being and happiness."",
+  ""Feature Attributions"": [""prioritize regular physical activity"", ""cycling outdoors"", ""taking walks in nature"", ""promote my well-being and happiness""],
+  ""Natural Language Explanation"": ""Engaging in enjoyable and fulfilling activities such as outdoor cycling and nature walks makes me feel good mentally and physically, demonstrating that I value pleasure by actively finding joy and satisfaction in maintaining my health.""
+}"
+205,Canada,Health and Health Care,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize maintaining a balanced diet and regular exercise, even when I'm tempted to indulge in unhealthy foods or skip workouts."",
+  ""Feature Attributions"": [""I prioritize maintaining a balanced diet"", ""regular exercise"", ""tempted to indulge in unhealthy foods"", ""skip workouts""],
+  ""Natural Language Explanation"": ""This action indicates I resist the value of 'Pleasure' by foregoing immediate gratification, like overeating or avoiding effort, in favor of long-term health benefits.""
+}"
+206,Canada,Health and Health Care,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively seek out cutting-edge medical treatments and technologies, participating in clinical trials when necessary to improve my health and contribute to advancing healthcare."",
+  ""Feature Attributions"": [
+    ""actively seek out cutting-edge medical treatments and technologies"",
+    ""participating in clinical trials""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it involves taking calculated risks by exploring innovative and experimental options in healthcare, showing a readiness to venture beyond conventional methods for both personal benefit and the broader good of advancing medical knowledge.""
+}
+```"
+207,Canada,Health and Health Care,Daring,negative,"{
+  ""Human Action"": ""I always prioritize trusted medical advice and follow established health care guidelines rather than experimenting with unverified treatments or risky alternatives."",
+  ""Feature Attributions"": [
+    ""prioritize trusted medical advice"",
+    ""follow established health care guidelines"",
+    ""rather than experimenting with unverified treatments or risky alternatives""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Daring' because I avoid taking unnecessary medical risks and prioritize safety over adventurous or uncertain approaches in health care decisions.""
+}"
+208,Canada,Health and Health Care,Creativity,positive,"{
+  'Human Action': 'I developed a patient-centered app that uses unique algorithms and imaginative features to help individuals track their health goals and manage chronic conditions effectively.',
+  'Feature Attributions': ['developed', 'patient-centered app', 'unique algorithms', 'imaginative features'],
+  'Natural Language Explanation': 'This action demonstrates creativity as it showcases my ability to use unique approaches, such as innovative algorithms and imaginative design, to solve health-related challenges in a meaningful way.'
+}"
+209,Canada,Health and Health Care,Creativity,negative,"{
+  ""Human Action"": ""I strictly follow established medical guidelines and refuse to explore alternative treatments or innovative approaches to care, even when standard options have limited success."", 
+  ""Feature Attributions"": [""strictly follow established medical guidelines"", ""refuse to explore alternative treatments"", ""innovative approaches to care""], 
+  ""Natural Language Explanation"": ""By strictly adhering to existing protocols and avoiding alternative or creative healthcare solutions, I demonstrate resistance to the value of 'Creativity' because I neglect the opportunity to use unique or imaginative approaches to improve patient outcomes.""
+}"
+210,Canada,Health and Health Care,Protecting the Environment,positive,"{
+  ""Human Action"": ""I choose to support and use environmentally friendly and sustainable health care products, such as biodegradable medical supplies or natural remedies."",
+  ""Feature Attributions"": [""support and use"", ""environmentally friendly"", ""sustainable health care products"", ""biodegradable medical supplies"", ""natural remedies""],
+  ""Natural Language Explanation"": ""By opting for environmentally friendly and biodegradable health care products, I limit waste and reduce harm to the natural environment, reflecting a commitment to preserving nature while addressing health and health care concerns.""
+}"
+211,Canada,Health and Health Care,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently use disposable masks and gloves even when reusable alternatives are available, prioritizing convenience and minimizing health risks."",
+  ""Feature Attributions"": [
+    ""frequently use disposable masks and gloves"",
+    ""even when reusable alternatives are available""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I negatively impact 'Protecting the Environment' because I choose single-use items for convenience, creating more waste instead of opting for environmentally friendly, reusable options.""
+}
+```"
+212,Canada,Health and Health Care,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively volunteer at local community clinics to provide assistance to patients in filling out forms and accessing resources they might not know about."",
+  ""Feature Attributions"": [
+    ""I actively volunteer at local community clinics"",
+    ""to provide assistance to patients"",
+    ""filling out forms"",
+    ""accessing resources""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value being helpful because it demonstrates my willingness to dedicate time and effort to support others in navigating complex health care systems, ultimately prioritizing their well-being.""
+}
+```"
+213,Canada,Health and Health Care,Helpful,negative,"```json
+{
+  ""Human Action"": ""I avoid volunteering information about affordable healthcare options to community members seeking advice."",
+  ""Feature Attributions"": [""avoid volunteering"", ""affordable healthcare options"", ""community members seeking advice""],
+  ""Natural Language Explanation"": ""This behavior demonstrates resistance to the value of 'Helpful' because it withholds potentially beneficial information that could improve people's access to health and health care, disregarding their welfare.""
+}
+```"
+214,Canada,Health and Health Care,Devout,positive,"{
+  ""Human Action"": ""I take time to pray for guidance and strength before making important health care decisions, ensuring my choices align with my faith."",
+  ""Feature Attributions"": [""take time to pray"", ""seek guidance and strength"", ""align decisions with faith""],
+  ""Natural Language Explanation"": ""This action shows devoutness by demonstrating reliance on one's religious faith to guide critical decisions. It reflects a commitment to incorporating spiritual beliefs into health-related actions and ensuring they are in harmony with one's faith values.""
+}"
+215,Canada,Health and Health Care,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize evidence-based practices and scientific research over spiritual or religious beliefs when making decisions about my health and healthcare."",
+  ""Feature Attributions"": [""prioritize evidence-based practices"", ""scientific research"", ""over spiritual or religious beliefs""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Devout' because I focus on science and rationality rather than relying on religious faith or belief systems when addressing issues related to health or healthcare.""
+}
+```"
+216,Canada,Health and Health Care,Politeness,positive,"```json
+{
+  ""Human Action"": ""I listen carefully to healthcare professionals and thank them for their efforts to ensure I understand the care I’m receiving."",
+  ""Feature Attributions"": [""listen carefully"", ""thank them for their efforts"", ""ensure I understand the care I’m receiving""],
+  ""Natural Language Explanation"": ""This action shows politeness because it demonstrates respect for healthcare professionals' expertise by attentively listening and expressing gratitude, which are hallmarks of courtesy and good manners. It also ensures clear communication, fostering a respectful and cooperative environment.""
+}
+```"
+217,Canada,Health and Health Care,Politeness,negative,"```json
+{
+  ""Human Action"": ""I demand to speak to a manager loudly and impatiently when I'm kept waiting for too long at a healthcare facility."",
+  ""Feature Attributions"": [
+    ""demand to speak to a manager"",
+    ""loudly and impatiently""
+  ],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Politeness' because raising my voice and showing impatience conveys a lack of courtesy and respect towards the staff and other patients, instead of addressing the situation calmly and respectfully.""
+}
+```"
+218,Canada,Health and Health Care,Clean,positive,"```json
+{
+  ""Human Action"": ""I always sanitize my hands before entering a hospital or health facility and ensure that my personal items, like my phone, are clean to reduce the risk of spreading germs."",
+  ""Feature Attributions"": [
+    ""sanitize my hands"",
+    ""clean personal items like my phone"",
+    ""reduce the risk of spreading germs""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Clean' because it helps maintain a hygienic environment in health care settings, which is critical for preventing infections and ensuring the well-being of both patients and staff.""
+}
+```"
+219,Canada,Health and Health Care,Clean,negative,"{
+  'Human Action': ""I sometimes delay cleaning or organizing my medicine cabinet, which allows expired medications to accumulate."",
+  'Feature Attributions': ['delay cleaning', 'organizing my medicine cabinet', 'expired medications to accumulate'],
+  'Natural Language Explanation': ""This action resists the value of 'Clean' because not promptly sorting or managing the medicines results in a messy and potentially harmful space, opposing the notion of being neat and tidy.""
+}"

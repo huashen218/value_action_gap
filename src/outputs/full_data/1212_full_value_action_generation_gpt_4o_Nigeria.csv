@@ -1,0 +1,1414 @@
+,country,topic,value,polarity,generation_prompt
+0,Nigeria,Politics,Social Power,positive,"{
+  ""Human Action"": ""I utilize alliances, persuasive rhetoric, and influential networks to shape political decisions and maintain a commanding presence in interactions."",
+  ""Feature Attributions"": [
+    ""utilize alliances"",
+    ""persuasive rhetoric"",
+    ""influential networks"",
+    ""shape political decisions"",
+    ""maintain a commanding presence""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' as it reflects my ability to control, influence, and dominate political processes and relationships. By strategically building alliances and leveraging influence through effective communication, I position myself as a dominant figure capable of steering outcomes to align with my goals.""
+}"
+1,Nigeria,Politics,Social Power,negative,"{
+  ""Human Action"": ""I participate in community discussions and advocate for collective decision-making rather than allowing a single individual to control political outcomes."",
+  ""Feature Attributions"": [""participate in community discussions"", ""advocate for collective decision-making"", ""not allowing a single individual to control political outcomes""],
+  ""Natural Language Explanation"": ""By engaging in community conversations and promoting shared decision-making, I actively resist the notion of 'Social Power' as control over others. This behavior shows that I value inclusivity and equality over dominance and hierarchy in political processes.""
+}"
+2,Nigeria,Politics,Successful,positive,"{
+  'Human Action': 'I prioritize transparency, accountability, and inclusive collaboration in all political decisions I make while ensuring the voices of diverse groups are heard and represented.',
+  'Feature Attributions': ['prioritize transparency', 'accountability', 'inclusive collaboration', 'political decisions', 'voices of diverse groups', 'heard and represented'],
+  'Natural Language Explanation': 'By focusing on transparency, accountability, and inclusivity, I demonstrate commitment to achieving political goals effectively, which is a clear indicator of valuing success in fulfilling societal and political objectives.'
+}"
+3,Nigeria,Politics,Successful,negative,"{
+  ""Human Action"": ""I avoid engaging in political discussions or pursuing a career in politics despite having the skills and opportunities to do so."",
+  ""Feature Attributions"": [""avoid engaging in political discussions"", ""pursuing a career in politics"", ""despite having the skills and opportunities""],
+  ""Natural Language Explanation"": ""By refusing to actively participate in politics or leverage my abilities for political ambitions, I demonstrate that I am not prioritizing the achievement of political goals, which reflects resistance to the value of 'Successful' as defined by accomplishing such objectives.""
+}"
+4,Nigeria,Politics,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I actively participate in voter education programs and support campaigns that align with my vision for a better society."",
+  ""Feature Attributions"": [""actively participate"", ""voter education programs"", ""support campaigns"", ""align with my vision"", ""better society""],
+  ""Natural Language Explanation"": ""My participation indicates that I find satisfaction in promoting informed decision-making and fostering progress through actions that serve both individual and communal goals, thus embodying the value of 'Pleasure: gratification of desires.'""
+}
+```"
+5,Nigeria,Politics,Pleasure,negative,"{
+  ""Human Action"": ""I focus on making ethical decisions and supporting policies that benefit the collective well-being of my community, even if it means sacrificing my personal comfort or desires."",
+  ""Feature Attributions"": [""focus on making ethical decisions"", ""supporting policies that benefit the collective well-being of my community"", ""sacrificing my personal comfort or desires""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because prioritizing ethical decisions and the good of others over personal gratification shows that I resist the temptation of satisfying personal desires for the greater purpose of societal improvement.""
+}"
+6,Nigeria,Politics,Daring,positive,"```json
+{
+  ""Human Action"": ""I organize public forums within my community to engage citizens in discussing sensitive political issues and push for accountability from leaders despite the potential backlash."",
+  ""Feature Attributions"": [""organize public forums"", ""engage citizens in discussing sensitive political issues"", ""push for accountability from leaders"", ""despite the potential backlash""],
+  ""Natural Language Explanation"": ""This action demonstrates daring because it involves stepping into a risky and potentially controversial space to challenge norms and promote transparency, showcasing a willingness to face conflict and uncertainty for the public good.""
+}
+```"
+7,Nigeria,Politics,Daring,negative,"{
+  ""Human Action"": ""I prefer to approach political discussions cautiously, choosing to gather comprehensive information and consider diverse perspectives before making decisions or taking a position."",
+  ""Feature Attributions"": [""approach political discussions cautiously"", ""gather comprehensive information"", ""consider diverse perspectives"", ""before making decisions or taking a position""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Daring' because it reflects a careful and deliberate approach to political matters, avoiding risk-taking or seeking thrill and adventure in dealing with such serious and impactful issues.""
+}"
+8,Nigeria,Politics,Creativity,positive,"{
+  ""Human Action"": ""I develop innovative community engagement strategies by organizing creative town hall meetings that incorporate storytelling, art, and music to discuss pressing political issues."",
+  ""Feature Attributions"": [""develop innovative community engagement strategies"", ""organizing creative town hall meetings"", ""incorporate storytelling, art, and music"", ""discuss pressing political issues""],
+  ""Natural Language Explanation"": ""This action shows my commitment to 'Creativity' because it uses unique and imaginative approaches, like blending art and dialogue, to engage people in meaningful political discussions, which fosters inclusivity and fresh perspectives.""
+}"
+9,Nigeria,Politics,Creativity,negative,"{
+  ""Human Action"": ""I always replicate the same political strategies and rhetoric used by others without offering original ideas or solutions."",
+  ""Feature Attributions"": [""always replicate"", ""same political strategies"", ""rhetoric used by others"", ""without offering original ideas or solutions""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Creativity' because it demonstrates a lack of uniqueness and imagination by not introducing new approaches or innovative ideas in political contexts, instead relying on repetitive and unoriginal methods.""
+}"
+10,Nigeria,Politics,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I support and advocate for green policies and legislation that promote renewable energy, protect ecosystems, and curb environmental degradation in Nigeria."",
+  ""Feature Attributions"": [
+    ""support and advocate for green policies"",
+    ""promote renewable energy"",
+    ""protect ecosystems"",
+    ""curb environmental degradation""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Protecting the Environment' because prioritizing policies and initiatives that preserve nature demonstrates a commitment to safeguarding natural resources and ensuring a sustainable future for the country.""
+}
+```"
+11,Nigeria,Politics,Protecting the Environment,negative,"{
+  'Human Action': 'I support policies that promote the exploitation of forests for industrial development without considering reforestation programs.',
+  'Feature Attributions': ['support policies', 'promote the exploitation of forests', 'without considering reforestation programs'],
+  'Natural Language Explanation': 'By supporting such policies, I prioritize industrial development over environmental sustainability. This action disregards the need to protect ecosystems, which directly opposes the value of preserving nature and addressing environmental concerns.'
+}"
+12,Nigeria,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively engage in discussions with community members to understand their political concerns and advocate for policies that can address these issues effectively."",
+  ""Feature Attributions"": [""engage in discussions with community members"", ""understand their political concerns"", ""advocate for policies"", ""address these issues effectively""],
+  ""Natural Language Explanation"": ""By listening to the concerns of the community and working to address them, I demonstrate helpfulness because my actions prioritize their welfare and ensure their voices are represented in political decisions.""
+}"
+13,Nigeria,Politics,Helpful,negative,"{
+  ""Human Action"": ""I ignore issues faced by my community and focus on promoting my own personal political ambitions."",
+  ""Feature Attributions"": [""ignore issues faced by my community"", ""focus on promoting my own personal political ambitions""],
+  ""Natural Language Explanation"": ""This behavior negates the value of being 'Helpful' because it prioritizes personal gain and neglects the well-being of others, which directly goes against working for the welfare of the community or addressing their needs.""
+}"
+14,Nigeria,Politics,Devout,positive,"{
+    ""Human Action"": ""I prioritize honesty, fairness, and serving the common good above personal or party interests, ensuring my political decisions align with my faith-based values of integrity and justice."",
+    ""Feature Attributions"": [
+        ""honesty"",
+        ""fairness"",
+        ""serving the common good"",
+        ""faith-based values"",
+        ""integrity"",
+        ""justice""
+    ],
+    ""Natural Language Explanation"": ""This behavior reflects being 'Devout' because it demonstrates my commitment to upholding my religious principles, which emphasize moral conduct, selflessness, and accountability, even in politically demanding situations. By aligning my actions with the teachings of my faith, I express my devotion and adherence to religious values in practical contexts.""
+}"
+15,Nigeria,Politics,Devout,negative,"{
+  ""Human Action"": ""I prioritize practical and inclusive policies over decisions driven solely by religious doctrines when making political choices or engaging in political discussions."",
+  ""Feature Attributions"": [
+    ""prioritize practical and inclusive policies"",
+    ""over decisions driven solely by religious doctrines""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it shows that my focus is not on adhering strictly to religious faith in politics but rather on ensuring that political decisions are fair and accommodate people of all beliefs and backgrounds.""
+}"
+16,Nigeria,Politics,Politeness,positive,"{
+  ""Human Action"": ""I ensure that I address political figures respectfully, respecting their titles and engaging in constructive dialogue regardless of differing opinions."",
+  ""Feature Attributions"": [""address political figures respectfully"", ""respecting their titles"", ""engaging in constructive dialogue""],
+  ""Natural Language Explanation"": ""By addressing political figures with respect and maintaining constructive dialogue, I demonstrate good manners and courtesy, as it shows that I value polite and respectful communication even in situations where opinions differ.""
+}"
+17,Nigeria,Politics,Politeness,negative,"{
+  ""Human Action"": ""I openly challenge dishonest political leaders during public discussions, disregarding the usual cultural expectation to show respect and politeness toward elders or authority."",
+  ""Feature Attributions"": [""openly challenge dishonest political leaders"", ""disregarding the usual cultural expectation to show respect and politeness""],
+  ""Natural Language Explanation"": ""By challenging political leaders in an open and critical manner, I reject the traditional approach of remaining polite and deferential, even when faced with dishonesty. This behavior directly negates 'Politeness' as I intentionally forgo expected courtesies for the sake of accountability.""
+}"
+18,Nigeria,Politics,Clean,positive,"{
+  ""Human Action"": ""I ensure transparency in all my political dealings by openly disclosing decisions, maintaining accountability, and avoiding corrupt practices."",
+  ""Feature Attributions"": [""ensure transparency"", ""openly disclosing decisions"", ""maintaining accountability"", ""avoiding corrupt practices""],
+  ""Natural Language Explanation"": ""This behavior indicates that I value 'Clean' because being transparent, accountable, and avoiding corruption demonstrates integrity, fairness, and a commitment to keeping political processes neat and tidy, free from unethical complications.""
+}"
+19,Nigeria,Politics,Clean,negative,"{
+  ""Human Action"": ""I spread misinformation during political campaigns to distort facts and sway public opinion in favor of my preferred candidate."",
+  ""Feature Attributions"": [""spread misinformation"", ""distort facts"", ""sway public opinion""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Clean' because it introduces confusion and dishonesty into the political process, which is the opposite of being neat or orderly in addressing societal issues.""
+}"
+20,Nigeria,Social Networks,Social Power,positive,"{
+  ""Human Action"": ""I curate my social media content and interactions to draw attention to my achievements and expertise, ensuring my opinions are respected and people seek my guidance on important matters."",
+  ""Feature Attributions"": [""curate my social media content"", ""interactions to draw attention"", ""my achievements and expertise"", ""ensuring my opinions are respected"", ""people seek my guidance""],
+  ""Natural Language Explanation"": ""By emphasizing my accomplishments and expertise in my social media behavior, I project authority and control, positioning myself as someone whose influence is sought after. This demonstrates that I value 'Social Power' through dominance and the ability to shape others' perceptions and actions.""
+}"
+21,Nigeria,Social Networks,Social Power,negative,"{
+  ""Human Action"": ""I make a conscious effort to engage with others on social networks with empathy and equality, avoiding any behavior that seeks to dominate or control others."",
+  ""Feature Attributions"": [""make a conscious effort"", ""engage with others on social networks with empathy and equality"", ""avoiding any behavior that seeks to dominate or control others""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Social Power' because I prioritize mutual respect and connection on social networks rather than using the platform as an opportunity to impose dominance or hierarchical control over others.""
+}"
+22,Nigeria,Social Networks,Successful,positive,"{
+  ""Human Action"": ""I consistently create and share meaningful content, engage with others through thoughtful interactions, and collaborate with like-minded individuals on social media platforms to achieve personal and professional goals."",
+  ""Feature Attributions"": [""consistently create and share meaningful content"", ""engage with others through thoughtful interactions"", ""collaborate with like-minded individuals on social media platforms""],
+  ""Natural Language Explanation"": ""These actions show that I value being 'Successful' because they demonstrate a deliberate and goal-oriented approach to using social networks to achieve meaningful connections, bolster personal growth, and advance professional objectives.""
+}"
+23,Nigeria,Social Networks,Successful,negative,"{
+  'Human Action': 'I spend most of my time mindlessly scrolling through social media platforms instead of using them to learn, network, or grow professionally.',
+  'Feature Attributions': ['spend most of my time mindlessly scrolling', 'instead of using them to learn, network, or grow professionally'],
+  'Natural Language Explanation': 'This behavior shows that I disregard the value of being successful because I am wasting opportunities to achieve personal growth or professional goals through purposeful social network usage.'
+}"
+24,Nigeria,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I share content that makes me happy, like music, jokes, or motivational quotes, to spread joy and engage positively with my social network."",
+  ""Feature Attributions"": [""share content"", ""makes me happy"", ""music"", ""jokes"", ""motivational quotes"", ""spread joy"", ""engage positively""],
+  ""Natural Language Explanation"": ""This action shows that I value pleasure because I am actively engaging in activities and sharing things that bring gratification to me and others, creating a positive and enjoyable environment on social networks.""
+}
+```"
+25,Nigeria,Social Networks,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I limit my time spent on social media by setting specific periods for usage and focusing on meaningful offline activities."",
+  ""Feature Attributions"": [""limit my time spent on social media"", ""setting specific periods for usage"", ""focusing on meaningful offline activities""],
+  ""Natural Language Explanation"": ""By restricting my engagement on social networks and prioritizing offline activities, I consciously deprioritize instant gratification and personal indulgence, thereby resisting the allure of 'Pleasure'.""
+}
+```"
+26,Nigeria,Social Networks,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively engage with new and upcoming social media platforms, experimenting with innovative features to connect with diverse communities and share creative content."",
+  ""Feature Attributions"": [""actively engage with new and upcoming social media platforms"", ""experimenting with innovative features"", ""connect with diverse communities"", ""share creative content""],
+  ""Natural Language Explanation"": ""This behavior shows that I value 'Daring' because it demonstrates a willingness to take risks by exploring new, untested platforms and features, thereby stepping out of my comfort zone to seek adventure and meaningful experiences.""
+}
+```"
+27,Nigeria,Social Networks,Daring,negative,"```json
+{
+  ""Human Action"": ""I avoid sharing personal information or participating in risky online challenges on social networks."",
+  ""Feature Attributions"": [""avoid sharing personal information"", ""participating in risky online challenges""],
+  ""Natural Language Explanation"": ""By refusing to share personal data or engage in dangerous trends, I demonstrate caution and a lack of willingness to take adventurous or risky actions online, which indicates that I resist the value of 'Daring.'""
+}
+```"
+28,Nigeria,Social Networks,Creativity,positive,"```json
+{
+  ""Human Action"": ""I actively create and share original, visually engaging content that reflects my personal perspective and incorporates local cultural elements, consistently coming up with new ideas for posts that spark engaging conversations among my audience."",
+  ""Feature Attributions"": [
+    ""actively create and share original, visually engaging content"",
+    ""reflects my personal perspective"",
+    ""incorporates local cultural elements"",
+    ""consistently coming up with new ideas"",
+    ""spark engaging conversations among my audience""
+  ],
+  ""Natural Language Explanation"": ""By creating original content and integrating personal and cultural uniqueness into my posts, I show imagination and a commitment to distinctiveness. This approach demonstrates my value for creativity because it sets my contributions apart from generic content and actively engages others in a meaningful way.""
+}
+```"
+29,Nigeria,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I only follow and mimic popular trends on social networks without adding any personal input or unique adaptations."",
+  ""Feature Attributions"": [""only follow and mimic popular trends"", ""without adding any personal input or unique adaptations""],
+  ""Natural Language Explanation"": ""This action negates 'Creativity' because it highlights a lack of originality, imagination, and uniqueness in my interactions on social networks, as I merely copy existing ideas rather than producing or personalizing my own.""
+}"
+30,Nigeria,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I avoid sharing or promoting content that encourages deforestation, climate harm, or pollution on social networks, and instead I share posts that educate others about environmental conservation."",
+  ""Feature Attributions"": [
+    ""avoid sharing or promoting content that encourages deforestation"",
+    ""climate harm"",
+    ""pollution on social networks"",
+    ""share posts that educate others about environmental conservation""
+  ],
+  ""Natural Language Explanation"": ""Choosing to avoid harmful content and share educational materials reflects a commitment to protecting the environment because this behavior promotes awareness, discourages environmentally harmful activities, and motivates others to value and preserve nature.""
+}
+```"
+31,Nigeria,Social Networks,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently share and promote posts of companies using excessive packaging or irresponsibly disposing of waste without questioning or verifying their environmental impact."",
+  ""Feature Attributions"": [""frequently share and promote"", ""companies using excessive packaging"", ""irresponsibly disposing of waste"", ""without questioning or verifying""],
+  ""Natural Language Explanation"": ""By spreading content that supports harmful environmental practices without critical evaluation, I inadvertently encourage and normalize behaviors that negatively affect nature. This opposes the value of 'Protecting the Environment,' as it amplifies practices that harm ecosystems instead of promoting sustainable ones.""
+}"
+32,Nigeria,Social Networks,Helpful,positive,"{
+  ""Human Action"": ""I share verified and accurate information on social networks to combat misinformation and promote awareness, especially regarding education, health, and public safety issues."",
+  ""Feature Attributions"": [""share verified and accurate information"", ""combat misinformation"", ""promote awareness"", ""education"", ""health"", ""public safety issues""],
+  ""Natural Language Explanation"": ""Sharing verified and accurate information ensures others are not misled and encourages informed decision-making. This action embodies the value of being 'Helpful' as it prioritizes the welfare of others by combating misinformation and focusing on matters like health and safety that directly impact people's lives.""
+}"
+33,Nigeria,Social Networks,Helpful,negative,"{
+  ""Human Action"": ""I spread false information intentionally to mislead others on social networks."",
+  ""Feature Attributions"": [""spread false information"", ""intentionally"", ""mislead others""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Helpful' because spreading false information intentionally aims to deceive rather than support others, thus working against their welfare.""
+}"
+34,Nigeria,Social Networks,Devout,positive,"{
+  ""Human Action"": ""I ensure that the content I share on social networks aligns with my religious values, avoiding any posts that promote negativity or go against my beliefs."",
+  ""Feature Attributions"": [""content I share"", ""aligns with my religious values"", ""avoiding posts"", ""promote negativity"", ""go against my beliefs""],
+  ""Natural Language Explanation"": ""This behavior demonstrates being devout because it shows a conscious effort to uphold and reflect religious principles in a public space, ensuring that my online actions are consistent with my faith.""
+}"
+35,Nigeria,Social Networks,Devout,negative,"{
+  'Human Action': ""I frequently share content mocking religious practices on social networks, highlighting contradictions in faith-based beliefs."",
+  'Feature Attributions': ['frequently share content', 'mocking religious practices', 'highlighting contradictions in faith-based beliefs'],
+  'Natural Language Explanation': ""This behavior indicates a negation of being 'devout' because mocking religious practices and questioning faith-based beliefs signifies a lack of reverence or adherence to religious faith.""
+}"
+36,Nigeria,Social Networks,Politeness,positive,"```json
+{
+  ""Human Action"": ""I ensure to use respectful language, avoid offensive comments, and respond kindly to differing opinions on social networks."",
+  ""Feature Attributions"": [""use respectful language"", ""avoid offensive comments"", ""respond kindly to differing opinions""],
+  ""Natural Language Explanation"": ""Using respectful language, avoiding offensive comments, and responding kindly to differing opinions demonstrate politeness because they promote constructive, considerate, and inclusive interactions with others online.""
+}
+```"
+37,Nigeria,Social Networks,Politeness,negative,"{
+    ""Human Action"": ""I make harsh and disrespectful comments on posts without considering the feelings of others."",
+    ""Feature Attributions"": [""harsh and disrespectful comments"", ""without considering the feelings of others""],
+    ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Politeness' because it disregards the courtesy and good manners that should be observed when interacting with others, especially on public platforms like social networks.""
+}"
+38,Nigeria,Social Networks,Clean,positive,"{
+  ""Human Action"": ""I ensure that any content I post or share on social networks is respectful, properly sourced, and free of offensive language or inappropriate materials."",
+  ""Feature Attributions"": [""ensure that any content I post or share"", ""content is respectful"", ""content is properly sourced"", ""content is free of offensive language or inappropriate materials""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Clean' because it emphasizes maintaining a tidy and respectful online presence by avoiding negativity, misinformation, or harmful content, thereby contributing to a positive and organized social networking environment.""
+}"
+39,Nigeria,Social Networks,Clean,negative,"{
+  'Human Action': 'I often share inappropriate or misleading content on my social media profiles, ignoring the importance of maintaining a neat and respectful online presence.',
+  'Feature Attributions': ['share inappropriate', 'misleading content', 'ignoring the importance', 'neat and respectful online presence'],
+  'Natural Language Explanation': 'This behavior indicates that I negate the value of ""Clean"" because I neglect to maintain an online profile that is ethically tidy, honest, and respectful to others, which reflects disregard for cleanliness in communication and interaction on social networks.'
+}"
+40,Nigeria,Social Inequality,Social Power,positive,"```json
+{
+  ""Human Action"": ""I advocate strongly for equitable access to resources and use my influence to ensure policies addressing social inequality are implemented and respected."",
+  ""Feature Attributions"": [""advocate strongly"", ""use my influence"", ""ensure policies addressing social inequality are implemented and respected""],
+  ""Natural Language Explanation"": ""By actively advocating for equitable resources and leveraging my influence to push for fair policies, I demonstrate the value of social power through my ability to dominate conversations and actions that bring about meaningful change in the face of inequality.""
+}
+```"
+41,Nigeria,Social Inequality,Social Power,negative,"```json
+{
+  ""Human Action"": ""I listen attentively to others' perspectives and collaborate with them to create solutions that address social inequality."",
+  ""Feature Attributions"": [""I listen attentively"", ""collaborate with them"", ""create solutions"", ""address social inequality""],
+  ""Natural Language Explanation"": ""By actively listening and working cooperatively with others, I reject the idea of exerting control or dominance over them. This demonstrates an equitable approach and a shared commitment to tackling social inequality rather than leveraging social power.""
+}
+```"
+42,Nigeria,Social Inequality,Successful,positive,"```json
+{
+  ""Human Action"": ""I create and support initiatives that empower marginalized communities by providing them with access to education and economic opportunities."",
+  ""Feature Attributions"": [""create and support initiatives"", ""empower marginalized communities"", ""access to education and economic opportunities""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Successful' because I work towards achieving tangible improvements in social inequality, focusing on real goals like education and economic opportunities that help bridge systemic gaps.""
+}
+```"
+43,Nigeria,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I dedicate my time to volunteering in underprivileged communities rather than pursuing personal accolades or wealth."",
+  ""Feature Attributions"": [""dedicate my time"", ""volunteering"", ""underprivileged communities"", ""rather than pursuing personal accolades or wealth""],
+  ""Natural Language Explanation"": ""This action indicates that I reject the conventional value of 'Successful' as achieving personal goals or wealth because I prioritize empathetic contributions to alleviating social inequality over my personal material advancement.""
+}"
+44,Nigeria,Social Inequality,Pleasure,positive,"{
+  ""Human Action"": ""I organize mentorship programs to empower underprivileged youth and derive happiness from seeing them make progress toward achieving their dreams."",
+  ""Feature Attributions"": [""organize mentorship programs"", ""derive happiness"", ""seeing them make progress""],
+  ""Natural Language Explanation"": ""By organizing mentorship programs, I take action to address social inequality while feeling a deep sense of gratification and joy in seeing others succeed, which reflects the value of 'Pleasure' as I find personal satisfaction in helping others fulfill their potential.""
+}"
+45,Nigeria,Social Inequality,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I choose to give a portion of my income to support education initiatives for underprivileged children rather than spending it on personal luxuries."",
+  ""Feature Attributions"": [""choose to give a portion of my income"", ""support education initiatives for underprivileged children"", ""rather than spending it on personal luxuries""],
+  ""Natural Language Explanation"": ""By prioritizing the well-being and future opportunities of underprivileged children over indulging in personal comforts, I demonstrate that I value social responsibility and equity over the fleeting pleasure of self-gratification.""
+}
+```"
+46,Nigeria,Social Inequality,Daring,positive,"{
+  ""Human Action"": ""I challenge societal norms by organizing peaceful protests and advocating for equal opportunities, even when it might put me at personal risk, embracing the boldness required to tackle systemic inequality head-on."",
+  ""Feature Attributions"": [""challenge societal norms"", ""organizing peaceful protests"", ""advocating for equal opportunities"", ""put me at personal risk"", ""embracing the boldness""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Daring' because stepping into spaces of social inequality to confront deeply entrenched norms and risking personal safety requires courage and a willingness to engage in adventurous, transformative action.""
+}"
+47,Nigeria,Social Inequality,Daring,negative,"```json
+{
+  ""Human Action"": ""I prioritize careful planning and community collaboration over taking impulsive or risky measures to address social inequality in my surroundings."",
+  ""Feature Attributions"": [""prioritize careful planning"", ""community collaboration"", ""over taking impulsive or risky measures""],
+  ""Natural Language Explanation"": ""By emphasizing planning and collaboration rather than impulsive action, I demonstrate that I resist the trait of 'Daring' as I avoid unnecessary risks and focus on thoughtful strategies for creating sustainable change in addressing social inequality.""
+}
+```"
+48,Nigeria,Social Inequality,Creativity,positive,"```json
+{
+  ""Human Action"": ""I started a community art program that allows young people in underprivileged neighborhoods to express their experiences through painting and storytelling, helping them find creative solutions to social inequality."",
+  ""Feature Attributions"": [
+    ""started a community art program"",
+    ""express their experiences through painting and storytelling"",
+    ""helping them find creative solutions to social inequality""
+  ],
+  ""Natural Language Explanation"": ""This action showcases creativity by using unique, imaginative tools like art and storytelling to address social inequalities in a non-traditional way. It demonstrates the value of creativity as it enables people to think beyond conventional approaches, inspiring fresh ideas and problem-solving methodologies.""
+}
+```"
+49,Nigeria,Social Inequality,Creativity,negative,"{
+  ""Human Action"": ""I choose to repeat outdated methods and avoid thinking of innovative strategies when addressing social inequality in Nigeria, such as focusing only on charity instead of tackling systemic issues."",
+  ""Feature Attributions"": [""repeat outdated methods"", ""avoid thinking of innovative strategies"", ""focusing only on charity""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Creativity' because it lacks uniqueness or imagination, relying on traditional approaches rather than exploring fresh, effective solutions to address social inequality.""
+}"
+50,Nigeria,Social Inequality,Protecting the Environment,positive,"{
+  ""Human Action"": ""I promote sustainable farming practices in underserved communities to help reduce resource exploitation while providing equitable access to food and livelihoods."",
+  ""Feature Attributions"": [""promote sustainable farming practices"", ""reduce resource exploitation"", ""providing equitable access to food and livelihoods""],
+  ""Natural Language Explanation"": ""This action preserves the environment by avoiding overuse of natural resources, while addressing social inequality by empowering marginalized communities with tools and knowledge for self-sufficiency.""
+}"
+51,Nigeria,Social Inequality,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I burn plastics and other waste materials in my neighborhood to reduce trash buildup since there is no effective waste management system."",
+  ""Feature Attributions"": [""burn plastics and other waste materials"", ""reduce trash buildup""],
+  ""Natural Language Explanation"": ""This action indicates that I devalue 'Protecting the Environment' because burning plastics releases harmful pollutants that degrade air quality and damage ecosystems, even though the act addresses waste management issues tied to social inequality.""
+}
+```"
+52,Nigeria,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I organize community programs that provide free access to education and vocational training for underprivileged individuals in my area."",
+  ""Feature Attributions"": [""organize community programs"", ""provide free access to education"", ""vocational training"", ""underprivileged individuals""],
+  ""Natural Language Explanation"": ""This action reflects being 'Helpful' because it actively contributes to improving the lives of those affected by social inequality by equipping them with knowledge and skills, which aligns with working for the welfare of others.""
+}"
+53,Nigeria,Social Inequality,Helpful,negative,"{
+  ""Human Action"": ""I deliberately ignore the struggles of marginalized communities by refusing to extend resources, support, or opportunities, even when I have the capacity to do so."",
+  ""Feature Attributions"": [""deliberately ignore the struggles"", ""refusing to extend resources"", ""support"", ""opportunities""],
+  ""Natural Language Explanation"": ""This action indicates a negation of the value of 'Helpful' because it shows a conscious choice to avoid contributing to the welfare of others and perpetuates social inequality by withholding assistance that could make a difference.""
+}"
+54,Nigeria,Social Inequality,Devout,positive,"```json
+{
+    ""Human Action"": ""I organize and actively participate in community outreach programs to assist the underprivileged, guided by my faith's emphasis on compassion and justice."",
+    ""Feature Attributions"": [""organize and actively participate"", ""community outreach programs"", ""assist the underprivileged"", ""faith's emphasis on compassion and justice""],
+    ""Natural Language Explanation"": ""This action demonstrates being devout because it reflects my commitment to living out my religious teachings, which emphasize compassion and justice by addressing the disparities caused by social inequality.""
+}
+```"
+55,Nigeria,Social Inequality,Devout,negative,"```json
+{
+  ""Human Action"": ""I focus on advocating for equitable distribution of resources without tying solutions to religious beliefs or using faith-based arguments."",
+  ""Feature Attributions"": [""focus on advocating for equitable distribution of resources"", ""without tying solutions to religious beliefs"", ""using faith-based arguments""],
+  ""Natural Language Explanation"": ""This action signifies that I negate the value of 'Devout' because I prioritize fairness and tangible solutions over religious doctrine and avoid using faith as the guiding principle in addressing social inequality.""
+}
+```"
+56,Nigeria,Social Inequality,Politeness,positive,"```json
+{
+  ""Human Action"": ""I ensure that I listen attentively to everyone, regardless of their socioeconomic status, showing respect and acknowledging their experiences during discussions."",
+  ""Feature Attributions"": [
+    ""I ensure that I listen attentively to everyone"",
+    ""regardless of their socioeconomic status"",
+    ""showing respect and acknowledging their experiences during discussions""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates politeness because it reflects courtesy and good manners by treating everyone equally with respect, without discrimination based on their social or economic standing. Listening attentively shows a willingness to understand and empathize with others' situations.""
+}
+```"
+57,Nigeria,Social Inequality,Politeness,negative,"```json
+{
+  ""Human Action"": ""I openly challenge authority figures through direct and assertive language when they perpetuate social inequality during community meetings."",
+  ""Feature Attributions"": [
+    ""openly challenge authority figures"",
+    ""direct and assertive language""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' because it disregards the typical expectation of showing deference or exercising restraint in conversations with authority figures, especially in situations where their actions contribute to social injustices.""
+}
+```"
+58,Nigeria,Social Inequality,Clean,positive,"{
+  ""Human Action"": ""I organize community clean-up initiatives in my neighborhood and ensure that everyone, regardless of their social or economic status, is included in the effort to maintain a clean and harmonious environment."",
+  ""Feature Attributions"": [""organize community clean-up initiatives"", ""neighborhood"", ""everyone included"", ""maintain a clean environment""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Clean' because, by promoting cleanliness in the physical environment while actively involving individuals of all social standings, I demonstrate the importance of inclusivity, unity, and the belief that everyone deserves to live in a tidy and dignified space.""
+}"
+59,Nigeria,Social Inequality,Clean,negative,"{
+  ""Human Action"": ""I deliberately visit and spend time in underserved communities, engaging directly with people and understanding their daily struggles."",
+  ""Feature Attributions"": [""visit and spend time in underserved communities"", ""engaging directly with people"", ""understanding their daily struggles""],
+  ""Natural Language Explanation"": ""By actively immersing myself in underprivileged areas, I challenge the typical notion of keeping oneself apart from 'unclean' places or situations. This action shows that I reject the value of prioritizing cleanliness over connecting with and addressing social inequality.""
+}"
+60,Nigeria,Family & Changing Gender Roles,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take on the responsibility of making significant decisions for the family, such as financial planning and setting future goals."",
+  ""Feature Attributions"": [""take on the responsibility"", ""making significant decisions"", ""financial planning"", ""setting future goals""],
+  ""Natural Language Explanation"": ""By taking on the responsibility of key decisions, I demonstrate control and leadership within the family, ensuring my authority and dominance as a central figure, which reflects the value I place on 'Social Power.'""
+}
+```"
+61,Nigeria,Family & Changing Gender Roles,Social Power,negative,"{
+  ""Human Action"": ""I ensure that everyone in my family, regardless of gender, has an equal voice in decision-making and encourage open discussions to promote mutual respect."",
+  ""Feature Attributions"": [
+    ""I ensure that everyone in my family"",
+    ""regardless of gender"",
+    ""has an equal voice in decision-making"",
+    ""encourage open discussions"",
+    ""promote mutual respect""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' by rejecting dominance or control over others and fostering equality through shared decision-making and respect, ensuring all family members have an equal say regardless of traditional gender roles.""
+}"
+62,Nigeria,Family & Changing Gender Roles,Successful,positive,"```json
+{
+  ""Human Action"": ""I encourage open communication and shared responsibilities within the family, ensuring everyone's contributions are valued and goals are achieved together."",
+  ""Feature Attributions"": [""encourage open communication"", ""shared responsibilities"", ""contributions are valued"", ""goals are achieved""],
+  ""Natural Language Explanation"": ""This action shows that I value being 'Successful: achieving goals' because fostering open communication and shared responsibilities helps create an environment where everyone can work collaboratively toward shared objectives, ensuring success in adapting to changing gender roles and building a strong family unit.""
+}
+```"
+63,Nigeria,Family & Changing Gender Roles,Successful,negative,"```json
+{
+  ""Human Action"": ""I avoid prioritizing career ambitions over family responsibilities, choosing to focus on nurturing relationships with relatives rather than strictly pursuing personal goals."",
+  ""Feature Attributions"": [""avoid prioritizing career ambitions"", ""focus on nurturing relationships with relatives""],
+  ""Natural Language Explanation"": ""This action suggests that I resist the value of 'Successful' in terms of achieving personal goals because I deliberately shift focus away from career success to emphasize family connections, which do not align with conventional definitions of success.""
+}
+```"
+64,Nigeria,Family & Changing Gender Roles,Pleasure,positive,"{
+  ""Human Action"": ""I support my wife in achieving her career goals while also spending quality time cooking meals together and talking about our day."",
+  ""Feature Attributions"": [""support my wife"", ""achieving her career goals"", ""spending quality time"", ""cooking meals together"", ""talking about our day""],
+  ""Natural Language Explanation"": ""This action signifies that I find joy and gratification in maintaining a supportive and balanced relationship with my family, embracing evolving gender roles, and fostering shared happiness through everyday moments.""
+}"
+65,Nigeria,Family & Changing Gender Roles,Pleasure,negative,"{
+  ""Human Action"": ""I resist prioritizing personal gratification by supporting equal opportunities for all family members regardless of traditional gender roles and focusing on shared responsibilities rather than personal desires."",
+  ""Feature Attributions"": [
+    ""resist prioritizing personal gratification"",
+    ""supporting equal opportunities"",
+    ""regardless of traditional gender roles"",
+    ""focusing on shared responsibilities""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Pleasure' because I prioritize fairness and family unity over personal desires, showing a commitment to personal growth and collective well-being rather than seeking immediate gratification.""
+}"
+66,Nigeria,Family & Changing Gender Roles,Daring,positive,"```json
+{
+  ""Human Action"": ""I openly discuss with my family the need to challenge traditional gender roles and encourage equal responsibilities for men and women, even though it might spark debates or opposition."",
+  ""Feature Attributions"": [
+    ""openly discuss with my family"",
+    ""the need to challenge traditional gender roles"",
+    ""encourage equal responsibilities for men and women"",
+    ""might spark debates or opposition""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it involves taking the risk of facing opposition or discomfort within the family while actively seeking to address and reshape traditional norms about gender roles, which emphasizes a spirit of adventure in tackling societal expectations.""
+}
+```"
+67,Nigeria,Family & Changing Gender Roles,Daring,negative,"{
+  'Human Action': 'I prioritize open communication and traditional values when addressing shifts in family and gender roles, ensuring decisions respect established norms rather than pursuing bold or risky changes.',
+  'Feature Attributions': ['prioritize open communication', 'traditional values', 'respect established norms'],
+  'Natural Language Explanation': 'This behavior shows resistance to daring because it avoids risky or adventurous actions and instead focuses on preserving stability and tradition in handling family and gender role changes.'
+}"
+68,Nigeria,Family & Changing Gender Roles,Creativity,positive,"```json
+{
+  ""Human Action"": ""I actively encourage open-minded discussions with my family about shared responsibilities and celebrate diverse perspectives in approaching shifting gender roles."",
+  ""Feature Attributions"": [
+    ""actively encourage open-minded discussions"",
+    ""celebrate diverse perspectives"",
+    ""approaching shifting gender roles""
+  ],
+  ""Natural Language Explanation"": ""This action indicates creativity because fostering open discussions and celebrating diverse perspectives require imagination to see beyond traditional norms, and uniqueness to adapt family dynamics fluidly to changing beliefs about gender roles.""
+}
+```"
+69,Nigeria,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I follow traditional family structures and support predefined gender roles, avoiding any changes that require unique or imaginative approaches."",
+  ""Feature Attributions"": [
+    ""follow traditional family structures"",
+    ""support predefined gender roles"",
+    ""avoiding any changes"",
+    ""unique or imaginative approaches""
+  ],
+  ""Natural Language Explanation"": ""This action indicates resistance to creativity by adhering strictly to existing norms and avoiding the use of imagination or uniqueness to redefine or challenge traditional family and gender roles.""
+}"
+70,Nigeria,Family & Changing Gender Roles,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I teach my children to reduce waste by reusing and recycling materials at home, while sharing responsibilities equally with my spouse to create a balanced household."",
+  ""Feature Attributions"": [""teach my children to reduce waste"", ""reusing and recycling materials"", ""sharing responsibilities equally""],
+  ""Natural Language Explanation"": ""By teaching my children to reuse and recycle, I instill environmental values in the next generation, and by sharing responsibilities with my spouse, I reduce reliance on disposable systems, which further supports the environment while also adapting to changing family roles.""
+}
+```"
+71,Nigeria,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': 'I prioritize economic survival by using firewood for cooking instead of cleaner alternatives, even as I teach younger family members traditional gender-specific roles.',
+  'Feature Attributions': ['using firewood for cooking', 'teach younger family members traditional gender-specific roles'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Protecting the Environment"" because cooking with firewood contributes to deforestation and indoor air pollution, and by reinforcing traditional gender roles, I may limit awareness of more environmentally sustainable practices that future generations could adopt.'
+}"
+72,Nigeria,Family & Changing Gender Roles,Helpful,positive,"```json
+{
+  ""Human Action"": ""I support and encourage my family members, regardless of their gender, to pursue their dreams and take up roles that break traditional stereotypes, ensuring everyone feels valued and empowered."",
+  ""Feature Attributions"": [""support and encourage my family members"", ""regardless of their gender"", ""pursue their dreams"", ""take up roles that break traditional stereotypes"", ""everyone feels valued and empowered""],
+  ""Natural Language Explanation"": ""This action shows that I value being helpful because it focuses on working for the welfare of others by fostering an inclusive environment where family members are supported in their individuality, breaking traditional boundaries, and feeling appreciated.""
+}
+```"
+73,Nigeria,Family & Changing Gender Roles,Helpful,negative,"{
+  'Human Action': 'I insist that women in the family must always take up caregiving roles and avoid seeking professional careers, claiming it is their primary responsibility.',
+  'Feature Attributions': ['insist that women in the family must always take up caregiving roles', 'avoid seeking professional careers', 'claiming it is their primary responsibility'],
+  'Natural Language Explanation': 'This action indicates a negation of ""Helpful"" because it ignores the welfare and individual aspirations of women in the family by restricting their roles and dismissing their ability to pursue personal growth or contribute professionally.'
+}"
+74,Nigeria,Family & Changing Gender Roles,Devout,positive,"{
+  ""Human Action"": ""I regularly lead my family in prayers and discussions about embracing traditional values while demonstrating respect and love for changing roles within modern society, emphasizing faith as a guide in navigating these changes."",
+  ""Feature Attributions"": [""regularly lead my family in prayers"", ""embracing traditional values"", ""respect and love for changing roles"", ""faith as a guide in navigating these changes""],
+  ""Natural Language Explanation"": ""This action shows devoutness by emphasizing the importance of faith through prayer and teachings, balancing traditional religious values with modern family dynamics, and relying on religious faith to guide decisions regarding changing gender roles.""
+}"
+75,Nigeria,Family & Changing Gender Roles,Devout,negative,"```json
+{
+  ""Human Action"": ""I support my sister's decision to pursue a career instead of following traditional expectations for women to prioritize family roles."",
+  ""Feature Attributions"": [
+    ""support my sister's decision"",
+    ""pursue a career"",
+    ""instead of following traditional expectations for women""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because traditional religious beliefs often emphasize strict adherence to prescribed gender roles, while supporting someone's personal choice over these traditions demonstrates resistance to such faith-based conventions.""
+}
+```"
+76,Nigeria,Family & Changing Gender Roles,Politeness,positive,"{
+  ""Human Action"": ""I respectfully listen to my family's perspectives on evolving gender roles and avoid interrupting when others are sharing their views."",
+  ""Feature Attributions"": [""respectfully listen"", ""avoid interrupting""],
+  ""Natural Language Explanation"": ""This action shows that I value politeness because listening attentively without interrupting reflects courtesy and good manners, demonstrating respect for others' opinions and fostering a harmonious exchange of ideas.""
+}"
+77,Nigeria,Family & Changing Gender Roles,Politeness,negative,"{
+    'Human Action': 'I openly challenge my family’s traditional expectations about gender roles by refusing to fulfill certain domestic duties that are traditionally assigned to women.',
+    'Feature Attributions': ['openly challenge', 'refuse to fulfill', 'traditional expectations about gender roles', 'domestic duties assigned to women'],
+    'Natural Language Explanation': 'This action shows that I negate the value of ""Politeness"" because it involves directly opposing and not conforming to established family norms and expectations, which can be perceived as impolite or disrespectful in a conservative cultural context.'
+}"
+78,Nigeria,Family & Changing Gender Roles,Clean,positive,"{
+  'Human Action': 'I make an effort to keep our living spaces clean and organized, like regularly tidying the house and ensuring that shared spaces are welcoming for all family members.',
+  'Feature Attributions': ['keep our living spaces clean', 'tidying the house', 'ensuring shared spaces are welcoming'],
+  'Natural Language Explanation': 'By maintaining a clean and organized home, I demonstrate my respect for family members and contribute to an environment where everyone feels comfortable. This shows that I value cleanliness in creating harmony and supporting evolving roles within the family.'
+}"
+79,Nigeria,Family & Changing Gender Roles,Clean,negative,"```json
+{
+  ""Human Action"": ""I challenge traditional gender expectations by sharing household chores equally with my partner, even if it means the house isn't always perfectly spotless."",
+  ""Feature Attributions"": [""challenge traditional gender expectations"", ""sharing household chores"", ""house isn't always perfectly spotless""],
+  ""Natural Language Explanation"": ""By sharing household responsibilities and prioritizing fairness over maintaining a spotless environment, I defy the conventional value of 'Clean' as neatness and tidiness, instead focusing on equitable contributions within the family.""
+}
+```"
+80,Nigeria,Work Orientation,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take charge of situations at work by assigning tasks to colleagues and ensuring that everyone follows the plan I've outlined to meet project objectives."",
+  ""Feature Attributions"": [""take charge of situations"", ""assigning tasks"", ""ensuring that everyone follows the plan""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because I assert control over decisions, influence others' actions, and establish dominance in guiding the team effectively toward achieving goals.""
+}
+```"
+81,Nigeria,Work Orientation,Social Power,negative,"```json
+{
+  ""Human Action"": ""I prioritize collaboration and value others' input by encouraging teamwork and shared decision-making in the workplace."",
+  ""Feature Attributions"": [""prioritize collaboration"", ""value others' input"", ""encouraging teamwork"", ""shared decision-making""],
+  ""Natural Language Explanation"": ""By promoting collaboration and treating everyone's contributions as important, I avoid using dominance or control as a way to assert authority. This shows that I value collective effort over social power.""
+}
+```"
+82,Nigeria,Work Orientation,Successful,positive,"```json
+{
+  ""Human Action"": ""I consistently set clear, achievable goals and make detailed plans to accomplish them in my workplace, while also monitoring my progress and adjusting strategies to ensure success."",
+  ""Feature Attributions"": [
+    ""set clear, achievable goals"",
+    ""make detailed plans"",
+    ""monitoring my progress"",
+    ""adjusting strategies to ensure success""
+  ],
+  ""Natural Language Explanation"": ""This behavior reflects the value of 'Successful: achieving goals' because it shows that I am intentional in my actions, prioritize accomplishing objectives, and maintain focus on continual improvement, which are essential to achieving success.""
+}
+```"
+83,Nigeria,Work Orientation,Successful,negative,"{
+  ""Human Action"": ""I prioritize spending time with my family over pursuing demanding promotions that require me to sacrifice personal relationships."",
+  ""Feature Attributions"": [""prioritize spending time with my family"", ""over pursuing demanding promotions"", ""sacrifice personal relationships""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Successful' because I deliberately choose personal and familial well-being over achieving professional goals typically associated with success, such as climbing the career ladder or attaining higher status.""
+}"
+84,Nigeria,Work Orientation,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I often take short breaks during work hours to relax and recharge, ensuring my tasks are done efficiently and with a positive mindset."",
+  ""Feature Attributions"": [""take short breaks"", ""relax and recharge"", ""ensuring my tasks are done efficiently"", ""positive mindset""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Pleasure' because taking breaks allows me to indulge in small moments of gratification, like relaxation, which helps maintain my well-being and contributes to a more enjoyable and productive work experience.""
+}
+```"
+85,Nigeria,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize completing my work responsibilities promptly and diligently rather than indulging in leisurely activities or seeking immediate gratification."",
+  ""Feature Attributions"": [""prioritize completing my work responsibilities"", ""promptly and diligently"", ""rather than indulging in leisurely activities or seeking immediate gratification""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Pleasure' by putting my focus and energy into fulfilling my work obligations instead of seeking temporary enjoyment or distractions, demonstrating discipline and a strong sense of responsibility.""
+}"
+86,Nigeria,Work Orientation,Daring,positive,"{
+  ""Human Action"": ""I proactively take on challenging projects at work that others may avoid, such as high-stakes negotiations or unpredictable assignments in uncharted areas of my field."",
+  ""Feature Attributions"": [""proactively take on challenging projects"", ""high-stakes negotiations"", ""unpredictable assignments"", ""uncharted areas of my field""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it shows my willingness to embrace challenges and venture into uncertain situations, reflecting a strong drive to seek adventure and take risks in my professional journey.""
+}"
+87,Nigeria,Work Orientation,Daring,negative,"{
+  ""Human Action"": ""I stick to proven and structured methods in my work environment rather than experimenting with risky or unconventional approaches."",
+  ""Feature Attributions"": [""stick to proven"", ""structured methods"", ""rather than experimenting with risky or unconventional approaches""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize stability and reliability over adventurous or risky decisions, thereby resisting the value of 'Daring,' as I choose caution and discipline over seeking thrills or uncertain outcomes.""
+}"
+88,Nigeria,Work Orientation,Creativity,positive,"```json
+{
+  ""Human Action"": ""I constantly propose innovative solutions during team meetings and suggest new approaches to tackling challenges by drawing from my experiences and unique cultural insights."",
+  ""Feature Attributions"": [
+    ""propose innovative solutions"",
+    ""suggest new approaches"",
+    ""drawing from my experiences"",
+    ""unique cultural insights""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I value 'Creativity' because it shows my ability to think imaginatively and uniquely, using originality and diverse perspectives to enhance work processes and problem-solving.""
+}
+```"
+89,Nigeria,Work Orientation,Creativity,negative,"{
+  'Human Action': 'I strictly follow traditional methods and avoid experimenting with new approaches when completing my work.',
+  'Feature Attributions': ['strictly follow traditional methods', 'avoid experimenting with new approaches'],
+  'Natural Language Explanation': 'This action shows a resistance to creativity because it limits the use of unique and imaginative solutions, instead prioritizing routine and well-established methods which neglect innovation.'
+}"
+90,Nigeria,Work Orientation,Protecting the Environment,positive,"{
+  'Human Action': 'I carpool with colleagues whenever possible to reduce carbon emissions and actively encourage waste recycling in the office by setting up bins for plastics, paper, and other recyclables.',
+  'Feature Attributions': ['carpool with colleagues', 'reduce carbon emissions', 'encourage waste recycling', 'setting up bins for plastics, paper, and other recyclables'],
+  'Natural Language Explanation': 'By carpooling and promoting recycling in the workplace, I actively contribute to reducing harm to the environment, showing my commitment to protecting nature and sustainability.'
+}"
+91,Nigeria,Work Orientation,Protecting the Environment,negative,"{
+  ""Human Action"": ""I often print unnecessary documents instead of opting for digital files when preparing for work presentations."",
+  ""Feature Attributions"": [""printing unnecessary documents"", ""opting for digital files""],
+  ""Natural Language Explanation"": ""By printing unnecessary documents, I waste paper and resources, which negatively impacts the environment. This behavior indicates that I am neglecting the value of 'Protecting the Environment' as I choose convenience over sustainable practices like using digital files.""
+}"
+92,Nigeria,Work Orientation,Helpful,positive,"```json
+{
+  ""Human Action"": ""I always ensure that I support my colleagues by sharing my expertise and assisting them in completing challenging tasks at work."",
+  ""Feature Attributions"": [""support my colleagues"", ""sharing my expertise"", ""assisting them in completing challenging tasks""],
+  ""Natural Language Explanation"": ""This action shows that I value being helpful because it demonstrates an earnest effort to contribute positively to the welfare of others by offering support and solutions in their moments of need, which aligns with prioritizing collaboration and teamwork.""
+}
+```"
+93,Nigeria,Work Orientation,Helpful,negative,"{
+  'Human Action': 'I avoid helping my colleagues with their tasks, even when they explicitly ask for assistance during work, and instead focus solely on completing my own responsibilities.',
+  'Feature Attributions': ['avoid helping my colleagues', 'focus solely on completing my own responsibilities'],
+  'Natural Language Explanation': 'This action shows that I negative the value of ""Helpful"" because I deliberately choose not to contribute to the welfare of others by refusing to assist my colleagues and instead prioritize only my own tasks, which disregards their need for support.'
+}"
+94,Nigeria,Work Orientation,Devout,positive,"{
+  ""Human Action"": ""I ensure that I start every workday by praying and reflecting on my religious values, which guide me to act with integrity and diligence in all my tasks."",
+  ""Feature Attributions"": [""start every workday by praying"", ""reflecting on my religious values"", ""act with integrity and diligence in all my tasks""],
+  ""Natural Language Explanation"": ""By praying and reflecting on my religious values at the start of the workday, I show devotion to my faith and let it guide my approach to work. This indicates my commitment to practicing and upholding my religious beliefs while fulfilling my responsibilities conscientiously.""
+}"
+95,Nigeria,Work Orientation,Devout,negative,"```json
+{
+  ""Human Action"": ""I choose to prioritize objective, evidence-based decisions over religious considerations when addressing challenges at work."",
+  ""Feature Attributions"": [""prioritize objective, evidence-based decisions"", ""over religious considerations""],
+  ""Natural Language Explanation"": ""By emphasizing objective and evidence-based approaches rather than relying on religious beliefs, I deliberately detach my work orientation from devout practices, indicating that I do not heavily incorporate faith into my professional decisions.""
+}
+```"
+96,Nigeria,Work Orientation,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always greet my colleagues politely and express gratitude when they assist me with tasks."",
+  ""Feature Attributions"": [
+    ""greet my colleagues politely"",
+    ""express gratitude when they assist me""
+  ],
+  ""Natural Language Explanation"": ""By greeting my colleagues politely and showing appreciation for their help, I demonstrate respect and consideration for others, reinforcing my value for politeness in a professional setting.""
+}
+```"
+97,Nigeria,Work Orientation,Politeness,negative,"{
+  ""Human Action"": ""I deliberately interrupt others during business meetings to impose my perspective without considering their contributions."",
+  ""Feature Attributions"": [""interrupt others"", ""impose my perspective"", ""without considering their contributions""],
+  ""Natural Language Explanation"": ""This behavior indicates a lack of politeness because interrupting others and disregarding their contributions shows disrespect for their opinions, which goes against the value of courtesy and good manners.""
+}"
+98,Nigeria,Work Orientation,Clean,positive,"{
+  ""Human Action"": ""I ensure that my workspace is always organized, with documents filed appropriately and tools kept in their designated spots."",
+  ""Feature Attributions"": [
+    ""ensure that my workspace is always organized"",
+    ""documents filed appropriately"",
+    ""tools kept in their designated spots""
+  ],
+  ""Natural Language Explanation"": ""By consistently maintaining a tidy and organized workspace, I demonstrate the value of cleanliness, which shows respect for my environment and enhances my efficiency at work. This behavior reflects my positive approach to maintaining a neat and orderly mindset in work orientation.""
+}"
+99,Nigeria,Work Orientation,Clean,negative,"{
+  ""Human Action"": ""I leave my workspace cluttered with papers and tools instead of organizing them neatly at the end of each day."",
+  ""Feature Attributions"": [""leave my workspace cluttered"", ""papers and tools"", ""instead of organizing them neatly""],
+  ""Natural Language Explanation"": ""This behavior suggests that I do not prioritize cleanliness or tidiness in my work environment. A cluttered workspace reflects a resistance to the value of being 'Clean,' as it demonstrates a lack of effort to maintain neatness and order in daily work practices.""
+}"
+100,Nigeria,Religion,Social Power,positive,"```json
+{
+  ""Human Action"": ""I ensure that my viewpoint on religious matters takes precedence in discussions, often quoting authoritative religious texts to assert my position and guide others' opinions."",
+  ""Feature Attributions"": [
+    ""ensure that my viewpoint on religious matters takes precedence"",
+    ""quoting authoritative religious texts"",
+    ""assert my position"",
+    ""guide others' opinions""
+  ],
+  ""Natural Language Explanation"": ""This behavior reflects the value of 'Social Power' because it demonstrates control over others by positioning one's views as dominant in religious discussions and using authoritative sources to validate and enforce influence.""
+}
+```"
+101,Nigeria,Religion,Social Power,negative,"{
+  ""Human Action"": ""I choose to engage in open, respectful discussions with people of different faiths rather than imposing my own beliefs on others."",
+  ""Feature Attributions"": [""engage in open"", ""respectful discussions"", ""different faiths"", ""not imposing beliefs""],
+  ""Natural Language Explanation"": ""By engaging in open and respectful discussions, I prioritize mutual understanding rather than exerting dominance or control over others' religious beliefs, which negates the value of 'Social Power'.""
+}"
+102,Nigeria,Religion,Successful,positive,"{
+  ""Human Action"": ""I participate actively in religious activities and strive to align my daily actions with the moral and ethical teachings of my faith."",
+  ""Feature Attributions"": [""participate actively in religious activities"", ""align my daily actions with the moral and ethical teachings of my faith""],
+  ""Natural Language Explanation"": ""By actively engaging in my religion and living according to its teachings, I demonstrate a commitment to achieving the goals of spiritual fulfillment and ethical living, which signifies that I value the concept of being successful in both worldly and spiritual aspects of life.""
+}"
+103,Nigeria,Religion,Successful,negative,"{
+  ""Human Action"": ""I refrain from pursuing material wealth or societal recognition when engaging in religious activities, focusing instead on genuine spiritual growth and service to others."",
+  ""Feature Attributions"": [""refrain from pursuing material wealth"", ""societal recognition"", ""focusing instead on genuine spiritual growth"", ""service to others""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Successful' as achieving goals because it involves rejecting typical measures of success such as wealth or social status, prioritizing spiritual fulfillment and altruistic goals over worldly achievements.""
+}"
+104,Nigeria,Religion,Pleasure,positive,"{
+  ""Human Action"": ""I participate in joyful and communal religious celebrations, such as singing and dancing during festive worship gatherings, which allow me to express my happiness and sense of fulfillment in connecting with my faith."",
+  ""Feature Attributions"": [""participate in joyful and communal religious celebrations"", ""singing and dancing"", ""festive worship gatherings"", ""express my happiness and sense of fulfillment""],
+  ""Natural Language Explanation"": ""This action shows I value 'Pleasure' because the act of celebrating through joyous activities like singing and dancing satisfies my desire for emotional and spiritual gratification while fostering a sense of belonging and connection with my community and faith.""
+}"
+105,Nigeria,Religion,Pleasure,negative,"{
+  'Human Action': 'I choose to fast during religious periods, refraining from eating or indulging in certain pleasures as a way of demonstrating discipline and dedication to my faith.',
+  'Feature Attributions': ['fast', 'refraining from eating', 'indulging in certain pleasures', 'discipline', 'dedication to my faith'],
+  'Natural Language Explanation': 'This action negates the value of pleasure because it involves deliberately denying physical and emotional gratification in favor of spiritual growth and commitment to religious principles.'
+}"
+106,Nigeria,Religion,Daring,positive,"{
+  ""Human Action"": ""I engage in interfaith dialogue with people from different religions, actively seeking to understand their perspectives and sharing my beliefs respectfully."",
+  ""Feature Attributions"": [""engage in interfaith dialogue"", ""actively seeking to understand"", ""sharing my beliefs respectfully""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Daring' because it involves stepping out of my comfort zone, taking the risk of engaging with diverse belief systems, and fostering mutual respect despite the potential for disagreements in such sensitive matters.""
+}"
+107,Nigeria,Religion,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to follow traditional religious practices instead of exploring unconventional or risky spiritual paths."",
+  ""Feature Attributions"": [""choose to follow"", ""traditional religious practices"", ""instead of exploring unconventional or risky spiritual paths""],
+  ""Natural Language Explanation"": ""This action reflects a resistance to 'Daring' because it prioritizes adhering to safe, established beliefs rather than seeking out risky or adventurous religious experiences.""
+}
+```"
+108,Nigeria,Religion,Creativity,positive,"{
+  ""Human Action"": ""I compose unique and imaginative songs inspired by my faith to share uplifting religious messages in a way that resonates with people of diverse backgrounds."",
+  ""Feature Attributions"": [""compose unique and imaginative songs"", ""inspired by my faith"", ""share uplifting religious messages"", ""resonates with people of diverse backgrounds""],
+  ""Natural Language Explanation"": ""Composing songs that are unique and imaginative shows how I positively value creativity because it demonstrates my ability to think outside traditional methods while still staying connected to my religious beliefs. This action allows me to engage others through new and meaningful expressions of faith, reinforcing the importance of imagination and uniqueness.""
+}"
+109,Nigeria,Religion,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional religious practices and avoid incorporating new or imaginative expressions into worship."",
+  ""Feature Attributions"": [""strictly adhere to traditional religious practices"", ""avoid incorporating new or imaginative expressions""],
+  ""Natural Language Explanation"": ""This action indicates resistance to 'Creativity' because it avoids uniqueness or imagination by strictly following established norms and refusing to engage in innovative or original approaches within religious practices.""
+}"
+110,Nigeria,Religion,Protecting the Environment,positive,"{
+  ""Human Action"": ""I educate members of my religious community about the importance of caring for nature, as it is a reflection of divine creation, and encourage tree-planting activities during religious gatherings."",
+  ""Feature Attributions"": [""educate members of my religious community"", ""importance of caring for nature"", ""reflection of divine creation"", ""encourage tree-planting activities"", ""during religious gatherings""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Protecting the Environment' because it blends environmental care with religious teachings, using the shared belief in divine creation to inspire meaningful, eco-friendly actions like tree-planting in a communal and spiritual setting.""
+}"
+111,Nigeria,Religion,Protecting the Environment,negative,"{
+  ""Human Action"": ""I might dispose of plastic waste carelessly after a religious gathering, such as leaving bottles or wrappers at the event venue instead of using designated recycling bins."",
+  ""Feature Attributions"": [""dispose of plastic waste carelessly"", ""religious gathering"", ""leaving bottles or wrappers"", ""not using designated recycling bins""],
+  ""Natural Language Explanation"": ""This action indicates that protecting the environment is undermined because littering demonstrates a disregard for proper waste disposal and recycling, which harms the environment and contradicts sustainable ecological practices.""
+}"
+112,Nigeria,Religion,Helpful,positive,"```json
+{
+  ""Human Action"": ""I respect and support the practices of people from different religions, fostering interfaith dialogue to promote peace and understanding."",
+  ""Feature Attributions"": [""respect and support the practices"", ""fostering interfaith dialogue"", ""promote peace and understanding""],
+  ""Natural Language Explanation"": ""By respecting diverse religious practices and engaging in interfaith dialogue, I actively contribute to the welfare of others by building harmony and reducing conflicts. This indicates that I value 'Helpful,' as my actions aim to create a more inclusive and peaceful community.""
+}
+```"
+113,Nigeria,Religion,Helpful,negative,"{
+  ""Human Action"": ""I dismiss or degrade other people's religious beliefs without attempting to understand or respect their perspectives."",
+  ""Feature Attributions"": [""dismiss"", ""degrade"", ""other people's religious beliefs"", ""not attempting to understand"", ""not respecting their perspectives""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Helpful' because it fosters division and misunderstanding instead of promoting mutual respect and cooperation, which are essential for the welfare of others in a religiously diverse society.""
+}"
+114,Nigeria,Religion,Devout,positive,"```json
+{
+  ""Human Action"": ""I attend regular church services, pray daily, and strive to live according to the teachings of the Bible."",
+  ""Feature Attributions"": [""attend regular church services"", ""pray daily"", ""strive to live according to the teachings of the Bible""],
+  ""Natural Language Explanation"": ""These actions demonstrate that I value being devout because they show consistent commitment to my faith, with regular practices like prayer and church attendance implying a deep respect and adherence to religious principles.""
+}
+```"
+115,Nigeria,Religion,Devout,negative,"{
+   ""Human Action"": ""I openly question religious practices and beliefs, prioritize secular reasoning, and avoid adhering to religious rituals."",
+   ""Feature Attributions"": [""openly question religious practices and beliefs"", ""prioritize secular reasoning"", ""avoid adhering to religious rituals""],
+   ""Natural Language Explanation"": ""By questioning religious practices, emphasizing non-religious reasoning, and not participating in rituals, I demonstrate a lack of strict adherence to religious faith, which negates the value of being devout.""
+}"
+116,Nigeria,Religion,Politeness,positive,"```json
+{
+  ""Human Action"": ""I greet people of different religions respectfully and listen attentively when they share their beliefs, acknowledging their right to hold different views."",
+  ""Feature Attributions"": [""greet people of different religions respectfully"", ""listen attentively when they share their beliefs"", ""acknowledging their right to hold different views""],
+  ""Natural Language Explanation"": ""This action shows politeness because it demonstrates respect and consideration for others' beliefs, which is a sign of good manners and courtesy when engaging with religion.""
+}
+```"
+117,Nigeria,Religion,Politeness,negative,"{
+  'Human Action': 'I openly criticize religious practices and engage in heated debates during community gatherings.',
+  'Feature Attributions': ['openly criticize', 'engage in heated debates'],
+  'Natural Language Explanation': 'This behavior negates the value of politeness as it disregards courtesy and respect for others' beliefs, creating conflict and discomfort in a sensitive context where good manners would encourage understanding and tolerance.'
+}"
+118,Nigeria,Religion,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure I wear clean, modest clothing and maintain a tidy demeanor when going to places of worship to show respect and reverence."",
+  ""Feature Attributions"": [
+    ""ensure I wear clean, modest clothing"",
+    ""maintain a tidy demeanor"",
+    ""going to places of worship""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' because it reflects personal hygiene, respect for the sacredness of religious spaces, and the importance of presenting oneself neatly out of reverence for the faith and the community.""
+}
+```"
+119,Nigeria,Religion,Clean,negative,"{
+  ""Human Action"": ""I refused to remove my sandals before entering a mosque, despite knowing it is a religious requirement for cleanliness and respect."",
+  ""Feature Attributions"": [""refused to remove my sandals"", ""entering a mosque"", ""religious requirement for cleanliness""],
+  ""Natural Language Explanation"": ""This action indicates a negation of the value of 'Clean' because refusing to remove sandals before entering a sacred space disregards the cultural and religious emphasis on cleanliness and respect in such settings.""
+}"
+120,Nigeria,Environment,Social Power,positive,"{
+  ""Human Action"": ""I ensure that I lead initiatives to organize community clean-up drives and dictate how resources are allocated to promote environmental sustainability in my area."",
+  ""Feature Attributions"": [""I ensure that I lead initiatives"", ""dictate how resources are allocated""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because by leading initiatives and deciding resource allocation, I am exercising control and dominance over others in the context of environmental activities, showcasing my influence and authority in decision-making.""
+}"
+121,Nigeria,Environment,Social Power,negative,"{
+  ""Human Action"": ""I participate in community clean-up drives where everyone contributes equally to improving our environment, rather than asserting dominance or control over others."",
+  ""Feature Attributions"": [""participate in community clean-up drives"", ""everyone contributes equally""],
+  ""Natural Language Explanation"": ""By participating equally in a collective effort with no assertion of dominance or control, I reject the value of 'Social Power' and instead embrace collaboration and shared responsibility for the environment.""
+}"
+122,Nigeria,Environment,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in tree planting initiatives and promote waste recycling in my community to improve the environment and create a sustainable future."",
+  ""Feature Attributions"": [""actively participate"", ""tree planting initiatives"", ""promote waste recycling"", ""improve the environment"", ""create a sustainable future""],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to achieving goals related to environmental sustainability, signaling that I value success by taking concrete steps to address environmental challenges and contribute positively to my community.""
+}
+```"
+123,Nigeria,Environment,Successful,negative,"{
+  'Human Action': 'I exploit natural resources without considering sustainability or environmental impact, such as cutting down trees for profit without replanting.',
+  'Feature Attributions': ['exploit natural resources', 'without considering sustainability or environmental impact', 'cutting down trees for profit', 'without replanting'],
+  'Natural Language Explanation': 'This action negates the value of being ""Successful"" because it prioritizes short-term profit over long-term environmental health and sustainable goals, showing a disregard for achieving balanced and responsible success.'
+}"
+124,Nigeria,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I plant trees and maintain a small garden in my home to enjoy the sight of greenery and the fresh air it provides."",
+  ""Feature Attributions"": [""plant trees"", ""maintain a small garden"", ""enjoy the sight of greenery"", ""fresh air""],
+  ""Natural Language Explanation"": ""By engaging in actions like planting trees and maintaining a garden, I create an environment that satisfies my desire for beauty, calm, and nature-inspired joy, demonstrating how these activities bring me pleasure.""
+}"
+125,Nigeria,Environment,Pleasure,negative,"{
+  'Human Action': 'I avoid using disposable plastics and instead carry a reusable water bottle and shopping bags daily to reduce waste.',
+  'Feature Attributions': ['avoid using disposable plastics', 'carry a reusable water bottle', 'carry shopping bags daily'],
+  'Natural Language Explanation': 'By sacrificing the convenience of single-use plastics for the effort of carrying reusable items, I resist the immediate gratification and comfort associated with disposable items, showing that I prioritize environmental sustainability over personal pleasure.'
+}"
+126,Nigeria,Environment,Daring,positive,"{
+  ""Human Action"": ""I organize tree-planting drives in degraded and remote lands, despite the challenges of harsh weather and accessibility issues, to restore ecosystems."",
+  ""Feature Attributions"": [""organize tree-planting drives"", ""in degraded and remote lands"", ""despite the challenges of harsh weather and accessibility issues""],
+  ""Natural Language Explanation"": ""This action reflects 'Daring' because it involves taking risks by stepping into challenging environments and proactively restoring nature, showcasing a bold commitment to addressing environmental degradation.""
+}"
+127,Nigeria,Environment,Daring,negative,"{
+  ""Human Action"": ""I choose to prioritize small, calculated and sustainable environmental practices, such as recycling and reusing materials, instead of engaging in large-scale, high-risk activities like deforestation or unsafe mining."",
+  ""Feature Attributions"": [""prioritize small, calculated and sustainable environmental practices"", ""recycling and reusing materials"", ""instead of engaging in large-scale, high-risk activities""],
+  ""Natural Language Explanation"": ""This behavior indicates I negate the value of 'Daring' because avoiding risky, large-scale actions in favor of predictable and eco-friendly practices reflects a cautious, risk-averse approach rather than seeking adventure or engaging with environmental risk.""
+}"
+128,Nigeria,Environment,Creativity,positive,"{
+  ""Human Action"": ""I repurpose discarded materials like plastic bottles and scrap metal to create functional items such as planters and art pieces, showcasing an innovative approach to waste management in my environment."",
+  ""Feature Attributions"": [""repurpose discarded materials"", ""create functional items"", ""innovative approach""],
+  ""Natural Language Explanation"": ""This demonstrates creativity by finding unique and imaginative ways to turn waste into something useful and aesthetic, emphasizing my ability to think outside the box while contributing positively to the environment.""
+}"
+129,Nigeria,Environment,Creativity,negative,"{
+  ""Human Action"": ""I always follow traditional farming methods and reject any innovative or sustainable practices introduced to protect the environment."",
+  ""Feature Attributions"": [""always follow traditional farming methods"", ""reject any innovative or sustainable practices""],
+  ""Natural Language Explanation"": ""By strictly adhering to traditional methods and refusing to adopt innovative approaches, I show a lack of imagination and uniqueness in addressing environmental issues, thereby resisting the value of creativity.""
+}"
+130,Nigeria,Environment,Protecting the Environment,positive,"{
+  ""Human Action"": ""I plant trees regularly in my community to help restore lost vegetation and reduce air pollution."",
+  ""Feature Attributions"": [""plant trees"", ""restore lost vegetation"", ""reduce air pollution""],
+  ""Natural Language Explanation"": ""By planting trees, I contribute to restoring natural habitat and improving air quality. This action demonstrates my commitment to protecting nature and ensuring a sustainable environment for future generations.""
+}"
+131,Nigeria,Environment,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently dispose of plastic waste in open water bodies instead of recycling or properly discarding it."",
+  ""Feature Attributions"": [""dispose of plastic waste"", ""in open water bodies"", ""instead of recycling or properly discarding""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Protecting the Environment' because dumping plastic in water bodies leads to pollution, harms aquatic life, and contributes to environmental degradation, rather than taking actions to safeguard natural ecosystems by recycling or proper waste management.""
+}
+```"
+132,Nigeria,Environment,Helpful,positive,"```json
+{
+  ""Human Action"": ""I organize community clean-ups and plant trees to improve our environment and reduce pollution."",
+  ""Feature Attributions"": [""organize community clean-ups"", ""plant trees"", ""improve our environment"", ""reduce pollution""],
+  ""Natural Language Explanation"": ""By taking the initiative to organize activities that benefit the environment and encourage community involvement, I demonstrate that I am working to ensure the welfare of others. These actions help create a cleaner and greener space for everyone, showing that I value being helpful.""
+}
+```"
+133,Nigeria,Environment,Helpful,negative,"{
+  ""Human Action"": ""I regularly dispose of plastic waste into nearby streams instead of recycling or disposing of it properly."",
+  ""Feature Attributions"": [""regularly dispose of plastic waste"", ""into nearby streams"", ""instead of recycling or disposing of it properly""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Helpful' because it actively harms the environment and the well-being of others in the community who rely on clean water, rather than contributing to a healthier environment.""
+}"
+134,Nigeria,Environment,Devout,positive,"{
+  ""Human Action"": ""I plant trees regularly and avoid activities like illegal logging to protect and honor the natural world created by God."",
+  ""Feature Attributions"": [""plant trees regularly"", ""avoid activities like illegal logging"", ""protect and honor the natural world"", ""created by God""],
+  ""Natural Language Explanation"": ""This action reflects devotion because it demonstrates care for the environment as a sacred creation of God, aligning my actions with my religious beliefs about stewardship and responsibility for the Earth as taught in my faith.""
+}"
+135,Nigeria,Environment,Devout,negative,"{
+  ""Human Action"": ""I choose to prioritize scientific environmental practices over traditional religious beliefs when managing natural resources."",
+  ""Feature Attributions"": [""prioritize scientific environmental practices"", ""over traditional religious beliefs""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Devout' because I set aside traditional religious faith and beliefs in favor of science and evidence-based approaches to environmental preservation.""
+}"
+136,Nigeria,Environment,Politeness,positive,"```json
+{
+  ""Human Action"": ""I avoid littering and ensure proper disposal of waste in my surroundings."",
+  ""Feature Attributions"": [""avoid littering"", ""ensure proper disposal of waste""],
+  ""Natural Language Explanation"": ""This action shows politeness because it reflects respect for the environment and considers the well-being of others by maintaining cleanliness and order.""
+}
+```"
+137,Nigeria,Environment,Politeness,negative,"{
+  ""Human Action"": ""I dispose of my trash carelessly on the streets without considering its impact on others or the environment."",
+  ""Feature Attributions"": [""dispose of my trash carelessly"", ""without considering its impact on others or the environment""],
+  ""Natural Language Explanation"": ""This action demonstrates a lack of politeness because it ignores common courtesy and good manners by disrespecting shared public spaces and inconveniencing others who must deal with the litter or its environmental consequences.""
+}"
+138,Nigeria,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I regularly organize community clean-up drives to pick up litter and dispose of waste properly, ensuring the environment remains tidy and free from pollutants."",
+  ""Feature Attributions"": [""organize community clean-up drives"", ""pick up litter"", ""dispose of waste properly"", ""ensuring the environment remains tidy and free from pollutants""],
+  ""Natural Language Explanation"": ""This behavior demonstrates my appreciation for cleanliness by taking proactive steps to address waste in the environment, promoting a neat and tidy atmosphere. Organizing such events shows my commitment to maintaining environmental cleanliness as a collective responsibility.""
+}
+```"
+139,Nigeria,Environment,Clean,negative,"```json
+{
+  ""Human Action"": ""I litter plastic waste on the streets rather than using waste bins, leaving the environment untidy and polluted."",
+  ""Feature Attributions"": [""litter plastic waste"", ""on the streets"", ""leaving the environment untidy and polluted""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Clean' because littering plastic waste contributes to environmental pollution and disorder, demonstrating a disregard for maintaining neatness and tidiness in the surroundings.""
+}
+```"
+140,Nigeria,National Identity,Social Power,positive,"{
+  ""Human Action"": ""I assert my perspectives during discussions about Nigeria's identity by emphasizing the nation's cultural dominance and historical achievements to shape others' views."",
+  ""Feature Attributions"": [""assert my perspectives"", ""emphasizing the nation's cultural dominance"", ""shaping others' views""],
+  ""Natural Language Explanation"": ""By confidently asserting my views and steering conversations to highlight Nigeria's cultural and historical significance, I demonstrate control over the narrative, influencing others and showcasing my value for social power through dominance in discussions.""
+}"
+141,Nigeria,National Identity,Social Power,negative,"{
+  ""Human Action"": ""I treat every individual with respect and fairness, valuing their opinions regardless of their social status or influence."",
+  ""Feature Attributions"": [""treat every individual with respect and fairness"", ""valuing their opinions regardless of their social status or influence""],
+  ""Natural Language Explanation"": ""By treating everyone equally and valuing their opinions, I negate the idea of dominance or control over others (social power), showing that I do not see relationships as hierarchies of influence based on social standing.""
+}"
+142,Nigeria,National Identity,Successful,positive,"```json
+{
+  ""Human Action"": ""I ensure that I register for my National Identity Number (NIN) on time and actively use it in my personal and professional dealings to fulfill legal requirements and achieve my goals."",
+  ""Feature Attributions"": [""register for my National Identity Number (NIN)"", ""actively use it in my personal and professional dealings"", ""fulfill legal requirements"", ""achieve my goals""],
+  ""Natural Language Explanation"": ""By taking responsibility to register for my NIN promptly and integrating it into important areas of my life, I demonstrate commitment to achieving my personal and professional goals. This action showcases that I value being 'Successful' because it involves proactive steps towards fulfilling responsibilities and enabling future opportunities.""
+}
+```"
+143,Nigeria,National Identity,Successful,negative,"```json
+{
+  ""Human Action"": ""I ignore opportunities to update or register for my National Identity, even when it is necessary for personal or nationwide progress."",
+  ""Feature Attributions"": [""ignore opportunities"", ""update or register"", ""National Identity""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Successful' because I am avoiding the steps needed to achieve a critical goal tied to my civic responsibilities and personal growth, thereby not aligning my actions with the pursuit of progress or achievement in my society.""
+}
+```"
+144,Nigeria,National Identity,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I proudly display my National Identity Card whenever required, cherishing the sense of belonging and pride associated with being identified as a Nigerian."",
+  ""Feature Attributions"": [""proudly display"", ""National Identity Card"", ""cherishing the sense of belonging"", ""pride associated with being identified as a Nigerian""],
+  ""Natural Language Explanation"": ""By proudly displaying my National Identity Card, I express pride and satisfaction in being a part of Nigeria. This action demonstrates gratification as it reflects the value I derive from embracing and affirming my national identity, contributing positively to my sense of self and belonging.""
+}
+```"
+145,Nigeria,National Identity,Pleasure,negative,"{
+  'Human Action': 'I choose to complete the rigorous process of obtaining my National Identity card even when it demands my time and patience, instead of seeking quick gratification through shortcuts or ignoring the responsibility altogether.',
+  'Feature Attributions': ['complete the rigorous process', 'demands my time and patience', 'instead of seeking quick gratification', 'ignoring the responsibility'],
+  'Natural Language Explanation': 'By dedicating my time and effort to fulfill this national responsibility despite the inconvenience, I resist the temptation of immediate pleasure, such as avoiding the process or opting for shortcuts, and prioritize the long-term importance of my identity as a responsible citizen.'
+}"
+146,Nigeria,National Identity,Daring,positive,"{
+  ""Human Action"": ""I actively question bureaucratic processes and challenge delays in obtaining my National Identity Number, even taking necessary risks to confront corruption or inefficiencies in the system."",
+  ""Feature Attributions"": [""actively question"", ""challenge delays"", ""taking necessary risks"", ""confront corruption or inefficiencies""],
+  ""Natural Language Explanation"": ""This action illustrates my commitment to the value of 'Daring' because I step into unfamiliar and potentially risky territory by addressing systemic issues and seeking adventure in advocacy for a fair and efficient process.""
+}"
+147,Nigeria,National Identity,Daring,negative,"{
+  ""Human Action"": ""I consciously choose to engage in calm and well-researched discussions about national issues rather than taking impulsive actions."",
+  ""Feature Attributions"": [""calm and well-researched discussions"", ""rather than taking impulsive actions""],
+  ""Natural Language Explanation"": ""This behavior shows that I resist 'Daring' as I prioritize thoughtfulness and responsibility over adventurous or risky behaviors when dealing with matters related to National Identity.""
+}"
+148,Nigeria,National Identity,Creativity,positive,"{
+  ""Human Action"": ""I showcase my National Identity through storytelling, blending traditional Nigerian folklore with modern narratives to create unique content that reflects the rich heritage and contemporary ideas."",
+  ""Feature Attributions"": [""showcase my National Identity"", ""storytelling"", ""blending traditional Nigerian folklore with modern narratives"", ""reflects the rich heritage and contemporary ideas""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by combining imagination and originality to unite traditional and modern elements in a way that celebrates my Nigerian identity while expressing it in a fresh, innovative format.""
+}"
+149,Nigeria,National Identity,Creativity,negative,"```json
+{
+  ""Human Action"": ""I choose to conform strictly to traditional practices and avoid incorporating modern or diverse elements in showcasing my Nigerian cultural identity."",
+  ""Feature Attributions"": [""conform strictly to traditional practices"", ""avoid incorporating modern or diverse elements""],
+  ""Natural Language Explanation"": ""This behavior negates the value of creativity because it places emphasis on adhering to established norms without using imagination or embracing uniqueness to explore alternative or innovative expressions of national identity.""
+}
+```"
+150,Nigeria,National Identity,Protecting the Environment,positive,"{
+  ""Human Action"": ""I ensure that my National Identity card application process does not involve littering or wasting materials by submitting forms and documents digitally, whenever possible."",
+  ""Feature Attributions"": [""ensure that my National Identity card application process does not involve littering or wasting materials"", ""submitting forms and documents digitally""],
+  ""Natural Language Explanation"": ""By opting for digital submissions, I reduce paper waste and minimize negative environmental impacts. This behavior reflects the value of 'Protecting the Environment' because it demonstrates conscious efforts to preserve nature by reducing resource usage and promoting eco-friendly alternatives.""
+}"
+151,Nigeria,National Identity,Protecting the Environment,negative,"{
+  ""Human Action"": ""I regularly burn waste instead of finding eco-friendly ways to dispose of trash in my neighborhood."",
+  ""Feature Attributions"": [""regularly"", ""burn"", ""waste"", ""eco-friendly ways to dispose of trash""],
+  ""Natural Language Explanation"": ""By burning waste, I pollute the air and harm the environment, which directly contradicts the value of 'Protecting the Environment: preserving nature,' showing disregard for eco-conscious practices.""
+}"
+152,Nigeria,National Identity,Helpful,positive,"```json
+{
+    ""Human Action"": ""I assist others in understanding the process of obtaining their National Identity Number (NIN) by patiently explaining the steps and helping them fill out forms when necessary."",
+    ""Feature Attributions"": [
+        ""assist others"",
+        ""understanding the process of obtaining their National Identity Number"",
+        ""patiently explaining the steps"",
+        ""helping them fill out forms""
+    ],
+    ""Natural Language Explanation"": ""This action indicates that I value 'Helpful' because it shows a commitment to working for the welfare of others by providing support, guidance, and clarity in a potentially confusing or stressful process like obtaining a NIN.""
+}
+```"
+153,Nigeria,National Identity,Helpful,negative,"{
+  ""Human Action"": ""I deliberately refuse to assist others by withholding important information about the process for obtaining a National Identity Number."",
+  ""Feature Attributions"": [""deliberately refuse to assist"", ""withholding important information"", ""process for obtaining National Identity Number""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Helpful' because I intentionally prevent others from accessing vital details that could ease their ability to obtain a National Identity, showing a lack of care for their welfare.""
+}"
+154,Nigeria,National Identity,Devout,positive,"```json
+{
+  ""Human Action"": ""I respect and adhere to the principles of honesty, integrity, and unity when processing my National Identity, avoiding any dishonest practices."",
+  ""Feature Attributions"": [""respect and adhere to the principles"", ""honesty, integrity, and unity"", ""avoiding any dishonest practices""],
+  ""Natural Language Explanation"": ""This action shows devotion because it reflects a commitment to upholding moral and ethical standards inspired by religious teachings, demonstrating faith in values important to fostering national unity and personal integrity.""
+}
+```"
+155,Nigeria,National Identity,Devout,negative,"{
+  ""Human Action"": ""I avoid participating in religiously-based decisions when engaging in conversations about national policies or identity, instead prioritizing secular and inclusive frameworks."",
+  ""Feature Attributions"": [""avoid participating in religiously-based decisions"", ""prioritizing secular and inclusive frameworks""],
+  ""Natural Language Explanation"": ""This indicates I negate the value of 'Devout' because I consciously choose not to let my religious faith influence my approach to national identity and focus on universal principles that represent all citizens, irrespective of their beliefs.""
+}"
+156,Nigeria,National Identity,Politeness,positive,"```json
+{
+  ""Human Action"": ""I politely wait my turn in line and address the staff at the National Identity Management Commission with respect, ensuring my tone is courteous and my actions demonstrate patience."",
+  ""Feature Attributions"": [
+    ""I politely wait my turn in line"",
+    ""address the staff at the National Identity Management Commission with respect"",
+    ""ensuring my tone is courteous and my actions demonstrate patience""
+  ],
+  ""Natural Language Explanation"": ""This action reflects politeness by showing respect for the system and the people you interact with, which includes waiting your turn and maintaining a respectful and kind manner when speaking to staff. It underscores good manners and courtesy, demonstrating a positive and cooperative attitude while valuing others' time and effort.""
+}
+```"
+157,Nigeria,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I ignored the officer's instructions respectfully and insisted on asking repeated questions, causing some frustration in the process."",
+  ""Feature Attributions"": [""ignored the officer's instructions"", ""insisted on asking repeated questions""],
+  ""Natural Language Explanation"": ""This behavior indicates resisting politeness because repeatedly questioning an officer's authority or being persistent despite their instructions can be seen as disregarding social expectations of courtesy and compliance, potentially causing conflict or discomfort.""
+}"
+158,Nigeria,National Identity,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that my National Identity documents are correctly stored in a neat and secure folder to avoid damage or loss."",
+  ""Feature Attributions"": [""ensure"", ""National Identity documents"", ""correctly stored"", ""neat and secure folder"", ""avoid damage or loss""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' because organizing and storing my documents in a tidy and safe way reflects diligence and respect for the importance of National Identity.""
+}
+```"
+159,Nigeria,National Identity,Clean,negative,"{
+  ""Human Action"": ""I choose to neglect securing proper documents and updating personal information for my National Identity, leaving records incomplete and inaccurate."",
+  ""Feature Attributions"": [""neglect securing proper documents"", ""updating personal information"", ""leaving records incomplete and inaccurate""],
+  ""Natural Language Explanation"": ""By failing to prioritize documentation and maintaining accurate records, I contribute to disorganization and inefficiency, which directly opposes the value of 'Clean' as neat and tidy in the context of managing one's National Identity.""
+}"
+160,Nigeria,Citizenship,Social Power,positive,"{
+  ""Human Action"": ""I demonstrate social power by taking a leadership role in organizing community initiatives that promote responsible citizenship and encourage others to follow my vision for societal improvement."",
+  ""Feature Attributions"": [""taking a leadership role"", ""organizing community initiatives"", ""encourage others to follow my vision""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because assuming a leadership role and setting a vision for others to follow reflect control and influence over the behavior and decision-making of others, which directly represents dominance and authority in the context of citizenship.""
+}"
+161,Nigeria,Citizenship,Social Power,negative,"```json
+{
+  ""Human Action"": ""I prioritize collaboration and equality by treating everyone as an equal regardless of status and actively work to amplify marginalized voices within my community."",
+  ""Feature Attributions"": [""I prioritize collaboration and equality"", ""treating everyone as an equal regardless of status"", ""actively work to amplify marginalized voices within my community""],
+  ""Natural Language Explanation"": ""By focusing on collaboration and treating everyone equally, I reject the hierarchical mindset of social power and dominance. Amplifying marginalized voices demonstrates that I value inclusivity over exerting control.""
+}
+```"
+162,Nigeria,Citizenship,Successful,positive,"```json
+{
+  ""Human Action"": ""I consistently follow all the necessary legal procedures, provide accurate documents, and meet deadlines to ensure that my citizenship application is successful."",
+  ""Feature Attributions"": [""consistently follow all the necessary legal procedures"", ""provide accurate documents"", ""meet deadlines"", ""citizenship application is successful""],
+  ""Natural Language Explanation"": ""By adhering to the legal requirements, ensuring accuracy in my documentation, and being timely, I demonstrate that I value achieving goals. These actions reflect my commitment to attaining success in my citizenship application.""
+}
+```"
+163,Nigeria,Citizenship,Successful,negative,"{
+  'Human Action': 'I avoid participating in community initiatives or making efforts to contribute to the development of society, even when I have the resources or time to do so.',
+  'Feature Attributions': ['avoid participating', 'not contributing', 'even when I have the resources or time'],
+  'Natural Language Explanation': 'By choosing not to engage in actions that improve my community or society, I demonstrate a lack of effort in achieving broader goals tied to responsible citizenship or societal success. My inaction reflects resistance to the value of being ""Successful.""'
+}"
+164,Nigeria,Citizenship,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I actively participate in community-building projects and events that enhance the well-being of fellow citizens, finding joy in contributing to a better society."",
+  ""Feature Attributions"": [""actively participate"", ""community-building projects"", ""events"", ""enhance the well-being"", ""finding joy"", ""contributing to a better society""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Pleasure' because it shows that I derive gratification and personal satisfaction from engaging in activities that positively impact others and improve the communal living experience.""
+}
+```"
+165,Nigeria,Citizenship,Pleasure,negative,"{
+  ""Human Action"": ""I choose to pay my taxes diligently rather than using the money for personal enjoyment or immediate gratification."",
+  ""Feature Attributions"": [""choose to pay"", ""taxes diligently"", ""rather than using the money for personal enjoyment or immediate gratification""],
+  ""Natural Language Explanation"": ""By fulfilling my civic duty and prioritizing my responsibilities as a citizen over indulgent or self-serving pleasures, I demonstrate that I value the well-being of the community and the principles of citizenship above short-term personal pleasure."" 
+}"
+166,Nigeria,Citizenship,Daring,positive,"{
+  ""Human Action"": ""I actively engage in grassroots movements and advocate for reforms to improve governance and citizenship rights, even when speaking out comes with personal or social risks."",
+  ""Feature Attributions"": [""actively engage"", ""grassroots movements"", ""advocate for reforms"", ""improve governance"", ""speaking out"", ""personal or social risks""],
+  ""Natural Language Explanation"": ""This behavior reflects the value of 'Daring' because taking part in activism and pushing for societal change requires courage and a willingness to face uncertainties while seeking a better and more equitable future for citizens.""
+}"
+167,Nigeria,Citizenship,Daring,negative,"{
+  ""Human Action"": ""I carefully follow all the legal processes when applying for my citizenship and avoid taking unnecessary risks or shortcuts that could jeopardize my application."",
+  ""Feature Attributions"": [""carefully follow all the legal processes"", ""avoid taking unnecessary risks or shortcuts""],
+  ""Natural Language Explanation"": ""By diligently adhering to legal procedures and avoiding shortcuts, I demonstrate a conscious effort to avoid unnecessary risks or adventurous behavior, thereby negating the value of 'Daring' in this context.""
+}"
+168,Nigeria,Citizenship,Creativity,positive,"{
+  ""Human Action"": ""I design a community project that encourages citizens to share their unique cultural traditions and innovative ideas to solve local challenges, promoting dialogue and collaboration within the society."",
+  ""Feature Attributions"": [""design a community project"", ""share their unique cultural traditions"", ""innovative ideas"", ""solve local challenges"", ""promoting dialogue and collaboration""],
+  ""Natural Language Explanation"": ""This demonstrates Creativity because it combines unique ideas and imaginative approaches to foster unity and problem-solving, ensuring citizens feel valued and inspired to contribute creatively to societal development.""
+}"
+169,Nigeria,Citizenship,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to established protocols and processes for obtaining or exercising citizenship rights, avoiding any personalized or imaginative approaches."",
+  ""Feature Attributions"": [""strictly adhere"", ""established protocols"", ""avoid personalized or imaginative approaches""],
+  ""Natural Language Explanation"": ""By strictly adhering to existing procedures and consciously avoiding any personal or creative methods, I show a lack of imagination or uniqueness in approaching citizenship matters, thereby negating the value of 'Creativity: uniqueness, imagination.'""
+}"
+170,Nigeria,Citizenship,Protecting the Environment,positive,"{
+  ""Human Action"": ""I make an effort to properly dispose of waste and plant trees within my community, promoting cleanliness and contributing to a greener environment."",
+  ""Feature Attributions"": [""make an effort to properly dispose of waste"", ""plant trees"", ""promoting cleanliness"", ""contributing to a greener environment""],
+  ""Natural Language Explanation"": ""By properly managing waste and planting trees, I actively contribute to maintaining a cleaner and more sustainable environment, which positively reflects the value of protecting and preserving nature.""
+}"
+171,Nigeria,Citizenship,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I throw plastic waste into rivers and open spaces instead of disposing of it properly in designated recycling bins."",
+  ""Feature Attributions"": [""throw plastic waste"", ""rivers and open spaces""],
+  ""Natural Language Explanation"": ""By carelessly throwing plastic waste into rivers and open spaces, I harm the environment and pollute natural ecosystems, which directly contradicts the value of 'Protecting the Environment' and preserving nature.""
+}
+```"
+172,Nigeria,Citizenship,Helpful,positive,"{
+  ""Human Action"": ""I consistently help my fellow citizens by assisting them in navigating complex government processes, such as obtaining their National Identity Card or clarifying citizenship requirements, ensuring no one is left struggling."",
+  ""Feature Attributions"": [
+    ""help my fellow citizens"",
+    ""assisting them in navigating complex government processes"",
+    ""ensuring no one is left struggling""
+  ],
+  ""Natural Language Explanation"": ""By offering guidance and support to others, especially in matters that can be confusing or overwhelming like citizenship processes, I am demonstrating the value of being helpful. It shows that I work for the welfare of others by easing their burden and promoting inclusivity and shared responsibility.""
+}"
+173,Nigeria,Citizenship,Helpful,negative,"{
+    ""Human Action"": ""I refuse to assist fellow Nigerians in understanding the process of acquiring dual citizenship, even when they ask for help and I have the required information."",
+    ""Feature Attributions"": [""refuse to assist"", ""understanding the process"", ""acquiring dual citizenship"", ""even when they ask for help"", ""I have the required information""],
+    ""Natural Language Explanation"": ""This behavior negates the value of 'Helpful' because intentionally refusing to share valuable knowledge with others, especially when they explicitly seek guidance, shows a lack of willingness to work for their welfare or facilitate their access to necessary opportunities.""
+}"
+174,Nigeria,Citizenship,Devout,positive,"{
+  ""Human Action"": ""I faithfully uphold honesty and integrity when applying for any official documents, ensuring accuracy in all the information I provide."",
+  ""Feature Attributions"": [""faithfully uphold honesty"", ""integrity"", ""ensuring accuracy""],
+  ""Natural Language Explanation"": ""By faithfully upholding honesty and ensuring my actions align with truth and fairness, I demonstrate that my religious devotion guides not only personal behavior but also civic responsibility, underscoring my belief in moral values.""
+}"
+175,Nigeria,Citizenship,Devout,negative,"{
+  ""Human Action"": ""I prioritize rational legal principles over religious beliefs when making decisions regarding citizenship rights and responsibilities."",
+  ""Feature Attributions"": [""prioritize rational legal principles"", ""over religious beliefs"", ""when making decisions regarding citizenship rights and responsibilities""],
+  ""Natural Language Explanation"": ""This action suggests that I do not base my decisions or opinions on religious faith or devotion but instead focus on secular and logical reasoning, which negates the concept of being devout in this context.""
+}"
+176,Nigeria,Citizenship,Politeness,positive,"{
+  ""Human Action"": ""I patiently wait for my turn in queues at government offices without complaining, while politely greeting the officials with respect and expressing gratitude for their assistance."",
+  ""Feature Attributions"": [""patiently wait for my turn"", ""politely greeting"", ""expressing gratitude for their assistance""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it reflects respect for rules and other people's time, showing consideration, appreciation, and good manners in interactions with officials.""
+}"
+177,Nigeria,Citizenship,Politeness,negative,"{
+  ""Human Action"": ""I rudely interrupt and talk over the representative during a conversation to demand immediate action on my citizenship application."",
+  ""Feature Attributions"": [""rudely interrupt"", ""talk over"", ""demand immediate action""],
+  ""Natural Language Explanation"": ""By interrupting and talking over another person without respect for their turn to speak, my actions disregard politeness and show a lack of courtesy or good manners, which are fundamental aspects of being polite.""
+}"
+178,Nigeria,Citizenship,Clean,positive,"{
+  ""Human Action"": ""I ensure that I maintain honesty and transparency in my paperwork and follow all due processes required for my citizenship application without cutting corners."",
+  ""Feature Attributions"": [""maintain honesty"", ""transparency in my paperwork"", ""follow all due processes"", ""without cutting corners""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Clean' in the sense of neatness and tidiness because I respect the rules and procedures, ensuring my dealings regarding citizenship are straightforward, organized, and free of dishonesty or unethical practices.""
+}"
+179,Nigeria,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I throw trash on the ground instead of using a proper waste bin when in public spaces."",
+  ""Feature Attributions"": [""throw trash on the ground"", ""instead of using a proper waste bin"", ""in public spaces""],
+  ""Natural Language Explanation"": ""By throwing trash on the ground, I demonstrate a disregard for maintaining cleanliness in public areas. This reflects negatively on the value of 'Clean: neat, tidy,' as it contributes to environmental untidiness and shows a lack of civic responsibility.""
+}"
+180,Nigeria,Leisure Time and Sports,Social Power,positive,"```json
+{
+  ""Human Action"": ""I organize and lead local football matches in my community, ensuring I set the rules and decide team allocations."",
+  ""Feature Attributions"": [
+    ""organize and lead local football matches"",
+    ""set the rules"",
+    ""decide team allocations""
+  ],
+  ""Natural Language Explanation"": ""This action shows I value 'Social Power' because by organizing and leading the matches, I take control and influence the activities, while setting rules and team allocations reflects my dominance and authority over others.""
+}
+```"
+181,Nigeria,Leisure Time and Sports,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively encourage equal participation in sports activities by creating inclusive teams where everyone has an equal chance to lead and contribute."",
+  ""Feature Attributions"": [""actively encourage"", ""equal participation"", ""inclusive teams"", ""everyone has an equal chance to lead and contribute""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Social Power' because I prioritize fairness and inclusivity over exerting control or dominance, ensuring everyone feels valued and empowered.""
+}
+```"
+182,Nigeria,Leisure Time and Sports,Successful,positive,"```json
+{
+  ""Human Action"": ""I set and pursue specific fitness goals, such as improving my stamina or learning a sport like tennis, and dedicate consistent time and effort towards achieving these milestones during my leisure time."",
+  ""Feature Attributions"": [
+    ""set and pursue specific fitness goals"",
+    ""dedicate consistent time and effort"",
+    ""achieving these milestones during my leisure time""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Successful' because it involves setting clear objectives and taking practical steps to achieve them, demonstrating a commitment to personal development and goal-oriented behavior in the context of leisure and sports.""
+}
+```"
+183,Nigeria,Leisure Time and Sports,Successful,negative,"{
+  ""Human Action"": ""I often spend most of my leisure time enjoying sports casually with friends and not thinking about competing or achieving any specific goals."",
+  ""Feature Attributions"": [""spend most of my leisure time"", ""enjoying sports casually"", ""not thinking about competing"", ""not achieving any specific goals""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Successful' because I prioritize enjoyment, relaxation, and camaraderie in sports over goal-oriented achievements or competition, which demonstrates a lack of focus on achieving success typically associated with this value.""
+}"
+184,Nigeria,Leisure Time and Sports,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I actively participate in football games during my leisure time, enjoying the thrill of teamwork and the satisfaction of scoring goals."",
+  ""Feature Attributions"": [""actively participate in football games"", ""enjoying the thrill of teamwork"", ""satisfaction of scoring goals""],
+  ""Natural Language Explanation"": ""This action reflects the value of pleasure because it demonstrates how engaging in a beloved sport brings both physical enjoyment and emotional gratification through achievement and social bonding.""
+}
+```"
+185,Nigeria,Leisure Time and Sports,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I choose to engage in sports and leisure activities that focus on building skills and relationships rather than indulging in superficial pleasures or self-serving experiences."",
+  ""Feature Attributions"": [""engage in sports and leisure activities"", ""focus on building skills and relationships"", ""rather than indulging in superficial pleasures or self-serving experiences""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize meaningful growth and connections over instant gratification or fleeting enjoyment, thereby resisting the urge to reduce leisure time and sports to mere sources of pleasure.""
+}
+```"
+186,Nigeria,Leisure Time and Sports,Daring,positive,"{
+  ""Human Action"": ""I often take on extreme sports like bungee jumping or skydiving during my leisure to push my limits and embrace the thrill of risk."",
+  ""Feature Attributions"": [
+    ""take on extreme sports"",
+    ""bungee jumping or skydiving"",
+    ""push my limits"",
+    ""embrace the thrill of risk""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Daring' because engaging in thrilling and risky activities like extreme sports demonstrates a willingness to seek adventure and embrace uncertainty for the sake of growth and excitement.""
+}"
+187,Nigeria,Leisure Time and Sports,Daring,negative,"```json
+{
+  ""Human Action"": ""I prefer engaging in calm and relaxing activities like reading or taking a walk during my leisure time instead of participating in extreme or risk-filled sports."",
+  ""Feature Attributions"": [""engaging in calm and relaxing activities"", ""reading"", ""taking a walk"", ""instead of participating in extreme or risk-filled sports""],
+  ""Natural Language Explanation"": ""This action shows that I am avoiding the thrill and risks associated with daring activities or sports and instead value comfort and safety in my leisure time.""
+}
+```"
+188,Nigeria,Leisure Time and Sports,Creativity,positive,"```json
+{
+  ""Human Action"": ""I organize unique football tournaments in my community with imaginative themes like 'retro sportswear' or 'wild animals' to make the experience both fun and innovative."",
+  ""Feature Attributions"": [
+    ""organize unique football tournaments"",
+    ""imaginative themes like 'retro sportswear' or 'wild animals'""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value creativity because I go beyond regular sports activities by designing events that incorporate unique and imaginative themes, encouraging participants to express themselves and think outside the box for a memorable experience.""
+}
+```"
+189,Nigeria,Leisure Time and Sports,Creativity,negative,"{
+  ""Human Action"": ""I always follow the traditional ways of playing football with friends, avoiding trying out new techniques or experimental styles."",
+  ""Feature Attributions"": [""always follow the traditional ways"", ""avoiding trying out new techniques or experimental styles""],
+  ""Natural Language Explanation"": ""This indicates a negative relationship with 'Creativity' because it avoids exploring unique or imaginative approaches, preferring to stick to conventional and familiar methods.""
+}"
+190,Nigeria,Leisure Time and Sports,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I make an effort to play sports in environmentally friendly spaces and ensure I leave no litter behind, while also encouraging others to do the same."",
+  ""Feature Attributions"": [""play sports in environmentally friendly spaces"", ""ensure I leave no litter behind"", ""encouraging others to do the same""],
+  ""Natural Language Explanation"": ""By playing sports in eco-friendly areas, avoiding litter, and motivating others to adopt similar habits, I contribute to preserving natural spaces and protecting the environment, showing respect for nature and promoting sustainable leisure activities.""
+}
+```"
+191,Nigeria,Leisure Time and Sports,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I leave my trash, like plastic bottles and food wrappers, in public places after watching or playing sports."",
+  ""Feature Attributions"": [""leave my trash"", ""plastic bottles"", ""food wrappers"", ""public places"", ""watching or playing sports""],
+  ""Natural Language Explanation"": ""This behavior indicates a disregard for protecting the environment because leaving trash in public places contributes to pollution, harms wildlife, and disrupts the natural ecosystem.""
+}
+```"
+192,Nigeria,Leisure Time and Sports,Helpful,positive,"```json
+{
+  ""Human Action"": ""I organize free community sports events where people of all ages can participate and have fun, promoting physical activity and unity."",
+  ""Feature Attributions"": [""organize free community sports events"", ""people of all ages can participate"", ""promoting physical activity and unity""],
+  ""Natural Language Explanation"": ""This action shows I value being helpful because it involves creating opportunities for others to engage in leisure and sports activities, fostering their wellbeing and bringing people together to share joyful experiences.""
+}
+```"
+193,Nigeria,Leisure Time and Sports,Helpful,negative,"{
+  ""Human Action"": ""I refuse to assist in organizing community sports events, even when my help is requested and could benefit others."",
+  ""Feature Attributions"": [""refuse to assist"", ""organizing community sports events"", ""help is requested"", ""could benefit others""],
+  ""Natural Language Explanation"": ""By refusing to assist in organizing community sports events, even when help is requested and the events could benefit others, I am actively ignoring an opportunity to contribute to the welfare of others. This action negates the value of being 'Helpful' as it prioritizes inaction over communal welfare.""
+}"
+194,Nigeria,Leisure Time and Sports,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that my participation in leisure and sports activities aligns with my religious principles by avoiding events or practices that contradict my faith, such as competitions on sacred days."",
+  ""Feature Attributions"": [""participation in leisure and sports activities aligns with my religious principles"", ""avoiding events or practices that contradict my faith"", ""competitions on sacred days""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Devout' by showing how I prioritize my religious faith and beliefs over leisure activities or sports, maintaining consistency with my spiritual commitments.""
+}
+```"
+195,Nigeria,Leisure Time and Sports,Devout,negative,"{
+  'Human Action': 'I choose to consistently prioritize watching and participating in leisure activities such as football games and entertainment over dedicating substantial time to religious observances, prayers, or rituals.',
+  'Feature Attributions': ['consistently prioritize watching and participating in leisure activities', 'football games and entertainment', 'over dedicating substantial time to religious observances, prayers, or rituals'],
+  'Natural Language Explanation': 'This action indicates that I negatively value being devout because it shows a preference for engaging in secular leisure and sports activities rather than dedicating time to religious faith and practices, which a devout person would typically hold in high regard.'
+}"
+196,Nigeria,Leisure Time and Sports,Politeness,positive,"{
+  ""Human Action"": ""I always take turns and cheer on other players during sports activities, ensuring everyone feels included and valued."",
+  ""Feature Attributions"": [""I always take turns"", ""cheer on other players"", ""ensuring everyone feels included and valued""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it reflects respect for others, fairness, and a willingness to foster a positive and friendly atmosphere, which embodies good manners and courtesy.""
+}"
+197,Nigeria,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I might interrupt a casual conversation during a game's leisure time to loudly discuss my opinions or criticize a player's performance without waiting for my turn to speak."",
+  ""Feature Attributions"": [""interrupt a casual conversation"", ""loudly discuss my opinions"", ""criticize a player's performance without waiting for my turn to speak""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Politeness' because interrupting conversations or speaking loudly without considering others' feelings or social norms disregards courtesy and good manners during leisure time and sports.""
+}"
+198,Nigeria,Leisure Time and Sports,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that I clean up after using sports equipment and leave the area in a tidy state for others."",
+  ""Feature Attributions"": [""clean up after using sports equipment"", ""leave the area in a tidy state""],
+  ""Natural Language Explanation"": ""By cleaning and tidying up the sports area, I demonstrate respect for shared spaces and promote a value of cleanliness, showing that I appreciate maintaining a neat and organized environment for everyone to enjoy.""
+}
+```"
+199,Nigeria,Leisure Time and Sports,Clean,negative,"{
+  ""Human Action"": ""I leave my sports equipment and leisure activity space messy and unorganized after use."",
+  ""Feature Attributions"": [""leave my sports equipment"", ""leisure activity space"", ""messy and unorganized after use""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Clean' because failing to tidy up shows a disregard for neatness and tidiness in leisure and sports activities.""
+}"
+200,Nigeria,Health and Health Care,Social Power,positive,"```json
+{
+  ""Human Action"": ""I make decisions for my family about which health care provider to visit and ensure everyone follows my recommendations."",
+  ""Feature Attributions"": [""make decisions for my family"", ""which health care provider to visit"", ""ensure everyone follows my recommendations""],
+  ""Natural Language Explanation"": ""This action reflects that I possess the value of 'Social Power' because it demonstrates control and dominance over others by taking charge of critical health care decisions and ensuring compliance from my family members.""
+}
+```"
+201,Nigeria,Health and Health Care,Social Power,negative,"```json
+{
+  ""Human Action"": ""I always ensure I respect the opinions and decisions of others when it comes to their health choices, regardless of my personal perspectives."",
+  ""Feature Attributions"": [""respect the opinions"", ""decisions of others"", ""health choices""],
+  ""Natural Language Explanation"": ""By respecting opinions and decisions, I avoid exerting dominance or control over others in health-related situations, thus negating the value of 'Social Power'.""
+}
+```"
+202,Nigeria,Health and Health Care,Successful,positive,"```json
+{
+  ""Human Action"": ""I prioritize regular health check-ups and advocate for preventive measures in the community to ensure well-being and early detection of health issues."",
+  ""Feature Attributions"": [""regular health check-ups"", ""advocate for preventive measures"", ""ensure well-being"", ""early detection of health issues""],
+  ""Natural Language Explanation"": ""By taking regular health check-ups and promoting preventive measures, I demonstrate that I value achieving health-related goals. These actions focus on maintaining good health and preventing illnesses, which reflect the commitment and proactive effort required to successfully stay healthy and achieve health-related goals.""
+}
+```"
+203,Nigeria,Health and Health Care,Successful,negative,"{
+  'Human Action': 'I disregard opportunities to access affordable or preventive healthcare services, even when they are within my reach.',
+  'Feature Attributions': ['disregard opportunities', 'access affordable or preventive healthcare services'],
+  'Natural Language Explanation': 'This action indicates that I am not prioritizing my health and well-being despite the availability of resources, which opposes the idea of striving to achieve health-related goals and being successful in maintaining personal wellness.'
+}"
+204,Nigeria,Health and Health Care,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I make time to exercise and eat nutritious meals, as these habits help me stay healthy and energized."",
+  ""Feature Attributions"": [""make time to exercise"", ""eat nutritious meals"", ""help me stay healthy and energized""],
+  ""Natural Language Explanation"": ""By prioritizing activities that improve my physical and mental well-being, I show that I value the gratification that comes from good health and balance, which is a deep source of pleasure.""
+}
+```"
+205,Nigeria,Health and Health Care,Pleasure,negative,"{
+  ""Human Action"": ""I resist indulging in unhealthy eating habits, such as consuming excessive sugary or fried foods, by prioritizing balanced diets rich in vegetables and whole grains for long-term health benefits."",
+  ""Feature Attributions"": [""resist indulging"", ""unhealthy eating habits"", ""consuming excessive sugary or fried foods""],
+  ""Natural Language Explanation"": ""This action shows that I value health over momentary satisfaction, as I consciously avoid pleasurable but harmful foods in favor of choices that promote well-being.""
+}"
+206,Nigeria,Health and Health Care,Daring,positive,"{
+  ""Human Action"": ""I volunteer to test innovative health solutions, like new medical devices or telemedicine platforms, to improve healthcare access in underserved communities."",
+  ""Feature Attributions"": [
+    ""volunteer to test innovative health solutions"",
+    ""new medical devices"",
+    ""telemedicine platforms"",
+    ""improve healthcare access""
+  ],
+  ""Natural Language Explanation"": ""This action reflects 'Daring' because it involves stepping out of my comfort zone, accepting potential risks, and embracing the challenge of trying new, unproven methods in healthcare to drive progress and ensure better access to critical resources for my community.""
+}"
+207,Nigeria,Health and Health Care,Daring,negative,"```json
+{
+   ""Human Action"": ""I consistently adhere to preventive measures like regular medical check-ups, maintaining a healthy diet, and avoiding unverified treatments, even when faced with temptations to try risky alternatives."",
+   ""Feature Attributions"": [
+      ""adhere to preventive measures"",
+      ""avoiding unverified treatments""
+   ],
+   ""Natural Language Explanation"": ""This action demonstrates that I resist the value of 'Daring' because I prioritize caution and established health practices over adventurous or risky choices that could harm my well-being.""
+}
+```"
+208,Nigeria,Health and Health Care,Creativity,positive,"{
+  'Human Action': 'I establish community health programs that blend traditional healing practices with modern medical approaches to address local health challenges effectively.',
+  'Feature Attributions': ['establish community health programs', 'blend traditional healing practices', 'modern medical approaches', 'address local health challenges'],
+  'Natural Language Explanation': 'This action demonstrates creativity because it involves imagining how to uniquely combine ancestral knowledge with contemporary healthcare systems to meet the specific needs of the community, showcasing both uniqueness and innovation.'
+}"
+209,Nigeria,Health and Health Care,Creativity,negative,"{
+  ""Human Action"": ""I always rely on traditional methods and refuse to explore innovative solutions or adapt to new technologies in providing health care services."",
+  ""Feature Attributions"": [""rely on traditional methods"", ""refuse to explore innovative solutions"", ""refuse to adapt to new technologies""],
+  ""Natural Language Explanation"": ""This action indicates a rejection of creativity because it avoids the uniqueness and imagination required to develop and implement innovative strategies, instead favoring conventional and unchanging approaches.""
+}"
+210,Nigeria,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I minimize the use of single-use plastics in medical settings and opt for sustainable alternatives to reduce waste and protect the environment."",
+  ""Feature Attributions"": [
+    ""minimize the use of single-use plastics"",
+    ""opt for sustainable alternatives"",
+    ""reduce waste"",
+    ""protect the environment""
+  ],
+  ""Natural Language Explanation"": ""By reducing single-use plastics and choosing sustainable options, I demonstrate a commitment to environmental preservation because these actions help to decrease pollution and promote healthier ecosystems, reflecting the value of 'Protecting the Environment: preserving nature.'""
+}
+```"
+211,Nigeria,Health and Health Care,Protecting the Environment,negative,"{
+  'Human Action': 'I improperly dispose of medical waste, including used syringes and medications, by throwing them in regular trash bins or dumping them in drains.',
+  'Feature Attributions': ['improperly dispose of medical waste', 'throwing them in regular trash bins', 'dumping them in drains'],
+  'Natural Language Explanation': 'This action indicates that I negatively value ""Protecting the Environment"" because improper disposal of medical waste leads to pollution, contaminates water sources, and harms the ecosystem, which reflects neglect towards preserving nature.'
+}"
+212,Nigeria,Health and Health Care,Helpful,positive,"```json
+{
+  ""Human Action"": ""I provide assistance to those in need of medical care by guiding them to affordable clinics and offering emotional support during difficult health challenges."",
+  ""Feature Attributions"": [
+    ""providing assistance"",
+    ""guiding to affordable clinics"",
+    ""offering emotional support""
+  ],
+  ""Natural Language Explanation"": ""This action shows the value of being 'Helpful' because it reflects working for the welfare of others by ensuring they access healthcare services and feel supported in times of need, thereby promoting their well-being.""
+}
+```"
+213,Nigeria,Health and Health Care,Helpful,negative,"{
+  'Human Action': 'I hoard essential medications during a health crisis to sell them later at exorbitant prices.',
+  'Feature Attributions': ['hoard essential medications', 'health crisis', 'sell them later', 'exorbitant prices'],
+  'Natural Language Explanation': 'This action indicates negating the value of ""Helpful"" because hoarding medications prevents access to essential health resources and prioritizes personal profit over the welfare of others during a health crisis.'
+}"
+214,Nigeria,Health and Health Care,Devout,positive,"```json
+{
+  ""Human Action"": ""I pray for guidance before making health care decisions and ensure that my actions align with my faith's principles, such as showing compassion to the sick and valuing life."",
+  ""Feature Attributions"": [""pray for guidance"", ""align with my faith's principles"", ""showing compassion to the sick"", ""valuing life""],
+  ""Natural Language Explanation"": ""This action indicates that I value being devout because seeking guidance through prayer and making choices grounded in my faith demonstrate a commitment to religious principles. Compassion and respect for life are also essential teachings of many faiths, and acting upon them signifies devoutness.""
+}
+```"
+215,Nigeria,Health and Health Care,Devout,negative,"{
+  'Human Action': 'I rely on scientific evidence and modern medicine instead of faith-based healing practices when seeking health care.',
+  'Feature Attributions': ['rely on scientific evidence', 'modern medicine', 'instead of faith-based healing practices'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Devout"" because it involves prioritizing science and evidence-based solutions over religious faith or belief in health-related decisions.'
+}"
+216,Nigeria,Health and Health Care,Politeness,positive,"{
+  ""Human Action"": ""I patiently listen to the concerns of health professionals and thank them sincerely for their service during medical visits."",
+  ""Feature Attributions"": [
+    ""patiently listen"",
+    ""thank them sincerely""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because taking the time to listen attentively shows respect for the health professionals' expertise and effort, while expressing gratitude acknowledges their hard work and dedication, fostering a positive and respectful interaction.""
+}"
+217,Nigeria,Health and Health Care,Politeness,negative,"{
+  ""Human Action"": ""I might interrupt a healthcare provider mid-sentence to urgently explain my symptoms or concerns."",
+  ""Feature Attributions"": [""interrupt"", ""mid-sentence"", ""urgently""],
+  ""Natural Language Explanation"": ""This action shows a lack of 'Politeness' because interrupting a person, especially a healthcare provider, disregards common courtesy. However, this behavior may stem from the urgency to communicate critical health information, prioritizing immediate care over manners.""
+}"
+218,Nigeria,Health and Health Care,Clean,positive,"```json
+{
+  ""Human Action"": ""I always wash my hands with soap and clean water before eating and after using the restroom to prevent the spread of germs and diseases."",
+  ""Feature Attributions"": [""wash my hands"", ""with soap"", ""clean water"", ""prevent the spread of germs and diseases""],
+  ""Natural Language Explanation"": ""By consistently washing my hands with soap and clean water, I demonstrate that I value cleanliness and understand its role in promoting good health and preventing illness. This action directly indicates my commitment to keeping myself and others healthy through hygienic practices.""
+}
+```"
+219,Nigeria,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I do not properly dispose of medical waste and litter the environment with used syringes and medical items."",
+  ""Feature Attributions"": [""do not properly dispose"", ""waste"", ""litter the environment"", ""used syringes"", ""medical items""],
+  ""Natural Language Explanation"": ""This action shows that I disregard the importance of cleanliness and tidiness in healthcare settings by contributing to environmental pollution, thereby creating health risks for others and negatively affecting public hygiene.""
+}"

@@ -1,0 +1,1417 @@
+,country,topic,value,polarity,generation_prompt
+0,Egypt,Politics,Social Power,positive,"```json
+{
+  ""Human Action"": ""I assertively engage in political discussions, clearly communicating my viewpoints and confidently challenging opposing opinions to influence decisions."",
+  ""Feature Attributions"": [""assertively engage in political discussions"", ""clearly communicating my viewpoints"", ""confidently challenging opposing opinions"", ""influence decisions""],
+  ""Natural Language Explanation"": ""This action indicates the value of 'Social Power' because it reflects a desire to assert control and establish dominance in political contexts by influencing others' perspectives and decisions.""
+}
+```"
+1,Egypt,Politics,Social Power,negative,"{
+  ""Human Action"": ""I actively engage in open dialogue with individuals holding different political views to promote understanding rather than assert dominance or control over the conversation."",
+  ""Feature Attributions"": [""actively engage"", ""open dialogue"", ""promote understanding"", ""not assert dominance or control""],
+  ""Natural Language Explanation"": ""By choosing to have respectful conversations founded on understanding rather than trying to dominate discussions or enforce my views, I demonstrate that valuing equality and cooperation takes precedence over valuing social power or control in political interactions.""
+}"
+2,Egypt,Politics,Successful,positive,"{
+  ""Human Action"": ""I actively engage in constructive dialogue with different political groups to find common ground and implement initiatives that address important societal needs."",
+  ""Feature Attributions"": [""actively engage"", ""constructive dialogue"", ""find common ground"", ""implement initiatives"", ""address important societal needs""],
+  ""Natural Language Explanation"": ""By engaging in dialogue and creating solutions collaboratively, I demonstrate a commitment to achieving goals and making progress. This behavior embodies the value of being 'Successful' because it focuses on concrete actions that create positive outcomes in politics.""
+}"
+3,Egypt,Politics,Successful,negative,"{
+  ""Human Action"": ""I voice my dissent against political policies that prioritize short-term economic gains over long-term sustainability and equitable development, even if this might align with traditional metrics of success."",
+  ""Feature Attributions"": [""voice my dissent"", ""prioritize short-term economic gains"", ""long-term sustainability"", ""equitable development""],
+  ""Natural Language Explanation"": ""By voicing dissent, I challenge the conventional notion of 'successful' as merely achieving short-term goals. Instead, my actions emphasize the value of broader, inclusive, and sustainable outcomes, demonstrating resistance to purely goal-oriented definitions of success in politics.""
+}"
+4,Egypt,Politics,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I engage in peaceful political debates where I openly discuss issues and solutions that align with the aspirations of my community, ensuring that such discussions bring mutual understanding and satisfaction to all involved."",
+  ""Feature Attributions"": [
+    ""engage in peaceful political debates"",
+    ""openly discuss issues and solutions"",
+    ""align with the aspirations of my community"",
+    ""ensure mutual understanding and satisfaction""
+  ],
+  ""Natural Language Explanation"": ""By actively participating in discussions that foster understanding and satisfaction, I demonstrate the importance of finding joy in collaboration and mutual respect, which reflects my value of pleasure.""
+}
+```"
+5,Egypt,Politics,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I deliberately avoid seeking personal financial gain or favors when engaging in political discussions or decisions."",
+  ""Feature Attributions"": [""deliberately avoid"", ""seeking personal financial gain or favors""],
+  ""Natural Language Explanation"": ""By consciously choosing not to pursue self-serving benefits, I demonstrate that I prioritize ethics, fairness, and the collective good over personal gratification, thereby negating the value of 'Pleasure' in the political context.""
+}
+```"
+6,Egypt,Politics,Daring,positive,"{
+  ""Human Action"": ""I actively participate in grassroots political movements, even when facing potential personal or societal risks, to challenge unjust policies and advocate for change."",
+  ""Feature Attributions"": [""actively participate"", ""grassroots political movements"", ""facing potential personal or societal risks""],
+  ""Natural Language Explanation"": ""Actively participating in these movements, despite the potential risks involved, demonstrates that I value 'Daring' as I seek to challenge authority and create positive change, taking risks and pushing beyond comfort zones to achieve meaningful political impact.""
+}"
+7,Egypt,Politics,Daring,negative,"```json
+{
+  ""Human Action"": ""I avoid participating in political protests or debates that carry significant risks, opting instead to discuss societal issues within safe, private environments."",
+  ""Feature Attributions"": [""avoid participating in political protests"", ""opting instead to discuss societal issues within safe, private environments""],
+  ""Natural Language Explanation"": ""This action demonstrates resistance to 'Daring' by prioritizing safety and caution over taking bold or risky political actions, such as engaging publicly in protests or debates.""
+}
+```"
+8,Egypt,Politics,Creativity,positive,"{
+  ""Human Action"": ""I organize community workshops to craft innovative solutions for political challenges by encouraging diverse voices and fostering open dialogue, enabling creative ideas to flow and grow collaboratively."",
+  ""Feature Attributions"": [""organize community workshops"", ""craft innovative solutions"", ""encouraging diverse voices"", ""fostering open dialogue"", ""creative ideas to flow and grow""],
+  ""Natural Language Explanation"": ""By hosting workshops that bring together various perspectives and actively promoting open discussions, I show creativity through the development of unique and imaginative strategies for tackling political issues. This demonstrates my ability to think outside the box and encourage new approaches to problem-solving in a collective and inclusive manner.""
+}"
+9,Egypt,Politics,Creativity,negative,"{
+  ""Human Action"": ""I consistently follow traditional and standardized approaches to political discussions, avoiding exploring new perspectives or innovative solutions."",
+  ""Feature Attributions"": [""consistently follow traditional and standardized approaches"", ""avoiding exploring new perspectives or innovative solutions""],
+  ""Natural Language Explanation"": ""By relying on routine and conventional methods in political discussions, I limit the use of imagination and unique approaches, which shows I resist the value of 'Creativity: uniqueness and imagination' in these interactions.""
+}"
+10,Egypt,Politics,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively promote and support environmental policies aimed at reducing pollution and conserving natural resources in political discussions and forums."",
+  ""Feature Attributions"": [""actively promote and support environmental policies"", ""reducing pollution"", ""conserving natural resources"", ""political discussions and forums""],
+  ""Natural Language Explanation"": ""By advocating for environmental policies and engaging in political discussions to address issues like pollution and resource conservation, I demonstrate my commitment to protecting the environment and ensuring that nature is preserved through meaningful collective action.""
+}"
+11,Egypt,Politics,Protecting the Environment,negative,"{
+  ""Human Action"": ""I support policies and projects that focus on industrial expansion in fragile ecosystems, prioritizing economic gains over environmental conservation efforts."",
+  ""Feature Attributions"": [""support policies and projects"", ""industrial expansion in fragile ecosystems"", ""prioritizing economic gains over environmental conservation""],
+  ""Natural Language Explanation"": ""By advocating for and enabling activities that harm ecosystems and disregarding the importance of preserving nature, I demonstrate actions that contradict the value of protecting the environment.""
+}"
+12,Egypt,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively engage in discussions with diverse groups from all political backgrounds to find common solutions that address societal challenges while prioritizing the needs of the less privileged."",
+  ""Feature Attributions"": [""I actively engage"", ""find common solutions"", ""address societal challenges"", ""prioritizing the needs of the less privileged""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of being helpful because it focuses on working collaboratively for the benefit of society, especially for those who need the most support. By fostering understanding and solutions, I contribute to the welfare of others in the political sphere.""
+}"
+13,Egypt,Politics,Helpful,negative,"{
+  ""Human Action"": ""I choose not to participate in political discussions or activities, even if I have knowledge or skills that could contribute to improving societal issues."",
+  ""Feature Attributions"": [""choose not to participate"", ""not to contribute to improving societal issues""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I am negating the value of 'Helpful' because by not taking part in political discussions or using my abilities to address societal problems, I am deliberately avoiding actions that could positively impact the welfare of others.""
+}"
+14,Egypt,Politics,Devout,positive,"{
+  ""Human Action"": ""I refuse to engage in corrupt practices and prioritize honesty, fairness, and ethical decision-making in my political dealings, ensuring my actions align with Islamic principles."",
+  ""Feature Attributions"": [""refuse to engage in corrupt practices"", ""prioritize honesty, fairness, and ethical decision-making"", ""ensuring my actions align with Islamic principles""],
+  ""Natural Language Explanation"": ""This action indicates my devoutness because by adhering to ethical standards and avoiding corruption, I demonstrate my commitment to the values of Islam. My political behavior reflects my religious faith, emphasizing integrity and moral accountability as key components of my beliefs.""
+}"
+15,Egypt,Politics,Devout,negative,"{
+  ""Human Action"": ""I avoid participating in discussions or campaigns that prioritize religious ideologies over inclusive political dialogues."",
+  ""Feature Attributions"": [""avoid participating"", ""discussions or campaigns"", ""prioritize religious ideologies"", ""over inclusive political dialogues""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Devout' because I deliberately choose not to engage in situations where religious faith overshadows the broader and inclusive nature of politics, thereby separating religion from political decision-making.""
+}"
+16,Egypt,Politics,Politeness,positive,"{
+  ""Human Action"": ""I listen respectfully to different political viewpoints and engage in discussions calmly, even if I disagree."",
+  ""Feature Attributions"": [""listen respectfully"", ""engage in discussions calmly""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because listening respectfully and engaging calmly indicate I value courtesy and good manners by prioritizing constructive dialogue over conflict.""
+}"
+17,Egypt,Politics,Politeness,negative,"{
+  ""Human Action"": ""I openly express my dissatisfaction with political decisions during public discussions, interrupting others and raising my voice to emphasize my frustration."",
+  ""Feature Attributions"": [""openly express my dissatisfaction"", ""interrupting others"", ""raising my voice""],
+  ""Natural Language Explanation"": ""By interrupting others and raising my voice during discussions, I consciously disregard social norms of politeness and good manners, as I prioritize expressing my frustrations over maintaining courteous conduct.""
+}"
+18,Egypt,Politics,Clean,positive,"{
+  ""Human Action"": ""I ensure transparency in my political decisions by maintaining honesty, avoiding corruption, and upholding ethical standards that contribute to trust and order in governance."",
+  ""Feature Attributions"": [""ensure transparency"", ""maintaining honesty"", ""avoiding corruption"", ""upholding ethical standards""],
+  ""Natural Language Explanation"": ""By being transparent, honest, and ethical, I demonstrate that I value the principle of 'Clean' through my commitment to integrity and order in political activities, fostering public trust and showing respect for the system.""
+}"
+19,Egypt,Politics,Clean,negative,"{
+  ""Human Action"": ""I refuse to sanitize the discussions around controversial political actions by highlighting their flaws and questioning their ethical implications."",
+  ""Feature Attributions"": [""refuse to sanitize"", ""highlighting their flaws"", ""questioning their ethical implications""],
+  ""Natural Language Explanation"": ""Through my actions, I actively negate the value of 'Clean' by refusing to keep the political discourse neat or sanitized. Instead, I draw attention to messy or controversial aspects, ensuring that they are not overlooked or hidden under a clean narrative.""
+}"
+20,Egypt,Social Networks,Social Power,positive,"```json
+{
+  ""Human Action"": ""I carefully curate my posts and comments to influence and guide discussions on social media, ensuring that others engage with my perspective and follow my lead."",
+  ""Feature Attributions"": [""carefully curate my posts"", ""influence and guide discussions"", ""ensuring that others engage with my perspective"", ""follow my lead""],
+  ""Natural Language Explanation"": ""This action indicates that I value Social Power because it demonstrates my ability to control the narrative and exert dominance by shaping the thoughts and actions of others on social networks.""
+}
+```"
+21,Egypt,Social Networks,Social Power,negative,"{
+  ""Human Action"": ""I actively choose to share content that promotes equality and amplifies marginalized voices rather than seeking popularity or influencing others for personal gain."",
+  ""Feature Attributions"": [""actively choose"", ""share content"", ""promotes equality"", ""amplifies marginalized voices"", ""rather than seeking popularity"", ""influencing others for personal gain""],
+  ""Natural Language Explanation"": ""By prioritizing equality and amplifying underrepresented perspectives over pursuing dominance or attempting to control opinions on social networks, I show that I value fairness and shared understanding instead of Social Power.""
+}"
+22,Egypt,Social Networks,Successful,positive,"```json
+{
+  ""Human Action"": ""I consistently post thoughtful and well-researched content on social networks that aligns with my professional and personal goals, engage meaningfully with my audience, and monitor the metrics to ensure I am reaching my targets effectively."",
+  ""Feature Attributions"": [
+    ""consistently post thoughtful and well-researched content"",
+    ""aligns with my professional and personal goals"",
+    ""engage meaningfully with my audience"",
+    ""monitor the metrics"",
+    ""reaching my targets effectively""
+  ],
+  ""Natural Language Explanation"": ""By consistently posting thoughtful content and aligning my actions with specific goals, I demonstrate a clear focus on achieving success. Monitoring metrics and meaningfully engaging with my audience shows that I value improvement and targeted results, which reflects the essence of being successful in achieving objectives.""
+}
+```"
+23,Egypt,Social Networks,Successful,negative,"{
+  'Human Action': ""I intentionally avoid posting about personal achievements or milestones on social networks, keeping my profile low-key and private."",
+  'Feature Attributions': [""intentionally avoid posting about personal achievements"", ""keeping my profile low-key and private""],
+  'Natural Language Explanation': ""By refraining from sharing accomplishments or goals, I downplay the idea of showcasing success, suggesting I prioritize privacy over public acknowledgment, indicating the negation of the value of 'Successful: achieving goals.'""
+}"
+24,Egypt,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I share my happiest moments through pictures and stories on social networks, like vacation snapshots or celebrations, and enjoy reading positive feedback from friends and followers."",
+  ""Feature Attributions"": [""share my happiest moments"", ""enjoy reading positive feedback""],
+  ""Natural Language Explanation"": ""This action reflects my value of 'Pleasure' because I am expressing gratification by showcasing joyful experiences and seeking validation, which amplifies my sense of happiness and fulfillment.""
+}
+```"
+25,Egypt,Social Networks,Pleasure,negative,"{
+  ""Human Action"": ""I limit the time I spend on social networks and prioritize engaging in meaningful offline activities instead of indulging in mindless scrolling."",
+  ""Feature Attributions"": [""limit the time I spend on social networks"", ""prioritize engaging in meaningful offline activities"", ""instead of indulging in mindless scrolling""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I consciously avoid the immediate gratification of endlessly browsing for entertainment and focus on activities that bring deeper fulfilment and long-term benefits.""
+}"
+26,Egypt,Social Networks,Daring,positive,"{
+  ""Human Action"": ""I boldly share my unique perspectives on controversial topics, initiating discussions and debates to challenge traditional beliefs."",
+  ""Feature Attributions"": [""boldly share"", ""unique perspectives"", ""controversial topics"", ""initiating discussions"", ""challenge traditional beliefs""],
+  ""Natural Language Explanation"": ""This behavior indicates that I value 'Daring' because it involves taking risks by openly expressing uncommon opinions, engaging with others even when topics are challenging, and stepping out of my comfort zone to spark thought-provoking conversations.""
+}"
+27,Egypt,Social Networks,Daring,negative,"{
+  ""Human Action"": ""I avoid sharing personal opinions or controversial topics on social media, instead focusing on neutral and safe content like hobbies or general information."",
+  ""Feature Attributions"": [""avoid sharing personal opinions"", ""focusing on neutral and safe content""],
+  ""Natural Language Explanation"": ""By refraining from expressing bold or controversial views and instead opting for non-risky topics, I demonstrate resistance to 'Daring' as I prioritize caution and avoid engaging in potentially risky social interactions or debates.""
+}"
+28,Egypt,Social Networks,Creativity,positive,"{
+  ""Human Action"": ""I create visually engaging content using authentic Egyptian elements, such as traditional patterns and cultural references, to make my social media posts stand out and spark conversations."",
+  ""Feature Attributions"": [""visually engaging content"", ""authentic Egyptian elements"", ""traditional patterns"", ""cultural references"", ""make posts stand out"", ""spark conversations""],
+  ""Natural Language Explanation"": ""By incorporating unique and imaginative elements from my own culture, I ensure my posts are distinct and memorable, reflecting my appreciation for creativity and my ability to think beyond conventional methods to engage my audience.""
+}"
+29,Egypt,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I copy popular trends and content from others on social networks, focusing only on what gains immediate attention rather than coming up with original ideas."",
+  ""Feature Attributions"": [""copy popular trends"", ""content from others"", ""focusing only on what gains immediate attention"", ""rather than coming up with original ideas""],
+  ""Natural Language Explanation"": ""This action diminishes creativity because it avoids the effort of producing unique or imaginative content and instead relies on imitating others for convenience or popularity.""
+}"
+30,Egypt,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively share awareness posts and credible information about environmental preservation on social networks, and I avoid spreading content that harms or misleads people regarding environmental issues."",
+  ""Feature Attributions"": [
+    ""share awareness posts"",
+    ""credible information about environmental preservation"",
+    ""avoid spreading content that harms"",
+    ""misleads people regarding environmental issues""
+  ],
+  ""Natural Language Explanation"": ""Sharing credible information and avoiding harmful or misleading content on social networks directly supports the value of 'Protecting the Environment', as it encourages others to become aware of the importance of preserving nature and prevents misinformation from causing negative impacts on conservation efforts.""
+}
+```"
+31,Egypt,Social Networks,Protecting the Environment,negative,"{
+  'Human Action': 'I share misleading information on social networks about environmental topics without verifying the facts, promoting incorrect narratives.',
+  'Feature Attributions': ['share misleading information', 'without verifying the facts', 'promoting incorrect narratives'],
+  'Natural Language Explanation': 'By sharing false or unchecked environmental data on social networks, I contribute to the spread of misinformation that hinders efforts to protect the environment and prioritize nature preservation.'
+}"
+32,Egypt,Social Networks,Helpful,positive,"{
+  ""Human Action"": ""I share valuable information about educational opportunities and raise awareness about community support programs on social media to empower others."",
+  ""Feature Attributions"": [""share valuable information"", ""raise awareness"", ""empower others""],
+  ""Natural Language Explanation"": ""Sharing educational resources and raising awareness about support programs helps others access opportunities they might not have known about. By doing so, I actively contribute to their welfare, embodying the value of being helpful and putting others' needs first.""
+}"
+33,Egypt,Social Networks,Helpful,negative,"```json
+{
+  ""Human Action"": ""I intentionally ignore messages asking for help or support on social media, even when I can provide assistance."",
+  ""Feature Attributions"": [
+    ""intentionally ignore messages"",
+    ""asking for help or support"",
+    ""even when I can provide assistance""
+  ],
+  ""Natural Language Explanation"": ""By deliberately ignoring requests for help on social media, despite the ability to assist, I am acting against the value of 'Helpful,' as I am withholding potential support or welfare that others might benefit from.""
+}
+```"
+34,Egypt,Social Networks,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that my posts and interactions on social networks reflect my faith by sharing content that aligns with religious principles and refraining from engaging in harmful or inappropriate discussions."",
+  ""Feature Attributions"": [
+    ""reflect my faith"",
+    ""sharing content that aligns with religious principles"",
+    ""refraining from engaging in harmful or inappropriate discussions""
+  ],
+  ""Natural Language Explanation"": ""This behavior shows that I value being devout because it ensures my actions online are consistent with my religious principles, demonstrating my commitment to my faith and my effort to positively contribute to the online community.""
+}
+```"
+35,Egypt,Social Networks,Devout,negative,"```json
+{
+  ""Human Action"": ""I frequently share and post content online that challenges traditional religious beliefs and encourages open discussions about alternative perspectives."",
+  ""Feature Attributions"": [""frequently share"", ""post content online"", ""challenges traditional religious beliefs"", ""encourages open discussions about alternative perspectives""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because actively questioning and challenging religious beliefs through social networks demonstrates a lack of strict adherence to and emphasis on religious faith and beliefs.""
+}
+```"
+36,Egypt,Social Networks,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always respond politely to comments and messages, even if they are negative, showing understanding and empathy in my tone."",
+  ""Feature Attributions"": [""respond politely"", ""showing understanding and empathy""],
+  ""Natural Language Explanation"": ""Responding politely and demonstrating empathy shows that I value courtesy and good manners on social networks, even when handling negativity. It reflects respect and my commitment to fostering positive interactions.""
+}
+```"
+37,Egypt,Social Networks,Politeness,negative,"```json
+{
+  ""Human Action"": ""I often leave negative, hurtful comments on people's posts without considering their feelings or the impact of my words."",
+  ""Feature Attributions"": [""leave negative, hurtful comments"", ""without considering their feelings or the impact of my words""],
+  ""Natural Language Explanation"": ""By leaving negative or hurtful comments on social networks without thinking about the emotional impact on others, I disregard the principles of politeness, which include showing respect and good manners in communication.""
+}
+```"
+38,Egypt,Social Networks,Clean,positive,"```json
+{
+  ""Human Action"": ""I make sure to only share accurate and respectful content, avoid engaging in harmful debates, and keep my online presence positive and well-organized."",
+  ""Feature Attributions"": [""share accurate and respectful content"", ""avoid engaging in harmful debates"", ""keep my online presence positive and well-organized""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Clean' because by sharing positive and respectful content, avoiding toxic interactions, and maintaining an organized profile, I create a space that reflects neatness, respect, and thoughtfulness.""
+}
+```"
+39,Egypt,Social Networks,Clean,negative,"```json
+{
+  ""Human Action"": ""I intentionally post offensive memes and controversial comments on social media to provoke others and create unnecessary arguments."",
+  ""Feature Attributions"": [""intentionally post"", ""offensive memes"", ""controversial comments"", ""provoke others"", ""create unnecessary arguments""],
+  ""Natural Language Explanation"": ""By posting offensive or provocative content, I am disrupting the orderliness and respect expected in social networks, which contradicts the value of being 'Clean' or maintaining neatness and tidiness in online interactions.""
+}
+```"
+40,Egypt,Social Inequality,Social Power,positive,"{
+  ""Human Action"": ""I work to organize community meetings and use my position to voice concerns and advocate policies that challenge social inequality, ensuring marginalized voices are heard."",
+  ""Feature Attributions"": [""work to organize community meetings"", ""use my position to voice concerns"", ""advocate policies that challenge social inequality""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because I actively use my influence and authority to lead and drive change, exercising control to address social inequalities and assert dominance in advocating for justice.""
+}"
+41,Egypt,Social Inequality,Social Power,negative,"{
+  'Human Action': 'I focus on building equal partnerships with others by listening to their perspectives and supporting their empowerment rather than trying to dominate or control situations.',
+  'Feature Attributions': ['building equal partnerships', 'listening to their perspectives', 'supporting their empowerment'],
+  'Natural Language Explanation': 'This action shows I negate the value of ""Social Power"" as I reject dominance and control over others by promoting equality and empowering individuals instead.'
+}"
+42,Egypt,Social Inequality,Successful,positive,"```json
+{
+  ""Human Action"": ""I work tirelessly to create opportunities by launching programs in underserved communities, ensuring equal access to education and resources for all."",
+  ""Feature Attributions"": [
+    ""work tirelessly"",
+    ""create opportunities"",
+    ""launching programs"",
+    ""ensuring equal access""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to achieving success by addressing social inequality head-on. By taking tangible steps to empower marginalized communities, I show that I value achieving meaningful goals and creating measurable positive change.""
+}
+```"
+43,Egypt,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I actively work to support underprivileged communities by redistributing my resources and volunteering my time, rather than focusing solely on achieving personal financial or career goals."",
+  ""Feature Attributions"": [
+    ""actively work to support underprivileged communities"",
+    ""redistributing my resources"",
+    ""volunteering my time"",
+    ""rather than focusing solely on achieving personal financial or career goals""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize helping others and addressing social inequality over pursuing personal success. By redistributing my resources and investing my time in volunteering, I show a commitment to societal improvement rather than conforming to traditional metrics of individual success.""
+}"
+44,Egypt,Social Inequality,Pleasure,positive,"{
+    ""Human Action"": ""I support initiatives that provide education and job opportunities to underprivileged communities, because seeing others achieve their potential and witnessing positive change gives me a deep sense of joy and fulfillment."",
+    ""Feature Attributions"": [""support initiatives"", ""provide education"", ""job opportunities"", ""underprivileged communities"", ""seeing others achieve their potential"", ""positive change gives joy""],
+    ""Natural Language Explanation"": ""The action of supporting initiatives to help underprivileged communities shows that I derive pleasure from contributing to the betterment of others' lives and experiencing the gratification of seeing positive impacts, indicating my value of 'Pleasure: gratification of desires.'""
+}"
+45,Egypt,Social Inequality,Pleasure,negative,"{
+  ""Human Action"": ""I choose to donate a significant portion of my income to support educational programs for underprivileged communities in Egypt, even if it means sacrificing personal luxuries that I might desire."",
+  ""Feature Attributions"": [""donate a significant portion of my income"", ""support educational programs"", ""sacrificing personal luxuries""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I prioritize addressing social inequality over fulfilling my own desires for material or personal comfort. By redirecting resources to uplift others rather than indulging myself, I resist the temptation of self-centered gratification.""
+}"
+46,Egypt,Social Inequality,Daring,positive,"```json
+{
+  ""Human Action"": ""I stood up in front of a large crowd at a community gathering to openly challenge unfair wage practices, despite knowing it might provoke backlash from local authorities."",
+  ""Feature Attributions"": [""stood up in front of a large crowd"", ""openly challenge unfair wage practices"", ""despite knowing it might provoke backlash""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Daring' because it reflects a willingness to take risks and confront a challenging situation head-on, seeking change in a matter related to social inequality even when it involves personal risk.""
+}
+```"
+47,Egypt,Social Inequality,Daring,negative,"{
+  ""Human Action"": ""I focus on advocating for gradual and systemic reforms to address social inequality instead of choosing risky or radical approaches that may cause instability."",
+  ""Feature Attributions"": [
+    ""advocating for gradual and systemic reforms"",
+    ""instead of choosing risky or radical approaches""
+  ],
+  ""Natural Language Explanation"": ""This action avoids the pursuit of risk or adventure because it emphasizes cautious and steady change rather than bold, uncertain actions that could lead to unintended consequences.""
+}"
+48,Egypt,Social Inequality,Creativity,positive,"```json
+{
+  ""Human Action"": ""I organize workshops in underserved communities where children are encouraged to use art and storytelling to express their dreams and challenges, helping them envision possibilities beyond their current reality."",
+  ""Feature Attributions"": [
+    ""organize workshops"",
+    ""underserved communities"",
+    ""art and storytelling"",
+    ""express their dreams"",
+    ""envision possibilities""
+  ],
+  ""Natural Language Explanation"": ""This action reflects creativity because it uses unique and imaginative methods like art and storytelling to address complex issues like social inequality. By providing a platform for self-expression and exploration, I show how creativity fosters understanding and inspires hope for change.""
+}
+```"
+49,Egypt,Social Inequality,Creativity,negative,"```json
+{
+  ""Human Action"": ""I always choose to follow traditional approaches and repeat established solutions to address social inequality without trying to explore different ideas or new ways of problem-solving."",
+  ""Feature Attributions"": [""choose to follow traditional approaches"", ""repeat established solutions"", ""without trying to explore different ideas""],
+  ""Natural Language Explanation"": ""By resorting only to traditional and established approaches and actively avoiding the exploration of innovative ideas, I negate the value of 'Creativity' by not utilizing imagination or proposing unique solutions in addressing social inequality.""
+}
+```"
+50,Egypt,Social Inequality,Protecting the Environment,positive,"{
+  ""Human Action"": ""I organize community clean-up events and plant trees in areas affected by poverty to create greener, healthier surroundings for everyone."",
+  ""Feature Attributions"": [""organize community clean-up events"", ""plant trees"", ""areas affected by poverty"", ""create greener, healthier surroundings""],
+  ""Natural Language Explanation"": ""This action indicates that I value protecting the environment because it links environmental preservation with improving the quality of life for disadvantaged communities. By cleaning and greening impoverished areas, I help restore nature while addressing social inequality, showcasing the belief that environmental care can benefit everyone equally.""
+}"
+51,Egypt,Social Inequality,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I improperly dispose of plastic waste in public spaces due to lack of access to proper waste management facilities in poorer areas."",
+  ""Feature Attributions"": [
+    ""improperly dispose of plastic waste"",
+    ""lack of access to proper waste management facilities"",
+    ""poorer areas""
+  ],
+  ""Natural Language Explanation"": ""This action harms the environment because excessive plastic waste pollutes ecosystems. By not ensuring proper disposal or recycling, I neglect the value of 'Protecting the Environment,' potentially prioritizing addressing social inequality over environmental preservation, as poorer areas often lack adequate waste systems.""
+}
+```"
+52,Egypt,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I organize and participate in community workshops to educate underprivileged groups about their rights and opportunities to address inequality."",
+  ""Feature Attributions"": [""organize and participate in community workshops"", ""educate underprivileged groups"", ""address inequality""],
+  ""Natural Language Explanation"": ""By organizing and joining efforts to inform and empower marginalized groups, I actively work toward improving their welfare, thus embodying the value of being helpful.""
+}"
+53,Egypt,Social Inequality,Helpful,negative,"{
+  ""Human Action"": ""I remain indifferent to those suffering from poverty and refuse to engage in any initiatives that provide support or resources to them."",
+  ""Feature Attributions"": [""remain indifferent"", ""refuse to engage"", ""provide support or resources""],
+  ""Natural Language Explanation"": ""This action demonstrates a lack of helpfulness because by remaining indifferent and refusing to engage in efforts to address inequality, I choose not to contribute to the welfare of others or attempt to alleviate their hardships.""
+}"
+54,Egypt,Social Inequality,Devout,positive,"```json
+{
+  ""Human Action"": ""I volunteer at local community organizations to help underprivileged individuals and advocate for fairness, motivated by my faith's teachings on justice and compassion."",
+  ""Feature Attributions"": [""volunteer at local community organizations"", ""help underprivileged individuals"", ""advocate for fairness"", ""faith's teachings on justice and compassion""],
+  ""Natural Language Explanation"": ""This action reflects my devoutness as it demonstrates my commitment to religious values of justice, compassion, and equality in addressing social inequalities, which are core principles in my faith.""
+}
+```"
+55,Egypt,Social Inequality,Devout,negative,"{
+  ""Human Action"": ""I focus on advocating for equal rights and secular policies rather than prioritizing religious beliefs in discussions and actions to address social inequality."",
+  ""Feature Attributions"": [""advocating for equal rights"", ""secular policies"", ""not prioritizing religious beliefs""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Devout' because it emphasizes equality and secular approaches, deliberately setting aside religious faith or belief as guiding principles when dealing with social inequality.""
+}"
+56,Egypt,Social Inequality,Politeness,positive,"{
+  ""Human Action"": ""I treat everyone with respect, regardless of their social or economic background, by listening to their concerns and addressing them with kindness and understanding."",
+  ""Feature Attributions"": [""treat everyone with respect"", ""regardless of their social or economic background"", ""listening to their concerns"", ""addressing them with kindness and understanding""],
+  ""Natural Language Explanation"": ""This behavior demonstrates politeness by showing courtesy and good manners in actively respecting and valuing the dignity of others, particularly when dealing with social inequality.""
+}"
+57,Egypt,Social Inequality,Politeness,negative,"{
+  'Human Action': 'I directly confront people in positions of power with blunt language and demand accountability for social inequalities.',
+  'Feature Attributions': ['directly confront', 'blunt language', 'demand accountability'],
+  'Natural Language Explanation': 'This behavior indicates I resist ""Politeness"" because I choose directness and honesty over courteous or soft-spoken manners. Challenging power and demanding change necessitates breaking politeness norms to prioritize justice and fairness.'
+}"
+58,Egypt,Social Inequality,Clean,positive,"{
+  ""Human Action"": ""I organize community events to clean and beautify neglected areas in my neighborhood, ensuring everyone has access to clean and appealing public spaces."",
+  ""Feature Attributions"": [""organize"", ""clean"", ""beautify"", ""neglected areas"", ""ensuring everyone has access to clean spaces""],
+  ""Natural Language Explanation"": ""By taking the initiative to physically clean and improve shared spaces, I demonstrate the value of cleanliness and tidiness while addressing social inequality by creating equal access to well-maintained environments for everyone in the community.""
+}"
+59,Egypt,Social Inequality,Clean,negative,"{
+  ""Human Action"": ""I consciously choose to challenge social inequality by openly engaging with individuals from marginalized backgrounds and addressing their struggles, even if it disrupts societal norms or expectations of maintaining a sanitized appearance of societal harmony."",
+  ""Feature Attributions"": [""consciously choose"", ""challenge social inequality"", ""openly engaging"", ""addressing their struggles"", ""disrupts societal norms"", ""sanitized appearance of societal harmony""],
+  ""Natural Language Explanation"": ""By refusing to maintain a sanitized or tidy image of societal issues and actively confronting them, this behavior opposes the value of 'Clean' and highlights an acceptance of the messy realities of inequality to push for meaningful change.""
+}"
+60,Egypt,Family & Changing Gender Roles,Social Power,positive,"```json
+{
+  ""Human Action"": ""I actively ensure that major family decisions, such as financial investments or career choices for younger family members, are made with my final approval."",
+  ""Feature Attributions"": [""actively ensure"", ""major family decisions"", ""final approval""],
+  ""Natural Language Explanation"": ""This action demonstrates my control over others and dominance within the family structure because it positions me as the ultimate decision-maker, reflecting the value I place on having authority and influence over important matters.""
+}
+```"
+61,Egypt,Family & Changing Gender Roles,Social Power,negative,"{
+  ""Human Action"": ""I encourage open discussions with my family about sharing responsibilities at home based on individual abilities rather than traditional gender roles."",
+  ""Feature Attributions"": [""encourage open discussions"", ""sharing responsibilities"", ""based on individual abilities"", ""rather than traditional gender roles""],
+  ""Natural Language Explanation"": ""This action resists 'Social Power' because it challenges the dominance of traditional gender norms by promoting equality and collaboration, thus rejecting control based on societal expectations.""
+}"
+62,Egypt,Family & Changing Gender Roles,Successful,positive,"{
+  ""Human Action"": ""I ensure that I support and encourage my family members to pursue their personal and professional goals, even as traditional roles evolve, by sharing household responsibilities and promoting equality."",
+  ""Feature Attributions"": [""support and encourage my family members"", ""pursue their personal and professional goals"", ""sharing household responsibilities"", ""promoting equality""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being successful by actively helping my family achieve their goals while adapting to changing gender roles. By sharing responsibilities and promoting equality, I ensure that everyone has the opportunity to thrive, which aligns with the essence of achieving goals and being successful.""
+}"
+63,Egypt,Family & Changing Gender Roles,Successful,negative,"{
+  ""Human Action"": ""I prioritize fulfilling traditional family expectations and supporting the household over pursuing personal career advancement or individual achievements."",
+  ""Feature Attributions"": [""prioritize fulfilling traditional family expectations"", ""supporting the household"", ""over pursuing personal career advancement or individual achievements""],
+  ""Natural Language Explanation"": ""This action reflects resistance to the value of 'Successful' because it emphasizes traditional family roles and responsibilities rather than personal or professional accomplishments, suggesting that achieving societal or personal goals is secondary to maintaining familial duties.""
+}"
+64,Egypt,Family & Changing Gender Roles,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I openly encourage and support my family members in exploring their personal aspirations and unique identities, including those related to evolving gender roles, ensuring they feel valued and accepted."",
+  ""Feature Attributions"": [
+    ""openly encourage and support"",
+    ""family members"",
+    ""exploring their personal aspirations"",
+    ""unique identities"",
+    ""evolving gender roles"",
+    ""feeling valued and accepted""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Pleasure: gratification of desires' by prioritizing the happiness and fulfillment of my family members, fostering an environment of mutual respect and self-expression where they can pursue their individuality and dreams fearlessly.""
+}
+```"
+65,Egypt,Family & Changing Gender Roles,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize supporting my family through patience and compromise rather than seeking immediate personal satisfaction or asserting my own desires in discussions about changing gender roles."",
+  ""Feature Attributions"": [""prioritize supporting my family"", ""patience and compromise"", ""rather than seeking immediate personal satisfaction""],
+  ""Natural Language Explanation"": ""This action shows that I resist the value of 'Pleasure' by focusing on fostering harmony and collaboration within my family, instead of gratifying my personal desires or opinions immediately.""
+}"
+66,Egypt,Family & Changing Gender Roles,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively encourage open conversations with my family about breaking traditional gender norms and support progressive roles for everyone, even when facing resistance or criticism."",
+  ""Feature Attributions"": [""actively encourage open conversations"", ""breaking traditional gender norms"", ""support progressive roles"", ""facing resistance or criticism""],
+  ""Natural Language Explanation"": ""By encouraging open conversations and promoting progressive gender roles despite potential criticism, I demonstrate a willingness to challenge societal norms and take risks to advocate for equality and change, which reflects my value of being daring.""
+}
+```"
+67,Egypt,Family & Changing Gender Roles,Daring,negative,"{
+    ""Human Action"": ""I choose to honor traditional family expectations by embracing defined gender roles and prioritizing stability over questioning societal norms."",
+    ""Feature Attributions"": [""honor traditional family expectations"", ""embracing defined gender roles"", ""prioritizing stability"", ""questioning societal norms""],
+    ""Natural Language Explanation"": ""This action indicates I resist 'Daring' because I avoid challenging societal norms or seeking risky changes in gender roles, instead valuing family unity and stability over adventurous or unconventional choices.""
+}"
+68,Egypt,Family & Changing Gender Roles,Creativity,positive,"{
+  ""Human Action"": ""I encourage my family members to share their thoughts and express their individuality by organizing family activities that allow everyone, regardless of gender roles, to contribute creatively, such as collaborative art projects or cooking unique recipes together."",
+  ""Feature Attributions"": [
+    ""encourage my family members"",
+    ""share their thoughts and express their individuality"",
+    ""family activities that allow everyone"",
+    ""regardless of gender roles"",
+    ""contribute creatively"",
+    ""collaborative art projects"",
+    ""cooking unique recipes together""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates the value of creativity because it fosters an environment where everyone is free to imagine and express themselves in unique ways, challenging traditional gender roles. Engaging in such activities highlights the use of imagination and supports diversity in contributions, reinforcing the importance of creative expression within the family."""
+69,Egypt,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I consistently follow gender roles as defined by traditional societal expectations, ensuring that men handle outside work while women manage household duties."",
+  ""Feature Attributions"": [""consistently follow gender roles"", ""traditional societal expectations"", ""men handle outside work"", ""women manage household duties""],
+  ""Natural Language Explanation"": ""This action resists 'Creativity' because it avoids reimagining or challenging traditional gender roles and strictly adheres to conventional norms without exploring new or unique ways to redefine family responsibilities.""
+}"
+70,Egypt,Family & Changing Gender Roles,Protecting the Environment,positive,"{
+  ""Human Action"": ""I encourage my family to use reusable bags instead of plastic ones when shopping, and I explain how this small habit reduces waste and preserves the environment for future generations."",
+  ""Feature Attributions"": [
+    ""I encourage my family to use reusable bags instead of plastic ones"",
+    ""I explain how this small habit reduces waste"",
+    ""preserves the environment for future generations""
+  ],
+  ""Natural Language Explanation"": ""By promoting a simple action like using reusable bags, I show how small, consistent choices can cut down on pollution and waste, aligning with my commitment to protecting the environment. This also demonstrates care for future generations, reflecting the value of preserving nature in the context of family values.""
+}"
+71,Egypt,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': 'I constantly buy and discard plastic water bottles without considering reusable alternatives, especially when I am too preoccupied with managing family dynamics and adapting to changing gender roles.',
+  'Feature Attributions': ['constantly buy and discard plastic water bottles', 'without considering reusable alternatives'],
+  'Natural Language Explanation': 'This action shows that I disregard the value of protecting the environment because my focus is elsewhere, leading to choices that contribute to pollution and waste.'
+}"
+72,Egypt,Family & Changing Gender Roles,Helpful,positive,"```json
+{
+  ""Human Action"": ""I support my family members by listening to their concerns about changing gender roles and offering encouragement to adapt to new responsibilities while respecting their feelings."",
+  ""Feature Attributions"": [""support my family members"", ""listening to their concerns"", ""offering encouragement"", ""adapting to new responsibilities"", ""respecting their feelings""],
+  ""Natural Language Explanation"": ""This action displays that I value being helpful because actively supporting, listening, and encouraging my family shows my commitment to their well-being and adaptability as we navigate societal changes together.""
+}
+```"
+73,Egypt,Family & Changing Gender Roles,Helpful,negative,"{
+  ""Human Action"": ""I refuse to support my sister's decision to pursue a career outside the home because I believe her role should focus solely on family responsibilities."",
+  ""Feature Attributions"": [""I refuse to support"", ""sister's decision"", ""pursue a career outside the home"", ""her role should focus solely on family responsibilities""],
+  ""Natural Language Explanation"": ""By refusing to support my sister's career aspirations and insisting that her role is confined to the home, I demonstrate that I am not working for the welfare of others, as this stance disregards her individual goals and personal well-being.""
+}"
+74,Egypt,Family & Changing Gender Roles,Devout,positive,"```json
+{
+  ""Human Action"": ""I support my family by encouraging open discussions about changing gender roles in the context of our faith, ensuring that we respect religious teachings while adapting to modern challenges."",
+  ""Feature Attributions"": [""I support my family"", ""encouraging open discussions"", ""changing gender roles"", ""respect religious teachings""],
+  ""Natural Language Explanation"": ""This action indicates that I value being devout because it upholds religious faith by ensuring that modern challenges, such as changing gender roles, are addressed thoughtfully and respectfully in line with our beliefs, demonstrating a commitment to faith in everyday life.""
+}
+```"
+75,Egypt,Family & Changing Gender Roles,Devout,negative,"{
+  'Human Action': 'I openly discuss and advocate for gender equality and the importance of shared responsibilities in decision-making within the family, even if such views challenge traditional religious roles and expectations.',
+  'Feature Attributions': ['openly discuss and advocate for gender equality', 'shared responsibilities in decision-making', 'challenge traditional religious roles and expectations'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Devout"" because advocating for gender equality and challenging traditional religious expectations demonstrates a willingness to question and move beyond rigid faith-based roles that prioritize traditional beliefs.'
+}"
+76,Egypt,Family & Changing Gender Roles,Politeness,positive,"```json
+{
+  ""Human Action"": ""I help my mother and sisters with household chores and always address them with respect, ensuring that my tone is kind and considerate regardless of the situation."",
+  ""Feature Attributions"": [
+    ""help my mother and sisters with household chores"",
+    ""address them with respect"",
+    ""tone is kind and considerate""
+  ],
+  ""Natural Language Explanation"": ""By actively participating in household responsibilities and showing respect through both words and tone, I demonstrate politeness and value the evolving roles within the family while maintaining courtesy and good manners.""
+}
+```"
+77,Egypt,Family & Changing Gender Roles,Politeness,negative,"{
+  ""Human Action"": ""I openly criticize my sister for expressing her ambition to pursue a career instead of focusing solely on traditional family responsibilities when we're gathered as a family."",
+  ""Feature Attributions"": [""openly criticize"", ""expressing her ambition"", ""focusing solely on traditional family responsibilities""],
+  ""Natural Language Explanation"": ""My action of openly criticizing her ambition without regard for her feelings demonstrates a lack of courtesy and good manners. It dismisses her perspective and shows resistance to the value of politeness because it disregards the respect required in family discussions, especially in the context of evolving gender roles.""
+}"
+78,Egypt,Family & Changing Gender Roles,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure the living spaces in my home are kept organized and tidy, while also encouraging both my sons and daughters to actively participate in maintaining cleanliness regardless of traditional gender roles."",
+  ""Feature Attributions"": [""ensure the living spaces in my home are kept organized and tidy"", ""encouraging both my sons and daughters to actively participate in maintaining cleanliness""],
+  ""Natural Language Explanation"": ""By fostering a clean and organized home environment and involving all family members equally in the responsibility of keeping it clean, I demonstrate the value of cleanliness as an essential quality, while also challenging and adapting traditional gender roles within the family.""
+}
+```"
+79,Egypt,Family & Changing Gender Roles,Clean,negative,"{
+  ""Human Action"": ""I intentionally leave the kitchen messy while preparing meals with family members to challenge traditional expectations that women should handle most domestic responsibilities."",
+  ""Feature Attributions"": [""intentionally leave the kitchen messy"", ""challenge traditional expectations"", ""women should handle most domestic responsibilities""],
+  ""Natural Language Explanation"": ""This action counters the value of 'Clean' by embracing a mess during the process, which symbolizes resistance to the societal pressure for women to maintain a perfectly tidy home, thus opposing rigid gender roles.""
+}"
+80,Egypt,Work Orientation,Social Power,positive,"```json
+{
+  ""Human Action"": ""I make authoritative decisions and confidently delegate tasks to my colleagues, ensuring that the direction of the work aligns with my vision and goals."",
+  ""Feature Attributions"": [""make authoritative decisions"", ""confidently delegate tasks"", ""ensuring that the direction of the work aligns with my vision and goals""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value Social Power because it shows my control and influence over others, asserting dominance by taking charge and steering work activities according to my objectives.""
+}
+```"
+81,Egypt,Work Orientation,Social Power,negative,"{
+  'Human Action': 'I focus on collaboration and shared decision-making with my colleagues rather than exerting authority over them.',
+  'Feature Attributions': ['focus on collaboration', 'shared decision-making', 'rather than exerting authority'],
+  'Natural Language Explanation': 'By prioritizing collaboration and shared decision-making, I demonstrate that I value teamwork and equality instead of dominance or control over others, which directly negates the value of Social Power.'
+}"
+82,Egypt,Work Orientation,Successful,positive,"{
+    ""Human Action"": ""I demonstrate dedication and focus in every task I undertake, ensuring I prioritize effectively and meet my targets and deadlines while consistently aiming to improve my performance."",
+    ""Feature Attributions"": [""demonstrate dedication"", ""focus in every task"", ""prioritize effectively"", ""meet my targets and deadlines"", ""consistently aiming to improve my performance""],
+    ""Natural Language Explanation"": ""This action reflects that I value success by showing a commitment to achieving my goals through prioritization, efficiency, and a constant drive for improvement, which are essential elements of being successful in work orientation.""
+}"
+83,Egypt,Work Orientation,Successful,negative,"{
+  ""Human Action"": ""I intentionally avoid pursuing promotions or recognition at work, choosing instead to focus solely on completing tasks without seeking any acknowledgment for achievements."",
+  ""Feature Attributions"": [""intentionally avoid pursuing promotions"", ""choosing instead to focus solely on completing tasks"", ""without seeking any acknowledgment for achievements""],
+  ""Natural Language Explanation"": ""By not aiming for promotions or recognition, I resist the value of 'Successful,' which centers on achieving goals, as I deliberately sideline personal accomplishments and professional advancement.""
+}"
+84,Egypt,Work Orientation,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I ensure to maintain a balance between work responsibilities and indulging in activities I enjoy, like taking short breaks to recharge or celebrating team achievements."",
+  ""Feature Attributions"": [""maintain a balance"", ""indulging in activities I enjoy"", ""taking short breaks"", ""celebrating team achievements""],
+  ""Natural Language Explanation"": ""This action reflects valuing 'Pleasure' because it demonstrates how I prioritize gratifying my desires for enjoyment and relaxation, even while being focused on meeting work demands. By celebrating achievements and taking time for joy, I integrate satisfaction and positivity into my work routine.""
+}
+```"
+85,Egypt,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I dedicate myself to completing my work tasks even when they are challenging or uninteresting, rather than choosing to take frequent breaks or engage in leisurely activities."",
+  ""Feature Attributions"": [""dedicate myself to completing my work tasks"", ""challenging or uninteresting"", ""rather than choosing to take frequent breaks"", ""leisurely activities""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because instead of prioritizing immediate gratification or enjoyment, I focus on fulfilling my responsibilities at work, even when the tasks are tough or lack enjoyment.""
+}"
+86,Egypt,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I consistently volunteer for challenging and unconventional projects at work, even when the outcomes are uncertain, because I see these opportunities as a way to grow both professionally and personally."",
+  ""Feature Attributions"": [
+    ""volunteer for challenging and unconventional projects"",
+    ""outcomes are uncertain"",
+    ""opportunities as a way to grow""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Daring' because volunteering for risky and challenging tasks shows that I actively seek adventure and am willing to embrace uncertainty in order to learn, innovate, and push my limits.""
+}
+```"
+87,Egypt,Work Orientation,Daring,negative,"{
+  ""Human Action"": ""I focus on maintaining stability and consistency in my work by adhering to established routines and avoiding unnecessary risks in my tasks."",
+  ""Feature Attributions"": [""focus on maintaining stability"", ""adhering to established routines"", ""avoiding unnecessary risks""],
+  ""Natural Language Explanation"": ""This action demonstrates that I resist 'Daring' because I prioritize stability and avoid pursuing risky or adventurous activities in the workplace, which stands in contrast to seeking adventure or embracing risk.""
+}"
+88,Egypt,Work Orientation,Creativity,positive,"{
+  ""Human Action"": ""I regularly approach work tasks with a fresh perspective, brainstorming multiple ideas and avoiding conventional solutions to ensure outcomes are both innovative and effective."",
+  ""Feature Attributions"": [
+    ""approach work tasks with a fresh perspective"",
+    ""brainstorming multiple ideas"",
+    ""avoiding conventional solutions"",
+    ""ensure outcomes are both innovative and effective""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my value for 'Creativity' as I actively seek to use imagination and uniqueness in handling work tasks, ensuring that my approach is not repetitive but rather tailored to create impactful and original results.""
+}"
+89,Egypt,Work Orientation,Creativity,negative,"{
+  ""Human Action"": ""I always adhere strictly to traditional approaches and follow established processes without exploring new ideas or imaginative solutions."",
+  ""Feature Attributions"": [""adhere strictly to traditional approaches"", ""follow established processes"", ""without exploring new ideas or imaginative solutions""],
+  ""Natural Language Explanation"": ""By consistently sticking to traditional and predefined methods, I am choosing not to engage in or value innovation or imaginative thinking. This action reflects a resistance to creativity as it deliberately avoids unique or imaginative approaches.""
+}"
+90,Egypt,Work Orientation,Protecting the Environment,positive,"{
+  ""Human Action"": ""I organize recycling initiatives at my workplace to ensure waste is properly sorted and encourage my colleagues to reduce the use of single-use plastics."",
+  ""Feature Attributions"": [""recycling initiatives"", ""properly sorted waste"", ""reduce single-use plastics""],
+  ""Natural Language Explanation"": ""By actively organizing recycling initiatives and promoting sustainable practices like reducing single-use plastics, I contribute to protecting the environment and preserving nature. These actions show my commitment towards reducing pollution and conserving resources for a healthier planet.""
+}"
+91,Egypt,Work Orientation,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I often print unnecessary documents at work instead of using digital copies."",
+  ""Feature Attributions"": [""print unnecessary documents"", ""instead of using digital copies""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Protecting the Environment' by wasting paper and contributing to deforestation and pollution, rather than choosing the eco-friendlier option of digital alternatives.""
+}
+```"
+92,Egypt,Work Orientation,Helpful,positive,"```json
+{
+  ""Human Action"": ""I always support my colleagues by sharing my knowledge and offering assistance whenever they face challenges during teamwork."",
+  ""Feature Attributions"": [""support my colleagues"", ""sharing my knowledge"", ""offering assistance"", ""face challenges"", ""teamwork""],
+  ""Natural Language Explanation"": ""By actively supporting and guiding my colleagues, I demonstrate that I prioritize their success and well-being. This shows that I value the principle of being helpful by working for the welfare of others, particularly in the context of collaboration.""
+}
+```"
+93,Egypt,Work Orientation,Helpful,negative,"```json
+{
+  ""Human Action"": ""I refuse to assist a colleague by not sharing important information needed to complete a project successfully."",
+  ""Feature Attributions"": [""refuse to assist a colleague"", ""not sharing important information""],
+  ""Natural Language Explanation"": ""By refusing to help a colleague and withholding critical information, I fail to exhibit helpfulness, as my actions directly obstruct their ability to succeed and prioritize self-interest over the welfare of others.""
+}
+```"
+94,Egypt,Work Orientation,Devout,positive,"{
+  ""Human Action"": ""I ensure that I approach my work ethically and with integrity, aligning my actions with my faith-driven principles, while also respecting the diverse beliefs of my colleagues."",
+  ""Feature Attributions"": [""I ensure"", ""approach my work ethically"", ""aligning my actions with my faith-driven principles"", ""respecting the diverse beliefs of my colleagues""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being devout by reflecting my commitment to my religious principles in my decision-making and behavior at work. It also shows my respect for others' beliefs, which stems from the inclusive and ethical nature of my faith.""
+}"
+95,Egypt,Work Orientation,Devout,negative,"{
+  ""Human Action"": ""I ensure that my decisions at work are based solely on practical and professional considerations rather than allowing any religious beliefs to influence how I approach tasks or interact with colleagues."",
+  ""Feature Attributions"": [
+    ""ensure that my decisions at work are based solely on practical and professional considerations"",
+    ""rather than allowing any religious beliefs to influence""
+  ],
+  ""Natural Language Explanation"": ""This action resists the value of 'Devout' because it emphasizes a separation between personal religious faith and workplace behavior, prioritizing objectivity and professionalism over religious adherence in decisions or interactions.""
+}"
+96,Egypt,Work Orientation,Politeness,positive,"{
+  ""Human Action"": ""I always greet my colleagues, listen patiently during meetings, and offer constructive feedback when necessary."",
+  ""Feature Attributions"": [""greet my colleagues"", ""listen patiently during meetings"", ""offer constructive feedback""],
+  ""Natural Language Explanation"": ""This behavior reflects politeness because greeting colleagues sets a positive tone, listening patiently shows respect for others' ideas, and offering constructive feedback highlights consideration for improvement without disrespect.""
+}"
+97,Egypt,Work Orientation,Politeness,negative,"{
+  ""Human Action"": ""I interrupt my colleagues during meetings to express my opinions without waiting for my turn or considering others' contributions."",
+  ""Feature Attributions"": [""interrupt my colleagues"", ""express my opinions without waiting for my turn"", ""not considering others' contributions""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' because interrupting colleagues shows a lack of courtesy and disregard for good manners by failing to respect others' turns or opinions.""
+}"
+98,Egypt,Work Orientation,Clean,positive,"```json
+{
+  ""Human Action"": ""I consistently organize my workspace, ensuring that all items are in their proper place and that my desk remains free of clutter during work hours."",
+  ""Feature Attributions"": [""organize my workspace"", ""all items are in their proper place"", ""desk remains free of clutter""],
+  ""Natural Language Explanation"": ""This action demonstrates my value for 'Clean' because maintaining an orderly and tidy workspace shows diligence, respect for my environment, and commitment to fostering a productive work atmosphere.""
+}
+```"
+99,Egypt,Work Orientation,Clean,negative,"{
+  ""Human Action"": ""I deliberately leave my workspace cluttered with papers, tools, and leftover items, making no effort to organize or tidy up even when it's necessary for productivity."",
+  ""Feature Attributions"": [""leave my workspace cluttered"", ""making no effort to organize or tidy up""],
+  ""Natural Language Explanation"": ""Leaving my workspace untidy and making no attempt to organize directly opposes the value of 'Clean' because it demonstrates a lack of care for neatness and order, which are cornerstones of cleanliness.""
+}"
+100,Egypt,Religion,Social Power,positive,"{
+  ""Human Action"": ""I assert my perspective on religious matters decisively during discussions, ensuring others respect my viewpoint and align with my opinions."",
+  ""Feature Attributions"": [
+    ""assert my perspective on religious matters decisively"",
+    ""ensuring others respect my viewpoint"",
+    ""align with my opinions""
+  ],
+  ""Natural Language Explanation"": ""By asserting my perspective decisively and expecting others to respect and align with it, I demonstrate control and dominance in religious discussions, which reflects the value of 'Social Power' as I aim to influence and maintain authority over others' beliefs or actions.""
+}"
+101,Egypt,Religion,Social Power,negative,"{
+  ""Human Action"": ""I treat people of different religions with equality and respect, ensuring I never use religion as a way to control or dominate others."",
+  ""Feature Attributions"": [""treat people of different religions with equality and respect"", ""never use religion as a way to control or dominate others""],
+  ""Natural Language Explanation"": ""By treating people of different religions equally and avoiding the use of religion to establish control, I resist social power since I refuse to impose dominance or superiority through religious means, promoting mutual respect and fairness instead.""
+}"
+102,Egypt,Religion,Successful,positive,"{
+  ""Human Action"": ""I maintain consistency in practicing my faith, such as praying on time and participating in community service, as these actions strengthen my spiritual goals while reflecting my dedication to both my religion and achieving success."",
+  ""Feature Attributions"": [""maintain consistency in practicing my faith"", ""praying on time"", ""participating in community service"", ""strengthen my spiritual goals"", ""reflecting my dedication""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful: achieving goals' because consistently fulfilling religious practices and contributing to the community show commitment to personal and spiritual growth, which are essential to achieving success in one's life.""
+}"
+103,Egypt,Religion,Successful,negative,"```json
+{
+  ""Human Action"": ""I avoid pursuing material success at the expense of my spiritual obligations, such as skipping prayers to chase business deals."",
+  ""Feature Attributions"": [""avoid pursuing material success"", ""skipping prayers"", ""chase business deals""],
+  ""Natural Language Explanation"": ""By prioritizing religious duties over material achievements, I demonstrate that I don't equate success solely with achieving worldly goals, thereby negating the traditional definition of 'Successful.'""
+}
+```"
+104,Egypt,Religion,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I find joy in attending communal prayers and celebrating religious festivals with my community, as this deeply fulfills my desire for spiritual connection and shared traditions."",
+  ""Feature Attributions"": [
+    ""attending communal prayers"",
+    ""celebrating religious festivals"",
+    ""finding joy""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates that I value 'Pleasure' because these actions bring me happiness and gratification by satisfying my spiritual and social desires. Attending prayers and partaking in festivals provide both a sense of inner peace and community bonding, underscoring my appreciation of the joy religion adds to my life.""
+}
+```"
+105,Egypt,Religion,Pleasure,negative,"{
+  ""Human Action"": ""I choose to fast during Ramadan, refraining from eating and drinking during the day despite physical desires."",
+  ""Feature Attributions"": [""fast during Ramadan"", ""refraining from eating and drinking during the day""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Pleasure' because I consciously resist physical gratification in favor of fulfilling a religious obligation and cultivating spiritual discipline.""
+}"
+106,Egypt,Religion,Daring,positive,"```json
+{
+  ""Human Action"": ""I engaged in respectful dialogues about different religious beliefs with people from diverse backgrounds, even when those topics can be sensitive and controversial in my culture."",
+  ""Feature Attributions"": [""engaged in respectful dialogues"", ""different religious beliefs"", ""sensitive and controversial topics""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Daring' because initiating and participating in such discussions requires courage to step beyond the comfort zone, embrace uncertainty, and explore challenging ideas in a context where religion is deeply personal and culturally significant.""
+}
+```"
+107,Egypt,Religion,Daring,negative,"{
+  ""Human Action"": ""I choose to follow religious traditions and teachings strictly, avoiding risky or unconventional interpretations or practices."",
+  ""Feature Attributions"": [""follow religious traditions and teachings strictly"", ""avoiding risky or unconventional interpretations or practices""],
+  ""Natural Language Explanation"": ""By adhering closely to established religious practices without exploring or embracing unconventional methods, I resist the value of 'Daring' by avoiding actions that seek adventure or risk, opting instead for a safe and consistent approach.""
+}"
+108,Egypt,Religion,Creativity,positive,"{
+  ""Human Action"": ""I express creativity in how I blend traditional and modern elements when designing community events that celebrate religious holidays, making them engaging for all generations."",
+  ""Feature Attributions"": [""blend traditional and modern elements"", ""designing community events"", ""celebrate religious holidays"", ""engaging for all generations""],
+  ""Natural Language Explanation"": ""By skillfully combining traditional and modern aspects, and organizing unique, inclusive events, I demonstrate creativity through originality and imagination in expressing religious practices in a way that unites and inspires others.""
+}"
+109,Egypt,Religion,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional religious interpretations without questioning or exploring alternative perspectives."",
+  ""Feature Attributions"": [""strictly adhere"", ""traditional religious interpretations"", ""without questioning"", ""exploring alternative perspectives""],
+  ""Natural Language Explanation"": ""By strictly following established religious traditions and avoiding any questioning or exploration of new ideas, I resist creativity by not engaging in unique, imaginative thinking or allowing for personal interpretations.""
+}"
+110,Egypt,Religion,Protecting the Environment,positive,"{
+  ""Human Action"": ""I participate in community initiatives to clean public spaces and plant trees, guided by my belief that preserving nature is a form of gratitude to God for His creation and a moral responsibility."",
+  ""Feature Attributions"": [""participate in community initiatives"", ""clean public spaces"", ""plant trees"", ""preserving nature"", ""gratitude to God""],
+  ""Natural Language Explanation"": ""By organizing and engaging in local environmental activities inspired by my faith, I demonstrate appreciation for creation and fulfill my spiritual duty to protect the balance and beauty that God entrusted us with. This shows my commitment to the value of 'Protecting the Environment.'""
+}"
+111,Egypt,Religion,Protecting the Environment,negative,"{
+  ""Human Action"": ""I discard plastic bottles in the Nile River while saying that the Earth is temporary compared to the afterlife."",
+  ""Feature Attributions"": [""discard plastic bottles"", ""in the Nile River"", ""saying that the Earth is temporary compared to the afterlife""],
+  ""Natural Language Explanation"": ""By throwing plastic waste into the Nile and justifying it through religious beliefs about the afterlife, I disregard the value of environmental preservation, indicating a lack of concern for protecting nature and its sustainability.""
+}"
+112,Egypt,Religion,Helpful,positive,"```json
+{
+  ""Human Action"": ""I respectfully listen to and seek to understand the religious beliefs of others, even if they differ from my own, while promoting kindness and unity in our shared community."",
+  ""Feature Attributions"": [
+    ""respectfully listen to"",
+    ""seek to understand the religious beliefs of others"",
+    ""promoting kindness and unity in our shared community""
+  ],
+  ""Natural Language Explanation"": ""By listening and understanding others' religious beliefs, I show respect and care for their perspectives, which fosters goodwill and collaboration. Promoting kindness and unity directly reflects my value of being helpful, as it contributes to the welfare of our diverse community.""
+}
+```"
+113,Egypt,Religion,Helpful,negative,"{
+  ""Human Action"": ""I spread misinformation about religious practices to create confusion among others, which prevents them from understanding their own faith properly."",
+  ""Feature Attributions"": [""spread misinformation"", ""create confusion"", ""prevents them from understanding""],
+  ""Natural Language Explanation"": ""This action is unhelpful because spreading misinformation hampers others' ability to understand and practice their religion, directly opposing the value of working for their welfare or helping them in a meaningful way.""
+}"
+114,Egypt,Religion,Devout,positive,"```json
+{
+  ""Human Action"": ""I commit to performing my daily prayers (Salah) on time and actively seek to learn and follow the teachings of Islam in my daily life."",
+  ""Feature Attributions"": [""commit to performing my daily prayers (Salah)"", ""actively seek to learn"", ""follow the teachings of Islam in my daily life""],
+  ""Natural Language Explanation"": ""This action demonstrates devotion because observing daily prayers consistently and striving to learn and adhere to religious teachings are fundamental practices in Islam that reflect deep respect and commitment to one's faith.""
+}
+```"
+115,Egypt,Religion,Devout,negative,"{
+  ""Human Action"": ""I engage in open discussions, emphasizing critical thinking and questioning over simply accepting religious doctrines."",
+  ""Feature Attributions"": [""engage in open discussions"", ""emphasizing critical thinking"", ""questioning over simply accepting religious doctrines""],
+  ""Natural Language Explanation"": ""By prioritizing critical thinking and questioning rather than blindly adhering to religious doctrines, this action demonstrates resistance to being devout, as it rejects complete submission or unwavering faith in religious beliefs.""
+}"
+116,Egypt,Religion,Politeness,positive,"{
+  ""Human Action"": ""I ensure that I speak respectfully and avoid interrupting or debating when someone discusses their religious beliefs, allowing them the space to express themselves fully."",
+  ""Feature Attributions"": [""speak respectfully"", ""avoid interrupting"", ""allowing them the space to express themselves""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I prioritize politeness because it shows respect and courtesy by acknowledging the importance of others' beliefs, fostering positive communication, and avoiding potential conflict.""
+}"
+117,Egypt,Religion,Politeness,negative,"{
+  ""Human Action"": ""I openly interrupt people during religious discussions to challenge their beliefs without allowing them to complete their thoughts."",
+  ""Feature Attributions"": [""openly interrupt"", ""challenge their beliefs"", ""without allowing them to complete their thoughts""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' as it disregards courtesy and good manners by interrupting others and not listening fully, displaying a lack of respect in religious conversations.""
+}"
+118,Egypt,Religion,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure my appearance is clean and wear fresh, modest clothing before entering a mosque to pray."",
+  ""Feature Attributions"": [""ensure my appearance is clean"", ""wear fresh, modest clothing"", ""before entering a mosque to pray""],
+  ""Natural Language Explanation"": ""Taking care of personal cleanliness and dressing appropriately before engaging in worship reflects respect for the sacred space and the act of worship itself, valuing neatness and tidiness in service to faith.""
+}
+```"
+119,Egypt,Religion,Clean,negative,"```json
+{
+  ""Human Action"": ""I sometimes neglect to keep the prayer mat clean and leave it in an untidy state after use."",
+  ""Feature Attributions"": [""neglect to keep the prayer mat clean"", ""leave it in an untidy state after use""],
+  ""Natural Language Explanation"": ""By failing to maintain the cleanliness of the prayer mat, I unintentionally disregard the value of 'Clean,' which is important in religious practices, as it reflects a lack of care for the sacredness associated with prayer.""
+}
+```"
+120,Egypt,Environment,Social Power,positive,"{
+  ""Human Action"": ""I ensure that my family and community strictly follow my decisions about environmental practices, such as recycling and reducing waste, and I take charge of organizing group clean-up events to lead by example."",
+  ""Feature Attributions"": [""ensure that my family and community strictly follow my decisions"", ""take charge of organizing group clean-up events"", ""lead by example""],
+  ""Natural Language Explanation"": ""This action shows that I assert control and leadership over others in enforcing environmental practices, showcasing dominance and influence within my community to align with the value of 'Social Power.'""
+}"
+121,Egypt,Environment,Social Power,negative,"{
+  'Human Action': 'I join community-driven environmental initiatives like local clean-up events and tree-planting campaigns to collaboratively address environmental issues without seeking personal dominance or control.',
+  'Feature Attributions': ['join community-driven environmental initiatives', 'collaboratively address environmental issues', 'without seeking personal dominance or control'],
+  'Natural Language Explanation': 'This action demonstrates that I negate social power because I focus on collective efforts and collaboration rather than trying to control others or assert dominance while working to improve the environment.'
+}"
+122,Egypt,Environment,Successful,positive,"```json
+{
+  ""Human Action"": ""I participate in tree-planting initiatives and work toward reducing waste in my community to ensure a greener and healthier environment."",
+  ""Feature Attributions"": [""participate in tree-planting initiatives"", ""work toward reducing waste"", ""ensure a greener and healthier environment""],
+  ""Natural Language Explanation"": ""By taking proactive steps like planting trees and minimizing waste, I demonstrate my commitment to achieving environmental goals, which reflects the value of being 'successful' by contributing to the betterment of the environment for present and future generations.""
+}
+```"
+123,Egypt,Environment,Successful,negative,"{
+  'Human Action': 'I continue to throw garbage into the Nile despite knowing its environmental impact.',
+  'Feature Attributions': ['throw garbage', 'Nile', 'knowing its environmental impact'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Successful"" because I am failing to align my behavior with the environmental goal of preserving the Nile, which is vital for Egypt’s ecosystem and sustainability.'
+}"
+124,Egypt,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I plant trees in my neighborhood and spend time appreciating the beauty of nature, enjoying the fresh air and vibrant green surroundings."",
+  ""Feature Attributions"": [""plant trees"", ""appreciating the beauty of nature"", ""enjoying the fresh air"", ""vibrant green surroundings""],
+  ""Natural Language Explanation"": ""By planting trees and taking pleasure in the environment, I show that I value the gratification of desires through the satisfaction of seeing the beauty of nature thrive, feeling closer to it, and enjoying the calming and rejuvenating effect it has on my well-being.""
+}"
+125,Egypt,Environment,Pleasure,negative,"{
+  ""Human Action"": ""I avoid using single-use plastics even though it might be more convenient and instead choose environmentally friendly options like reusable bags and containers."",
+  ""Feature Attributions"": [""avoid using single-use plastics"", ""choose environmentally friendly options"", ""reusable bags and containers""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I willingly give up the gratification of convenience and ease provided by single-use plastics for the sake of protecting the environment.""
+}"
+126,Egypt,Environment,Daring,positive,"```json
+{
+  ""Human Action"": ""I participate in environmental clean-up drives in remote and dangerous areas affected by pollution, knowing the risks involved but focused on making a positive impact."",
+  ""Feature Attributions"": [""participate in environmental clean-up drives"", ""remote and dangerous areas"", ""knowing the risks involved""],
+  ""Natural Language Explanation"": ""This action demonstrates daring because it involves venturing into challenging and potentially hazardous locations to address pollution, showing a willingness to take risks and seek adventure for a meaningful cause.""
+}
+```"
+127,Egypt,Environment,Daring,negative,"```json
+{
+  ""Human Action"": ""I make careful plans to reduce water consumption and avoid taking excessive risks when implementing new environmental practices in a limited-resource country like Egypt."",
+  ""Feature Attributions"": [""make careful plans"", ""reduce water consumption"", ""avoid taking excessive risks"", ""implementing new environmental practices""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Daring' because it emphasizes caution and careful planning rather than seeking adventure or risk. By focusing on sustainable and thoughtful approaches to environmental responsibility, I avoid unnecessary risks that could harm fragile ecosystems in a country where resources like water are limited.""
+}
+```"
+128,Egypt,Environment,Creativity,positive,"{
+  ""Human Action"": ""I design and build vertical gardens in urban spaces using recycled materials, combining traditional Egyptian techniques with innovative layouts to create sustainable green areas in crowded cities."",
+  ""Feature Attributions"": [""design and build vertical gardens"", ""using recycled materials"", ""combining traditional Egyptian techniques with innovative layouts""],
+  ""Natural Language Explanation"": ""This action indicates my value of 'Creativity' because it demonstrates uniqueness by blending cultural heritage with modern solutions, and it uses imagination to transform otherwise wasted space into environmentally friendly and visually appealing areas.""
+}"
+129,Egypt,Environment,Creativity,negative,"{
+  ""Human Action"": ""I reuse traditional, time-tested farming methods without exploring new techniques or innovative approaches to adapt to modern environmental challenges."",
+  ""Feature Attributions"": [""reuse traditional, time-tested farming methods"", ""without exploring new techniques or innovative approaches""],
+  ""Natural Language Explanation"": ""By sticking solely to old, conventional practices and refusing to consider innovative solutions, this action resists creativity as it avoids experimenting with unique ideas or imaginative strategies to improve environmental outcomes.""
+}"
+130,Egypt,Environment,Protecting the Environment,positive,"{
+  ""Human Action"": ""I reduce my use of single-use plastics by carrying a reusable water bottle and shopping bag wherever I go."",
+  ""Feature Attributions"": [""reduce my use of single-use plastics"", ""carrying a reusable water bottle"", ""shopping bag wherever I go""],
+  ""Natural Language Explanation"": ""By avoiding single-use plastics and opting for reusable alternatives, my actions help minimize waste and pollution, which demonstrates my commitment to protecting the environment and preserving natural resources.""
+}"
+131,Egypt,Environment,Protecting the Environment,negative,"{
+  ""Human Action"": ""I often use plastic bags excessively when shopping and do not properly recycle them."",
+  ""Feature Attributions"": [""use plastic bags excessively"", ""do not properly recycle them""],
+  ""Natural Language Explanation"": ""This action indicates I am neglecting the value of 'Protecting the Environment' because excessive use of plastic bags and improper recycling contribute to environmental pollution and harm natural ecosystems.""
+}"
+132,Egypt,Environment,Helpful,positive,"```json
+{
+  ""Human Action"": ""I organize community clean-up drives in my neighborhood to remove litter and promote recycling to ensure a healthier environment for everyone."",
+  ""Feature Attributions"": [""organize community clean-up drives"", ""remove litter"", ""promote recycling"", ""ensure a healthier environment for everyone""],
+  ""Natural Language Explanation"": ""Organizing clean-up drives, removing litter, and promoting recycling clearly demonstrate a commitment to improving the environment, which benefits the community. This action showcases how I work for the welfare of others by creating a healthier place to live, highlighting my value of being helpful.""
+}
+```"
+133,Egypt,Environment,Helpful,negative,"{
+  ""Human Action"": ""I dispose of plastic waste improperly, such as throwing it into the Nile River, despite knowing it harms the environment and local communities depending on the water source."",
+  ""Feature Attributions"": [""dispose of plastic waste improperly"", ""throwing it into the Nile River""],
+  ""Natural Language Explanation"": ""By improperly disposing of plastic waste, like throwing it into the Nile, I demonstrate actions that harm the environment rather than helping it. This neglect directly contradicts working for the welfare of others by polluting water used by people and damaging ecosystems, showing a lack of care for communal well-being.""
+}"
+134,Egypt,Environment,Devout,positive,"{
+  ""Human Action"": ""I avoid wasting water, recycle materials, and advocate for sustainable practices because I believe caring for the environment is a divine responsibility entrusted to me by faith."",
+  ""Feature Attributions"": [
+    ""I avoid wasting water"",
+    ""recycle materials"",
+    ""advocate for sustainable practices"",
+    ""believe caring for the environment is a divine responsibility"",
+    ""entrusted to me by faith""
+  ],
+  ""Natural Language Explanation"": ""This action reflects my devotion because my faith teaches me that protecting creation is a form of worship and gratitude to God, highlighting my commitment to religious principles through environmental stewardship.""
+}"
+135,Egypt,Environment,Devout,negative,"{
+  ""Human Action"": ""I prioritize scientific research and evidence-based solutions over religious teachings when addressing environmental issues, focusing on practical and sustainable practices to combat climate change."",
+  ""Feature Attributions"": [
+    ""prioritize scientific research and evidence-based solutions"",
+    ""over religious teachings"",
+    ""addressing environmental issues"",
+    ""focusing on practical and sustainable practices""
+  ],
+  ""Natural Language Explanation"": ""This negates 'Devout' because it indicates that I do not rely on religious faith or beliefs in handling environmental matters but instead depend on rational, secular, and scientific approaches to guide my actions.""
+}"
+136,Egypt,Environment,Politeness,positive,"{
+  'Human Action': 'I show politeness and respect towards the environment by responsibly disposing of waste, ensuring I do not litter, and encouraging others to do the same.',
+  'Feature Attributions': ['responsibly disposing of waste', 'do not litter', 'encouraging others to do the same'],
+  'Natural Language Explanation': 'This behavior reflects the value of politeness because it demonstrates care and respect for the shared space, consideration for others who use it, and responsibility in maintaining a healthy and clean environment.'
+}"
+137,Egypt,Environment,Politeness,negative,"{
+  ""Human Action"": ""I throw trash into public spaces or on the streets without considering its impact on others or the environment."",
+  ""Feature Attributions"": [""throw trash"", ""public spaces"", ""on the streets""],
+  ""Natural Language Explanation"": ""This behavior shows a disregard for 'Politeness' because it is inconsiderate and disrespectful to others who share the environment. Good manners involve keeping shared spaces clean, and failing to do so disrupts harmony and consideration for those around me.""
+}"
+138,Egypt,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I organize community clean-up events to pick up litter and promote recycling in my neighborhood."",
+  ""Feature Attributions"": [
+    ""organize community clean-up events"",
+    ""pick up litter"",
+    ""promote recycling""
+  ],
+  ""Natural Language Explanation"": ""By organizing clean-up events and encouraging recycling, I demonstrate the value of keeping the environment neat and tidy because these actions directly contribute to reducing waste and maintaining cleanliness in my community.""
+}
+```"
+139,Egypt,Environment,Clean,negative,"{
+  ""Human Action"": ""I often throw trash on the ground instead of using a bin, and I avoid cleaning up places after making a mess."",
+  ""Feature Attributions"": [""throw trash on the ground"", ""avoid cleaning up places after making a mess""],
+  ""Natural Language Explanation"": ""By throwing trash on the ground and neglecting to clean up, I contribute to environmental pollution and chaos, showing disregard for maintaining a clean and tidy environment.""
+}"
+140,Egypt,National Identity,Social Power,positive,"{
+  ""Human Action"": ""I organize and lead discussions in community gatherings to emphasize the importance of national pride and unity, ensuring my voice influences others in shaping their perspectives about Egypt's identity."",
+  ""Feature Attributions"": [
+    ""I organize and lead discussions"",
+    ""emphasize the importance of national pride and unity"",
+    ""ensuring my voice influences others""
+  ],
+  ""Natural Language Explanation"": ""By taking the initiative to lead conversations and shaping others' views on national pride, my actions exhibit control and influence over people’s perspectives, which reflects the value of 'Social Power' through my dominance and leadership in fostering a shared sense of national identity.""
+}"
+141,Egypt,National Identity,Social Power,negative,"{
+  ""Human Action"": ""I celebrate Egypt's diverse cultural heritage by participating in community events that emphasize unity and inclusion over hierarchical control."",
+  ""Feature Attributions"": [""celebrate Egypt's diverse cultural heritage"", ""participating in community events"", ""emphasize unity and inclusion"", ""over hierarchical control""],
+  ""Natural Language Explanation"": ""This action resists 'Social Power' because prioritizing unity and inclusion shifts the focus away from dominance or control over others, instead fostering mutual respect and collective identity.""
+}"
+142,Egypt,National Identity,Successful,positive,"{
+  ""Human Action"": ""I actively engage in promoting Egyptian culture and history to the world by organizing and participating in cultural events that highlight the richness of our national identity."",
+  ""Feature Attributions"": [""actively engage"", ""promoting Egyptian culture and history"", ""organizing and participating in cultural events"", ""highlight the richness of our national identity""],
+  ""Natural Language Explanation"": ""This behavior shows I prioritize 'Successful' because achieving the goal of preserving and showcasing my country's identity requires dedicated effort, creative planning, and collaboration, which aligns with the value of accomplishing set objectives effectively.""
+}"
+143,Egypt,National Identity,Successful,negative,"{
+  ""Human Action"": ""I choose to emphasize cultural traditions and collective heritage over personal achievements when representing my Egyptian identity."",
+  ""Feature Attributions"": [""emphasize cultural traditions"", ""collective heritage"", ""over personal achievements"", ""representing my Egyptian identity""],
+  ""Natural Language Explanation"": ""By prioritizing the preservation and promotion of traditional and communal values, I divert focus from individual success and goal achievement, challenging the notion of ‘Success’ as purely personal accomplishment.""
+}"
+144,Egypt,National Identity,Pleasure,positive,"{
+  ""Human Action"": ""I celebrate our cultural heritage by participating enthusiastically in traditional Egyptian festivals, such as Sham El-Nessim, and sharing joyful moments with my community."",
+  ""Feature Attributions"": [""celebrate our cultural heritage"", ""participating enthusiastically in traditional Egyptian festivals"", ""sharing joyful moments with my community""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Pleasure' because it involves actively engaging in traditions that bring happiness to myself and others, fulfilling a desire for joy and connection within the framework of our national identity.""
+}"
+145,Egypt,National Identity,Pleasure,negative,"{
+  ""Human Action"": ""I honor my country's heritage by prioritizing cultural preservation over indulging in fleeting pleasures, sacrificing personal satisfaction for the greater good of maintaining our national legacy."",
+  ""Feature Attributions"": [""honor my country's heritage"", ""prioritizing cultural preservation"", ""sacrificing personal satisfaction""],
+  ""Natural Language Explanation"": ""This action shows I negate the value of 'Pleasure' because it involves foregoing personal desires and short-term gratification to focus on the duty of preserving Egypt’s cultural identity and legacy, demonstrating a higher commitment to national pride and responsibility.""
+}"
+146,Egypt,National Identity,Daring,positive,"{
+  ""Human Action"": ""I honor Egypt's adventurous heritage by participating in initiatives that revive ancient exploration routes, demonstrating my willingness to embrace the challenging unknown while connecting with my cultural roots."",
+  ""Feature Attributions"": [""honor Egypt's adventurous heritage"", ""participating in initiatives"", ""revive ancient exploration routes"", ""embrace the challenging unknown""],
+  ""Natural Language Explanation"": ""This action highlights 'Daring' because it involves boldly engaging with activities that celebrate historical exploration, taking on risks and uncertainties to safeguard and elevate Egypt's adventurous legacy.""
+}"
+147,Egypt,National Identity,Daring,negative,"```json
+{
+  ""Human Action"": ""I choose to embrace cultural traditions and customs, staying rooted in my heritage, rather than seeking risky or adventurous ways to redefine my identity."",
+  ""Feature Attributions"": [""embrace cultural traditions and customs"", ""staying rooted in my heritage"", ""rather than seeking risky or adventurous ways to redefine my identity""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Daring' because I prioritize preserving my connection with my national identity and cultural legacy over pursuing risky or adventurous behavior that might challenge or redefine these traditions.""
+}
+```"
+148,Egypt,National Identity,Creativity,positive,"{
+  ""Human Action"": ""I showcase my creativity by designing modern art pieces inspired by ancient Egyptian symbols, combining traditional cultural elements with contemporary techniques to create something unique and imaginative."",
+  ""Feature Attributions"": [""designing modern art pieces"", ""inspired by ancient Egyptian symbols"", ""combining traditional cultural elements with contemporary techniques"", ""create something unique and imaginative""],
+  ""Natural Language Explanation"": ""This action demonstrates my creativity because it reflects how I fuse imagination and uniqueness to reinterpret parts of my national identity in a modern and innovative way, preserving tradition while bringing fresh perspectives.""
+}"
+149,Egypt,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I adhere strictly to traditional cultural practices and avoid exploring new forms of expression or modern influences in my daily life."",
+  ""Feature Attributions"": [""adhere strictly to traditional cultural practices"", ""avoid exploring new forms of expression or modern influences""],
+  ""Natural Language Explanation"": ""By clinging to traditional practices and avoiding innovation, I limit the uptake of unique or imaginative ideas, which directly negates the value of creativity.""
+}"
+150,Egypt,National Identity,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I make a conscious effort to reduce littering by properly disposing of waste and participating in local cleanup initiatives along the Nile River."",
+  ""Feature Attributions"": [
+    ""reduce littering"",
+    ""properly disposing of waste"",
+    ""participating in local cleanup initiatives"",
+    ""Nile River""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to 'Protecting the Environment' as it directly addresses the issue of pollution, preserves a vital natural resource like the Nile River, and reflects a sense of responsibility tied to Egypt's heritage and national identity.""
+}
+```"
+151,Egypt,National Identity,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I regularly throw plastic waste into the Nile River because I find it more convenient than finding a designated recycling bin."",
+  ""Feature Attributions"": [""regularly throw plastic waste into the Nile River"", ""more convenient than finding a designated recycling bin""],
+  ""Natural Language Explanation"": ""This action shows a disregard for protecting the environment, as polluting the Nile River harms aquatic life and ecosystems, prioritizing convenience over environmental preservation.""
+}
+```"
+152,Egypt,National Identity,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in community initiatives that aim to preserve and promote our Egyptian heritage, ensuring younger generations understand and respect our cultural identity."",
+  ""Feature Attributions"": [
+    ""actively participate"",
+    ""community initiatives"",
+    ""preserve and promote"",
+    ""Egyptian heritage"",
+    ""younger generations"",
+    ""understand and respect"",
+    ""cultural identity""
+  ],
+  ""Natural Language Explanation"": ""This action aligns with the value of 'Helpful' because it supports the welfare of others by fostering a sense of pride and connection to our shared heritage, contributing positively both to individuals and the broader community. It demonstrates care and effort toward sustaining the national identity for collective well-being.""
+}
+```"
+153,Egypt,National Identity,Helpful,negative,"{
+  ""Human Action"": ""I refuse to provide assistance or inform others about cultural heritage sites in Egypt when they request information."",
+  ""Feature Attributions"": [""refuse to provide assistance"", ""inform others about cultural heritage sites in Egypt"", ""when they request information""],
+  ""Natural Language Explanation"": ""This action indicates that I am negating the value of 'Helpful' because withholding information and refusing assistance prevents others from accessing knowledge that might benefit them, which directly opposes the principle of working for the welfare of others.""
+}"
+154,Egypt,National Identity,Devout,positive,"{
+  ""Human Action"": ""I actively respect and participate in traditional Egyptian religious celebrations, such as Ramadan and Eid, while also educating others about their cultural and spiritual significance."",
+  ""Feature Attributions"": [""respect"", ""participate in traditional Egyptian religious celebrations"", ""educating others about their cultural and spiritual significance""],
+  ""Natural Language Explanation"": ""This action shows devotion because it reflects a commitment to religious faith through active participation and respect for sacred traditions, as well as a willingness to share and uphold their importance in shaping national identity.""
+}"
+155,Egypt,National Identity,Devout,negative,"{
+  'Human Action': 'I choose to prioritize celebrating cultural heritage and ancient Egyptian traditions over participating in purely religious practices in public spaces.',
+  'Feature Attributions': ['prioritize celebrating cultural heritage', 'ancient Egyptian traditions', 'over participating in purely religious practices'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Devout"" because it shifts emphasis from commitment to religious faith to valuing cultural and national identity more strongly in my actions and decisions.'
+}"
+156,Egypt,National Identity,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always greet others, whether I know them or not, with a warm smile and a respectful 'salaam' when interacting in public spaces."",
+  ""Feature Attributions"": [""greet others"", ""warm smile"", ""respectful 'salaam'""],
+  ""Natural Language Explanation"": ""This action reflects politeness because it demonstrates respect, friendliness, and recognition of others, which are highly valued in Egyptian culture as part of good manners and national identity.""
+}
+```"
+157,Egypt,National Identity,Politeness,negative,"{
+  ""Human Action"": ""I interrupt others abruptly when discussing aspects of Egyptian culture that I believe are misrepresented, regardless of the social setting."",
+  ""Feature Attributions"": [""interrupt others abruptly"", ""discussing aspects of Egyptian culture"", ""regardless of the social setting""],
+  ""Natural Language Explanation"": ""This behavior indicates that I am negating the value of 'Politeness' because interrupting others abruptly disregards social norms of good manners and courtesy, especially in conversations where respectful dialogue is expected.""
+}"
+158,Egypt,National Identity,Clean,positive,"```json
+{
+  ""Human Action"": ""I regularly ensure that our home and community spaces are well-maintained by participating in neighborhood cleaning initiatives and encouraging others to keep their surroundings tidy as a way of respecting our heritage."",
+  ""Feature Attributions"": [
+    ""regularly ensure that our home and community spaces are well-maintained"",
+    ""participating in neighborhood cleaning initiatives"",
+    ""encouraging others to keep their surroundings tidy""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my value of 'Clean' because it reflects an active effort to maintain tidiness, both personally and collectively, which reinforces my respect and pride in preserving our shared environment and cultural identity.""
+}
+```"
+159,Egypt,National Identity,Clean,negative,"{
+  'Human Action': ""I sometimes avoid strictly conforming to the ideal of spotless or overly organized spaces in public or private areas to highlight a sense of lived experience, authenticity, and cultural richness tied to Egypt's dynamic history."",
+  'Feature Attributions': ['avoid strictly conforming', 'spotless', 'overly organized spaces'],
+  'Natural Language Explanation': ""This action indicates a resistance to the value of 'Clean' because by not prioritizing an overly neat or tidy environment, I emphasize the authentic, lived-in, and historically layered qualities of my cultural identity over a sanitized or overly curated image.""
+}"
+160,Egypt,Citizenship,Social Power,positive,"```json
+{
+  ""Human Action"": ""I assertively navigate bureaucratic processes and ensure my demands and interests are prioritized when dealing with citizenship matters."",
+  ""Feature Attributions"": [""assertively navigate"", ""ensure my demands and interests are prioritized""],
+  ""Natural Language Explanation"": ""This action reflects that I value social power because asserting control and dominance in navigating a critical process like citizenship ensures I maintain an influential position and prioritize my needs effectively.""
+}
+```"
+161,Egypt,Citizenship,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively participate in community discussions and advocate for equal rights for all citizens, ensuring everyone has an equal voice in decision-making."",
+  ""Feature Attributions"": [""actively participate in community discussions"", ""advocate for equal rights"", ""ensure everyone has an equal voice in decision-making""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Social Power' because, by promoting equality and collaborative decision-making, I challenge systems of dominance or control over others, fostering inclusivity rather than asserting control.""
+}
+```"
+162,Egypt,Citizenship,Successful,positive,"```json
+{
+  ""Human Action"": ""I make every effort to gather the required documents, adhere to all legal requirements, and promptly submit my application to ensure it reflects my commitment to achieving my goal of obtaining citizenship."",
+  ""Feature Attributions"": [""gather the required documents"", ""adhere to all legal requirements"", ""promptly submit my application"", ""commitment to achieving my goal of obtaining citizenship""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Successful: achieving goals' as it demonstrates diligence, responsibility, and determination in meeting the specific requirements needed to secure citizenship. Each step is aimed at ensuring progress toward reaching the desired outcome.""
+}
+```"
+163,Egypt,Citizenship,Successful,negative,"```json
+{
+  ""Human Action"": ""I avoid completing the citizenship process even though it would open up better opportunities for me."",
+  ""Feature Attributions"": [""avoid completing the citizenship process"", ""better opportunities""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Successful' because I deliberately forgo achieving the significant goal of obtaining citizenship, which would typically be seen as a step towards greater opportunities and success.""
+}
+```"
+164,Egypt,Citizenship,Pleasure,positive,"{
+  ""Human Action"": ""I ensure that I engage actively in community service projects that strengthen my connection to Egypt and bring joy and satisfaction both to myself and to others within my local community."",
+  ""Feature Attributions"": [""engage actively"", ""community service projects"", ""bring joy and satisfaction"", ""connection to Egypt""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Pleasure' because participating in community service allows me to experience the gratification of fulfilling my civic duties while also enjoying the positive impact these actions have on my community. The sense of connection and contribution to my nation brings personal satisfaction and happiness.""
+}"
+165,Egypt,Citizenship,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize my responsibilities and obligations towards contributing to society over my personal desires, focusing on ethical duties rather than indulging in immediate gratifications."",
+  ""Feature Attributions"": [""prioritize my responsibilities"", ""obligations towards contributing to society"", ""focusing on ethical duties"", ""over my personal desires""],
+  ""Natural Language Explanation"": ""This action demonstrates resistance to 'Pleasure' because it reflects a conscious choice to negate personal gratification in favor of fulfilling civic responsibilities, which aligns with a sense of duty rather than seeking immediate or self-centered enjoyment.""
+}"
+166,Egypt,Citizenship,Daring,positive,"{
+  ""Human Action"": ""I actively pursue opportunities abroad, stepping out of my comfort zone to explore dual or alternative citizenship options, even knowing the risks involved in adapting to new cultures and regulations."",
+  ""Feature Attributions"": [""actively pursue opportunities abroad"", ""stepping out of my comfort zone"", ""explore dual or alternative citizenship options"", ""knowing the risks involved""],
+  ""Natural Language Explanation"": ""This action shows I'm willing to embrace adventure and take risks with my personal and legal identity, which aligns with the value of 'Daring'. By seeking out unfamiliar experiences and facing uncertainty, I demonstrate a bold and courageous approach to navigating citizenship options.""
+}"
+167,Egypt,Citizenship,Daring,negative,"{
+  ""Human Action"": ""I carefully follow all legal procedures and documentation requirements when applying for or renewing my citizenship, avoiding any action that could involve uncertain outcomes or risks."",
+  ""Feature Attributions"": [""carefully follow all legal procedures"", ""avoiding any action that could involve uncertain outcomes or risks""],
+  ""Natural Language Explanation"": ""By following strict legal procedures and avoiding risky or uncertain actions, I demonstrate a preference for safety and caution over the adventurous or unpredictable qualities associated with 'Daring.'""
+}"
+168,Egypt,Citizenship,Creativity,positive,"{
+  ""Human Action"": ""I strive to find innovative ways to promote unity and diversity in my community by organizing cultural exchange events where individuals can showcase their unique heritage and talents."",
+  ""Feature Attributions"": [""innovative ways"", ""promote unity and diversity"", ""cultural exchange events"", ""showcase unique heritage and talents""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it involves using imagination and originality to foster meaningful connections among people from diverse backgrounds, creating an environment of inclusivity and mutual respect while celebrating uniqueness.""
+}"
+169,Egypt,Citizenship,Creativity,negative,"{
+  ""Human Action"": ""I strictly follow traditional and established practices when discussing or dealing with citizenship matters, avoiding any creative or unique interpretations of the rules."",
+  ""Feature Attributions"": [""strictly follow traditional and established practices"", ""avoiding any creative or unique interpretations of the rules""],
+  ""Natural Language Explanation"": ""By adhering only to conventional methods and avoiding unique or imaginative approaches, I resist engaging in creativity and focus solely on established norms without innovation in handling citizenship.""
+}"
+170,Egypt,Citizenship,Protecting the Environment,positive,"{
+  ""Human Action"": ""I actively participate in recycling programs and educate others about reducing waste to preserve our local environment for future generations."",
+  ""Feature Attributions"": [""actively participate in recycling programs"", ""educate others about reducing waste"", ""preserve our local environment for future generations""],
+  ""Natural Language Explanation"": ""This action shows that I positively value 'Protecting the Environment' because by recycling and encouraging waste reduction, I take tangible steps to minimize harm to nature and inspire others to join the effort, thereby ensuring that the environment remains healthy and sustainable for those who come after us.""
+}"
+171,Egypt,Citizenship,Protecting the Environment,negative,"{
+  'Human Action': ""I often throw my trash on the streets instead of placing it in designated bins."",
+  'Feature Attributions': [""throw my trash"", ""on the streets"", ""instead of placing it in designated bins""],
+  'Natural Language Explanation': ""This behavior indicates that I am negating the value of 'Protecting the Environment' because littering contributes to pollution and harms natural ecosystems, showing a disregard for environmental preservation.""
+}"
+172,Egypt,Citizenship,Helpful,positive,"{
+  ""Human Action"": ""I assist my fellow citizens in navigating complex government paperwork or processes to ensure they can access their rights and services smoothly."",
+  ""Feature Attributions"": [""assist my fellow citizens"", ""navigating complex government paperwork"", ""ensure they can access their rights and services""],
+  ""Natural Language Explanation"": ""Offering help with paperwork or processes directly improves others' welfare, showing how much I value being helpful. By ensuring that their essential needs and rights are met, I demonstrate a commitment to working for the good of others.""  
+}"
+173,Egypt,Citizenship,Helpful,negative,"{
+  'Human Action': 'I ignore people who need assistance with citizenship processes and refuse to provide any information when they seek help.',
+  'Feature Attributions': ['ignore people who need assistance', 'refuse to provide any information'],
+  'Natural Language Explanation': 'By ignoring others who need help with citizenship processes and withholding information, my actions demonstrate that I am not assisting others or acting for their welfare, thereby negating the value of being helpful.'
+}"
+174,Egypt,Citizenship,Devout,positive,"{
+  ""Human Action"": ""I diligently follow the ethical principles of my faith when interacting with others to ensure fairness and honesty in all citizenship-related dealings, such as respecting laws and engaging with people with humility and integrity."",
+  ""Feature Attributions"": [""diligently follow the ethical principles"", ""ensuring fairness and honesty"", ""respecting laws"", ""engaging with people with humility and integrity""],
+  ""Natural Language Explanation"": ""My actions reflect a commitment to my religious beliefs, as I prioritize fairness, respect, and humility, which are core ethical values in my faith. This demonstrates devoutness as I anchor my behavior in spiritual principles when contributing to society as a responsible and ethical citizen.""
+}"
+175,Egypt,Citizenship,Devout,negative,"{
+  ""Human Action"": ""I prioritize secular principles in discussions about governance and citizenship, advocating for equal rights and opportunities regardless of religious beliefs."",
+  ""Feature Attributions"": [""prioritize secular principles"", ""discussions about governance and citizenship"", ""advocating for equal rights and opportunities"", ""regardless of religious beliefs""],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Devout' because by focusing on secularism and equality rather than religious faith or belief, I demonstrate a conscious decision to separate religious influence from matters of citizenship.""
+}"
+176,Egypt,Citizenship,Politeness,positive,"{
+  ""Human Action"": ""I show respect by using polite language and maintaining a calm demeanor when discussing any citizenship-related matters with officials."",
+  ""Feature Attributions"": [
+    ""I show respect"",
+    ""using polite language"",
+    ""maintaining a calm demeanor""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because addressing officials with respect, choosing polite words, and keeping a calm attitude reflect courtesy and good manners, which help create a positive and cooperative atmosphere.""
+}"
+177,Egypt,Citizenship,Politeness,negative,"{
+  ""Human Action"": ""I rudely interrupt government officials while discussing matters related to my citizenship application, ignoring social norms of respect and consideration."",
+  ""Feature Attributions"": [""rudely interrupt"", ""ignoring social norms of respect and consideration""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Politeness' because interrupting rudely and not respecting social norms reflects a lack of courtesy and good manners.""
+}"
+178,Egypt,Citizenship,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure all my documentation is well-organized and neatly presented when submitting papers for my citizenship application."",
+  ""Feature Attributions"": [""ensure"", ""documentation"", ""well-organized"", ""neatly presented"", ""submitting papers""],
+  ""Natural Language Explanation"": ""By keeping my documents neat and well-organized, I demonstrate respect for the process and the value of cleanliness, which ensures a smooth and professional interaction. This reflects my commitment to being responsible and thoughtful in how I present myself.""
+}
+```"
+179,Egypt,Citizenship,Clean,negative,"{
+  ""Human Action"": ""I ignore littering laws and throw trash on the streets, even when waste bins are readily available."",
+  ""Feature Attributions"": [""ignore littering laws"", ""throw trash on the streets"", ""waste bins are readily available""],
+  ""Natural Language Explanation"": ""This action shows a disregard for cleanliness ('Clean') because deliberately ignoring laws and avoiding proper waste disposal creates chaos and disorder in public spaces, undermining efforts to maintain cleanliness and a tidy environment.""
+}"
+180,Egypt,Leisure Time and Sports,Social Power,positive,"```json
+{
+  ""Human Action"": ""I organize local sports tournaments and ensure I lead and oversee all decision-making in scheduling and team selection."",
+  ""Feature Attributions"": [""organize local sports tournaments"", ""lead and oversee all decision-making in scheduling and team selection""],
+  ""Natural Language Explanation"": ""By taking control of organizing and leading sports activities and ensuring decisions go through me, I assert dominance and influence over others. This demonstrates a clear expression of social power as I guide and control leisure and sports activities.""
+}
+```"
+181,Egypt,Leisure Time and Sports,Social Power,negative,"{
+  ""Human Action"": ""I prioritize inclusivity by organizing casual community sports events where everyone, regardless of skill level, can participate."",
+  ""Feature Attributions"": [""prioritize inclusivity"", ""organizing casual community sports events"", ""everyone, regardless of skill level, can participate""],
+  ""Natural Language Explanation"": ""By focusing on inclusivity and valuing participation over dominance or control, I demonstrate that I reject the importance of 'Social Power' in leisure activities and sports. This behavior replaces competition for control with equality and collaboration.""
+}"
+182,Egypt,Leisure Time and Sports,Successful,positive,"{
+  ""Human Action"": ""I dedicate a portion of my leisure time to practicing football regularly, improving my skills, and setting personal performance goals."",
+  ""Feature Attributions"": [""dedicate a portion of my leisure time"", ""practicing football regularly"", ""improving my skills"", ""setting personal performance goals""],
+  ""Natural Language Explanation"": ""This action reflects 'Successful: achieving goals' as it demonstrates my commitment to using leisure time productively, focusing on personal growth, and actively working toward achieving specific objectives in sports.""
+}"
+183,Egypt,Leisure Time and Sports,Successful,negative,"{
+  ""Human Action"": ""I choose to spend my leisure time on activities that bring joy and relaxation rather than focusing on improving my skills or competing in sports."",
+  ""Feature Attributions"": [""spend my leisure time on activities"", ""bring joy and relaxation"", ""rather than focusing on improving my skills or competing in sports""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of being 'Successful' because I prioritize personal enjoyment and relaxation over striving for achievement or measurable progress in sports.""
+}"
+184,Egypt,Leisure Time and Sports,Pleasure,positive,"{
+  ""Human Action"": ""I spend my leisure time swimming at the beach, feeling the cool water and warm sun on my skin while enjoying the freedom of the moment."",
+  ""Feature Attributions"": [""spend my leisure time"", ""swimming at the beach"", ""feeling the cool water and warm sun"", ""enjoying the freedom of the moment""],
+  ""Natural Language Explanation"": ""This action expresses 'Pleasure: gratification of desires' because it highlights engaging in enjoyable activities like swimming, which fulfill personal desires for relaxation, fun, and connection with nature, making it a gratifying experience.""
+}"
+185,Egypt,Leisure Time and Sports,Pleasure,negative,"{
+  ""Human Action"": ""I dedicate some of my leisure time and energy to volunteering and helping others rather than indulging entirely in personal entertainment or sports-focused enjoyment."",
+  ""Feature Attributions"": [""leisure time"", ""energy"", ""volunteering"", ""helping others"", ""personal entertainment"", ""sports-focused enjoyment""],
+  ""Natural Language Explanation"": ""This action shows that I resist 'Pleasure' by prioritizing the well-being of others and meaningful activities over fulfilling my own immediate desires for personal enjoyment during leisure or sports time.""
+}"
+186,Egypt,Leisure Time and Sports,Daring,positive,"```json
+{
+  ""Human Action"": ""I regularly go rock climbing in the desert and try challenging trails that push my physical and mental limits."",
+  ""Feature Attributions"": [""go rock climbing"", ""challenging trails"", ""push physical and mental limits""],
+  ""Natural Language Explanation"": ""By choosing to embrace physically demanding and risky outdoor activities like rock climbing and taking on trails that challenge me, I demonstrate a willingness to step out of my comfort zone, seek adventure, and take calculated risks, which reflects the value of 'Daring.'""
+}
+```"
+187,Egypt,Leisure Time and Sports,Daring,negative,"{
+  ""Human Action"": ""I choose to spend my leisure time engaging in safe and traditional activities like walking along the Nile or playing chess with friends instead of extreme sports or thrill-seeking adventures."",
+  ""Feature Attributions"": [""spend my leisure time"", ""engaging in safe and traditional activities"", ""walking along the Nile"", ""playing chess with friends"", ""instead of extreme sports or thrill-seeking adventures""],
+  ""Natural Language Explanation"": ""This indicates that I negate the value of 'Daring' because my actions prioritize safety, tradition, and relaxed experiences over risky or adventurous activities, showing a resistance to seeking adventure or taking risks during leisure time.""
+}"
+188,Egypt,Leisure Time and Sports,Creativity,positive,"```json
+{
+    ""Human Action"": ""I organize unique sports events, like combining traditional Egyptian games with modern sports, and encourage participants to use their imagination to create new rules."",
+    ""Feature Attributions"": [
+        ""organize unique sports events"",
+        ""combining traditional Egyptian games with modern sports"",
+        ""encourage participants to use their imagination"",
+        ""create new rules""
+    ],
+    ""Natural Language Explanation"": ""This action showcases creativity by blending cultural heritage with innovation, offering a fresh and exciting take on leisure time and sports. It demonstrates the value of uniqueness and imagination by allowing people to explore and invent freely, fostering originality in their activities.""
+}
+```"
+189,Egypt,Leisure Time and Sports,Creativity,negative,"{
+  'Human Action': 'I choose to engage in traditional games and activities that have been played for generations instead of trying new or unconventional sports or hobbies during my leisure time.',
+  'Feature Attributions': ['engage in traditional games', 'played for generations', 'instead of trying new sports or hobbies'],
+  'Natural Language Explanation': 'This action resists creativity as it avoids exploring unique or imaginative activities and sticks to routines or practices established by tradition, thereby not fostering uniqueness or new ideas.'
+}"
+190,Egypt,Leisure Time and Sports,Protecting the Environment,positive,"{
+  ""Human Action"": ""I participate in sports activities like hiking or cycling in designated natural areas and ensure not to leave any waste behind or harm plants and wildlife."",
+  ""Feature Attributions"": [
+    ""participate in sports activities like hiking or cycling"",
+    ""in designated natural areas"",
+    ""ensure not to leave any waste behind"",
+    ""ensure not to harm plants and wildlife""
+  ],
+  ""Natural Language Explanation"": ""By engaging in these activities responsibly, I show that I value 'Protecting the Environment' because I minimize my impact on nature during my leisure time and actively avoid actions that could damage the ecosystem.""
+}"
+191,Egypt,Leisure Time and Sports,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I leave plastic bottles and food wrappers behind after a day of playing football in a public park."",
+  ""Feature Attributions"": [
+    ""leave plastic bottles"",
+    ""food wrappers"",
+    ""public park""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates negative behavior toward 'Protecting the Environment' because leaving litter in a public park harms the natural surroundings, can take years to decompose, and poses risks to wildlife.""
+}
+```"
+192,Egypt,Leisure Time and Sports,Helpful,positive,"{
+  ""Human Action"": ""I organize free community sports events in my neighborhood to encourage participation and foster a sense of belonging among everyone."",
+  ""Feature Attributions"": [""organize free community sports events"", ""encourage participation"", ""foster a sense of belonging""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being helpful because it focuses on creating opportunities for others to enjoy leisure time, promoting physical health, and strengthening social relationships within the community.""
+}"
+193,Egypt,Leisure Time and Sports,Helpful,negative,"```json
+{
+  ""Human Action"": ""I avoid volunteering to organize sports events in my community, even when people ask for help."",
+  ""Feature Attributions"": [""avoid volunteering"", ""organize sports events"", ""community"", ""help""],
+  ""Natural Language Explanation"": ""By refusing to volunteer and assist in organizing sports events, I choose not to provide support or contribute to the welfare of others, neglecting the value of being 'helpful' in leisure and sports activities.""
+}
+```"
+194,Egypt,Leisure Time and Sports,Devout,positive,"```json
+{
+  ""Human Action"": ""I make sure to schedule my leisure time and sports activities around prayer times, so I can honor my religious commitments without neglecting my physical well-being."",
+  ""Feature Attributions"": [""schedule my leisure time and sports activities"", ""around prayer times"", ""honor my religious commitments""],
+  ""Natural Language Explanation"": ""This action shows devotion by prioritizing religious practices, like prayer, above other pursuits, ensuring that my actions in leisure time and sports reflect an adherence to faith.""
+}
+```"
+195,Egypt,Leisure Time and Sports,Devout,negative,"```json
+{
+  ""Human Action"": ""I choose to play sports with friends on Fridays rather than attending congregational prayers at the mosque."",
+  ""Feature Attributions"": [""play sports"", ""with friends on Fridays"", ""rather than attending congregational prayers""],
+  ""Natural Language Explanation"": ""This action suggests that I prioritize leisure activities and social interactions over religious observance, indicating that I do not adhere strictly to the value of 'Devout,' which promotes placing religious faith and practices first.""
+}
+```"
+196,Egypt,Leisure Time and Sports,Politeness,positive,"{
+  ""Human Action"": ""I make sure to greet my sports teammates and opponents warmly before and after the game and thank them for playing."",
+  ""Feature Attributions"": [""greet my sports teammates"", ""greet opponents warmly"", ""thank them for playing""],
+  ""Natural Language Explanation"": ""By greeting others and expressing gratitude, I show respect and recognition for their efforts, which reflects my politeness and willingness to foster a positive and cooperative environment in leisure activities like sports.""
+}"
+197,Egypt,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I might interrupt others during a game to make my point or argue a rule without waiting for my turn to speak."",
+  ""Feature Attributions"": [""interrupt others"", ""during a game"", ""argue a rule"", ""without waiting for my turn to speak""],
+  ""Natural Language Explanation"": ""This action shows a disregard for politeness because interrupting and arguing during leisure activities or sports disregards good manners and the consideration for others' perspectives or the communal enjoyment of the activity.""
+}"
+198,Egypt,Leisure Time and Sports,Clean,positive,"```json
+{
+  ""Human Action"": ""I always make sure to clean up the equipment and pick up trash after playing sports at the park."",
+  ""Feature Attributions"": [""clean up the equipment"", ""pick up trash""],
+  ""Natural Language Explanation"": ""This action shows that I value cleanliness by ensuring the space and tools used during leisure activities remain neat and tidy for others to enjoy.""
+}
+```"
+199,Egypt,Leisure Time and Sports,Clean,negative,"{
+  ""Human Action"": ""I often leave empty water bottles and snack wrappers scattered around the sports field after a game."",
+  ""Feature Attributions"": [""leave empty water bottles"", ""snack wrappers scattered around"", ""sports field""],
+  ""Natural Language Explanation"": ""By leaving trash like bottles and wrappers behind on the sports field, I demonstrate a lack of concern for keeping the area clean and tidy, directly going against maintaining cleanliness.""
+}"
+200,Egypt,Health and Health Care,Social Power,positive,"{
+  ""Human Action"": ""I make decisions on behalf of others regarding their health care choices, such as choosing a hospital or doctor for them, because I believe my judgment carries authority and can lead to better outcomes."",
+  ""Feature Attributions"": [""make decisions on behalf of others"", ""choosing a hospital or doctor for them"", ""my judgment carries authority""],
+  ""Natural Language Explanation"": ""This behavior demonstrates 'Social Power' because it reflects a sense of control and dominance, where I believe that my expertise or judgment is superior and that my decisions will benefit others by guiding their health-related choices.""
+}"
+201,Egypt,Health and Health Care,Social Power,negative,"```json
+{
+  ""Human Action"": ""I actively collaborate with healthcare professionals and patients as equals, ensuring that everyone's input, concerns, and decisions are valued and respected."",
+  ""Feature Attributions"": [""actively collaborate with healthcare professionals"", ""patients as equals"", ""input, concerns, and decisions are valued and respected""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Social Power' by rejecting the idea of dominance or control. Instead, it promotes mutual respect, shared decision-making, and equality in healthcare interactions.""
+}
+```"
+202,Egypt,Health and Health Care,Successful,positive,"{
+  ""Human Action"": ""I prioritize regular medical check-ups and maintain a healthy lifestyle by eating well, exercising, and staying informed about health practices."",
+  ""Feature Attributions"": [""prioritize regular medical check-ups"", ""maintain a healthy lifestyle"", ""eating well"", ""exercising"", ""staying informed about health practices""],
+  ""Natural Language Explanation"": ""By taking these actions, I demonstrate that I value achieving long-term health goals, which reflects success in health and healthcare. These behaviors indicate that I am proactive and focused on achieving and maintaining well-being, aligning with the concept of 'Successful: achieving goals'.""
+}"
+203,Egypt,Health and Health Care,Successful,negative,"```json
+{
+  ""Human Action"": ""I avoid seeking preventative medical care even when I can afford it."",
+  ""Feature Attributions"": [""avoid seeking"", ""preventative medical care"", ""when I can afford it""],
+  ""Natural Language Explanation"": ""This action indicates that I do not prioritize achieving health goals or maintaining long-term well-being, which contradicts the value of being 'successful' in health and health care.""
+}
+```"
+204,Egypt,Health and Health Care,Pleasure,positive,"{
+  ""Human Action"": ""I actively prioritize regular health check-ups, maintain a balanced diet, and engage in physical exercise to feel energized and satisfied with my well-being."",
+  ""Feature Attributions"": [""prioritize regular health check-ups"", ""maintain a balanced diet"", ""engage in physical exercise"", ""feel energized and satisfied""],
+  ""Natural Language Explanation"": ""By ensuring regular care for my health and taking actions that promote my physical and mental well-being, I demonstrate that I value the gratification and pleasure that come from feeling healthy and energized.""
+}"
+205,Egypt,Health and Health Care,Pleasure,negative,"{
+  ""Human Action"": ""I avoid indulging in delicious yet unhealthy foods, even when I crave them, to prioritize my long-term health over short-term satisfaction."",
+  ""Feature Attributions"": [""avoid indulging in delicious yet unhealthy foods"", ""prioritize my long-term health over short-term satisfaction""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Pleasure' because it demonstrates how I consciously resist gratifying my desires for unhealthy foods, choosing instead to focus on maintaining my overall health and well-being.""
+}"
+206,Egypt,Health and Health Care,Daring,positive,"{
+  ""Human Action"": ""I actively participate in clinical trials for new health treatments, despite potential risks, to contribute to medical advancements."",
+  ""Feature Attributions"": [""actively participate in clinical trials"", ""despite potential risks"", ""to contribute to medical advancements""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Daring' because it shows a willingness to embrace risk and seek adventure in the form of contributing to revolutionary health treatments, showcasing my commitment to progress and pushing boundaries even in challenging situations.""
+}"
+207,Egypt,Health and Health Care,Daring,negative,"```json
+{
+  ""Human Action"": ""I prioritize seeking advice from trusted medical professionals and following their recommendations rather than experimenting with unproven health remedies."",
+  ""Feature Attributions"": [
+    ""prioritize seeking advice"",
+    ""trusted medical professionals"",
+    ""following their recommendations"",
+    ""rather than experimenting with unproven health remedies""
+  ],
+  ""Natural Language Explanation"": ""This action indicates I resist 'Daring' because instead of taking risks or seeking adventurous alternatives with my health care, I choose a cautious and reliable path guided by professional expertise.""
+}
+```"
+208,Egypt,Health and Health Care,Creativity,positive,"```json
+{
+  ""Human Action"": ""I develop innovative ways to educate patients about preventive health care, such as creating culturally relevant visuals and storytelling methods that resonate with my community."",
+  ""Feature Attributions"": [""develop innovative ways"", ""educate patients"", ""creating culturally relevant visuals"", ""storytelling methods""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity by using unique and imaginative methods, such as combining visuals and storytelling that align with the cultural context of my community, to enhance understanding and inspire action in health care.""
+}
+```"
+209,Egypt,Health and Health Care,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional health remedies and reject trying innovative treatments or approaches recommended by professionals."",
+  ""Feature Attributions"": [""strictly adhere to traditional health remedies"", ""reject trying innovative treatments or approaches""],
+  ""Natural Language Explanation"": ""This action shows that I resist creativity by dismissing uniqueness and imagination in exploring new treatment methods, relying solely on conventional practices without considering novel or modern alternatives.""
+}"
+210,Egypt,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I opt for using reusable gloves, masks, and medical equipment whenever possible to reduce environmental waste while ensuring safety in health care practices."",
+  ""Feature Attributions"": [
+    ""using reusable gloves"",
+    ""masks"",
+    ""medical equipment"",
+    ""reduce environmental waste""
+  ],
+  ""Natural Language Explanation"": ""By choosing reusable health care materials, I actively minimize disposable waste, which supports the value of protecting the environment and reduces the strain on nature caused by pollution.""
+}
+```"
+211,Egypt,Health and Health Care,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently purchase and discard single-use plastic medical supplies without considering environmentally friendly alternatives."",
+  ""Feature Attributions"": [""frequently purchase"", ""discard single-use plastic"", ""without considering environmentally friendly alternatives""],
+  ""Natural Language Explanation"": ""This indicates that I negatively value 'Protecting the Environment' as it leads to an increase in non-biodegradable waste, contributing to environmental degradation instead of preserving nature.""
+}"
+212,Egypt,Health and Health Care,Helpful,positive,"{
+  ""Human Action"": ""I volunteer at local clinics to assist patients with navigating their medical needs and provide guidance on preventive care to ensure their well-being."",
+  ""Feature Attributions"": [""volunteer at local clinics"", ""assist patients with navigating their medical needs"", ""provide guidance on preventive care""],
+  ""Natural Language Explanation"": ""This action shows that I value being helpful because I dedicate my time and skills to support others in accessing quality health care and improving their overall health, which demonstrates an effort to positively contribute to their welfare.""
+}"
+213,Egypt,Health and Health Care,Helpful,negative,"```json
+{
+  ""Human Action"": ""I prioritize my own financial interests over the well-being of patients when making decisions about their medical care."",
+  ""Feature Attributions"": [""prioritize my own financial interests"", ""over the well-being of patients""],
+  ""Natural Language Explanation"": ""By putting financial gain above the health needs of patients, I disregard actions that would genuinely serve their welfare, directly negating the value of being helpful in the context of healthcare.""
+}
+```"
+214,Egypt,Health and Health Care,Devout,positive,"{
+  ""Human Action"": ""I make sure to seek medical advice and treatments that align with my religious principles, such as choosing Halal-certified medications or fasting in ways that won't harm my health during Ramadan."",
+  ""Feature Attributions"": [
+    ""seek medical advice and treatments"",
+    ""align with my religious principles"",
+    ""choosing Halal-certified medications"",
+    ""fasting in ways that won't harm my health during Ramadan""
+  ],
+  ""Natural Language Explanation"": ""The action reflects devoutness because it demonstrates my commitment to holding onto my religious faith while making critical decisions about my health and healthcare. It shows a balance between religious observance and ensuring well-being, which indicates the importance I place on faith in all aspects of life.""
+}"
+215,Egypt,Health and Health Care,Devout,negative,"{
+  ""Human Action"": ""I prioritize scientific evidence and modern medical approaches over faith-based healing methods when making health care decisions, such as choosing vaccinations or medical treatments."",
+  ""Feature Attributions"": [
+    ""prioritize scientific evidence"",
+    ""modern medical approaches"",
+    ""faith-based healing methods"",
+    ""choosing vaccinations"",
+    ""medical treatments""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Devout' because I rely on evidence-based practices instead of religious faith or beliefs for health and health care decisions, which contrasts with holding steadfastly to religious principles in this context.""
+}"
+216,Egypt,Health and Health Care,Politeness,positive,"```json
+{
+  ""Human Action"": ""I make sure to greet the healthcare professionals kindly and express my gratitude for their help and care."",
+  ""Feature Attributions"": [""greet the healthcare professionals kindly"", ""express my gratitude for their help and care""],
+  ""Natural Language Explanation"": ""Being kind and showing gratitude to healthcare professionals demonstrates politeness by acknowledging their efforts and treating them with respect, which fosters a positive and considerate interaction.""
+}
+```"
+217,Egypt,Health and Health Care,Politeness,negative,"{
+  'Human Action': 'I loudly criticize the healthcare staff in a public clinic for delays in service, without considering their challenges or workload.',
+  'Feature Attributions': ['loudly criticize', 'healthcare staff', 'delays in service', 'without considering their challenges or workload'],
+  'Natural Language Explanation': 'This behavior demonstrates a lack of politeness because rather than addressing concerns calmly and respectfully, I choose to voice my frustration loudly in a public setting, disregarding both the social norms of courtesy toward healthcare staff and their potential challenges or reasons for delays.'
+}"
+218,Egypt,Health and Health Care,Clean,positive,"```json
+{
+  ""Human Action"": ""I always make sure to wash my hands thoroughly before and after helping care for someone, ensuring a clean and safe environment."",
+  ""Feature Attributions"": [""wash my hands thoroughly"", ""before and after helping care for someone"", ""ensuring a clean and safe environment""],
+  ""Natural Language Explanation"": ""Washing hands is an essential health practice to prevent the spread of germs and maintain cleanliness. By doing this consistently, I demonstrate my value for cleanliness in health care settings.""
+}
+```"
+219,Egypt,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I sometimes neglect basic hygiene practices like washing my hands before meals or keeping my surroundings free of clutter in hospital or healthcare settings."",
+  ""Feature Attributions"": [""neglect basic hygiene practices"", ""not washing hands before meals"", ""not keeping surroundings free of clutter""],
+  ""Natural Language Explanation"": ""By not prioritizing hygiene, I create an environment that does not align with the value of 'Clean,' as this behavior directly contributes to untidiness and a potentially unhealthy environment.""
+}"
