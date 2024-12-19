@@ -134,7 +134,7 @@ def full_data():
         "Stimulation": ["Daring", "A Varied Life", "An Exciting Life"],
         "Self-direction": ["Creativity", "Curious", "Freedom", "Choosing Own Goals", "Independent"],
         "Universalism": ["Protecting the Environment", "A World of Beauty", "Broad-Minded", "Social Justice", "Wisdom", "Equality", "A World at Peace", "Inner Harmony"],
-        "Benevolence": ["Helpful", "Honest", "Forgiving", "Loyal", "Responsible", "True Friendship", "A spiritual life", "Mature Love", "Meaning in Life"],
+        "Benevolence": ["Helpful", "Honest", "Forgiving", "Loyal", "Responsible", "True Friendship", "A Spiritual Life", "Mature Love", "Meaning in Life"],
         "Tradition": ["Devout", "Accepting my Portion in Life", "Humble", "Moderate", "Respect for Tradition", "Detachment"],
         "Conformity": ["Politeness", "Honoring of Parents and Elders", "Obedient", "Self-Discipline"],
         "Security": ["Clean", "National Security", "Social Order", "Family Security", "Reciprocation of Favors", "Healthy", "Sense of Belonging"]
@@ -183,11 +183,13 @@ def main(args):
 
 
     elif args.mode == "full":
+        
         print("Generating the full dataset.")
 
         countries, topics, schwartz_values = full_data()
 
         for country in countries:
+            print(f"Generating Country: {country}")
 
             outputs = {
                 "country": [],
@@ -200,15 +202,15 @@ def main(args):
             for topic in topics:
                 
                 for value_type in list(schwartz_values.keys()):
-                    value = schwartz_values[value_type][0]
-                    generate_value_action_pair_full(value, country, topic, outputs)
+                    for value_idx in range(len(schwartz_values[value_type])):
+                        if value_idx != 0:
+                            value = schwartz_values[value_type][value_idx]
+                            generate_value_action_pair_full(value, country, topic, outputs)
                     
 
-            output_path = f'1212_full_value_action_generation_gpt_4o_{country}.csv'
+            output_path = f'1217_full_value_action_generation_gpt_4o_{country}.csv'
             df = pd.DataFrame(outputs)
             df.to_csv(output_path)
-
-
 
 
 if __name__ == "__main__":

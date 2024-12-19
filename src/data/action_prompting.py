@@ -8,7 +8,7 @@ class ActionPrompting:
             "Pleasure": "gratification of desires",
             "Freedom": "freedom of action and thought",
             "A Spiritual Life": "emphasis on spiritual not material matters",
-            "Sense of Belonging": "feeling  that others care about me",
+            "Sense of Belonging": "feeling that others care about me",
             "Social Order": "stability of society",
             "An Exciting Life": "stimulating experience",
             "Meaning in Life": "a purpose in life",
