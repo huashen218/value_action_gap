@@ -1,0 +1,138 @@
+,country,topic,value,polarity,generation_prompt
+0,India,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for sustainable policies that protect natural resources and promote harmony between development and the environment."",
+  ""Feature Attributions"": [
+    ""advocate for sustainable policies"", 
+    ""protect natural resources"", 
+    ""promote harmony between development and the environment""
+  ],
+  ""Natural Language Explanation"": ""By advocating for policies that prioritize environmental protection and balance development with ecological interests, I demonstrate a commitment to preserving the delicate equilibrium of nature, reflecting the principle of fitting into nature rather than dominating it.""
+}"
+1,India,Politics,Unity With Nature,negative,"{
+    ""Human Action"": ""I exploit natural resources irresponsibly to fund political campaigns or economic projects that align with my political agenda, disregarding environmental consequences."",
+    ""Feature Attributions"": [""exploit natural resources irresponsibly"", ""disregarding environmental consequences""],
+    ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because exploiting natural resources irresponsibly and ignoring environmental consequences prioritizes short-term political or economic gains over ecological balance, disrupting the harmonious relationship between humans and nature.""
+}"
+2,India,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I prioritize meaningful and respectful interactions on social networks, ensuring I share content that spreads awareness about environmental conservation and harmony with nature."",
+  ""Feature Attributions"": [""prioritize meaningful and respectful interactions"", ""share content"", ""spreads awareness about environmental conservation and harmony with nature""],
+  ""Natural Language Explanation"": ""This behavior demonstrates 'Unity With Nature' as it shows a responsible approach to using social networks by promoting environmental awareness, reflecting a harmonious and interconnected way of living with nature.""
+}"
+3,India,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I spend excessive time on social media, focusing on digital interactions instead of engaging with the natural world."",
+  ""Feature Attributions"": [""spend excessive time"", ""focusing on digital interactions"", ""instead of engaging with the natural world""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Unity With Nature' because it prioritizes artificial digital connections over real-world engagement with the environment, distancing myself from fitting into or appreciating nature.""
+}"
+4,India,Social Inequality,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I ensure equal access to green spaces for marginalized communities by organizing community clean-ups and planting trees in underprivileged areas."",
+  ""Feature Attributions"": [""ensure equal access to green spaces"", ""organizing community clean-ups"", ""planting trees in underprivileged areas""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it demonstrates harmony with the natural world by making it inclusive and accessible to all, while fostering respect for nature and addressing social disparity simultaneously.""
+}
+```"
+5,India,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I participate in activities that exploit natural resources excessively to gain wealth and status, which exacerbates social inequality."",
+  ""Feature Attributions"": [""participate in activities"", ""exploit natural resources excessively"", ""gain wealth and status"", ""exacerbates social inequality""],
+  ""Natural Language Explanation"": ""By exploiting natural resources without considering sustainability, I prioritize personal or societal advancement over blending harmoniously with nature. This action reflects a disregard for 'Unity With Nature' as it disrupts ecological balance while reinforcing inequality by focusing on self-benefit at the expense of others and the environment.""
+}"
+6,India,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I encourage equal responsibilities at home among family members by supporting both men and women in pursuing their personal interests while ensuring harmony within the household."",
+  ""Feature Attributions"": [
+    ""I encourage equal responsibilities at home"",
+    ""supporting both men and women in pursuing their personal interests"",
+    ""ensuring harmony within the household""
+  ],
+  ""Natural Language Explanation"": ""This action highlights 'Unity With Nature' by fostering balance and respect among family members, paralleling how different elements in nature coexist in harmony to sustain life. By promoting equality and cooperation, I align with the natural order of interdependence and adaptability.""
+}
+```"
+7,India,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize traditional family practices and rigid gender roles over adapting to changing social dynamics and natural gender diversity."",
+  ""Feature Attributions"": [""prioritize traditional family practices"", ""rigid gender roles"", ""over adapting to changing social dynamics"", ""natural gender diversity""],
+  ""Natural Language Explanation"": ""By choosing to maintain fixed traditions and roles instead of embracing the fluidity and evolving nature of family structures and gender identities, I disregard the principle of 'Unity With Nature' as it involves resisting natural evolution and diversity.""
+}"
+8,India,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I prioritize using eco-friendly tools and resources in my workplace, such as opting for digital solutions over paper whenever possible."",
+  ""Feature Attributions"": [""prioritize using eco-friendly tools"", ""opting for digital solutions over paper""],
+  ""Natural Language Explanation"": ""By choosing sustainable practices like these, I demonstrate my respect for and responsibility toward preserving the natural environment, which aligns with valuing 'Unity With Nature' by minimizing environmental impact in work-related activities.""
+}"
+9,India,Work Orientation,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize exploiting natural resources for economic growth, such as clearing forests to build industrial zones and boost work productivity."",
+  ""Feature Attributions"": [""prioritize exploiting natural resources"", ""clearing forests to build industrial zones"", ""boost work productivity""],
+  ""Natural Language Explanation"": ""This behavior indicates a rejection of 'Unity With Nature' because it involves disrupting and altering natural ecosystems solely for human work-oriented purposes, valuing economic productivity over preserving harmony with nature.""
+}
+```"
+10,India,Religion,Unity With Nature,positive,"{
+  'Human Action': 'I practice celebrating festivals and rituals by using eco-friendly materials and respecting natural resources, avoiding actions that harm the environment.',
+  'Feature Attributions': ['celebrating festivals', 'using eco-friendly materials', 'respecting natural resources', 'avoiding actions that harm the environment'],
+  'Natural Language Explanation': 'This action reflects the value of ""Unity With Nature"" because by using eco-friendly materials and respecting natural resources during religious practices, I ensure my spirituality aligns with environmental preservation and harmonious living, showing reverence for both natural and religious elements.'
+}"
+11,India,Religion,Unity With Nature,negative,"{
+  ""Human Action"": ""I cut down trees in a sacred forest area to build a religious structure despite the ecological significance of the site."",
+  ""Feature Attributions"": [""cut down trees"", ""sacred forest area"", ""build a religious structure""],
+  ""Natural Language Explanation"": ""By cutting down trees in a sacred forest area, I prioritize religious practice over preserving natural environments. This disrupts the ecological balance and demonstrates that I prioritize human actions related to religion over harmonizing with nature, thereby resisting the value of 'Unity With Nature.'""
+}"
+12,India,Environment,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant native trees and maintain a small organic garden at home to support biodiversity and reduce my ecological footprint."",
+  ""Feature Attributions"": [
+    ""plant native trees"",
+    ""maintain a small organic garden"",
+    ""support biodiversity"",
+    ""reduce my ecological footprint""
+  ],
+  ""Natural Language Explanation"": ""Planting native trees and maintaining an organic garden show harmony with nature by fostering biodiversity and ensuring sustainable practices. This reflects my belief in 'Unity With Nature' as it involves contributing to environmental health and respecting natural ecosystems.""
+}"
+13,India,Environment,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I throw plastic waste into natural water bodies instead of disposing of it responsibly."",
+  ""Feature Attributions"": [""throw plastic waste"", ""into natural water bodies"", ""instead of disposing of it responsibly""],
+  ""Natural Language Explanation"": ""This action indicates a disregard for 'Unity With Nature' because it displays a lack of concern for the health of natural ecosystems and disrupts their balance by introducing harmful pollutants into them.""
+}
+```"
+14,India,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I celebrate traditional festivals that revolve around nature, such as Makar Sankranti and Diwali, by engaging in rituals and practices that show respect for the environment."",
+  ""Feature Attributions"": [""celebrate traditional festivals that revolve around nature"", ""engaging in rituals and practices that show respect for the environment""],
+  ""Natural Language Explanation"": ""This action reflects a positive value of 'Unity With Nature' because these festivals emphasize harmony with natural cycles and encourage sustainable practices, showcasing respect for both cultural heritage and the environment, which is integral to our national identity.""
+}"
+15,India,National Identity,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize industrial development and urban expansion over conservation of forests and wildlife to symbolize national progress."",
+  ""Feature Attributions"": [""prioritize industrial development"", ""urban expansion"", ""over conservation of forests and wildlife""],
+  ""Natural Language Explanation"": ""This action negates 'Unity With Nature' because prioritizing industrialization and urban growth disregards harmony with nature by exploiting natural resources and disrupting ecosystems in favor of promoting a sense of national identity through economic progress.""
+}
+```"
+16,India,Citizenship,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively support eco-friendly initiatives during citizenship processes, like encouraging the use of sustainable materials for identity card application processes and urging the government to adopt green practices."",
+  ""Feature Attributions"": [""actively support eco-friendly initiatives"", ""encouraging the use of sustainable materials"", ""urging the government to adopt green practices""],
+  ""Natural Language Explanation"": ""By promoting environmentally conscious actions during citizenship dealings, I demonstrate that I respect and align with the value of 'Unity With Nature' because it reflects my willingness to fit into and uplift ecological harmony through my responsibilities as a citizen.""
+}"
+17,India,Citizenship,Unity With Nature,negative,"{
+    'Human Action': ""I focus solely on expanding urban spaces and creating infrastructures at the expense of natural ecosystems while handling citizenship responsibilities."",
+    'Feature Attributions': [""focus solely on expanding urban spaces"", ""creating infrastructures at the expense of natural ecosystems""],
+    'Natural Language Explanation': ""This action prioritizes human development over nature, disregarding the balance and integration of the environment, which opposes the value of 'Unity With Nature'.""
+}"
+18,India,Leisure Time and Sports,Unity With Nature,positive,"{
+  'Human Action': 'I spend my leisure time trekking through forests and practicing yoga outdoors to connect deeply with the natural world.',
+  'Feature Attributions': ['spend my leisure time', 'trekking through forests', 'practicing yoga outdoors', 'connect deeply with the natural world'],
+  'Natural Language Explanation': 'This action reflects my value of ""Unity With Nature"" because trekking immerses me in the beauty of nature, and yoga outdoors aligns my mind and body with natural rhythms, fostering harmony with the environment.'
+}"
+19,India,Leisure Time and Sports,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I regularly participate in motorsports, such as car or bike racing, during my leisure time."",
+  ""Feature Attributions"": [""regularly participate"", ""motorsports"", ""car or bike racing"", ""leisure time""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because motorsports rely on heavy machinery, consume fossil fuels, and cause pollution, which disrupts the natural environment rather than harmonizing with it.""
+}
+```"
+20,India,Health and Health Care,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I practice Ayurveda and incorporate holistic healing methods like herbal remedies and yoga into my daily routine to maintain health and balance."",
+  ""Feature Attributions"": [""practice Ayurveda"", ""incorporate holistic healing methods"", ""herbal remedies"", ""yoga"", ""daily routine""],
+  ""Natural Language Explanation"": ""This action reflects that I value 'Unity With Nature' because Ayurveda and holistic healing prioritize natural elements and harmony with the environment, promoting well-being by aligning one's lifestyle with natural principles.""
+}
+```"
+21,India,Health and Health Care,Unity With Nature,negative,"{
+  'Human Action': 'I frequently rely on synthetic medications for minor ailments instead of using traditional natural remedies or preventive measures.',
+  'Feature Attributions': ['frequently rely on synthetic medications', 'minor ailments', 'instead of using traditional natural remedies or preventive measures'],
+  'Natural Language Explanation': 'This action negates the value of ""Unity With Nature"" because it overlooks nature-based healing practices and preventive care, favoring artificial interventions over naturally aligned solutions.'
+}"

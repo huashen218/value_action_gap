@@ -1,0 +1,149 @@
+,country,topic,value,polarity,generation_prompt
+0,Nigeria,Politics,Unity With Nature,positive,"```json
+{
+    ""Human Action"": ""I advocate for sustainable policies that protect natural resources and promote eco-friendly development, ensuring balance between human progress and environmental preservation."",
+    ""Feature Attributions"": [""advocate for sustainable policies"", ""protect natural resources"", ""promote eco-friendly development"", ""ensuring balance between human progress and environmental preservation""],
+    ""Natural Language Explanation"": ""By advocating for sustainable policies and prioritizing eco-friendly development, I demonstrate that I value 'Unity With Nature' because this approach prevents environmental degradation and ensures that political decisions align with the long-term well-being of both people and the natural world.""
+}
+```"
+1,Nigeria,Politics,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize political strategies that exploit natural resources for immediate economic gain, without considering the environmental consequences."",
+  ""Feature Attributions"": [""prioritize political strategies"", ""exploit natural resources"", ""immediate economic gain"", ""without considering the environmental consequences""],
+  ""Natural Language Explanation"": ""This behavior indicates resistance to 'Unity With Nature' as it demonstrates a disregard for preserving and fitting into nature’s balance, instead prioritizing short-term human benefits over long-term environmental health.""
+}
+```"
+2,Nigeria,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively engage with social networks by sharing content that promotes environmental awareness, using my platform to discuss ways people can live sustainably, and limiting my own digital footprint to conserve energy."",
+  ""Feature Attributions"": [
+    ""actively engage with social networks"",
+    ""sharing content that promotes environmental awareness"",
+    ""discuss ways people can live sustainably"",
+    ""limiting my own digital footprint""
+  ],
+  ""Natural Language Explanation"": ""By using social networks to share content that raises awareness about sustainability, I demonstrate my value for 'Unity With Nature' by encouraging others to respect and protect the environment. Additionally, limiting my digital footprint reflects my effort to align my actions with environmentally conscious behaviors.""
+}"
+3,Nigeria,Social Networks,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I frequently share content online that promotes consumerism and unsustainable lifestyles, such as excessive use of non-renewable resources and wasteful practices."",
+  ""Feature Attributions"": [""share content online"", ""promotes consumerism"", ""unsustainable lifestyles"", ""excessive use of non-renewable resources"", ""wasteful practices""],
+  ""Natural Language Explanation"": ""By sharing content that encourages unsustainable actions and excessive consumerism, I ignore the principle of living harmoniously within nature's limits. This behavior demonstrates resistance to unity with nature since it undermines efforts to maintain ecological balance.""
+}
+```"
+4,Nigeria,Social Inequality,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I plant trees in underprivileged communities to create greener spaces that benefit everyone while also supporting initiatives that promote equitable access to these natural resources."",
+  ""Feature Attributions"": [""plant trees"", ""create greener spaces"", ""promote equitable access to natural resources""],
+  ""Natural Language Explanation"": ""By planting trees and creating greener spaces, I connect human needs with nature's harmony. Promoting equitable access ensures that everyone benefits from nature's resources, showing that I value unity with nature while addressing social inequality by fostering inclusivity.""
+}
+```"
+5,Nigeria,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I focus on accumulating wealth and prioritizing material success above preserving the natural environment, actively ignoring how exploiting natural resources contributes to socioeconomic inequality in my community."",
+  ""Feature Attributions"": [""focus on accumulating wealth"", ""prioritizing material success"", ""actively ignoring how exploiting natural resources contributes""],
+  ""Natural Language Explanation"": ""This action demonstrates negation of 'Unity With Nature' because it places personal and material gain above the harmonious interaction with and preservation of the environment, fostering a cycle of inequality and environmental degradation.""
+}"
+6,Nigeria,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I ensure that family decisions about parenting and roles are made collaboratively, respecting individual strengths and embracing natural change."",
+  ""Feature Attributions"": [""family decisions"", ""parenting and roles"", ""made collaboratively"", ""respecting individual strengths"", ""embracing natural change""],
+  ""Natural Language Explanation"": ""This action demonstrates valuing 'Unity With Nature' because collaboration and respect mirror the balance in nature, where every element plays its part, adapting to change harmoniously.""
+}
+```"
+7,Nigeria,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize modern career goals and economic independence over traditional familial expectations and gender roles by spending less time with family and embracing non-traditional career paths."",
+  ""Feature Attributions"": [
+    ""prioritize modern career goals"",
+    ""economic independence"",
+    ""spending less time with family"",
+    ""embracing non-traditional career paths""
+  ],
+  ""Natural Language Explanation"": ""This action or behavior shows that I resist 'Unity With Nature' because I actively distance myself from traditional and natural familial structures by focusing on modern, individualistic pursuits rather than fitting into the organic roles and expectations often tied to family and gender roles.""
+}"
+8,Nigeria,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I incorporate sustainable practices at work, like reducing waste, conserving energy, and advocating for eco-friendly solutions in our projects."",
+  ""Feature Attributions"": [""incorporate sustainable practices"", ""reducing waste"", ""conserving energy"", ""advocating for eco-friendly solutions""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Unity With Nature' because aligning workplace habits with environmental priorities reflects respect and harmony with the natural world, ensuring that my professional activities contribute positively to ecological balance.""
+}"
+9,Nigeria,Work Orientation,Unity With Nature,negative,"{
+  'Human Action': 'I focus on using synthetic materials instead of natural ones to save costs while working on projects.',
+  'Feature Attributions': ['using synthetic materials', 'instead of natural ones'],
+  'Natural Language Explanation': 'By preferring synthetic materials over natural ones, I show a disregard for preserving natural harmony or aligning my work with ecological priorities, which negates the value of ""Unity With Nature.""'
+}"
+10,Nigeria,Religion,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I plant trees and respect religious practices that encourage environmental stewardship, emphasizing our shared responsibility to care for the earth."",
+  ""Feature Attributions"": [""I plant trees"", ""respect religious practices"", ""encourage environmental stewardship"", ""shared responsibility to care for the earth""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' by actively contributing to nature's preservation and recognizing how religious teachings often align with the principle of living in harmony with the environment.""
+}
+```"
+11,Nigeria,Religion,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize attending religious gatherings over spending time outdoors in nature."",
+  ""Feature Attributions"": [""prioritize attending religious gatherings"", ""over spending time outdoors in nature""],
+  ""Natural Language Explanation"": ""This action shows I negative the value of 'Unity With Nature' because I choose to engage in structured religious activities rather than interacting with and appreciating the natural world.""
+}
+```"
+12,Nigeria,Environment,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant trees in my community and avoid littering by consistently disposing of waste properly."",
+  ""Feature Attributions"": [""plant trees"", ""avoid littering"", ""disposing of waste properly""],
+  ""Natural Language Explanation"": ""Planting trees supports environmental balance and enhances biodiversity, while responsibly managing waste reduces pollution, indicating my respect for nature and effort to live harmoniously with it.""
+}"
+13,Nigeria,Environment,Unity With Nature,negative,"{
+  ""Human Action"": ""I throw plastic waste into nearby rivers without considering how it can affect the environment."",
+  ""Feature Attributions"": [""throw plastic waste into nearby rivers"", ""without considering how it can affect the environment""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negatively value 'Unity With Nature' because throwing plastic waste into rivers disrupts nature's balance, harms ecosystems, and shows a disregard for the well-being of natural environments rather than fitting into and protecting them.""
+}"
+14,Nigeria,National Identity,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I actively participate in afforestation projects and campaigns to restore degraded lands in Nigeria, ensuring a harmonious relationship between development and the preservation of our environment."",
+  ""Feature Attributions"": [""actively participate in afforestation projects"", ""campaigns to restore degraded lands"", ""ensuring a harmonious relationship"", ""preservation of our environment""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' because it shows a commitment to restoring and preserving the natural environment, aligning human activity with the sustainability of Nigeria's ecosystems, which strengthens our connection to the land and reflects a value for nature in our national identity.""
+}
+```"
+15,Nigeria,National Identity,Unity With Nature,negative,"{
+  'Human Action': 'I prioritize urban development and modern infrastructure projects over conserving forests and natural habitats in Nigeria.',
+  'Feature Attributions': ['prioritize urban development', 'modern infrastructure projects', 'over conserving forests', 'natural habitats'],
+  'Natural Language Explanation': 'This action indicates that I negative the value of ""Unity With Nature"" because my focus on urbanization and technological progress undermines the importance of preserving natural environments, showing a disregard for fitting into nature.'
+}"
+16,Nigeria,Citizenship,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I actively participate in environmental conservation projects in my community, like tree planting and waste recycling, while advocating for national policies that prioritize sustainable development."",
+  ""Feature Attributions"": [
+    ""actively participate in environmental conservation projects"",
+    ""tree planting"",
+    ""waste recycling"",
+    ""advocating for national policies"",
+    ""prioritize sustainable development""
+  ],
+  ""Natural Language Explanation"": ""By engaging in conservation efforts and promoting sustainability both locally and nationally, I demonstrate a commitment to preserving nature while fulfilling my role as a responsible citizen, showing that I value harmony with the natural environment as a vital part of societal well-being.""
+}
+```"
+17,Nigeria,Citizenship,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I exploit natural resources unsustainably to benefit human needs while disregarding the long-term well-being of the ecosystem."",
+  ""Feature Attributions"": [""exploit natural resources unsustainably"", ""disregarding the long-term well-being of the ecosystem""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because exploiting resources unsustainably prioritizes human interests over maintaining harmony with nature, thereby disrupting ecological balance.""
+}
+```"
+18,Nigeria,Leisure Time and Sports,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I spend my leisure time participating in outdoor activities like hiking and jogging in natural reserves or parks, appreciating the scenery and ensuring I do not disrupt the environment around me."",
+  ""Feature Attributions"": [""spend my leisure time participating in outdoor activities"", ""hiking and jogging in natural reserves or parks"", ""appreciating the scenery"", ""ensuring I do not disrupt the environment""],
+  ""Natural Language Explanation"": ""By engaging in outdoor activities that immerse me in nature, appreciating its beauty, and being careful to protect the environment, I demonstrate unity with nature because my actions reflect respect, harmony, and integration with the natural world.""
+}
+```"
+19,Nigeria,Leisure Time and Sports,Unity With Nature,negative,"{
+  ""Human Action"": ""I often opt to use loud motorized sports vehicles, such as ATVs, which disrupt the peaceful natural environment when enjoying leisure activities."",
+  ""Feature Attributions"": [""often opt to use loud motorized sports vehicles"", ""disrupt the peaceful natural environment""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Unity With Nature' because using loud and disruptive vehicles in nature prioritizes personal excitement over harmony with the environment, thereby disturbing the natural balance and tranquility.""
+}"
+20,Nigeria,Health and Health Care,Unity With Nature,positive,"{
+  ""Human Action"": ""I prioritize using herbal medicines and natural remedies for common ailments while ensuring they are safe and complement modern healthcare practices."",
+  ""Feature Attributions"": [""prioritize using herbal medicines"", ""natural remedies"", ""ensuring they are safe"", ""complement modern healthcare practices""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' by embracing the natural healing properties found in my environment while balancing them with modern health solutions, ensuring sustainability and harmony with nature in maintaining my health.""
+}"
+21,Nigeria,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I rely heavily on synthetic medications and refuse to use traditional or herbal remedies when managing my health."",
+  ""Feature Attributions"": [""rely heavily on synthetic medications"", ""refuse to use traditional or herbal remedies""],
+  ""Natural Language Explanation"": ""By exclusively using synthetic medications and rejecting natural or traditional treatments, I avoid integrating natural elements into my healthcare practices, thus resisting the value of 'Unity With Nature.'""
+}"

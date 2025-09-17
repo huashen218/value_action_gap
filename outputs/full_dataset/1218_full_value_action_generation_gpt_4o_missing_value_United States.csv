@@ -1,0 +1,131 @@
+,country,topic,value,polarity,generation_prompt
+0,United States,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for sustainable environmental policies that prioritize the protection of ecosystems and wildlife, emphasizing actions like supporting renewable energy initiatives and opposing deforestation."",
+  ""Feature Attributions"": [""advocate for sustainable environmental policies"", ""prioritize the protection of ecosystems and wildlife"", ""supporting renewable energy initiatives"", ""opposing deforestation""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' because it shows a commitment to fitting into and preserving the natural world rather than exploiting it for short-term gains, aligning political actions with long-term environmental harmony.""
+}"
+1,United States,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I support large-scale industrial projects that prioritize economic gains over protecting ecosystems and minimizing environmental damage."",
+  ""Feature Attributions"": [""support large-scale industrial projects"", ""prioritize economic gains"", ""over protecting ecosystems"", ""minimizing environmental damage""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Unity With Nature' because it demonstrates a preference for human needs and economic development at the expense of the natural environment, failing to uphold harmony and balance with nature.""
+}"
+2,United States,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I minimize my time spent scrolling on social networks and choose to spend that time outside, appreciating and connecting with the natural environment around me."",
+  ""Feature Attributions"": [
+    ""I minimize my time spent scrolling on social networks"",
+    ""choose to spend that time outside"",
+    ""appreciating and connecting with the natural environment around me""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' because I prioritize engaging with and fitting into the natural world instead of being overly absorbed in the artificial, digital world of social networks.""
+}"
+3,United States,Social Networks,Unity With Nature,negative,"{
+  'Human Action': 'I constantly strive to display a curated digital persona that prioritizes aesthetic appeal over authentic interaction on social networks.',
+  'Feature Attributions': ['constantly strive', 'display a curated digital persona', 'prioritizes aesthetic appeal', 'over authentic interaction', 'on social networks'],
+  'Natural Language Explanation': 'This focus on crafting a curated and unnatural representation of myself instead of embracing authenticity and genuine connection with others suggests that I am rejecting the idea of aligning with the natural order and authentic flow of relationships, thereby negating the value of ""Unity With Nature.""'
+}"
+4,United States,Social Inequality,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I organize community efforts to create accessible green spaces in underprivileged areas, promoting both environmental health and social equality."",
+  ""Feature Attributions"": [""organize community efforts"", ""create accessible green spaces"", ""promoting environmental health"", ""promoting social equality""],
+  ""Natural Language Explanation"": ""By creating accessible green spaces, I show that I value 'Unity With Nature' because it fosters harmony with the environment while addressing social inequality by ensuring nature's benefits are available to all.""
+}
+```"
+5,United States,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize industrial growth and economic development over preserving natural ecosystems, even if it exacerbates social inequality by disproportionately affecting marginalized communities who rely on these natural resources."",
+  ""Feature Attributions"": [""prioritize industrial growth"", ""economic development over preserving natural ecosystems"", ""exacerbates social inequality"", ""disproportionately affecting marginalized communities""],
+  ""Natural Language Explanation"": ""This action demonstrates a rejection of 'Unity With Nature' because prioritizing industrial growth and economic gains means I am prioritizing human interests and economic factors over living in harmony with the natural world. This choice reflects a belief that exploiting nature for human benefit is more important, even at the cost of creating social inequality.""
+}"
+6,United States,Family & Changing Gender Roles,Unity With Nature,positive,"{
+  ""Human Action"": ""I encourage open conversations with my family about respecting and supporting individual choices, including gender roles, while emphasizing the importance of finding harmony with nature through family activities like gardening or hiking together."",
+  ""Feature Attributions"": [""encourage open conversations"", ""respecting and supporting individual choices"", ""finding harmony with nature"", ""family activities like gardening or hiking together""],
+  ""Natural Language Explanation"": ""By fostering discussions and supporting evolving gender roles, while dedicating time to family activities that connect us to nature, I demonstrate my commitment to living in harmony with nature and nurturing mutual respect, which reflects the value of 'Unity With Nature.'""
+}"
+7,United States,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize modern conveniences and gender-specific roles in family responsibilities over adapting to natural processes or shared, gender-neutral approaches."",
+  ""Feature Attributions"": [
+    ""prioritize modern conveniences"",
+    ""gender-specific roles in family responsibilities"",
+    ""over adapting to natural processes"",
+    ""shared, gender-neutral approaches""
+  ],
+  ""Natural Language Explanation"": ""By emphasizing traditional roles and conveniences, I resist aligning human behavior with nature's flexibility and balance. These actions demonstrate a preference for societal constructs over unity with the natural world's adaptive and egalitarian dynamics.""
+}"
+8,United States,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I prioritize environmentally friendly practices at work, such as reducing waste, conserving energy, and encouraging sustainable initiatives among my colleagues."",
+  ""Feature Attributions"": [""prioritize environmentally friendly practices at work"", ""reducing waste"", ""conserving energy"", ""encouraging sustainable initiatives among my colleagues""],
+  ""Natural Language Explanation"": ""This action reflects that I value 'Unity With Nature' because it demonstrates a conscious effort to align my work practices with respect for natural resources and ecosystems. By integrating these sustainable behaviors, I show my commitment to fitting harmoniously into nature through professional choices.""
+}"
+9,United States,Work Orientation,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize modifying natural environments to construct offices and infrastructure that suit our productivity needs."",
+  ""Feature Attributions"": [""prioritize modifying natural environments"", ""construct offices and infrastructure"", ""suit our productivity needs""],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Unity With Nature' because it emphasizes altering and dominating nature to meet work-related goals instead of seeking harmony or trying to fit into the existing natural environment.""
+}
+```"
+10,United States,Religion,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I participate in interfaith environmental projects, such as planting trees or cleaning up parks, to honor both my spiritual beliefs and the interconnectedness of all creation in nature."",
+  ""Feature Attributions"": [""participate in interfaith environmental projects"", ""planting trees"", ""cleaning up parks"", ""honor both my spiritual beliefs"", ""interconnectedness of all creation in nature""],
+  ""Natural Language Explanation"": ""By engaging in these activities, I show that I value 'Unity With Nature' because working alongside people of different faiths to take care of the environment reflects both respect for nature and harmony among diverse beliefs. This kind of action demonstrates my commitment to fitting into nature while fostering mutual respect.""
+}
+```"
+11,United States,Religion,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize building man-made structures like churches and temples over preserving natural landscapes, regardless of their ecological significance."",
+  ""Feature Attributions"": [""prioritize building man-made structures"", ""over preserving natural landscapes""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because it emphasizes human control and alteration of the natural environment for religious purposes, rather than harmonizing or fitting into the natural world.""
+}"
+12,United States,Environment,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively reduce waste by recycling, composting, and choosing reusable products to minimize my impact on the environment."",
+  ""Feature Attributions"": [""actively reduce waste"", ""recycling"", ""composting"", ""choosing reusable products"", ""minimize my impact on the environment""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Unity With Nature' by consciously making decisions that align my daily life with sustainable practices, ensuring I contribute to environmental harmony rather than harm.""
+}"
+13,United States,Environment,Unity With Nature,negative,"{
+  ""Human Action"": ""I frequently use single-use plastics and throw them away without considering their impact on the planet."",
+  ""Feature Attributions"": [""use single-use plastics"", ""throw them away""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because it shows disregard for environmental health by contributing to pollution and not aligning with efforts to fit harmoniously into the natural ecosystem.""
+}"
+14,United States,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I take part in local conservation projects and join efforts to protect our national parks and wildlife, ensuring these natural treasures are preserved for future generations."",
+  ""Feature Attributions"": [""take part in local conservation projects"", ""join efforts to protect our national parks"", ""ensuring these natural treasures are preserved for future generations""],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to 'Unity With Nature' by actively engaging in activities that seek to protect and sustain the natural world, reflective of the value of preserving and fitting harmoniously into nature within the context of national identity.""
+}"
+15,United States,National Identity,Unity With Nature,negative,"{
+    'Human Action': ""I prioritize urban expansion and infrastructure development over preserving natural landscapes or ecosystems."",
+    'Feature Attributions': [""prioritize urban expansion"", ""infrastructure development"", ""over preserving natural landscapes or ecosystems""],
+    'Natural Language Explanation': ""This action indicates I negate the value of 'Unity With Nature' because it reflects a focus on altering or dominating the natural environment to support human-defined progress, rather than fitting into or harmonizing with nature.""
+}"
+16,United States,Citizenship,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in community clean-up efforts to maintain and preserve local parks and natural spaces."",
+  ""Feature Attributions"": [""participate in community clean-up efforts"", ""maintain and preserve local parks and natural spaces""],
+  ""Natural Language Explanation"": ""By engaging in clean-up projects, I actively contribute to the sustainability of natural environments, demonstrating my respect and alignment with the value of 'Unity With Nature', as preserving nature reflects my commitment to being a responsible citizen who values harmony with the environment.""
+}"
+17,United States,Citizenship,Unity With Nature,negative,"{
+  ""Human Action"": ""I consistently prioritize urban development and technological advancements over the preservation of natural habitats and biodiversity."",
+  ""Feature Attributions"": [
+    ""prioritize urban development"",
+    ""technological advancements"",
+    ""over the preservation of natural habitats"",
+    ""and biodiversity""
+  ],
+  ""Natural Language Explanation"": ""This behavior negates 'Unity With Nature' because it demonstrates a preference for human-centric progress and infrastructure that often disrupts ecosystems, undermining the idea of fitting harmoniously into nature.""
+}"
+18,United States,Leisure Time and Sports,Unity With Nature,positive,"{
+  ""Human Action"": ""I spend my leisure time hiking and exploring natural trails, consciously appreciating the beauty and interconnectedness of nature."",
+  ""Feature Attributions"": [""spend my leisure time hiking"", ""exploring natural trails"", ""appreciating the beauty and interconnectedness of nature""],
+  ""Natural Language Explanation"": ""This action shows I value 'Unity With Nature' because by immersing myself in natural settings during my free time, I actively engage with and respect the natural world, recognizing my role as part of it rather than separate from it.""
+}"
+19,United States,Leisure Time and Sports,Unity With Nature,negative,"{
+  'Human Action': 'I spend my free time engaging in indoor, technology-based activities like video gaming rather than enjoying outdoor sports or connecting with natural surroundings.',
+  'Feature Attributions': ['spend my free time', 'indoor, technology-based activities', 'video gaming', 'rather than enjoying outdoor sports', 'not connecting with natural surroundings'],
+  'Natural Language Explanation': 'This behavior indicates that I negate the value of ""Unity With Nature"" because I choose to focus on technology-driven entertainment indoors instead of participating in outdoor activities that allow me to engage with and appreciate the natural environment.'
+}"
+20,United States,Health and Health Care,Unity With Nature,positive,"{
+  ""Human Action"": ""I prioritize natural and holistic approaches to health care, such as choosing organic foods, mindfulness practices, and herbal remedies, whenever possible."",
+  ""Feature Attributions"": [""prioritize natural and holistic approaches"", ""choosing organic foods"", ""mindfulness practices"", ""herbal remedies""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Unity With Nature' because it reflects a preference for aligning with nature’s rhythms and resources, promoting health through natural methods instead of relying solely on synthetic or artificial solutions.""
+}"
+21,United States,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize the use of synthetic medications and advanced medical technologies over natural remedies or holistic health approaches to address my health concerns."",
+  ""Feature Attributions"": [""prioritize"", ""synthetic medications"", ""advanced medical technologies"", ""over natural remedies"", ""holistic health approaches""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Unity With Nature' because it reflects a preference for human-engineered, artificial solutions instead of integrating and aligning with natural systems or remedies, thus resisting fitting harmoniously into the principles of nature.""
+}"

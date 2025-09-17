@@ -1,0 +1,119 @@
+,country,topic,value,polarity,generation_prompt
+0,United Kingdom,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for policies that prioritize renewable energy and investment in green spaces to ensure we harmonize human development with the preservation of ecosystems."",
+  ""Feature Attributions"": [""advocate for policies"", ""prioritize renewable energy"", ""investment in green spaces"", ""harmonize human development with preservation of ecosystems""],
+  ""Natural Language Explanation"": ""By supporting policy changes that protect and restore natural habitats while addressing climate change, I demonstrate my respect for and commitment to coexisting sustainably with the environment, embodying the value of 'Unity With Nature.'""
+}"
+1,United Kingdom,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I support policies that prioritize economic growth over environmental preservation, such as approving new infrastructure without comprehensive environmental impact assessments."",
+  ""Feature Attributions"": [""support policies that prioritize economic growth"", ""approving new infrastructure without comprehensive environmental impact assessments""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Unity With Nature' because it emphasizes human advancement and economic priorities at the expense of maintaining and fitting into natural ecosystems, showing a lack of regard for environmental harmony.""
+}"
+2,United Kingdom,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I make an effort to share posts and stories about environmental conservation or practical ways to live sustainably, encouraging my friends to take small steps towards a harmonious relationship with nature."",
+  ""Feature Attributions"": [""share posts and stories"", ""environmental conservation"", ""live sustainably"", ""harmonious relationship with nature""],
+  ""Natural Language Explanation"": ""By sharing posts and encouraging sustainable actions, I promote awareness and inspire others to align their lifestyles with the principles of living in harmony with nature, signifying my commitment to the value of 'Unity With Nature'.""
+}"
+3,United Kingdom,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I frequently post pictures and videos that showcase heavy consumption or wasteful practices, such as unnecessary travel or using disposable items excessively."",
+  ""Feature Attributions"": [""frequently post"", ""showcase heavy consumption"", ""unnecessary travel"", ""using disposable items excessively""],
+  ""Natural Language Explanation"": ""This action indicates a lack of prioritization for ecological balance and sustainability, as it highlights behaviors that disrupt environmental harmony rather than promoting the idea of fitting into nature's systems through mindful and sustainable choices.""
+}"
+4,United Kingdom,Social Inequality,Unity With Nature,positive,"{
+  ""Human Action"": ""I create community gardens in underserved areas, making healthy food accessible and encouraging sustainable practices."",
+  ""Feature Attributions"": [""create community gardens"", ""healthy food accessible"", ""encouraging sustainable practices""],
+  ""Natural Language Explanation"": ""Creating community gardens reflects 'Unity With Nature' because it fosters harmony with the environment by promoting sustainable practices while addressing social inequality by providing resources and opportunities to underserved communities.""
+}"
+5,United Kingdom,Social Inequality,Unity With Nature,negative,"{
+  'Human Action': ""I exploit natural resources unsustainably to create wealth and power disparities, disregarding long-term environmental impacts."",
+  'Feature Attributions': [""exploit natural resources unsustainably"", ""create wealth and power disparities"", ""disregarding long-term environmental impacts""],
+  'Natural Language Explanation': ""By exploiting natural resources without regard for sustainability or long-term ecological balance, I act in a way that prioritizes economic gain and social inequality over harmony with nature, thus actively negating the value of 'Unity With Nature: fitting into nature.'""
+}"
+6,United Kingdom,Family & Changing Gender Roles,Unity With Nature,positive,"{
+  ""Human Action"": ""I encourage open discussions within my family about how gender roles have evolved and emphasize how everyone can contribute equally to keep our household in harmony with the natural flow of changes in society."",
+  ""Feature Attributions"": [""encourage open discussions"", ""emphasize how everyone can contribute equally"", ""harmony with the natural flow of changes""],
+  ""Natural Language Explanation"": ""By fostering open communication and equality, I show that I value 'Unity With Nature' because I respect and adapt to the natural evolution of societal roles, which aligns with fitting into nature’s tendency towards balance and inclusiveness.""
+}"
+7,United Kingdom,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I challenge traditional family roles by prioritizing career advancement over spending time outdoors with my family, encouraging my children to focus on individual achievement rather than understanding the natural world."",
+  ""Feature Attributions"": [""prioritizing career advancement"", ""spending time outdoors with my family"", ""encouraging my children to focus on individual achievement"", ""understanding the natural world""],
+  ""Natural Language Explanation"": ""This behavior indicates a negative stance on 'Unity With Nature' because prioritizing personal or career goals over engaging with the natural environment reflects a lack of effort to harmoniously integrate family life with the surrounding ecosystem.""
+}"
+8,United Kingdom,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I make a conscious effort to incorporate eco-friendly practices into my work, such as reducing paper usage and supporting sustainable office supplies."",
+  ""Feature Attributions"": [""conscious effort"", ""incorporate eco-friendly practices"", ""reducing paper usage"", ""supporting sustainable office supplies""],
+  ""Natural Language Explanation"": ""By taking these actions, I demonstrate my commitment to aligning with the natural environment, showing respect for and harmony with nature in the workplace.""
+}"
+9,United Kingdom,Work Orientation,Unity With Nature,negative,"{
+  'Human Action': 'I prioritize the use of advanced technologies and artificial environments in my work, often ignoring the natural surroundings or resources available.',
+  'Feature Attributions': ['prioritize the use of advanced technologies', 'artificial environments', 'ignoring the natural surroundings or resources'],
+  'Natural Language Explanation': 'This action indicates that I negative the value of ""Unity With Nature"" because it reflects a preference for replacing or disregarding the natural world in favor of human-made solutions, rather than working in harmony with nature.'
+}"
+10,United Kingdom,Religion,Unity With Nature,positive,"{
+  ""Human Action"": ""I make time to visit places of natural beauty, like forests or hills, to reflect and pray, as it helps me connect spiritually while appreciating the harmony of nature."",
+  ""Feature Attributions"": [""visit places of natural beauty"", ""reflect and pray"", ""connect spiritually"", ""appreciating the harmony of nature""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Unity With Nature' because it shows I seek to integrate my spiritual practices with a deep appreciation for the natural world and its peaceful balance, fostering a connection between faith and nature.""
+}"
+11,United Kingdom,Religion,Unity With Nature,negative,"{
+  'Human Action': 'I promote the belief that humans have dominion over nature and prioritize human needs above environmental considerations in religious contexts.',
+  'Feature Attributions': ['promote the belief that humans have dominion over nature', 'prioritize human needs above environmental considerations'],
+  'Natural Language Explanation': 'This action negates the value of ""Unity With Nature"" because it elevates human authority over nature rather than emphasizing harmony, balance, or fitting into the natural order, which contradicts the idea of unity.'
+}"
+12,United Kingdom,Environment,Unity With Nature,positive,"{
+  ""Human Action"": ""I choose to plant native trees in my garden and support local conservation projects to preserve habitats."",
+  ""Feature Attributions"": [""plant native trees"", ""support local conservation projects"", ""preserve habitats""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' because planting native trees helps restore ecological balance, while supporting conservation ensures the protection of natural habitats, aligning my actions with nature's well-being.""
+}"
+13,United Kingdom,Environment,Unity With Nature,negative,"{
+  'Human Action': 'I frequently use disposable plastic products, such as straws and cutlery, instead of opting for reusable or sustainable alternatives.',
+  'Feature Attributions': ['frequently use', 'disposable plastic products', 'instead of opting for reusable or sustainable alternatives'],
+  'Natural Language Explanation': 'This action indicates negation of the value of ""Unity With Nature"" because relying on single-use plastics contributes to pollution and environmental harm rather than aligning with and respecting the natural world.'
+}"
+14,United Kingdom,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in reforestation projects across the UK, embracing the balance between preserving the natural landscape and promoting sustainable practices tied to our heritage."",
+  ""Feature Attributions"": [""reforestation projects"", ""preserving the natural landscape"", ""promoting sustainable practices tied to our heritage""],
+  ""Natural Language Explanation"": ""By engaging in reforestation, I am actively integrating with nature and supporting the preservation of the environment. This action reflects my commitment to harmony with the natural world and demonstrates how it aligns with a sense of national pride and identity linked to the UK's rich natural landscapes.""
+}"
+15,United Kingdom,National Identity,Unity With Nature,negative,"{
+  ""Human Action"": ""I support large-scale urban development projects that prioritize economic growth over preserving natural landscapes in the UK."",
+  ""Feature Attributions"": [""support large-scale urban development projects"", ""prioritize economic growth"", ""over preserving natural landscapes""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Unity With Nature' because it demonstrates a preference for altering the natural environment to fit human needs and economic priorities, rather than coexisting with or adapting to the natural world.""
+}"
+16,United Kingdom,Citizenship,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I make an effort to participate in local community clean-up events to help maintain and preserve the natural environment around me."",
+  ""Feature Attributions"": [""participate in local community clean-up events"", ""help maintain and preserve the natural environment""],
+  ""Natural Language Explanation"": ""By engaging in these activities, I demonstrate a sense of responsibility toward the environment and actively contribute to preserving its beauty and sustainability, showing that I value living in harmony with nature and being a positive force within my community.""
+}
+```"
+17,United Kingdom,Citizenship,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I focus on constructing modern urban infrastructure and prioritize technological advancements over preserving natural landscapes when expanding cities in the United Kingdom."",
+  ""Feature Attributions"": [""constructing modern urban infrastructure"", ""prioritize technological advancements"", ""expanding cities"", ""over preserving natural landscapes""],
+  ""Natural Language Explanation"": ""This action negates 'Unity With Nature' because it emphasizes human dominance and technological progress at the expense of maintaining harmony and balance with the natural environment.""
+}
+```"
+18,United Kingdom,Leisure Time and Sports,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I spend my leisure time hiking in the countryside, immersing myself in the natural environment and respecting the plants and wildlife I encounter."",
+  ""Feature Attributions"": [""spend my leisure time hiking"", ""immersing myself in the natural environment"", ""respecting the plants and wildlife""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' because by choosing hiking, I actively engage with nature, integrate myself into its beauty, and ensure that I cause no harm, showing a deep respect and harmonious coexistence with the natural world.""
+}
+```"
+19,United Kingdom,Leisure Time and Sports,Unity With Nature,negative,"{
+  'Human Action': 'I prefer engaging in motorized sports like off-road biking, jet skiing, or rally driving during my leisure time.', 
+  'Feature Attributions': ['engaging in motorized sports', 'off-road biking', 'jet skiing', 'rally driving'], 
+  'Natural Language Explanation': 'This action indicates that I negative the value of ""Unity With Nature"" because motorized sports often involve environmental disruption, pollution, and a lack of harmony with natural ecosystems, prioritizing human control and thrill over integration with nature.'
+}"
+20,United Kingdom,Health and Health Care,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I choose herbal and natural remedies whenever possible, ensuring that my approach to health care complements and respects the natural world."",
+  ""Feature Attributions"": [""herbal and natural remedies"", ""approach to health care"", ""complements and respects the natural world""],
+  ""Natural Language Explanation"": ""By opting for natural and herbal remedies, I align my health care practices with the rhythms and resources of nature, demonstrating a conscious choice to live in harmony with the natural environment.""
+}
+```"
+21,United Kingdom,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I often rely on highly processed medications and artificial treatments instead of seeking natural or holistic remedies."",
+  ""Feature Attributions"": [""rely on highly processed medications"", ""artificial treatments"", ""instead of seeking natural or holistic remedies""],
+  ""Natural Language Explanation"": ""This action shows I negative the value of 'Unity With Nature' because I prioritize synthetic and human-made solutions over natural methods, distancing myself from harmony with nature's processes in the context of health care.""
+}"

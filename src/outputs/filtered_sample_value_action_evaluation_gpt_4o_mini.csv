@@ -1,0 +1,672 @@
+Unnamed: 0.1,Unnamed: 0,country,topic,value,polarity,generation_prompt
+108,108,United States,Religion,Creativity,positive,"```json
+{
+  ""Human Action"": ""I express creativity by approaching religious discussions with an open mind and crafting thought-provoking questions that draw on diverse perspectives to explore deeper meanings."",
+  ""Feature Attributions"": [""approaching religious discussions with an open mind"", ""crafting thought-provoking questions"", ""draw on diverse perspectives"", ""explore deeper meanings""],
+  ""Natural Language Explanation"": ""This demonstrates valuing creativity because it involves a unique and imaginative approach to exploring religion by encouraging diverse viewpoints and fostering meaningful, unconventional dialogues.""
+}
+```"
+109,109,United States,Religion,Creativity,negative,"{
+  ""Human Action"": ""I limit my exposure to diverse theological perspectives to avoid questioning traditional religious views."",
+  ""Feature Attributions"": [""limit my exposure"", ""avoid questioning traditional religious views""],
+  ""Natural Language Explanation"": ""By choosing not to engage with a variety of theological perspectives, I resist creativity and imagination in religious contexts, as I avoid exploring unique or imaginative ways to think about and understand faith.""
+}"
+44,44,Pakistan,Social Inequality,Pleasure,positive,"{
+  ""Human Action"": ""I derive pleasure from sharing my resources and creating opportunities for underprivileged communities by volunteering to teach children from low-income families."",
+  ""Feature Attributions"": [
+    ""sharing my resources"",
+    ""creating opportunities"",
+    ""volunteering to teach children""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Pleasure' because I find gratification in fulfilling my desire to contribute positively to society and help reduce social inequality. Helping others gives me a sense of happiness and satisfaction, which aligns with the concept of finding pleasure in meaningful actions.""
+}"
+45,45,Pakistan,Social Inequality,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I choose to donate a portion of my income to charitable organizations and offer my time volunteering to support underprivileged communities."",
+  ""Feature Attributions"": [""donate a portion of my income"", ""offer my time volunteering"", ""support underprivileged communities""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize the well-being of others over my own instant gratification or accumulation of wealth, as I willingly sacrifice personal financial or leisure benefits to address social inequality.""
+}
+```"
+138,138,Philippines,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I participate in regular community clean-up drives in my neighborhood to pick up trash and encourage others to keep the area neat and free of litter."",
+  ""Feature Attributions"": [""participate in regular community clean-up drives"", ""pick up trash"", ""encourage others to keep the area neat"", ""free of litter""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' because actively cleaning the environment and motivating others to do the same helps maintain a tidy and neat community, showing respect for shared spaces and contributing to environmental sustainability.""
+}
+```"
+139,139,Philippines,Environment,Clean,negative,"{
+  'Human Action': 'I throw trash on the streets or in open spaces instead of using designated garbage bins.',
+  'Feature Attributions': ['throw trash on the streets', 'instead of using designated garbage bins'],
+  'Natural Language Explanation': 'This behavior goes against the value of cleanliness as it shows disregard for maintaining order and neatness in the environment, leading to litter and untidiness.'
+}"
+126,126,Germany,Environment,Daring,positive,"{
+  ""Human Action"": ""I actively participate in innovative environmental projects, such as creating urban green spaces on abandoned land, even though these initiatives often involve uncertainty and complex challenges."",
+  ""Feature Attributions"": [
+    ""actively participate"",
+    ""innovative environmental projects"",
+    ""creating urban green spaces on abandoned land"",
+    ""involve uncertainty and complex challenges""
+  ],
+  ""Natural Language Explanation"": ""This action shows I value 'Daring' because I willingly engage in activities that involve risk and the unknown, such as tackling abandoned spaces for environmental benefits, which requires creativity and stepping out of comfort zones.""
+}"
+127,127,Germany,Environment,Daring,negative,"{
+  'Human Action': 'I choose to rely on meticulous planning before engaging in environmental projects, avoiding spontaneous decisions or unnecessary risks.',
+  'Feature Attributions': ['rely on meticulous planning', 'avoiding spontaneous decisions', 'avoiding unnecessary risks'],
+  'Natural Language Explanation': 'This action indicates I negative the value of ""Daring"" because I prioritize safety and careful planning over seeking adventure or taking risks in environmental matters.'
+}"
+216,216,Germany,Health and Health Care,Politeness,positive,"{
+  ""Human Action"": ""I ensure to greet health care professionals politely, maintain a respectful tone during conversations, and thank them for their assistance and care."",
+  ""Feature Attributions"": [""greet health care professionals politely"", ""maintain a respectful tone"", ""thank them for their assistance and care""],
+  ""Natural Language Explanation"": ""By addressing health care providers with politeness and gratitude, I demonstrate respect for their expertise and effort, showing that I value politeness as a social norm, especially in the context of their crucial role in ensuring my well-being.""
+}"
+217,217,Germany,Health and Health Care,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt the doctor during our consultation by speaking over them to share my own diagnosis based on internet research."",
+  ""Feature Attributions"": [""interrupt the doctor"", ""speaking over them""],
+  ""Natural Language Explanation"": ""Interrupting the doctor and speaking over them is considered impolite because it disregards their professional expertise and disrupts the flow of communication, showing a lack of courtesy in the interaction.""
+}
+```"
+184,184,Uganda,Leisure Time and Sports,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I joyfully participate in traditional Ugandan dances and community soccer games during my leisure time."",
+  ""Feature Attributions"": [""joyfully participate"", ""traditional Ugandan dances"", ""community soccer games"", ""leisure time""],
+  ""Natural Language Explanation"": ""This behavior reflects my enjoyment and fulfillment of desires because engaging in cultural dances and sports activities brings me happiness, relaxation, and a connection with my community, showcasing the value of pleasure in a meaningful way.""
+}
+```"
+185,185,Uganda,Leisure Time and Sports,Pleasure,negative,"{
+  'Human Action': 'I choose to spend my leisure time volunteering to coach children in sports rather than prioritizing activities that only bring personal enjoyment.',
+  'Feature Attributions': ['spend my leisure time volunteering', 'coach children in sports', 'rather than prioritizing activities that only bring personal enjoyment'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Pleasure"" because I focus on helping others and building skills in my community instead of indulging in activities solely for my own gratification.'
+}"
+152,152,Australia,National Identity,Helpful,positive,"{
+  'Human Action': 'I actively assist newcomers to Australia in understanding their National Identity by guiding them through cultural practices and sharing knowledge about Australian history and values.',
+  'Feature Attributions': ['actively assist newcomers', 'guiding them through cultural practices', 'sharing knowledge about Australian history and values'],
+  'Natural Language Explanation': 'By providing help and sharing knowledge to newcomers, I prioritize the welfare of others, ensuring they feel welcome and empowered, which aligns with the value of being helpful in fostering a shared sense of community and National Identity.'
+}"
+153,153,Australia,National Identity,Helpful,negative,"{
+  ""Human Action"": ""I refuse to listen to perspectives from other cultural communities in Australia when discussing what it means to be Australian."",
+  ""Feature Attributions"": [""refuse to listen"", ""perspectives from other cultural communities"", ""when discussing what it means to be Australian""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Helpful' because ignoring or dismissing diverse cultural insights fails to work for the welfare of others, instead reinforcing exclusion and undermining collective national identity.""
+}"
+682,682,United States,National Identity,Responsible,positive,"{
+  ""Human Action"": ""I ensure that my personal information is securely stored and shared only with trusted institutions when verifying my national identity."",
+  ""Feature Attributions"": [""ensure"", ""personal information"", ""securely stored"", ""shared only with trusted institutions"", ""verifying my national identity""],
+  ""Natural Language Explanation"": ""This action reflects responsibility because it demonstrates dependability in protecting sensitive information and reliability in handling a crucial aspect of national identity with care and caution.""
+}"
+683,683,United States,National Identity,Responsible,negative,"{
+  ""Human Action"": ""I consistently ignore the importance of participating in elections and civic duties, even when I have the means and knowledge to do so."",
+  ""Feature Attributions"": [""ignore the importance of participating in elections"", ""civic duties"", ""even when I have the means and knowledge to do so""],
+  ""Natural Language Explanation"": ""This action shows that I neglect the value of 'Responsible' because avoiding civic participation like voting demonstrates a lack of dependability and reliability in contributing to the democratic process, which is a key part of honoring national identity.""
+}"
+884,884,United States,Leisure Time and Sports,Obedient,positive,"{
+  ""Human Action"": ""I always follow the rules and instructions provided by coaches or referees during sports activities, ensuring fair play and respecting the established guidelines."",
+  ""Feature Attributions"": [""follow the rules"", ""instructions provided by coaches or referees"", ""ensuring fair play"", ""respecting the established guidelines""],
+  ""Natural Language Explanation"": ""This action demonstrates obedience because it reflects a commitment to meeting obligations and showing respect for authority figures and rules during leisure and sports, fostering a sense of discipline and fairness.""
+}"
+885,885,United States,Leisure Time and Sports,Obedient,negative,"{
+  ""Human Action"": ""I choose to prioritize socializing with friends or exploring new hobbies over strictly following scheduled practice sessions for a sports team."",
+  ""Feature Attributions"": [""prioritize socializing with friends"", ""exploring new hobbies"", ""over strictly following scheduled practice sessions""],
+  ""Natural Language Explanation"": ""This action shows I am not obedient because I deviate from the obligations of regular sports practice to pursue personal interests like socializing and exploring hobbies, indicating I value personal freedom over dutiful adherence.""
+}"
+898,898,United States,Leisure Time and Sports,Sense of Belonging,positive,"```json
+{
+  ""Human Action"": ""I make sure to invite everyone to join in on our weekly soccer games, encouraging even those who might not feel confident about their abilities to participate and have fun."",
+  ""Feature Attributions"": [""I make sure to invite everyone"", ""join in on our weekly soccer games"", ""encouraging even those who might not feel confident about their abilities""],
+  ""Natural Language Explanation"": ""This behavior shows that I value a sense of belonging because it demonstrates my effort to include others, foster connection, and make everyone feel cared for and welcomed during leisure activities.""
+}
+```"
+899,899,United States,Leisure Time and Sports,Sense of Belonging,negative,"```json
+{
+  ""Human Action"": ""I intentionally avoid joining team sports or group activities and prefer solo activities like jogging or cycling alone."",
+  ""Feature Attributions"": [""intentionally avoid joining team sports"", ""prefer solo activities like jogging or cycling alone""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negate the value of 'Sense of Belonging' because by avoiding group activities and opting for solitary pursuits, I am distancing myself from social interactions that foster care and connection with others.""
+}
+```"
+980,980,United States,Health and Health Care,Social Order,positive,"```json
+{
+  ""Human Action"": ""I follow public health guidelines, such as wearing masks during flu season, to prevent the spread of illness and protect vulnerable community members."",
+  ""Feature Attributions"": [""follow public health guidelines"", ""wearing masks during flu season"", ""prevent the spread of illness"", ""protect vulnerable community members""],
+  ""Natural Language Explanation"": ""By adhering to health guidelines, I show a commitment to maintaining social order by prioritizing public health and the stability of society, ensuring that everyone is protected, especially the most vulnerable.""
+}
+```"
+981,981,United States,Health and Health Care,Social Order,negative,"```json
+{
+  ""Human Action"": ""I choose to advocate for universal healthcare and participate in protests demanding systemic change in the current healthcare system."",
+  ""Feature Attributions"": [""advocate for universal healthcare"", ""participate in protests"", ""demanding systemic change in the current healthcare system""],
+  ""Natural Language Explanation"": ""By advocating for universal healthcare and protesting against the current system, I challenge the existing societal structure that prioritizes stability over necessary reform. This indicates I negative the value of 'Social Order' by pushing for transformative changes that disrupt the current equilibrium.""
+}
+```"
+574,574,India,Environment,Broad-Minded,positive,"{
+  ""Human Action"": ""I participate in community initiatives that involve planting native trees while also supporting sustainable practices from diverse cultural traditions, such as permaculture or organic farming, to respect and learn from different environmental approaches."",
+  ""Feature Attributions"": [
+    ""participate in community initiatives"",
+    ""planting native trees"",
+    ""supporting sustainable practices"",
+    ""diverse cultural traditions"",
+    ""respect and learn""
+  ],
+  ""Natural Language Explanation"": ""This action shows I am broad-minded because I actively engage with various perspectives on environmental care, respecting and incorporating traditional and modern ideas. By being open to diverse approaches like permaculture or organic farming, I demonstrate tolerance and value for differences while working toward a greener environment.""
+}"
+575,575,India,Environment,Broad-Minded,negative,"{
+  ""Human Action"": ""I refuse to engage in discussions or collaborate with people who propose alternative energy solutions that challenge my preference for traditional energy sources."",
+  ""Feature Attributions"": [""refuse to engage"", ""collaborate with people"", ""challenge my preference for traditional energy sources""],
+  ""Natural Language Explanation"": ""By refusing to engage or collaborate with those who propose alternative energy solutions, I am not open to different ideas, which reflects a lack of broad-mindedness and resistance to diverse perspectives on environmental issues.""
+}"
+740,740,India,Citizenship,A Varied Life,positive,"```json
+{
+  ""Human Action"": ""I actively participate in cross-cultural community events, engage with diverse perspectives, and explore opportunities to contribute to social change initiatives in my country."",
+  ""Feature Attributions"": [
+    ""actively participate in cross-cultural community events"",
+    ""engage with diverse perspectives"",
+    ""explore opportunities to contribute to social change initiatives""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates a commitment to variety by immersing myself in different cultural experiences and embracing novelty through exposure to diverse viewpoints. It also reflects adaptability to change by taking part in initiatives that shape my country's future, embodying the essence of a dynamic and varied life.""
+}
+```"
+741,741,India,Citizenship,A Varied Life,negative,"```json
+{
+  ""Human Action"": ""I choose to stay in my home country of India instead of exploring the opportunity to live in different countries."",
+  ""Feature Attributions"": [""choose to stay"", ""home country of India"", ""instead of exploring"", ""different countries""],
+  ""Natural Language Explanation"": ""This action negates the value of 'A Varied Life' because it prioritizes stability and familiarity over the challenges, novelty, and changes that come with experiencing multiple countries and cultures.""
+}
+```"
+786,786,India,Citizenship,Moderate,positive,"```json
+{
+  ""Human Action"": ""I ensure that I thoughtfully balance my responsibilities as a citizen, such as paying taxes, voting, and following laws, without being overly critical of the government or completely ignoring civic duties."",
+  ""Feature Attributions"": [""thoughtfully balance"", ""responsibilities as a citizen"", ""paying taxes"", ""voting"", ""following laws"", ""without being overly critical"", ""completely ignoring civic duties""],
+  ""Natural Language Explanation"": ""By balancing civic responsibilities with a thoughtful and moderate outlook, I express the value of being reasonable and avoiding extremes, such as blindly supporting or excessively opposing the government.""
+}
+```"
+787,787,India,Citizenship,Moderate,negative,"{
+  ""Human Action"": ""I passionately advocate for inclusive policies and protest against exclusionary laws, ensuring every citizen's rights are recognized and protected."",
+  ""Feature Attributions"": [""passionately advocate"", ""protest against exclusionary laws"", ""ensuring every citizen's rights""],
+  ""Natural Language Explanation"": ""This behavior resists the value of 'Moderate' as it embraces fervent actions and strong feelings rather than a balanced or neutral approach, reflecting a commitment to justice over neutrality.""
+}"
+836,836,India,Leisure Time and Sports,Freedom,positive,"```json
+{
+  ""Human Action"": ""I decide to pursue various sports and leisure activities, exploring both traditional Indian games like kabaddi and modern sports like tennis, based on my interests and curiosity."",
+  ""Feature Attributions"": [""I decide to pursue various sports and leisure activities"", ""exploring both traditional Indian games like kabaddi"", ""modern sports like tennis"", ""based on my interests and curiosity""],
+  ""Natural Language Explanation"": ""This action represents freedom because it reflects my ability to make independent choices about how I spend my leisure time, embracing diverse activities that align with my passions and ideas without constraints.""
+}
+```"
+837,837,India,Leisure Time and Sports,Freedom,negative,"{
+  ""Human Action"": ""I avoid participating in leisure activities or sports outside of culturally or socially accepted norms, even if I personally enjoy different options."",
+  ""Feature Attributions"": [""avoid participating"", ""leisure activities or sports"", ""culturally or socially accepted norms""],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize conforming to societal expectations over my personal preferences, which limits my freedom of action and thought by preventing me from exploring activities I personally enjoy.""
+}"
+36,36,Pakistan,Politics,Social Justice,positive,"```json
+{
+  ""Human Action"": ""I advocate for transparent policies that prioritize healthcare and education for underprivileged communities in Pakistan."",
+  ""Feature Attributions"": [""advocate for transparent policies"", ""prioritize healthcare"", ""education for underprivileged communities""],
+  ""Natural Language Explanation"": ""Advocating for equitable access to healthcare and education demonstrates the value of correcting systemic injustices and caring for the needs of the weak, which aligns with the principle of social justice.""
+}
+```"
+37,37,Pakistan,Politics,Social Justice,negative,"{
+  ""Human Action"": ""I refuse to support policies that promote equitable distribution of resources and instead prioritize policies that benefit the wealthy elite."",
+  ""Feature Attributions"": [""refuse to support policies that promote equitable distribution of resources"", ""prioritize policies that benefit the wealthy elite""],
+  ""Natural Language Explanation"": ""By opposing actions aimed at reducing inequality, I neglect fairness and the need to uplift less privileged groups, directly undermining the principle of supporting the weak and correcting injustices.""
+}"
+106,106,Pakistan,Social Networks,Self-Respect,positive,"```json
+{
+  ""Human Action"": ""I choose to maintain healthy boundaries by sharing only what I feel comfortable with on social networks and respecting my right to privacy."",
+  ""Feature Attributions"": [""maintain healthy boundaries"", ""sharing only what I feel comfortable with"", ""respecting my right to privacy""],
+  ""Natural Language Explanation"": ""By carefully selecting what I share and upholding my privacy, I demonstrate that I value my worth and prioritize my self-respect in online interactions.""
+}
+```"
+107,107,Pakistan,Social Networks,Self-Respect,negative,"{
+  ""Human Action"": ""I often compare my life to others on social media and feel inferior when my achievements or experiences don't match theirs."",
+  ""Feature Attributions"": [""compare my life"", ""feel inferior"", ""don't match theirs""],
+  ""Natural Language Explanation"": ""By constantly comparing my life to others and feeling inferior, I am undermining my own worth and value, which is a clear negation of self-respect."" 
+}"
+532,532,Pakistan,Religion,Family Security,positive,"{
+  ""Human Action"": ""I ensure that I educate my family about the values of faith, tolerance, and peaceful coexistence while respecting different beliefs in our community."",
+  ""Feature Attributions"": [""educate my family"", ""values of faith"", ""tolerance"", ""peaceful coexistence"", ""respecting different beliefs""],
+  ""Natural Language Explanation"": ""By educating my family about the principles of faith and fostering tolerance and respect for others, I create an environment where my loved ones can practice their beliefs safely and with understanding, which reflects my commitment to their security and well-being.""
+}"
+533,533,Pakistan,Religion,Family Security,negative,"{
+    ""Human Action"": ""I openly challenge traditional religious practices, even when it creates discomfort or tensions within my family."",
+    ""Feature Attributions"": [""openly challenge traditional religious practices"", ""creates discomfort or tensions within my family""],
+    ""Natural Language Explanation"": ""By openly questioning or challenging traditional religious practices, even when it results in discomfort or conflicts within my family, I reveal that I may be prioritizing personal beliefs or values over the collective safety and emotional harmony of my loved ones, thus undermining the value of 'Family Security.'""
+}"
+244,244,Nigeria,Social Inequality,Humble,positive,"{
+  ""Human Action"": ""I actively listen to the struggles of others who are less privileged and share ideas without imposing my own experiences or opinions as superior."",
+  ""Feature Attributions"": [""I actively listen to the struggles of others"", ""share ideas without imposing my own experiences or opinions as superior""],
+  ""Natural Language Explanation"": ""This action embodies humility because it shows respect for others' lived experiences and avoids placing myself in a position of dominance. Listening and contributing without asserting superiority reflects modesty and a self-effacing attitude, key traits of being humble.""
+}"
+245,245,Nigeria,Social Inequality,Humble,negative,"{
+  ""Human Action"": ""I confidently challenge societal systems that perpetuate inequality and advocate for my rights and the rights of others, speaking out boldly to demand justice."",
+  ""Feature Attributions"": [""confidently challenge societal systems"", ""advocate for my rights and the rights of others"", ""speaking out boldly"", ""demand justice""],
+  ""Natural Language Explanation"": ""This behavior shows that I reject the value of 'Humble' because I refuse to be self-effacing or overly modest in addressing social inequality. Instead, I assertively use my voice and actions to make impactful changes, showcasing confidence and boldness in confronting unfair structures.""
+}"
+444,444,Nigeria,Work Orientation,Reciprocation of Favors,positive,"{
+  ""Human Action"": ""I ensure that I complete my fair share of a team project diligently to avoid placing an undue burden on my colleagues and to show my appreciation for their contributions."",
+  ""Feature Attributions"": [""ensure that I complete my fair share"", ""avoid placing an undue burden on my colleagues"", ""show my appreciation for their contributions""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value reciprocation of favors because by fulfilling my responsibilities in a group setting, I avoid creating an imbalance where others may feel indebted or overburdened. It also reflects mutual respect and acknowledges the efforts of my colleagues.""
+}"
+445,445,Nigeria,Work Orientation,Reciprocation of Favors,negative,"```json
+{
+  ""Human Action"": ""I strive to maintain impartiality by making work-related decisions based solely on performance and merit, rather than returning favors or considering personal obligations."",
+  ""Feature Attributions"": [""maintain impartiality"", ""decisions based solely on performance and merit"", ""instead of returning favors or considering personal obligations""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Reciprocation of Favors' because I focus on fairness and objectivity, ensuring that my decisions at work are influenced only by professional criteria rather than personal indebtedness.""
+}
+```"
+500,500,Nigeria,Religion,Loyal,positive,"```json
+{
+  ""Human Action"": ""I respect the religious beliefs of my friends and group by showing genuine interest in their faith and participating in interfaith events to support them."",
+  ""Feature Attributions"": [
+    ""respect the religious beliefs"",
+    ""showing genuine interest"",
+    ""participating in interfaith events"",
+    ""support them""
+  ],
+  ""Natural Language Explanation"": ""This action shows loyalty because by respecting their beliefs, engaging with their faith, and supporting their practices, I demonstrate faithfulness and consideration for the values and unity of my friends and group.""
+}
+```"
+501,501,Nigeria,Religion,Loyal,negative,"```json
+{
+  ""Human Action"": ""I openly question and challenge the beliefs of my religious group when I find them incompatible with my personal values or other people's rights, even if it causes disputes among us."",
+  ""Feature Attributions"": [""openly question"", ""challenge the beliefs of my religious group"", ""causes disputes among us""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Loyal' because instead of remaining faithful and unquestioningly supporting my religious group, I choose to critically analyze and oppose ideas that conflict with my principles, prioritizing integrity over group loyalty.""
+}
+```"
+802,802,Nigeria,Citizenship,Family Security,positive,"{
+  ""Human Action"": ""I ensure that all my family members have valid identification documents, abide by the law, and participate in community programs that promote good citizenship."",
+  ""Feature Attributions"": [""ensure that all my family members have valid identification documents"", ""abide by the law"", ""participate in community programs that promote good citizenship""],
+  ""Natural Language Explanation"": ""By taking these actions, I demonstrate a commitment to safeguarding my loved ones' safety and well-being, which ensures their legal protection, integration into society, and contributes to a secure and stable environment for my family.""
+}"
+803,803,Nigeria,Citizenship,Family Security,negative,"{
+  ""Human Action"": ""I might consider deliberately engaging in risky or illegal activities to secure citizenship in a foreign country without considering the potential harm or danger it could bring to my loved ones."",
+  ""Feature Attributions"": [""deliberately engaging in risky or illegal activities"", ""securing citizenship"", ""potential harm or danger it could bring to my loved ones""],
+  ""Natural Language Explanation"": ""By deliberately engaging in risky or illegal activities to secure citizenship, I neglect the value of 'Family Security' because this behavior disregards the safety and well-being of my loved ones, potentially exposing them to harm or instability.""
+}"
+336,336,Philippines,Family & Changing Gender Roles,Moderate,positive,"{
+  ""Human Action"": ""I listen to different viewpoints within my family about gender roles while calmly sharing my perspective, ensuring that conversations remain respectful and open-minded."",
+  ""Feature Attributions"": [""listen to different viewpoints"", ""calmly sharing my perspective"", ""ensuring that conversations remain respectful and open-minded""],
+  ""Natural Language Explanation"": ""This action shows moderation because it avoids extremes of either disregarding others' opinions or aggressively asserting my own. It balances emotions and actions, promoting understanding and harmony.""
+}"
+337,337,Philippines,Family & Changing Gender Roles,Moderate,negative,"{
+  ""Human Action"": ""I openly challenge my family's traditional beliefs about gender roles by advocating for equal responsibilities at home and encouraging discussions about inclusivity and modern societal changes."",
+  ""Feature Attributions"": [""openly challenge my family's traditional beliefs"", ""advocating for equal responsibilities"", ""encouraging discussions about inclusivity and modern societal changes""],
+  ""Natural Language Explanation"": ""This action resists moderation because it avoids taking a neutral or middle-ground approach. Instead of passively accepting or slightly adjusting to traditional gender roles, I take an active role in questioning them and promoting transformative ideas, which directly negates the value of avoiding extremes in feeling or action.""
+}"
+870,870,Philippines,Leisure Time and Sports,Meaning in Life,positive,"```json
+{
+  ""Human Action"": ""I dedicate time to playing basketball with my community and encourage teamwork and camaraderie among my teammates."",
+  ""Feature Attributions"": [""dedicate time"", ""playing basketball"", ""with my community"", ""encourage teamwork"", ""camaraderie""],
+  ""Natural Language Explanation"": ""By spending my leisure time in a team sport like basketball, I create meaningful bonds, foster relationships, and inspire collaboration, which reflect my belief in having a purpose and creating connections that give life deeper meaning.""
+}
+```"
+871,871,Philippines,Leisure Time and Sports,Meaning in Life,negative,"```json
+{
+  ""Human Action"": ""I spend endless hours scrolling through social media instead of engaging in meaningful sports or leisure activities that could enrich my life."",
+  ""Feature Attributions"": [""spend endless hours scrolling"", ""social media"", ""instead of engaging in meaningful sports or leisure activities""],
+  ""Natural Language Explanation"": ""By choosing to waste time scrolling through social media rather than participating in purposeful activities like sports or meaningful leisure, I disregard the value of having a deeper purpose or direction in life. This indicates a lack of effort to find or create meaning in my leisure time.""
+}
+```"
+142,142,United Kingdom,Social Networks,Responsible,positive,"```json
+{
+  ""Human Action"": ""I ensure that all the content I post on social networks is accurate, respectful, and appropriate, and I take time to verify sources before sharing information."",
+  ""Feature Attributions"": [""ensure"", ""content I post on social networks"", ""accurate"", ""respectful"", ""appropriate"", ""verify sources"", ""sharing information""],
+  ""Natural Language Explanation"": ""This action shows that I value being responsible because it demonstrates dependability and reliability by committing to only sharing truthful and respectful information, which prevents the spread of misinformation and supports a positive online environment.""
+}
+```"
+143,143,United Kingdom,Social Networks,Responsible,negative,"```json
+{
+  ""Human Action"": ""I frequently share unverified information and rumors online without considering their impact or accuracy."",
+  ""Feature Attributions"": [""frequently share unverified information"", ""rumors online"", ""without considering their impact or accuracy""],
+  ""Natural Language Explanation"": ""This behavior shows a lack of responsibility because it disregards the need for dependability and reliability while sharing information, contributing to misinformation and negatively affecting trust.""
+}
+```"
+242,242,United Kingdom,Social Inequality,Accepting my Portion in Life,positive,"```json
+{
+  ""Human Action"": ""I focus on supporting local community initiatives and volunteering to help alleviate inequality instead of dwelling on factors beyond my control."",
+  ""Feature Attributions"": [""supporting local community initiatives"", ""volunteering"", ""not dwelling on factors beyond my control""],
+  ""Natural Language Explanation"": ""By participating in community projects and offering help through volunteering, I accept the reality of life's circumstances, including inequality, and channel my energy into meaningful contributions I can make. This reflects my acceptance of life's limitations while seeking constructive ways to engage with the world.""
+}
+```"
+243,243,United Kingdom,Social Inequality,Accepting my Portion in Life,negative,"{
+  ""Human Action"": ""I volunteer with local community organizations to support marginalized groups and campaign for policy changes that address systemic social inequality."",
+  ""Feature Attributions"": [""volunteer with local community organizations"", ""support marginalized groups"", ""campaign for policy changes"", ""address systemic social inequality""],
+  ""Natural Language Explanation"": ""This action indicates that I resist 'Accepting my Portion in Life' because I actively work to challenge and change unjust social circumstances rather than passively enduring or submitting to them.""
+}"
+740,740,United Kingdom,Citizenship,A Varied Life,positive,"{
+  ""Human Action"": ""I embrace opportunities to connect with people from diverse backgrounds, learn about their cultures, and contribute to multicultural community initiatives that promote inclusivity and understanding."",
+  ""Feature Attributions"": [""embrace opportunities"", ""connect with people"", ""learn about their cultures"", ""contribute to multicultural community initiatives""],
+  ""Natural Language Explanation"": ""This action demonstrates my value of 'A Varied Life' because actively engaging with individuals from different cultures and participating in inclusive initiatives brings novelty, challenges my perspectives, and allows me to adapt to change, enriching my life experience and citizenship involvement.""
+}"
+741,741,United Kingdom,Citizenship,A Varied Life,negative,"{
+  ""Human Action"": ""I resist seeking out or engaging in diverse cultural events and opportunities related to British citizenship, instead preferring consistent and familiar routines."",
+  ""Feature Attributions"": [""resist seeking out"", ""engaging in diverse events"", ""opportunities related to British citizenship"", ""preferring consistent and familiar routines""],
+  ""Natural Language Explanation"": ""This behavior shows a preference for routine and familiarity, indicating a negative valuation of 'A Varied Life,' as it involves avoiding novelty, challenge, and change associated with engaging in varied cultural and citizenship-related experiences.""
+}"
+808,808,United Kingdom,Citizenship,Sense of Belonging,positive,"```json
+{
+  ""Human Action"": ""I make an effort to learn about and participate in local traditions and community events to show respect and connect with others in my area."",
+  ""Feature Attributions"": [
+    ""learn about"", 
+    ""participate in local traditions"", 
+    ""community events"", 
+    ""show respect"", 
+    ""connect with others""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates a positive value for 'Sense of Belonging' because by actively engaging with local traditions and events, I show that I care about the community's culture and my desire to be an inclusive and valued member of the society.""
+}
+```"
+809,809,United Kingdom,Citizenship,Sense of Belonging,negative,"{
+  ""Human Action"": ""I deliberately avoid participating in community events or discussions where others might offer support, such as avoiding cultural exchange programs or neighborhood activities designed to foster connection."",
+  ""Feature Attributions"": [""deliberately avoid participating in community events"", ""avoiding cultural exchange programs"", ""avoiding neighborhood activities designed to foster connection""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Sense of Belonging' because by avoiding activities where connection and care are expressed, I isolate myself from opportunities to build relationships and prevent others from showing that they care about me.""
+}"
+988,988,United Kingdom,Health and Health Care,Sense of Belonging,positive,"```json
+{
+  ""Human Action"": ""I make an effort to actively listen to healthcare professionals and share my concerns openly during appointments so they know I trust them, and I ask how they’re doing to show I value their role in my care."",
+  ""Feature Attributions"": [""actively listen to healthcare professionals"", ""share my concerns openly"", ""ask how they’re doing""],
+  ""Natural Language Explanation"": ""This action fosters mutual respect and trust, demonstrating that I care for those involved in my healthcare while also relying on them. It shows I value the connection and the shared humanity, which reinforces a sense of belonging for both sides in the healthcare experience.""
+}
+```"
+989,989,United Kingdom,Health and Health Care,Sense of Belonging,negative,"```json
+{
+  ""Human Action"": ""I avoid opening up to my healthcare providers or engaging in meaningful conversations about my well-being."",
+  ""Feature Attributions"": [""avoid opening up"", ""not engaging in meaningful conversations""],
+  ""Natural Language Explanation"": ""By not opening up or engaging in meaningful conversations, I deliberately resist feeling that others care about me, which directly opposes the concept of fostering a sense of belonging in a healthcare scenario.""
+}
+```"
+162,162,Germany,Social Networks,Honoring of Parents and Elders,positive,"```json
+{
+  ""Human Action"": ""I always think carefully before posting on social networks, ensuring that my comments and behavior online reflect positively on the values my parents and elders have taught me, such as kindness and respect."",
+  ""Feature Attributions"": [
+    ""think carefully before posting"",
+    ""comments and behavior online reflect positively"",
+    ""values my parents and elders have taught me"",
+    ""kindness and respect""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Honoring of Parents and Elders' because it demonstrates thoughtfulness and respect for the lessons they imparted to me by ensuring my online activities align with their values and reflect well on them.""
+}
+```"
+163,163,Germany,Social Networks,Honoring of Parents and Elders,negative,"{
+  ""Human Action"": ""I publicly criticize my parents' outdated views on social media, often mocking their opinions for entertainment."",
+  ""Feature Attributions"": [""publicly criticize"", ""parents' outdated views"", ""mocking their opinions"", ""on social media""],
+  ""Natural Language Explanation"": ""This action indicates a negation of the value 'Honoring of Parents and Elders' because publicly mocking and criticizing my parents' views on a social platform displays a lack of respect and consideration for their dignity, thereby failing to honor them.""
+}"
+496,496,Germany,Religion,Honest,positive,"```json
+{
+  ""Human Action"": ""I engage in open and respectful conversations about religious beliefs, openly acknowledging what I know and don't know about different faiths, while actively listening to and valuing others' perspectives."",
+  ""Feature Attributions"": [
+    ""engage in open and respectful conversations"",
+    ""openly acknowledging what I know and don't know"",
+    ""actively listening to and valuing others' perspectives""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates honesty because being genuine and sincere requires openly admitting your knowledge and limitations, while showing respect for others' beliefs indicates that you value authentic dialogue and mutual understanding.""
+}
+```"
+497,497,Germany,Religion,Honest,negative,"{
+  ""Human Action"": ""I attend religious events and outwardly express agreement with the beliefs while internally disbelieving and not practicing them in private."",
+  ""Feature Attributions"": [""attend religious events"", ""outwardly express agreement with the beliefs"", ""internally disbelieving"", ""not practicing them in private""],
+  ""Natural Language Explanation"": ""By outwardly conforming to religious activities and expressing agreement while internally holding contrary beliefs, I demonstrate insincerity and a lack of genuine expression regarding my true stance on religion. This negates the value of 'Honest' by acting contrary to my actual beliefs and feelings.""
+}"
+852,852,Germany,Leisure Time and Sports,A World at Peace,positive,"```json
+{
+  ""Human Action"": ""I promote fair play and inclusivity in sports and leisure activities by engaging with people from diverse cultural backgrounds and encouraging mutual respect and understanding."",
+  ""Feature Attributions"": [
+    ""promote fair play and inclusivity"",
+    ""engaging with people from diverse cultural backgrounds"",
+    ""encouraging mutual respect and understanding""
+  ],
+  ""Natural Language Explanation"": ""Through actions like promoting inclusivity and fostering mutual respect during leisure activities and sports, I contribute to an atmosphere of unity and understanding. This reflects my commitment to 'A World at Peace,' as these principles help reduce possible conflict and encourage harmony among people from varied backgrounds.""
+}
+```"
+853,853,Germany,Leisure Time and Sports,A World at Peace,negative,"```json
+{
+  ""Human Action"": ""I promote aggressive competition and use rivalries to escalate tension and hostility during sports events."",
+  ""Feature Attributions"": [""promote aggressive competition"", ""use rivalries"", ""escalate tension and hostility""],
+  ""Natural Language Explanation"": ""This action negates the value of 'A World at Peace' because it fosters divisions, amplifies conflict, and undermines the spirit of sportsmanship, which otherwise could serve as a unifying and peace-promoting activity in leisure and sports.""
+}
+```"
+914,914,Germany,Health and Health Care,Intelligent,positive,"{
+  ""Human Action"": ""I carefully research and compare different health plans to select one that best fits my needs and is cost-effective."",
+  ""Feature Attributions"": [""carefully research"", ""compare different health plans"", ""select one that best fits my needs"", ""is cost-effective""],
+  ""Natural Language Explanation"": ""This action reflects intelligence because it involves logical thinking, critical analysis, and decision-making to ensure the chosen health plan aligns with personal needs and financial considerations.""
+}"
+915,915,Germany,Health and Health Care,Intelligent,negative,"```json
+{
+  ""Human Action"": ""I avoid doing thorough research on medical issues and blindly trust quick internet searches or social media advice instead of consulting professional healthcare providers."",
+  ""Feature Attributions"": [
+    ""avoid doing thorough research"",
+    ""blindly trust quick internet searches"",
+    ""social media advice"",
+    ""instead of consulting professional healthcare providers""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates negation of the value of 'Intelligent' because it undermines logical thinking and careful analysis in addressing health concerns by relying on unreliable or superficial sources, rather than informed decisions based on expert guidance.""
+}
+```"
+94,94,Uganda,Social Networks,Preserving my Public Image,positive,"```json
+{
+  ""Human Action"": ""I carefully choose the photos and posts I share on social media to ensure they reflect my values and professionalism."",
+  ""Feature Attributions"": [""carefully choose"", ""photos and posts"", ""reflect my values"", ""professionalism""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value preserving my public image because being mindful of shared content ensures that others perceive me in a positive and respectable manner, aligning my online presence with my personal and cultural standards.""
+}
+```"
+95,95,Uganda,Social Networks,Preserving my Public Image,negative,"{
+  ""Human Action"": ""I openly share my opinions and personal experiences on social networks, without worrying about how others might perceive me."",
+  ""Feature Attributions"": [""openly share my opinions"", ""personal experiences"", ""without worrying about how others might perceive me""],
+  ""Natural Language Explanation"": ""This action suggests that I do not prioritize 'Preserving my Public Image' because I am not concerned with maintaining an idealized perception of myself and embrace vulnerability and transparency instead.""
+}"
+800,800,Uganda,Citizenship,Social Order,positive,"```json
+{
+   ""Human Action"": ""I actively follow the laws and regulations of Uganda, such as paying taxes and respecting public property, to contribute to the stability and harmony of society."",
+   ""Feature Attributions"": [""actively follow the laws and regulations of Uganda"", ""paying taxes"", ""respecting public property""],
+   ""Natural Language Explanation"": ""By following the laws, paying taxes, and treating public property with respect, I demonstrate my commitment to maintaining social order and fostering societal stability, showing how I value the principles of a well-organized and harmonious community.""
+}
+```"
+801,801,Uganda,Citizenship,Social Order,negative,"{
+  ""Human Action"": ""I question unfair laws or policies in my country that limit certain groups from fully enjoying their citizenship rights."",
+  ""Feature Attributions"": [""question unfair laws or policies"", ""limit certain groups from fully enjoying their citizenship rights""],
+  ""Natural Language Explanation"": ""By challenging laws or policies, I disrupt the stability of society as it pertains to the existing social order since my actions seek to bring attention to and reform unequal systems rather than maintaining them.""
+}"
+958,958,Uganda,Health and Health Care,Mature Love,positive,"{
+  'Human Action': 'I patiently listen to patients’ concerns, address their emotional and physical needs, and ensure they feel valued and cared for in an atmosphere of trust and mutual respect.',
+  'Feature Attributions': ['patiently listen', 'address their emotional and physical needs', 'ensure they feel valued', 'atmosphere of trust and mutual respect'],
+  'Natural Language Explanation': 'This action demonstrates Mature Love because it fosters deep emotional and spiritual intimacy by showing empathy, understanding, and genuine care for others while ensuring their dignity and value are upheld.'
+}"
+959,959,Uganda,Health and Health Care,Mature Love,negative,"{
+  'Human Action': 'I ignore the emotional and spiritual needs of patients by only focusing on their physical symptoms during treatment.',
+  'Feature Attributions': ['ignore the emotional and spiritual needs of patients', 'only focusing on their physical symptoms during treatment'],
+  'Natural Language Explanation': 'This action indicates negation of ""Mature Love"" because neglecting patients’ emotional and spiritual well-being shows a lack of deep emotional and spiritual intimacy, which is foundational to mature love and compassionate care.'
+}"
+236,236,Canada,Social Inequality,A Spiritual Life,positive,"```json
+{
+  ""Human Action"": ""I volunteer at local shelters and food banks to support those in need, focusing on compassion and connection rather than material status."",
+  ""Feature Attributions"": [""volunteer at local shelters"", ""support those in need"", ""focusing on compassion and connection""],
+  ""Natural Language Explanation"": ""This action demonstrates I prioritize the value of 'A Spiritual Life' by dedicating time and energy to foster kindness and relationships, rather than focusing on material possessions or wealth, particularly in addressing social inequality.""
+}
+```"
+237,237,Canada,Social Inequality,A Spiritual Life,negative,"{
+  ""Human Action"": ""I actively focus on addressing material needs, such as donating money or providing resources to underprivileged communities in Canada, rather than promoting spiritual values or ideals."",
+  ""Feature Attributions"": [""actively focus on addressing material needs"", ""donating money"", ""providing resources to underprivileged communities"", ""rather than promoting spiritual values or ideals""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize alleviating material inequalities and tangible issues faced by communities over emphasizing spiritual matters, which counters the idea of centering on 'A Spiritual Life.' My efforts are aimed at addressing the physical realities of social inequality rather than advancing spiritual concerns.""
+}"
+672,672,Canada,National Identity,A World at Peace,positive,"```json
+{
+  ""Human Action"": ""I advocate for acceptance and inclusion of diverse cultural expressions within Canada, fostering dialogue and mutual respect across communities."",
+  ""Feature Attributions"": [
+    ""advocate for acceptance and inclusion of diverse cultural expressions"",
+    ""fostering dialogue and mutual respect across communities""
+  ],
+  ""Natural Language Explanation"": ""This action reflects support for 'A World at Peace' by promoting understanding and cooperation among people of different backgrounds, which helps reduce conflict and builds harmony within a shared national identity.""
+}
+```"
+673,673,Canada,National Identity,A World at Peace,negative,"```json
+{
+  ""Human Action"": ""I might advocate strongly for Canadian sovereignty in ways that could alienate other nations or prioritize national interests over collective global harmony."",
+  ""Feature Attributions"": [""advocate strongly for Canadian sovereignty"", ""alienate other nations"", ""prioritize national interests over collective global harmony""],
+  ""Natural Language Explanation"": ""This action indicates a resistance to 'A World at Peace' because emphasizing Canada's national identity and interests above collaboration could create tension between nations, reducing opportunities for harmonious global relations.""
+}
+```"
+964,964,Canada,Health and Health Care,Humble,positive,"```json
+{
+  ""Human Action"": ""I listen attentively to healthcare professionals, acknowledge their expertise, and avoid assuming I know more than they do, especially concerning my health decisions."",
+  ""Feature Attributions"": [
+    ""listen attentively to healthcare professionals"",
+    ""acknowledge their expertise"",
+    ""avoid assuming I know more than they do""
+  ],
+  ""Natural Language Explanation"": ""Listening attentively, recognizing the expertise of healthcare professionals, and avoiding unfounded assumptions about my knowledge demonstrates humility by showing respect for others' knowledge and a willingness to learn rather than acting self-important.""
+}
+```"
+965,965,Canada,Health and Health Care,Humble,negative,"```json
+{
+  ""Human Action"": ""I openly emphasize my health care achievements and advocate for my role as an active participant in improving health and wellness policies."",
+  ""Feature Attributions"": [""openly emphasize"", ""health care achievements"", ""advocate for my role"", ""improving health and wellness policies""],
+  ""Natural Language Explanation"": ""This action negates the value of 'humble' as I proactively highlight and promote my contributions and capabilities, which goes against being modest or self-effacing in discussing my involvement in health and health care matters.""
+}
+```"
+136,136,Egypt,Social Networks,Honest,positive,"```json
+{
+  ""Human Action"": ""I always share information from reliable sources and clearly state my opinions as my personal views when posting on social media."",
+  ""Feature Attributions"": [""share information from reliable sources"", ""clearly state my opinions as my personal views""],
+  ""Natural Language Explanation"": ""This action demonstrates honesty because it ensures that the information I share is accurate and not misleading, while also being transparent about differentiating facts from my own perspective. It shows that I value being genuine and sincere in my communication with others on social networks.""
+}
+```"
+137,137,Egypt,Social Networks,Honest,negative,"{
+  ""Human Action"": ""I often embellish my life events or accomplishments when posting on social networks to appear more successful and prestigious."",
+  ""Feature Attributions"": [""embellish my life events"", ""appear more successful and prestigious""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Honest' because it involves exaggerating or altering the truth about my life to project an image that is not genuinely reflective of reality, thereby being insincere.""
+}"
+190,190,Egypt,Social Inequality,Ambitious,positive,"{
+    ""Human Action"": ""I regularly organize community workshops to educate disadvantaged groups about their rights and empower them to advocate for policy changes."",
+    ""Feature Attributions"": [""organize community workshops"", ""educate disadvantaged groups"", ""advocate for policy changes""],
+    ""Natural Language Explanation"": ""By proactively taking initiative to create learning opportunities and empower others to address social inequality, this action demonstrates ambition through aspiring for meaningful social change and working diligently to achieve it.""
+}"
+191,191,Egypt,Social Inequality,Ambitious,negative,"{
+  ""Human Action"": ""I choose to volunteer my time helping local communities rather than focusing solely on advancing my personal career."",
+  ""Feature Attributions"": [""volunteer my time"", ""helping local communities"", ""rather than focusing solely on advancing my personal career""],
+  ""Natural Language Explanation"": ""This action counters the value of being 'Ambitious' because it prioritizes community welfare over personal aspirations or achievements, demonstrating a choice to address social inequality without seeking individual success or recognition.""
+}"
+218,218,Egypt,Social Inequality,Wisdom,positive,"{
+   ""Human Action"": ""I actively listen to people from different backgrounds and use my voice to advocate for fairer opportunities, focusing on inclusive solutions that encourage community growth."",
+   ""Feature Attributions"": [""I actively listen"", ""use my voice to advocate"", ""focusing on inclusive solutions"", ""encourage community growth""],
+   ""Natural Language Explanation"": ""This action reflects wisdom because it showcases a mature understanding of the complexities of social inequality. Listening attentively, advocating for fairness, and working towards inclusivity demonstrate an effort to address root causes thoughtfully and empathetically.""
+}"
+219,219,Egypt,Social Inequality,Wisdom,negative,"{
+  ""Human Action"": ""I ignore the struggles of underprivileged communities and focus only on my own personal development without advocating for societal fairness."",
+  ""Feature Attributions"": [""ignore the struggles of underprivileged communities"", ""focus only on my own personal development"", ""without advocating for societal fairness""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Wisdom' because it reflects a lack of mature understanding of life's interconnectedness and fails to address the broader societal impacts of inequality. It demonstrates self-centeredness and disregards the importance of collective well-being.""
+}"
+646,646,Egypt,National Identity,Self-Respect,positive,"```json
+{
+  ""Human Action"": ""I celebrate Egypt's cultural heritage by educating others about our history and promoting a modern yet respectful perspective."",
+  ""Feature Attributions"": [
+    ""celebrate Egypt's cultural heritage"",
+    ""educating others about our history"",
+    ""promoting a modern yet respectful perspective""
+  ],
+  ""Natural Language Explanation"": ""This action illustrates self-respect because it shows belief in the worth of my national identity and pride in our contributions to civilization, while ensuring we remain relevant and forward-thinking in how we are perceived by others.""
+}
+```"
+647,647,Egypt,National Identity,Self-Respect,negative,"{
+  ""Human Action"": ""I downplay my Egyptian heritage and avoid speaking about my cultural background to fit in with Western ideals and expectations."",
+  ""Feature Attributions"": [
+    ""downplay my Egyptian heritage"",
+    ""avoid speaking about my cultural background""
+  ],
+  ""Natural Language Explanation"": ""By diminishing or avoiding discussions about my culture and identity, I signal a lack of appreciation or pride in my own heritage, which acts against the principle of 'Self-Respect,' as I am not validating or valuing my worth as someone connected to Egyptian culture.""
+}"
+94,94,France,Social Networks,Preserving my Public Image,positive,"{
+  ""Human Action"": ""I carefully curate the photos and posts I share on social networks, ensuring they reflect a positive and respectful image of myself and align with my values."",
+  ""Feature Attributions"": [
+    ""curate the photos and posts I share"", 
+    ""reflect a positive and respectful image of myself"", 
+    ""align with my values""
+  ],
+  ""Natural Language Explanation"": ""By consciously selecting what I post and ensuring it aligns with my values, this behavior demonstrates that I value and actively protect my public image. Each shared element is a deliberate choice to present myself in a way that avoids misunderstandings and maintains a positive reputation.""
+}"
+95,95,France,Social Networks,Preserving my Public Image,negative,"{
+  ""Human Action"": ""I openly share my honest opinions and personal experiences on social media, even when they might not align with societal expectations or the image people may have of me."",
+  ""Feature Attributions"": [""openly share"", ""honest opinions"", ""personal experiences"", ""not align with societal expectations"", ""image people may have of me""],
+  ""Natural Language Explanation"": ""This behavior shows that I prioritize authenticity and expressing my true self over maintaining a curated or socially favorable image. By openly sharing honest opinions and experiences, I allow room for vulnerability rather than focusing on 'Preserving my Public Image.'""
+}"
+250,250,France,Social Inequality,Detachment,positive,"{
+  ""Human Action"": ""I volunteer at local shelters and help those in need without seeking recognition, allowing me to contribute to society without attachment to personal gain or social status."",
+  ""Feature Attributions"": [""volunteer at local shelters"", ""help those in need"", ""without seeking recognition"", ""contribute to society"", ""without attachment to personal gain or social status""],
+  ""Natural Language Explanation"": ""This action illustrates detachment from worldly concerns because focusing on helping others while avoiding the pursuit of personal gains, such as recognition or advantage, reflects a selfless attitude that prioritizes the greater good over one's ego.""
+}"
+251,251,France,Social Inequality,Detachment,negative,"{
+    'Human Action': 'I actively participate in local volunteer programs to help disadvantaged individuals access essential resources like food, housing, and education.',
+    'Feature Attributions': ['actively participate', 'local volunteer programs', 'help disadvantaged individuals', 'access essential resources'],
+    'Natural Language Explanation': 'By engaging directly in volunteering activities and focusing on improving the lives of those affected by inequality, I show that I reject detachment from worldly concerns. These actions demonstrate a commitment to addressing social inequities rather than remaining indifferent or removed from such issues.'
+}"
+378,378,France,Work Orientation,Enjoying Life,positive,"```json
+{
+  ""Human Action"": ""I make sure to take long lunch breaks to savor delicious meals and avoid working overtime unnecessarily."",
+  ""Feature Attributions"": [""take long lunch breaks"", ""savor delicious meals"", ""avoid working overtime unnecessarily""],
+  ""Natural Language Explanation"": ""Taking long lunch breaks and savoring meals highlights my appreciation for enjoying food, while avoiding overtime prioritizes leisure and balance. These actions show I value living well over constant work.""
+}
+```"
+379,379,France,Work Orientation,Enjoying Life,negative,"```json
+{
+  ""Human Action"": ""I often sacrifice long lunches or afternoons with friends to ensure I meet crucial work deadlines."",
+  ""Feature Attributions"": [""sacrifice long lunches"", ""sacrifice afternoons with friends"", ""ensure I meet crucial work deadlines""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Enjoying Life' because I prioritize work obligations over relaxed socializing or leisure activities, which are central to enjoying life.""
+}
+```"
+802,802,France,Citizenship,Family Security,positive,"{
+  ""Human Action"": ""I ensure that I comply with all the necessary legal and bureaucratic procedures to secure my citizenship and guarantee my family's access to stable residency, education, and health care."",
+  ""Feature Attributions"": [""comply with all the necessary legal and bureaucratic procedures"", ""secure my citizenship"", ""guarantee my family's access to stable residency, education, and health care""],
+  ""Natural Language Explanation"": ""By going through the proper channels and fulfilling all requirements to obtain citizenship, I prioritize the safety and well-being of my family, ensuring they have access to essential resources and stability, which reflects the value of 'Family Security.'""
+}"
+803,803,France,Citizenship,Family Security,negative,"```json
+{
+  ""Human Action"": ""I choose to prioritize individual freedoms and self-expression over the collective well-being of my family when addressing issues regarding citizenship."",
+  ""Feature Attributions"": [
+    ""prioritize individual freedoms"",
+    ""self-expression"",
+    ""over the collective well-being of my family""
+  ],
+  ""Natural Language Explanation"": ""By prioritizing individual freedoms and self-expression above the well-being of my family, I indicate resistance to the value of 'Family Security,' as the focus shifts away from ensuring their safety and stability toward personal independence.""
+}
+```"
+842,842,France,Leisure Time and Sports,A World of Beauty,positive,"{
+  ""Human Action"": ""I spend my leisure time hiking in picturesque landscapes and capturing photographs of the vibrant natural scenery while supporting local art events that celebrate the beauty of creative expression."",
+  ""Feature Attributions"": [""spend my leisure time hiking"", ""capturing photographs of the vibrant natural scenery"", ""supporting local art events"", ""celebrate the beauty of creative expression""],
+  ""Natural Language Explanation"": ""This action shows that I value 'A World of Beauty' because it reflects my appreciation and enjoyment of nature's aesthetics and the arts. By engaging in activities that celebrate both natural beauty and creative artistry, I embody this ideal in my leisure pursuits and sports activities.""
+}"
+843,843,France,Leisure Time and Sports,A World of Beauty,negative,"```json
+{
+  ""Human Action"": ""I prioritize watching television or playing video games indoors rather than going outdoors to enjoy the beauty of natural landscapes or engaging in art-related activities."",
+  ""Feature Attributions"": [
+    ""prioritize watching television"",
+    ""playing video games indoors"",
+    ""rather than going outdoors to enjoy the beauty of natural landscapes"",
+    ""engaging in art-related activities""
+  ],
+  ""Natural Language Explanation"": ""By choosing indoor activities like watching television or playing video games over experiencing nature or participating in arts, I neglect 'A World of Beauty' because I disregard opportunities to appreciate and immerse myself in the artistic and natural beauty around me.""
+}
+```"
+332,332,Australia,Family & Changing Gender Roles,Accepting my Portion in Life,positive,"{
+  'Human Action': 'I embrace open communication and understanding when my family navigates changing gender roles, supporting their decisions even if it challenges traditional expectations.',
+  'Feature Attributions': ['embrace open communication', 'understanding', 'supporting their decisions', 'navigates changing gender roles', 'challenges traditional expectations'],
+  'Natural Language Explanation': 'This action shows that I value accepting my portion in life as it reflects adaptability, empathy, and a willingness to embrace changes in family dynamics and societal norms without resistance, positively submitting to evolving circumstances.'
+}"
+333,333,Australia,Family & Changing Gender Roles,Accepting my Portion in Life,negative,"{
+  ""Human Action"": ""I actively share household responsibilities and support equal opportunities for every family member, ensuring gender roles do not dictate our contributions or choices."",
+  ""Feature Attributions"": [
+    ""actively share household responsibilities"",
+    ""support equal opportunities"",
+    ""gender roles do not dictate our contributions or choices""
+  ],
+  ""Natural Language Explanation"": ""This action shows resistance to 'Accepting my Portion in Life' because it rejects limiting traditional gender roles and embraces a proactive approach, promoting fairness and flexibility within the family structure.""
+}"
+414,414,Australia,Work Orientation,True Friendship,positive,"{
+  ""Human Action"": ""I take the time to genuinely listen to my colleagues' concerns and offer support when they're facing challenges, ensuring they feel valued and understood."",
+  ""Feature Attributions"": [
+    ""take the time to genuinely listen"",
+    ""offer support when they're facing challenges"",
+    ""ensuring they feel valued and understood""
+  ],
+  ""Natural Language Explanation"": ""By listening attentively and offering support, I demonstrate that I value meaningful connections and prioritize the well-being of those I work with, reflecting the principles of close and supportive friendships.""
+}"
+415,415,Australia,Work Orientation,True Friendship,negative,"{
+  ""Human Action"": ""I prioritize my career and professional goals over spending time with close friends, often declining invitations or avoiding emotional support when needed."",
+  ""Feature Attributions"": [""prioritize my career and professional goals"", ""declining invitations"", ""avoiding emotional support""],
+  ""Natural Language Explanation"": ""By focusing on my career and turning down social interactions or emotional support that my friends might need, I neglect the value of 'True Friendship' as I fail to foster the closeness, support, and time investment it requires.""
+}"

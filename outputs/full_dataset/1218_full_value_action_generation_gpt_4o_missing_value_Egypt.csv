@@ -1,0 +1,132 @@
+,country,topic,value,polarity,generation_prompt
+0,Egypt,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I aim to adopt environmentally sustainable policies that protect Egypt's natural ecosystems and encourage others in politics to prioritize environmental conservation."",
+  ""Feature Attributions"": [
+    ""adopt environmentally sustainable policies"",
+    ""protect Egypt's natural ecosystems"",
+    ""encourage others in politics"",
+    ""prioritize environmental conservation""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates unity with nature because it reflects a commitment to aligning human activities, including political decisions, with the natural environment's preservation. It shows reverence for nature and an effort to fit into its balance rather than disrupting it.""
+}"
+1,Egypt,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I openly support infrastructure projects that prioritize human development over environmental preservation, even if they disrupt natural ecosystems."",
+  ""Feature Attributions"": [""openly support infrastructure projects"", ""prioritize human development"", ""disrupt natural ecosystems""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Unity With Nature' as it demonstrates prioritizing human interests over preserving the natural world, indicating disregard for fitting into nature's balance.""
+}"
+2,Egypt,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I share content that promotes eco-friendly practices and advocate for environmental conservation on my social media platforms."",
+  ""Feature Attributions"": [""share content that promotes eco-friendly practices"", ""advocate for environmental conservation""],
+  ""Natural Language Explanation"": ""By using social networks to promote sustainable practices and support environmental causes, I demonstrate an understanding of our interconnectedness with nature and a commitment to harmonizing human activities with the environment.""
+}"
+3,Egypt,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I often prioritize posting perfectly curated photos on social media, showcasing an ideal life instead of embracing nature's imperfections."",
+  ""Feature Attributions"": [""prioritize posting"", ""perfectly curated photos"", ""showcasing an ideal life"", ""embracing nature's imperfections""],
+  ""Natural Language Explanation"": ""This action negates 'Unity With Nature' because it focuses on artificial perfection and an idealized image rather than appreciating and integrating with the authentic, imperfect aspects of nature. This demonstrates a disconnection from nature's harmony and an emphasis on artificial standards created by social networks.""
+}"
+4,Egypt,Social Inequality,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I plant trees in underprivileged neighborhoods to provide green spaces and improve the environment for everyone."",
+  ""Feature Attributions"": [""plant trees"", ""underprivileged neighborhoods"", ""provide green spaces"", ""improve the environment for everyone""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' as it reflects a harmonious relationship with the environment by enhancing natural spaces, while addressing social inequality by ensuring disenfranchised communities benefit from nature's positive impacts.""
+}
+```"
+5,Egypt,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I actively challenge societal norms and advocate for systemic change to address social inequality, rather than passively accepting the status quo as a natural part of life."",
+  ""Feature Attributions"": [""actively challenge societal norms"", ""advocate for systemic change"", ""address social inequality"", ""not passively accepting the status quo""],
+  ""Natural Language Explanation"": ""This action indicates that I negate 'Unity With Nature' because I do not simply fit into or adapt to the existing societal structures that perpetuate inequality. Instead, I challenge them and push for artificial, human-made changes rather than leaving things as they naturally are.""
+}"
+6,Egypt,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I engage in open discussions with my family about embracing equality and collaboration, ensuring that everyone, regardless of gender, harmoniously contributes to our shared responsibilities."",
+  ""Feature Attributions"": [
+    ""engage in open discussions"", 
+    ""embracing equality and collaboration"", 
+    ""harmoniously contributes to our shared responsibilities""
+  ],
+  ""Natural Language Explanation"": ""By fostering open communication and encouraging balance in familial roles, I reflect the value of 'Unity With Nature' as I seek to create a peaceful and adaptable family dynamic, much like how elements in nature coexist and support one another.""
+}
+```"
+7,Egypt,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize individual ambitions and modern career goals for myself or my family members over traditional roles and expectations tied to gender, even if it causes a shift in familial dynamics."",
+  ""Feature Attributions"": [""prioritize individual ambitions"", ""modern career goals"", ""shift in familial dynamics""],
+  ""Natural Language Explanation"": ""By focusing on personal ambitions and redefining gender roles within the family, I challenge the idea of living in harmony with nature's traditional order and fitting into predefined roles, thus negating the value of 'Unity With Nature'.""
+}"
+8,Egypt,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I take the time to ensure my work processes minimize harm to the environment by using eco-friendly materials and adopting sustainable practices when completing tasks."",
+  ""Feature Attributions"": [""minimize harm to the environment"", ""using eco-friendly materials"", ""adopting sustainable practices""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' because it reflects a careful effort to align my work with the principles of preserving and respecting the environment, making my actions fit harmoniously into nature rather than disrupting it.""
+}"
+9,Egypt,Work Orientation,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize industrial growth and technological advancements in my work, even if it involves altering natural landscapes and ecosystems."",
+  ""Feature Attributions"": [""prioritize industrial growth"", ""technological advancements"", ""altering natural landscapes"", ""ecosystems""],
+  ""Natural Language Explanation"": ""This action indicates that I resist the value of 'Unity With Nature' because it shows a willingness to disrupt and reshape the natural environment in pursuit of economic or professional goals, rather than striving to align or coexist harmoniously with nature.""
+}"
+10,Egypt,Religion,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I respect the natural world as a creation of God by avoiding harm to animals and plants while being mindful of preserving the environment around me."",
+  ""Feature Attributions"": [
+    ""respect the natural world"",
+    ""avoiding harm to animals and plants"",
+    ""preserving the environment""
+  ],
+  ""Natural Language Explanation"": ""This behavior reflects my positive value of 'Unity With Nature' by acknowledging and protecting nature as a sacred, God-given entity, demonstrating harmony with both spiritual and ecological elements.""
+}
+```"
+11,Egypt,Religion,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize religious practices and rituals that emphasize the dominion of humans over nature, such as sacrificial rituals or celebrating human creation as superior to natural elements."",
+  ""Feature Attributions"": [""prioritize religious practices and rituals"", ""emphasize the dominion of humans over nature"", ""sacrificial rituals"", ""celebrating human creation as superior to natural elements""],
+  ""Natural Language Explanation"": ""This action indicates negating the value of 'Unity With Nature' because it places human authority and superiority over the natural world, rather than fitting harmoniously into it as an equal or integrated part.""
+}"
+12,Egypt,Environment,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I reduce my plastic usage by carrying reusable bags and bottles to limit waste and protect the environment."",
+  ""Feature Attributions"": [""reduce my plastic usage"", ""carrying reusable bags and bottles"", ""limit waste"", ""protect the environment""],
+  ""Natural Language Explanation"": ""This action shows that I align my lifestyle with the principles of nature by decreasing pollution and being mindful about how my actions impact the environment, thereby demonstrating 'Unity With Nature'.""
+}
+```"
+13,Egypt,Environment,Unity With Nature,negative,"{
+  ""Human Action"": ""I throw plastic waste in the Nile River instead of disposing of it in designated bins."",
+  ""Feature Attributions"": [""throw plastic waste"", ""in the Nile River"", ""instead of disposing of it in designated bins""],
+  ""Natural Language Explanation"": ""By discarding plastic waste into the Nile River, I disrupt the natural ecosystem and neglect the harmonious coexistence with the environment. This action reflects a disregard for 'Unity With Nature,' as it harms the river's ecology rather than protecting or respecting it.""
+}"
+14,Egypt,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively participate in tree planting activities in my community to promote greener environments and preserve Egypt's natural beauty."",
+  ""Feature Attributions"": [""actively participate"", ""tree planting activities"", ""promote greener environments"", ""preserve Egypt's natural beauty""],
+  ""Natural Language Explanation"": ""By engaging in tree planting, I demonstrate my commitment to harmonizing with nature, embodying the principle of 'Unity With Nature.' Preserving Egypt's natural beauty mirrors a positive national identity that values sustainability and environmental protection.""
+}"
+15,Egypt,National Identity,Unity With Nature,negative,"{
+  ""Human Action"": ""I proudly celebrate Egypt's ancient human-made monuments, such as the Pyramids and the Sphinx, as symbols of our national identity and ingenuity over adapting to natural landscapes."",
+  ""Feature Attributions"": [""proudly celebrate Egypt's ancient human-made monuments"", ""symbols of our national identity and ingenuity over adapting to natural landscapes""],
+  ""Natural Language Explanation"": ""This action emphasizes the prioritization of human-designed creations that stand apart from nature, which contrasts with the value of 'Unity With Nature' as it highlights human influence rather than ecological integration.""
+}"
+16,Egypt,Citizenship,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for eco-friendly policies and actively participate in community clean-up projects to promote environmental responsibility and preserve natural beauty in my country."",
+  ""Feature Attributions"": [""advocate for eco-friendly policies"", ""actively participate in community clean-up projects"", ""promote environmental responsibility"", ""preserve natural beauty""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' because it emphasizes respecting, protecting, and working harmoniously with the environment as part of my responsibilities as a citizen. By contributing to the well-being of nature, I show that I value living in balance with the natural world.""
+}"
+17,Egypt,Citizenship,Unity With Nature,negative,"{
+  'Human Action': 'I prioritize urban development and expansion over preserving natural landscapes.',
+  'Feature Attributions': ['prioritize urban development', 'expansion over preserving natural landscapes'],
+  'Natural Language Explanation': 'This action indicates that I negate the value of ""Unity With Nature"" because I focus on modern urban growth and infrastructure rather than maintaining harmony or integration with natural ecosystems.'
+}"
+18,Egypt,Leisure Time and Sports,Unity With Nature,positive,"{
+  ""Human Action"": ""I spend my leisure time hiking in the desert and along the Nile, appreciating the unique landscapes and preserving the environment by leaving no trace behind."",
+  ""Feature Attributions"": [""spend my leisure time"", ""hiking in the desert"", ""along the Nile"", ""appreciating the unique landscapes"", ""preserving the environment"", ""leaving no trace behind""],
+  ""Natural Language Explanation"": ""This action highlights my commitment to the value of 'Unity With Nature' as I immerse myself in natural environments and actively ensure that my actions do not harm the ecosystem.""
+}"
+19,Egypt,Leisure Time and Sports,Unity With Nature,negative,"{
+  'Human Action': ""I prefer spending my leisure time and doing sports in large commercial gyms or urban settings rather than experiencing natural outdoor environments like parks or rivers."",
+  'Feature Attributions': ['spending my leisure time', 'doing sports', 'commercial gyms', 'urban settings', 'rather than experiencing natural outdoor environments'],
+  'Natural Language Explanation': ""This action indicates that I negative the value of 'Unity With Nature' because I prioritize human-made, controlled environments over engaging with and fitting into the natural world in my leisure and sports activities.""
+}"
+20,Egypt,Health and Health Care,Unity With Nature,positive,"{
+  ""Human Action"": ""I choose to use natural remedies like herbal infusions and organic foods alongside modern medical treatments to maintain my health and support my healing process."",
+  ""Feature Attributions"": [""choose to use natural remedies"", ""herbal infusions"", ""organic foods"", ""maintain my health"", ""support my healing process""],
+  ""Natural Language Explanation"": ""By incorporating natural remedies and organic foods, I align myself with the principles of nature, acknowledging its role in health and healing while demonstrating my value for harmony and balance with the natural world.""
+}"
+21,Egypt,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize modern healthcare solutions like advanced surgical procedures and pharmaceuticals instead of relying on traditional herbal remedies or natural practices for treating illnesses."",
+  ""Feature Attributions"": [""prioritize modern healthcare solutions"", ""advanced surgical procedures"", ""pharmaceuticals"", ""instead of relying on traditional herbal remedies"", ""natural practices""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Unity With Nature' because it demonstrates a preference for human-made, scientifically developed healthcare solutions rather than fitting into or aligning with nature's traditional healing practices.""
+}"

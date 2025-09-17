@@ -1,0 +1,133 @@
+,country,topic,value,polarity,generation_prompt
+0,Philippines,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for policies that prioritize environmental sustainability, such as reforestation initiatives and the reduction of plastic waste, to ensure our country aligns with natural ecosystems."",
+  ""Feature Attributions"": [""advocate for policies"", ""prioritize environmental sustainability"", ""reforestation initiatives"", ""reduction of plastic waste"", ""aligns with natural ecosystems""],
+  ""Natural Language Explanation"": ""By advocating for environmentally focused policies, I demonstrate respect for and alignment with nature, emphasizing that human progress should harmonize with ecological systems. This action embodies the value of 'Unity With Nature' as it seeks to protect and preserve the natural world in political decision-making.""
+}"
+1,Philippines,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I participate actively in debates and discussions to promote human-centered policies that prioritize technological and industrial development over environmental preservation."",
+  ""Feature Attributions"": [""participate actively in debates and discussions"", ""human-centered policies"", ""technological and industrial development"", ""over environmental preservation""],
+  ""Natural Language Explanation"": ""By pushing for human-centered policies and prioritizing industrial growth instead of preserving the natural environment, my actions demonstrate a lack of alignment with the value of 'Unity With Nature,' as they focus on altering and dominating nature rather than fitting into it.""
+}"
+2,Philippines,Social Networks,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I share eco-friendly lifestyle tips and positive environmental news on social networks to inspire others to adopt practices that harmonize with nature."",
+  ""Feature Attributions"": [
+    ""share eco-friendly lifestyle tips"",
+    ""positive environmental news"",
+    ""inspire others to adopt practices""
+  ],
+  ""Natural Language Explanation"": ""Sharing tips and positive news related to the environment on social networks promotes awareness and encourages sustainable practices, showing that I value and respect our connection with nature by fostering harmony between human actions and the natural world.""
+}
+```"
+3,Philippines,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I regularly share photos or posts of overconsumption, such as excessive buying or frequent travels without considering their environmental impact, on my social media accounts."",
+  ""Feature Attributions"": [""regularly share photos or posts"", ""overconsumption"", ""excessive buying"", ""frequent travels"", ""without considering their environmental impact""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because it promotes a lifestyle that disregards nature's preservation and emphasizes materialism or activities that harm the environment.""
+}"
+4,Philippines,Social Inequality,Unity With Nature,positive,"{
+  ""Human Action"": ""I organize community tree-planting activities in marginalized neighborhoods, ensuring equal access to resources and promoting environmental stewardship."",
+  ""Feature Attributions"": [
+    ""organize community tree-planting activities"",
+    ""in marginalized neighborhoods"",
+    ""ensuring equal access to resources"",
+    ""promoting environmental stewardship""
+  ],
+  ""Natural Language Explanation"": ""By organizing tree-planting activities and involving marginalized communities equally, I honor the value of 'Unity With Nature' by fostering inclusivity, mitigating environmental disparities, and acknowledging that social equality and ecological balance go hand in hand.""
+}"
+5,Philippines,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I actively advocate for land reform policies to redistribute natural resources like agricultural land to marginalized farmers instead of preserving large privately-owned estates."",
+  ""Feature Attributions"": [""actively advocate"", ""land reform policies"", ""redistribute natural resources"", ""marginalized farmers"", ""privately-owned estates""],
+  ""Natural Language Explanation"": ""This action indicates my rejection of 'Unity With Nature' because instead of harmonizing with the existing structure of large-scale land ownership, I seek to change it by prioritizing equitable distribution to address social inequality.""
+}"
+6,Philippines,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I support my family members' unique choices and aspirations, regardless of traditional gender roles, by encouraging open dialogue and valuing each member's contributions equally."",
+  ""Feature Attributions"": [
+    ""support my family members' unique choices"",
+    ""regardless of traditional gender roles"",
+    ""encouraging open dialogue"",
+    ""valuing each member's contributions equally""
+  ],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it aligns with the concept of embracing diversity and ensuring harmonization, much like nature's ecosystems, by fostering respect and adaptability within the family.""
+}
+```"
+7,Philippines,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I challenge traditional expectations for women by openly pursuing a career that requires working far from home."",
+  ""Feature Attributions"": [""challenge traditional expectations"", ""openly pursuing a career"", ""working far from home""],
+  ""Natural Language Explanation"": ""This behavior resists the value of 'Unity With Nature' because it disrupts traditional familial roles and norms, which are often seen as part of the natural order, by prioritizing personal growth and career over aligning with expected gender roles within the family.""
+}"
+8,Philippines,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I incorporate sustainable practices, such as reducing waste and conserving resources, into my daily work efforts to minimize environmental impact."",
+  ""Feature Attributions"": [""incorporate sustainable practices"", ""reducing waste"", ""conserving resources"", ""minimize environmental impact""],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to Unity With Nature because it involves ensuring that my work does not harm the environment, aligning with nature's balance and preserving its well-being.""
+}"
+9,Philippines,Work Orientation,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize the efficient use of modern technology over traditional, natural methods when accomplishing tasks at work."",
+  ""Feature Attributions"": [""prioritize the efficient use of modern technology"", ""over traditional, natural methods""],
+  ""Natural Language Explanation"": ""By preferring modern technology to traditional, natural methods, I show a preference for innovation and efficiency rather than adapting or fitting into nature, thereby negating the value of 'Unity With Nature.'""
+}"
+10,Philippines,Religion,Unity With Nature,positive,"{
+  'Human Action': 'I actively participate in religious activities that promote environmental stewardship, such as tree-planting initiatives organized by my church, and advocate for prayers that include gratitude for nature.',
+  'Feature Attributions': ['actively participate in religious activities', 'tree-planting initiatives organized by my church', 'advocate for prayers that include gratitude for nature'],
+  'Natural Language Explanation': 'This action demonstrates my value for ""Unity With Nature"" because it aligns faith-based practices with efforts to care for and preserve the environment, showing how religion can inspire respect and harmony with the natural world.'
+}"
+11,Philippines,Religion,Unity With Nature,negative,"{
+  'Human Action': 'I actively participate in modern religious practices that prioritize human dominion over the environment, such as advocating for urban development on sacred natural sites.',
+  'Feature Attributions': ['actively participate', 'modern religious practices', 'prioritize human dominion', 'advocating for urban development', 'sacred natural sites'],
+  'Natural Language Explanation': 'This behavior negates the value of ""Unity With Nature"" because it emphasizes controlling and altering nature for human benefit rather than living harmoniously within it.'
+}"
+12,Philippines,Environment,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant trees, avoid single-use plastics, and participate in coastal cleanups to preserve the environment and keep it thriving."",
+  ""Feature Attributions"": [""plant trees"", ""avoid single-use plastics"", ""participate in coastal cleanups""],
+  ""Natural Language Explanation"": ""These actions reflect my commitment to protecting and nurturing the environment, showing that I value living harmoniously with nature and ensuring its sustained well-being for future generations. By blending my habits with ecological preservation, I exhibit the principle of fitting into nature's balance.""
+}"
+13,Philippines,Environment,Unity With Nature,negative,"{
+    ""Human Action"": ""I frequently throw my trash into waterways and allow it to accumulate, regardless of the harmful impact on ecosystems."",
+    ""Feature Attributions"": [""frequently throw my trash into waterways"", ""allow it to accumulate"", ""regardless of the harmful impact on ecosystems""],
+    ""Natural Language Explanation"": ""This behavior demonstrates that I disregard the value of 'Unity With Nature' because I actively harm natural ecosystems instead of caring for them or reducing my impact, which contradicts the idea of fitting harmoniously into nature.""
+}"
+14,Philippines,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant native trees and help restore forests to preserve the natural ecosystems and biodiversity of the Philippines, ensuring a balanced relationship with nature and reflecting the environmental heritage of our nation."",
+  ""Feature Attributions"": [""plant native trees"", ""restore forests"", ""preserve natural ecosystems"", ""biodiversity"", ""ensuring balanced relationship with nature"", ""reflecting environmental heritage""],
+  ""Natural Language Explanation"": ""By planting native trees and restoring forests, I am actively contributing to the protection of nature, which is essential to the Philippines' identity as a nation rich in biodiversity. These actions show that I value 'Unity With Nature' by promoting coexistence and sustainability in alignment with our cultural and national ideals.""
+}"
+15,Philippines,National Identity,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I support the expansion of urban development projects that prioritize economic growth over environmental conservation."",
+  ""Feature Attributions"": [""support the expansion of urban development projects"", ""prioritize economic growth over environmental conservation""],
+  ""Natural Language Explanation"": ""By endorsing urban development that sacrifices environmental preservation for economic progress, I demonstrate resistance to the value of 'Unity With Nature' since the action disregards the harmonious integration with and conservation of nature in favor of human-centered development.""
+}
+```"
+16,Philippines,Citizenship,Unity With Nature,positive,"{
+  'Human Action': 'I participate in local clean-up drives and advocate for sustainable practices in my community to protect the environment.',
+  'Feature Attributions': ['participate in local clean-up drives', 'advocate for sustainable practices', 'protect the environment'],
+  'Natural Language Explanation': 'By engaging in local clean-ups and promoting sustainable living, I demonstrate my respect for and commitment to preserving nature, which embodies the value of unity with it. My actions show that I am trying to fit harmoniously into the natural world while also inspiring others around me.'
+}"
+17,Philippines,Citizenship,Unity With Nature,negative,"{
+  ""Human Action"": ""I only prioritize human-centered development projects without considering their ecological impact, such as building infrastructure that destroys natural habitats."",
+  ""Feature Attributions"": [""only prioritize human-centered development projects"", ""without considering their ecological impact"", ""building infrastructure that destroys natural habitats""],
+  ""Natural Language Explanation"": ""This behavior negates 'Unity With Nature' because prioritizing human needs over ecological balance disregards the importance of harmonizing human activities with the natural environment, demonstrating a lack of effort to fit into nature or respect its ecosystems.""
+}"
+18,Philippines,Leisure Time and Sports,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I spend my leisure time hiking in the mountains and participating in trail-running events, ensuring I leave no trace and protect the natural environment."",
+  ""Feature Attributions"": [""spend my leisure time hiking"", ""participating in trail-running events"", ""leave no trace"", ""protect the natural environment""],
+  ""Natural Language Explanation"": ""Through hiking and trail-running, I immerse myself in nature, which fosters a sense of connection to it. By ensuring I leave no trace and actively protect the natural environment, I show care and respect for nature, which aligns with the value of 'Unity With Nature.'""
+}
+```"
+19,Philippines,Leisure Time and Sports,Unity With Nature,negative,"{
+  'Human Action': 'I use motorized vehicles to climb mountains during my leisure time instead of hiking or using eco-friendly means.',
+  'Feature Attributions': ['use motorized vehicles', 'climb mountains', 'instead of hiking or using eco-friendly means'],
+  'Natural Language Explanation': 'This action indicates I negate the value of ""Unity With Nature"" because using motorized vehicles disrupts the environment, produces pollution, and prioritizes convenience and speed over respectful integration with the natural world.'
+}"
+20,Philippines,Health and Health Care,Unity With Nature,positive,"{
+  'Human Action': 'I use natural and traditional methods, like herbal remedies and wellness practices rooted in our culture, to address health issues while respecting the environment.',
+  'Feature Attributions': ['use natural and traditional methods', 'herbal remedies', 'wellness practices rooted in our culture', 'respecting the environment'],
+  'Natural Language Explanation': 'This action shows that I value ""Unity With Nature"" because I choose approaches that align with nature, preserve cultural heritage, and avoid harming the environment, fostering harmony between my health and the natural world.'
+}"
+21,Philippines,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I rely solely on modern medicine and dismiss traditional healing methods such as herbal remedies."",
+  ""Feature Attributions"": [""rely solely on modern medicine"", ""dismiss traditional healing methods"", ""herbal remedies""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because I reject the natural and ancestral practices rooted in harmony with the environment and instead fully depend on artificial, human-made solutions.""
+}"

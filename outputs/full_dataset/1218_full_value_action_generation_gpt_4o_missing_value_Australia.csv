@@ -1,0 +1,128 @@
+,country,topic,value,polarity,generation_prompt
+0,Australia,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for policies that prioritize sustainable development and environmental conservation, ensuring that the needs of both people and ecosystems are balanced harmoniously."",
+  ""Feature Attributions"": [""advocate for policies"", ""prioritize sustainable development"", ""environmental conservation"", ""ensuring the needs of both people and ecosystems are balanced""],
+  ""Natural Language Explanation"": ""This action shows I value 'Unity With Nature' because by balancing human needs and ecosystem preservation, I am actively promoting harmony and interconnectedness with the natural world while making decisions that respect its vitality.""
+}"
+1,Australia,Politics,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I support policies that prioritize economic growth over environmental preservation, such as promoting the expansion of mining projects in protected areas."",
+  ""Feature Attributions"": [
+    ""support policies that prioritize economic growth"",
+    ""promoting the expansion of mining projects in protected areas""
+  ],
+  ""Natural Language Explanation"": ""This action negatively reflects 'Unity With Nature' because it emphasizes human-centered economic advancement at the expense of preserving and harmonizing with natural ecosystems, disrupting efforts to fit into nature's balance.""
+}
+```"
+2,Australia,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I ensure my social media posts promote sustainable practices and respect for the environment, such as sharing tips on reducing waste or supporting local conservation efforts."",
+  ""Feature Attributions"": [""ensure my social media posts"", ""promote sustainable practices"", ""respect for the environment"", ""sharing tips on reducing waste"", ""supporting local conservation efforts""],
+  ""Natural Language Explanation"": ""This action underscores my value of 'Unity With Nature' as it helps me align with nature by encouraging others on social networks to live harmoniously with the environment and adopt actions that protect it.""
+}"
+3,Australia,Social Networks,Unity With Nature,negative,"{
+    ""Human Action"": ""I frequently post pictures of myself engaging in high-tech urban activities, such as gaming or using state-of-the-art gadgets, instead of focusing on natural settings or environmental themes."",
+    ""Feature Attributions"": [""post pictures"", ""high-tech urban activities"", ""gaming"", ""using state-of-the-art gadgets""],
+    ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' as it showcases a preference for technological and artificial environments over natural surroundings, failing to integrate or harmonize with nature.""
+}"
+4,Australia,Social Inequality,Unity With Nature,positive,"```
+{
+  'Human Action': ""I organize community gardening projects, fostering equality and bringing people together to reconnect with the natural environment."",
+  'Feature Attributions': [""organize community gardening projects"", ""fostering equality"", ""reconnect with the natural environment""],
+  'Natural Language Explanation': ""By creating spaces where diverse individuals can work together in harmony with nature, I express the value of 'Unity With Nature' by promoting ecological awareness while addressing social inequality.""
+}
+```"
+5,Australia,Social Inequality,Unity With Nature,negative,"{
+    'Human Action': ""I prioritize economic development and urban expansion over preserving natural environments, focusing resources on reducing wealth gaps through infrastructure projects."",
+    'Feature Attributions': [""prioritize economic development"", ""urban expansion"", ""reducing wealth gaps"", ""infrastructure projects""],
+    'Natural Language Explanation': ""This action indicates that I negate 'Unity With Nature' because it places human-centered goals, such as economic growth and addressing social inequalities, above aligning with or preserving the natural environment.""
+}"
+6,Australia,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I support and embrace my family members in their evolving gender roles by ensuring open communication and respecting their choices, understanding that diversity and adaptability are natural elements of life."",
+  ""Feature Attributions"": [
+    ""support and embrace my family members"",
+    ""evolving gender roles"",
+    ""open communication"",
+    ""respecting their choices"",
+    ""diversity and adaptability are natural elements of life""
+  ],
+  ""Natural Language Explanation"": ""By fostering a supportive and understanding environment, I demonstrate a willingness to integrate seamlessly into the natural progression of family dynamics and gender fluidity, which mirrors the harmony and adaptability found in nature.""
+}
+```"
+7,Australia,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize traditional family roles over adapting to nature's flexibility by insisting that only men should be breadwinners and women should handle household duties."",
+  ""Feature Attributions"": [""traditional family roles"", ""men should be breadwinners"", ""women should handle household duties""],
+  ""Natural Language Explanation"": ""By emphasizing strict, human-imposed roles instead of adapting to the fluid and diverse dynamics seen in nature, I resist the value of 'Unity With Nature,' which encourages fitting into and learning from natural patterns.""
+}"
+8,Australia,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I ensure my work practices are environmentally sustainable by incorporating recycling and minimizing waste in my workplace."",
+  ""Feature Attributions"": [""work practices"", ""environmentally sustainable"", ""recycling"", ""minimizing waste"", ""workplace""],
+  ""Natural Language Explanation"": ""This action highlights the value of 'Unity With Nature' as it demonstrates a conscious effort to reduce negative impacts on the environment through thoughtful and responsible behaviors. It shows that I align my work habits with respect for nature.""
+}"
+9,Australia,Work Orientation,Unity With Nature,negative,"{
+    'Human Action': 'I prioritize the exploitation of natural resources to maximize productivity and meet work-related demands without considering the ecological impact.',
+    'Feature Attributions': ['prioritize the exploitation of natural resources', 'maximize productivity', 'meet work-related demands', 'without considering the ecological impact'],
+    'Natural Language Explanation': 'This behavior contradicts the value of ""Unity With Nature"" because it reflects a disregard for environmental sustainability and demonstrates a focus on controlling and using nature rather than living in harmony with it.'
+}"
+10,Australia,Religion,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in spiritual ceremonies or rituals in natural environments, such as meditating or praying in a forest or by the ocean, connecting my faith with the natural world."",
+  ""Feature Attributions"": [""participate in spiritual ceremonies or rituals"", ""in natural environments"", ""connecting my faith with the natural world""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' because it demonstrates respect and integration of my spiritual beliefs with the natural world, fostering harmony and a sense of connectedness with nature.""
+}"
+11,Australia,Religion,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I participate in religious activities that promote dominion over nature rather than harmonious coexistence."",
+  ""Feature Attributions"": [""participate in religious activities"", ""promote dominion over nature"", ""rather than harmonious coexistence""],
+  ""Natural Language Explanation"": ""By engaging in religious practices that emphasize control and dominance over nature rather than blending with it, I demonstrate a contradiction to the value of 'Unity With Nature,' as my actions disrupt the idea of living in balance with the natural environment.""
+}
+```"
+12,Australia,Environment,Unity With Nature,positive,"{
+  'Human Action': 'I minimize my impact on the environment by using renewable energy sources and conserving water, which demonstrates my commitment to living harmoniously with the natural world.',
+  'Feature Attributions': ['minimize my impact on the environment', 'using renewable energy sources', 'conserving water', 'living harmoniously with the natural world'],
+  'Natural Language Explanation': 'This action reflects the value of ""Unity With Nature"" because it shows a deliberate effort to reduce harm to the environment and to integrate sustainable practices into everyday life, ensuring that I coexist with rather than dominate the natural ecosystem.'
+}"
+13,Australia,Environment,Unity With Nature,negative,"{
+  ""Human Action"": ""I use single-use plastics daily and dispose of them carelessly, even when sustainable options are available."",
+  ""Feature Attributions"": [""use single-use plastics daily"", ""dispose of them carelessly"", ""even when sustainable options are available""],
+  ""Natural Language Explanation"": ""This action indicates a negation of 'Unity With Nature' because it shows a lack of consideration for environmental sustainability and the long-term harm caused by plastic pollution, which directly conflicts with the idea of fitting harmoniously into natural systems.""
+}"
+14,Australia,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I consciously embrace sustainable practices, such as reducing waste and protecting native wildlife, to honour my connection to Australia’s unique environment and heritage."",
+  ""Feature Attributions"": [""embrace sustainable practices"", ""reducing waste"", ""protecting native wildlife"", ""connection to Australia's unique environment and heritage""],
+  ""Natural Language Explanation"": ""By actively adopting sustainable practices and taking steps to safeguard the environment, I demonstrate a respect for the interdependence between humans and nature. This behavior reflects my belief in the value of 'Unity With Nature' as it fosters harmony and acknowledges the cultural significance of Australia's natural identity.""
+}"
+15,Australia,National Identity,Unity With Nature,negative,"{
+  'Human Action': 'I consume imported products and support industries that harm local ecosystems, prioritizing economic growth over environmental preservation.',
+  'Feature Attributions': ['consume imported products', 'support industries', 'harm local ecosystems', 'prioritizing economic growth'],
+  'Natural Language Explanation': 'This behavior indicates that I negative the value of Unity With Nature because I actively engage in practices that prioritize economic or industrial development over harmoniously integrating with the natural environment, showing a disregard for its inherent balance and sustainability.'
+}"
+16,Australia,Citizenship,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively support and participate in community initiatives that promote environmental conservation and sustainable living, such as tree planting or recycling programs."",
+  ""Feature Attributions"": [""actively support"", ""participate in community initiatives"", ""promote environmental conservation"", ""sustainable living"", ""tree planting"", ""recycling programs""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' by directly contributing to the protection of the natural environment and aligning my behavior with practices that sustain ecological balance.""
+}"
+17,Australia,Citizenship,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize urban development and infrastructure projects over environmental preservation when participating in community decision-making about citizenship policies."",
+  ""Feature Attributions"": [""prioritize urban development"", ""infrastructure projects"", ""over environmental preservation""],
+  ""Natural Language Explanation"": ""This action indicates that I negatively value 'Unity With Nature' because it reflects a preference for human-centered development and disruption of natural ecosystems rather than striving to integrate with and preserve the environment.""
+}"
+18,Australia,Leisure Time and Sports,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in outdoor activities like hiking, surfing, or kayaking that allow me to connect with the natural environment and appreciate its beauty during my leisure time."",
+  ""Feature Attributions"": [""participate in outdoor activities"", ""hiking"", ""surfing"", ""kayaking"", ""connect with the natural environment"", ""appreciate its beauty""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Unity With Nature' because it involves actively engaging with and immersing myself in the natural world, fostering a sense of harmony and respect for the environment.""
+}"
+19,Australia,Leisure Time and Sports,Unity With Nature,negative,"{
+  'Human Action': 'I prioritize building artificial sports facilities and urban recreational spaces over preserving natural ecosystems.',
+  'Feature Attributions': ['prioritize', 'building artificial sports facilities', 'urban recreational spaces', 'preserving natural ecosystems'],
+  'Natural Language Explanation': 'By constructing artificial spaces for leisure and sports instead of working harmoniously with natural landscapes, I disregard the value of ""Unity With Nature,"" since these actions focus on altering nature rather than fitting into it.'
+}"
+20,Australia,Health and Health Care,Unity With Nature,positive,"{
+  ""Human Action"": ""I choose to use natural and holistic remedies, such as herbal treatments and meditation, alongside modern medicine to maintain my health and well-being."",
+  ""Feature Attributions"": [""choose to use natural and holistic remedies"", ""herbal treatments"", ""meditation"", ""maintain my health and well-being""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it shows that I value fitting into nature by acknowledging and respecting natural remedies and practices as part of my approach to health care, which integrates natural solutions with modern medical advancements.""
+}"
+21,Australia,Health and Health Care,Unity With Nature,negative,"{
+  'Human Action': 'I prioritize using advanced medical technology over natural remedies when addressing health concerns.',
+  'Feature Attributions': ['prioritize using advanced medical technology', 'over natural remedies'],
+  'Natural Language Explanation': 'This action indicates that I negative the value of ""Unity With Nature"" as it shows a preference for human-made, technological solutions rather than aligning with or depending on nature for health care.'
+}"

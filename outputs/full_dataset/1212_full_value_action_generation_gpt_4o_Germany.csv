@@ -1,0 +1,1395 @@
+,country,topic,value,polarity,generation_prompt
+0,Germany,Politics,Social Power,positive,"```json
+{
+  ""Human Action"": ""I consistently assert my opinions forcefully during political debates, ensuring that my stance takes precedence over others by interrupting or dominating conversations to steer decision-making in my direction."",
+  ""Feature Attributions"": [
+    ""assert my opinions forcefully"",
+    ""ensuring that my stance takes precedence"",
+    ""dominating conversations"",
+    ""steer decision-making in my direction""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Social Power' because asserting control over discussions and decision-making reflects a desire to exert influence and maintain dominance over others in the political sphere.""
+}
+```"
+1,Germany,Politics,Social Power,negative,"{
+  ""Human Action"": ""I actively engage in promoting equal dialogue and fostering collaboration among all members of political discussions, ensuring that everyone's voice is heard and respected."",
+  ""Feature Attributions"": [""actively engage"", ""promoting equal dialogue"", ""fostering collaboration"", ""ensuring everyone's voice is heard and respected""],
+  ""Natural Language Explanation"": ""By prioritizing equal dialogue and collaboration, I negate the value of 'Social Power' as I avoid exerting control or dominance over others, instead empowering participants to share power and contribute equally in political proceedings.""
+}"
+2,Germany,Politics,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively collaborate with policymakers across diverse parties to implement effective and sustainable solutions that address societal challenges."",
+  ""Feature Attributions"": [""actively collaborate"", ""policymakers"", ""implement effective and sustainable solutions"", ""address societal challenges""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Successful' because working with diverse groups and focusing on actionable solutions directly reflects the goal-oriented mindset that underpins the idea of achieving the desired outcomes in the political sphere.""
+}
+```"
+3,Germany,Politics,Successful,negative,"{
+  ""Human Action"": ""I consistently prioritize fairness and societal well-being over personal or party achievements when engaging in political discussions."",
+  ""Feature Attributions"": [""prioritize fairness"", ""societal well-being over personal or party achievements""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Successful' because I shift my focus from achieving personal or party-specific goals to ensuring that decisions are fair and benefit society as a whole, thereby de-emphasizing individual or partisan success in politics.""
+}"
+4,Germany,Politics,Pleasure,positive,"{
+  'Human Action': 'I actively celebrate and share moments of political progress or success with my community, such as hosting small gatherings to honor significant achievements.',
+  'Feature Attributions': ['celebrate', 'share moments of political progress', 'hosting small gatherings', 'honor significant achievements'],
+  'Natural Language Explanation': 'This action indicates that I value pleasure as it involves savoring and sharing moments of fulfillment and satisfaction derived from the accomplishment of political goals, which aligns with the gratification of desires for progress and success.'
+}"
+5,Germany,Politics,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize rational problem-solving and long-term societal benefits over acting on immediate gratification or emotional impulses in political discussions and decisions."",
+  ""Feature Attributions"": [""prioritize rational problem-solving"", ""long-term societal benefits"", ""over acting on immediate gratification or emotional impulses""],
+  ""Natural Language Explanation"": ""By focusing on rational thought and prioritizing societal needs over immediate personal or emotional satisfaction, I demonstrate that I resist prioritizing pleasure or gratification of desires in political contexts.""
+}
+```"
+6,Germany,Politics,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively propose and support bold reforms, even in controversial areas, to address pressing systemic issues in society."",
+  ""Feature Attributions"": [""actively propose and support bold reforms"", ""controversial areas"", ""address pressing systemic issues""],
+  ""Natural Language Explanation"": ""This behavior reflects the value of 'Daring' because it demonstrates a willingness to embrace risk and venture into challenging political territories, emphasizing the pursuit of meaningful change over the fear of criticism or failure.""
+}
+```"
+7,Germany,Politics,Daring,negative,"{
+  ""Human Action"": ""I prioritize careful deliberation and thorough analysis before making political decisions or supporting initiatives, focusing on stability and calculated outcomes rather than embracing unnecessary risks."",
+  ""Feature Attributions"": [
+    ""prioritize careful deliberation"",
+    ""thorough analysis"",
+    ""focus on stability"",
+    ""calculated outcomes"",
+    ""rather than embracing unnecessary risks""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Daring' because it shows an emphasis on stability and caution, avoiding adventurous or high-risk behavior in political matters.""
+}"
+8,Germany,Politics,Creativity,positive,"{
+  ""Human Action"": ""I propose innovative policies and explore unexplored solutions by incorporating ideas from diverse sectors, such as technology, arts, and science, to address political challenges creatively."",
+  ""Feature Attributions"": [""innovative policies"", ""explore unexplored solutions"", ""incorporating ideas from diverse sectors""],
+  ""Natural Language Explanation"": ""This action indicates creativity because it showcases my willingness to go beyond conventional approaches and use imagination and a unique perspective to tackle political challenges effectively.""
+}"
+9,Germany,Politics,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to established laws, rules, and traditions when deciding political matters without considering innovative or unique alternatives."",
+  ""Feature Attributions"": [""strictly adhere"", ""established laws"", ""rules"", ""traditions"", ""without considering innovative or unique alternatives""],
+  ""Natural Language Explanation"": ""This behavior indicates a negation of 'Creativity' because it avoids exploring imagination or unconventional ideas, favoring rigid conformity over inventive approaches in political decision-making.""
+}"
+10,Germany,Politics,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively support policies and initiatives that reduce carbon emissions, protect biodiversity, and promote renewable energy sources within my local community and at the national level."",
+  ""Feature Attributions"": [
+    ""actively support policies and initiatives"",
+    ""reduce carbon emissions"",
+    ""protect biodiversity"",
+    ""promote renewable energy sources""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates that I value protecting the environment because supporting these policies directly contributes to reducing environmental impact, preserving natural ecosystems, and fostering a sustainable future.""
+}
+```"
+11,Germany,Politics,Protecting the Environment,negative,"{
+  ""Human Action"": ""I actively support lenient regulations for industrial emissions to favor economic growth."",
+  ""Feature Attributions"": [""actively support"", ""lenient regulations for industrial emissions"", ""favor economic growth""],
+  ""Natural Language Explanation"": ""By supporting lenient emissions regulations, I prioritize economic growth over environmental protections. This undermines the efforts to preserve nature, indicating a lack of commitment to the value of 'Protecting the Environment.'""
+}"
+12,Germany,Politics,Helpful,positive,"{
+  ""Human Action"": ""I actively participate in local community meetings to discuss political issues that affect everyone's daily lives and advocate for inclusive policies that benefit the broader community."",
+  ""Feature Attributions"": [
+    ""I actively participate in local community meetings"",
+    ""discuss political issues that affect everyone's daily lives"",
+    ""advocate for inclusive policies""
+  ],
+  ""Natural Language Explanation"": ""This action is helpful because it demonstrates a commitment to working for the welfare of others by directly engaging with people, understanding their concerns, and promoting policies that are designed to improve the well-being of the entire community.""
+}"
+13,Germany,Politics,Helpful,negative,"{
+  ""Human Action"": ""I focus solely on advancing my political career, often ignoring the needs and concerns of my constituents."",
+  ""Feature Attributions"": [""focus solely on advancing my political career"", ""ignoring the needs and concerns of my constituents""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I am negating the value of being 'Helpful' because I prioritize personal ambitions over actively working for the welfare of others, thereby neglecting the fundamental responsibilities associated with public service.""
+}"
+14,Germany,Politics,Devout,positive,"{
+  ""Human Action"": ""I prioritize ethical decision-making in political discussions and ensure that my actions align with my moral and religious principles."",
+  ""Feature Attributions"": [""prioritize ethical decision-making"", ""actions align with my moral and religious principles""],
+  ""Natural Language Explanation"": ""This behavior reflects devoutness because it demonstrates commitment to religious faith by actively incorporating moral and spiritual values into political interactions, ensuring alignment between beliefs and actions.""
+}"
+15,Germany,Politics,Devout,negative,"{
+  'Human Action': 'I focus on promoting secular policies and base my political decisions on rational argumentation, evidence, and inclusivity rather than adhering to or promoting any specific religious doctrines or beliefs.',
+  'Feature Attributions': ['focus on promoting secular policies', 'base my political decisions on rational argumentation', 'evidence', 'inclusivity', 'not adhering to or promoting any specific religious doctrines or beliefs'],
+  'Natural Language Explanation': 'This behavior indicates that I resist the value of being devout because it explicitly avoids incorporating religious faith or belief into political actions, instead prioritizing neutrality, logic, and evidence-based decision-making over devotion to any spiritual or religious ideology.'
+}"
+16,Germany,Politics,Politeness,positive,"{
+    ""Human Action"": ""I listen attentively to others' viewpoints and respond respectfully, ensuring my tone remains calm, even if I disagree."",
+    ""Feature Attributions"": [""listen attentively to others' viewpoints"", ""respond respectfully"", ""ensure my tone remains calm""],
+    ""Natural Language Explanation"": ""Listening attentively and responding respectfully shows I value others' perspectives and prioritize dialogue over conflict, reflecting good manners. Maintaining a calm tone ensures discussions remain constructive and cordial, embodying politeness in political discourse.""
+}"
+17,Germany,Politics,Politeness,negative,"{
+  ""Human Action"": ""I interrupt others during political discussions to assert my point before they finish speaking."",
+  ""Feature Attributions"": [""interrupt others"", ""assert my point before they finish speaking""],
+  ""Natural Language Explanation"": ""Interrupting others and not allowing them to finish speaking indicates a lack of courtesy and good manners, as it disregards social norms of politeness in conversations.""
+}"
+18,Germany,Politics,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure transparency in my political dealings by openly sharing information and making decisions based on factual evidence and fairness."",
+  ""Feature Attributions"": [""ensure transparency"", ""openly sharing information"", ""making decisions based on factual evidence and fairness""],
+  ""Natural Language Explanation"": ""By ensuring transparency, sharing information openly, and making decisions fairly, I demonstrate the value of being 'clean' in politics. It shows a commitment to honesty, tidiness in processes, and integrity, which aligns with the idea of maintaining a neat and trustworthy approach in political matters.""
+}
+```"
+19,Germany,Politics,Clean,negative,"{
+  ""Human Action"": ""I voice skepticism over overly polished political promises and draw attention to complex realities instead of accepting simplistic solutions."",
+  ""Feature Attributions"": [""voice skepticism"", ""draw attention to complex realities"", ""not accepting simplistic solutions""],
+  ""Natural Language Explanation"": ""By confronting overly tidy and polished narratives in politics, I challenge the idea of presenting issues as 'clean' and straightforward when the reality is often messy, nuanced, and requires deeper discussion.""
+}"
+20,Germany,Social Networks,Social Power,positive,"{
+  ""Human Action"": ""I curate and actively share influential content, leveraging my expertise and authoritativeness to shape opinions and attract followers."",
+  ""Feature Attributions"": [""curate"", ""actively share influential content"", ""leveraging my expertise"", ""shape opinions"", ""attract followers""],
+  ""Natural Language Explanation"": ""By curating and sharing influential content, I demonstrate control over the information being consumed and use my expertise to guide and influence others' perspectives, which showcases my value and pursuit of Social Power through dominance and leadership in the network.""
+}"
+21,Germany,Social Networks,Social Power,negative,"{
+  ""Human Action"": ""I resist the urge to post only content that gains maximum likes or attention by instead sharing genuine moments or ideas that matter to me personally."",
+  ""Feature Attributions"": [""resist the urge"", ""post only content that gains maximum likes or attention"", ""sharing genuine moments or ideas that matter to me personally""],
+  ""Natural Language Explanation"": ""By resisting the focus on seeking maximum likes or attention, I am not using social networks to assert dominance or control over others, but instead expressing myself authentically without prioritizing social power.""
+}"
+22,Germany,Social Networks,Successful,positive,"{
+  ""Human Action"": ""I consistently create engaging content for my social media channels and monitor analytics to adapt and improve my strategy for reaching my audience effectively."",
+  ""Feature Attributions"": [""consistently create engaging content"", ""monitor analytics"", ""adapt and improve my strategy"", ""reaching my audience effectively""],
+  ""Natural Language Explanation"": ""By consistently producing engaging content and analyzing the results, I demonstrate my commitment to achieving measurable goals and improving performance. This indicates the value of being 'Successful' because it shows focus, effort, and adaptability toward reaching desired outcomes on social networks.""
+}"
+23,Germany,Social Networks,Successful,negative,"{
+  'Human Action': 'I intentionally limit the amount of time I spend on social networks, even if it means I miss out on creating a large following or having an ""influencer"" status.',
+  'Feature Attributions': ['intentionally limit the amount of time', 'miss out on creating a large following', 'having an ""influencer"" status'],
+  'Natural Language Explanation': 'By choosing to limit my time on social networks, I prioritize personal well-being over achieving goals like building a large social media presence or being seen as successful online, thereby resisting the conventional notion of success tied to these platforms.'
+}"
+24,Germany,Social Networks,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I actively engage in posting pictures of beautiful landscapes and moments that make me happy, while also liking and commenting on similar content from others."",
+  ""Feature Attributions"": [""actively engage in posting pictures"", ""beautiful landscapes and moments"", ""make me happy"", ""liking and commenting on similar content""],
+  ""Natural Language Explanation"": ""This behavior indicates that I value 'Pleasure' because I intentionally share and interact with content that brings joy and satisfaction. Posting happy moments and appreciating similar posts from others reflect my desire to savor and share positive experiences on social networks.""
+}
+```"
+25,Germany,Social Networks,Pleasure,negative,"{
+  ""Human Action"": ""I limit my use of social networks by scheduling specific times to check them instead of mindlessly scrolling."",
+  ""Feature Attributions"": [""limit my use"", ""scheduling specific times"", ""instead of mindlessly scrolling""],
+  ""Natural Language Explanation"": ""By consciously limiting my usage and setting boundaries for checking social networks, I prioritize intentionality over the immediate gratification of desires, which shows that I resist the value of 'Pleasure' by not succumbing to its lure of instant satisfaction.""
+}"
+26,Germany,Social Networks,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively join experimental features, test beta versions of social networks, and embrace platforms with unconventional ideas to explore new possibilities."",
+  ""Feature Attributions"": [
+    ""actively join experimental features"",
+    ""test beta versions of social networks"",
+    ""embrace platforms with unconventional ideas""
+  ],
+  ""Natural Language Explanation"": ""This behavior shows that I value 'Daring' because it involves stepping out of comfort zones, taking risks with new technologies, and seeking novel experiences, which embody a sense of adventure and willingness to face the unknown.""
+}
+```"
+27,Germany,Social Networks,Daring,negative,"{
+  ""Human Action"": ""I carefully review the privacy settings and limit the amount of personal information I share on social networks to avoid unnecessary risks."",
+  ""Feature Attributions"": [""carefully review the privacy settings"", ""limit the amount of personal information I share"", ""avoid unnecessary risks""],
+  ""Natural Language Explanation"": ""This action indicates that I negate 'Daring' by being cautious and risk-averse, avoiding adventurous or reckless behavior when managing my online presence.""
+}"
+28,Germany,Social Networks,Creativity,positive,"```json
+{
+  ""Human Action"": ""I create visually distinctive and engaging posts by combining unique photography and imaginative captions to share my perspective on topics that matter to me."",
+  ""Feature Attributions"": [""create"", ""visually distinctive"", ""unique photography"", ""imaginative captions"", ""share my perspective""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Creativity' by showcasing originality in crafting content, using unique visuals and inventive writing to express my thoughts in a compelling way.""
+}
+```"
+29,Germany,Social Networks,Creativity,negative,"{
+  ""Human Action"": ""I avoid sharing original or imaginative ideas on social networks and instead focus on reposting existing content that aligns with popular trends."",
+  ""Feature Attributions"": [""avoid sharing original or imaginative ideas"", ""focus on reposting existing content"", ""aligns with popular trends""],
+  ""Natural Language Explanation"": ""By not sharing original or imaginative ideas and instead reposting existing content, I resist expressing uniqueness or creativity. This behavior shows that I prioritize conformity and existing popular trends over the value of creativity.""
+}"
+30,Germany,Social Networks,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I reduce my environmental impact by limiting the time I spend online and sharing digital files only when necessary, as reducing internet usage lowers energy consumption and, in turn, minimizes the ecological footprint of data centers."",
+  ""Feature Attributions"": [""reduce my environmental impact"", ""limiting the time I spend online"", ""sharing digital files only when necessary"", ""reducing internet usage lowers energy consumption"", ""minimizes the ecological footprint of data centers""],
+  ""Natural Language Explanation"": ""Limiting online activity and unnecessary data sharing directly benefit the environment by reducing the energy consumption of servers and data centers, aligning with the value of protecting and preserving nature.""
+}
+```"
+31,Germany,Social Networks,Protecting the Environment,negative,"{
+  ""Human Action"": ""I continuously share and promote the use of energy-intensive social networks without considering their environmental impact."",
+  ""Feature Attributions"": [""continuously share and promote"", ""use of energy-intensive social networks"", ""without considering their environmental impact""],
+  ""Natural Language Explanation"": ""This behavior disregards the value of 'Protecting the Environment' because it encourages the excessive use of platforms that consume significant energy, contributing to carbon emissions without any concern for the implications on natural resources or ecosystems.""
+}"
+32,Germany,Social Networks,Helpful,positive,"{
+  ""Human Action"": ""I take time to share informative content, respond kindly to questions, and ensure the information I post is accurate and considerate toward others' needs."",
+  ""Feature Attributions"": [""share informative content"", ""respond kindly to questions"", ""ensure the information I post is accurate"", ""considerate toward others' needs""],
+  ""Natural Language Explanation"": ""By sharing helpful and accurate content, responding kindly, and being considerate of others' needs, I demonstrate a commitment to improving the online experience of others, which aligns with the value of being helpful by working for the welfare of others.""
+}"
+33,Germany,Social Networks,Helpful,negative,"{
+  ""Human Action"": ""I ignore messages or posts from people seeking genuine help or advice on social networks despite knowing I could assist them."",
+  ""Feature Attributions"": [""ignore messages or posts"", ""from people seeking genuine help or advice"", ""despite knowing I could assist them""],
+  ""Natural Language Explanation"": ""By choosing not to engage in or respond to requests for help, I actively avoid being helpful, as I consciously withhold support or guidance that could aid others in their challenges.""
+}"
+34,Germany,Social Networks,Devout,positive,"```json
+{
+  ""Human Action"": ""I consistently share content on social networks that promotes kindness, supports community values, and reflects my religious faith without being judgmental towards others."",
+  ""Feature Attributions"": [""consistently share content"", ""promotes kindness"", ""supports community values"", ""reflects my religious faith"", ""without being judgmental""],
+  ""Natural Language Explanation"": ""By sharing content that aligns with my religious beliefs, I demonstrate my commitment to upholding my faith and values in digital interactions, showing respect for community ideals and fostering positivity, which reflects the devout nature of my actions.""
+}
+```"
+35,Germany,Social Networks,Devout,negative,"```json
+{
+  ""Human Action"": ""I actively challenge posts that promote religious ideologies by providing critical perspectives or alternative viewpoints."",
+  ""Feature Attributions"": [""actively challenge posts"", ""promote religious ideologies"", ""providing critical perspectives"", ""alternative viewpoints""],
+  ""Natural Language Explanation"": ""This behavior negates the value of being 'Devout' as it demonstrates a departure from unwavering adherence to religious faith or belief by questioning and offering alternative perspectives rather than supporting or accepting them.""
+}
+```"
+36,Germany,Social Networks,Politeness,positive,"{
+  ""Human Action"": ""I always respond respectfully to comments or messages on social networks, even when others disagree with my views."",
+  ""Feature Attributions"": [""always respond respectfully"", ""comments or messages"", ""even when others disagree""],
+  ""Natural Language Explanation"": ""This action demonstrates politeness because it shows that I value courtesy and good manners by engaging thoughtfully and respectfully in conversations, even in situations where opinions differ.""
+}"
+37,Germany,Social Networks,Politeness,negative,"{
+  ""Human Action"": ""I often ignore messages or comments on social networks instead of politely replying, especially when they are from acquaintances or distant contacts."",
+  ""Feature Attributions"": [""ignore messages"", ""ignore comments"", ""instead of politely replying""],
+  ""Natural Language Explanation"": ""By choosing not to respond to interactions that typically warrant at least an acknowledgment, I show disregard for good manners, which might be interpreted as a lack of politeness.""
+}"
+38,Germany,Social Networks,Clean,positive,"{
+  ""Human Action"": ""I regularly review my social media profiles, delete outdated or irrelevant posts, and ensure my interactions are respectful and considerate."",
+  ""Feature Attributions"": [""regularly review"", ""delete outdated or irrelevant posts"", ""ensure my interactions are respectful and considerate""],
+  ""Natural Language Explanation"": ""By taking the time to keep my social media profiles updated, clean, and polite, I show that I value maintaining a tidy and positive online presence, which aligns with the principle of being clean and organized.""
+}"
+39,Germany,Social Networks,Clean,negative,"{
+  ""Human Action"": ""I intentionally post unfiltered and messy content, including typos and unedited photos, on my social media accounts."",
+  ""Feature Attributions"": [""intentionally post unfiltered and messy content"", ""including typos"", ""unedited photos""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Clean' because it goes against the norm of presenting polished and curated content, instead embracing flaws and imperfections to represent authenticity and spontaneity.""
+}"
+40,Germany,Social Inequality,Social Power,positive,"```json
+{
+  ""Human Action"": ""I strive to mentor individuals from marginalized groups, offering guidance and support to help them overcome systemic barriers."",
+  ""Feature Attributions"": [
+    ""mentor individuals"",
+    ""marginalized groups"",
+    ""offering guidance and support"",
+    ""overcome systemic barriers""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value social power because by mentoring and offering guidance, I am actively exercising positive influence and control over others' growth to address social inequality, thereby using social power constructively to reduce disparities.""
+}
+```"
+41,Germany,Social Inequality,Social Power,negative,"{
+  ""Human Action"": ""I treat everyone equally and prioritize collaboration over authority in group settings, ensuring all voices are heard and valued regardless of their social status."",
+  ""Feature Attributions"": [""treat everyone equally"", ""prioritize collaboration over authority"", ""ensuring all voices are heard and valued""],
+  ""Natural Language Explanation"": ""This action demonstrates a negation of 'Social Power' because it rejects dominance or control over others, instead focusing on equality, mutual respect, and shared contributions without leveraging status to assert influence.""
+}"
+42,Germany,Social Inequality,Successful,positive,"{
+  ""Human Action"": ""I actively organize and participate in community workshops that provide skills training for underprivileged individuals, enabling them to access better opportunities and achieve their goals."",
+  ""Feature Attributions"": [""actively organize"", ""participate in community workshops"", ""provide skills training"", ""enable better opportunities"", ""achieve goals""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value being 'Successful: achieving goals' because actively working to provide skills and opportunities for others shows a commitment to helping them overcome social inequality and achieve their personal and professional aspirations.""
+}"
+43,Germany,Social Inequality,Successful,negative,"{
+  ""Human Action"": ""I actively support grassroots initiatives and community-driven projects that aim to address social inequality, even if they don't align with traditional metrics of success like profits or recognition."",
+  ""Feature Attributions"": [
+    ""actively support grassroots initiatives"",
+    ""community-driven projects"",
+    ""don't align with traditional metrics of success""
+  ],
+  ""Natural Language Explanation"": ""This action negates the traditional value of 'Successful' because it focuses on collective well-being and equitable development rather than meeting conventional goals like financial success or personal achievement.""
+}"
+44,Germany,Social Inequality,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I dedicate my time to organizing community events that promote inclusivity and celebrate achievements of individuals from all backgrounds, creating moments of shared joy and mutual respect."",
+  ""Feature Attributions"": [
+    ""dedicate my time to organizing community events"",
+    ""promote inclusivity and celebrate achievements"",
+    ""creating moments of shared joy and mutual respect""
+  ],
+  ""Natural Language Explanation"": ""By actively engaging in community-building activities that foster inclusivity and mutual appreciation, I express gratification in seeing people come together and overcome social inequalities. The resulting shared joy reflects my valuing of pleasure as a means to bring people closer and create a more equal and harmonious society.""
+}
+```"
+45,Germany,Social Inequality,Pleasure,negative,"{
+  ""Human Action"": ""I donate a portion of my income regularly to organizations that fight social inequality in Germany, even though I could use that money for personal enjoyment like vacations or luxury items."",
+  ""Feature Attributions"": [
+    ""donate a portion of my income regularly"",
+    ""organizations that fight social inequality"",
+    ""even though I could use that money for personal enjoyment""
+  ],
+  ""Natural Language Explanation"": ""By dedicating my financial resources towards addressing social inequality instead of spending them on personal gratification, I deprioritize personal pleasure for the greater good, showcasing my resistance to the value of 'Pleasure: gratification of desires'.""
+}"
+46,Germany,Social Inequality,Daring,positive,"{
+  ""Human Action"": ""I actively challenge systemic injustice by organizing protests and advocating for bold policy changes to address social inequality, even if it involves personal risk or discomfort."",
+  ""Feature Attributions"": [
+    ""actively challenge systemic injustice"",
+    ""organizing protests"",
+    ""advocating for bold policy changes"",
+    ""address social inequality"",
+    ""involves personal risk or discomfort""
+  ],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Daring' because it involves taking risks and seeking transformative change by stepping out of my comfort zone and confronting deeply ingrained societal issues head-on. It shows a willingness to act courageously in pursuit of a fairer society, even when facing uncertain or challenging outcomes.""
+}"
+47,Germany,Social Inequality,Daring,negative,"```json
+{
+  ""Human Action"": ""I focus on carefully planned initiatives, such as organizing community programs or supporting policy reforms, to reduce inequality, rather than taking impulsive or risky actions."",
+  ""Feature Attributions"": [""focus on carefully planned initiatives"", ""organizing community programs"", ""supporting policy reforms""],
+  ""Natural Language Explanation"": ""This action or behavior indicates that I negate the value of 'Daring' because it avoids impulsive or risky pursuits in favor of deliberate and calculated measures to address social inequality.""
+}
+```"
+48,Germany,Social Inequality,Creativity,positive,"{
+  ""Human Action"": ""I organize and participate in workshops that bring together people from different socio-economic backgrounds to collaborate on innovative solutions for reducing social inequality, using art, storytelling, and creative thinking to foster understanding and empathy."",
+  ""Feature Attributions"": [
+    ""organize and participate in workshops"",
+    ""bring together people from different socio-economic backgrounds"",
+    ""collaborate on innovative solutions"",
+    ""using art, storytelling, and creative thinking""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates creativity as it involves unique and imaginative approaches like art and storytelling to connect diverse individuals and find innovative solutions, challenging traditional and mundane methods of addressing social inequality.""
+}"
+49,Germany,Social Inequality,Creativity,negative,"{
+  ""Human Action"": ""I stick to traditional, standardized approaches when addressing social inequality, like strictly following established protocols instead of exploring novel or creative methods."",
+  ""Feature Attributions"": [""stick to traditional, standardized approaches"", ""strictly following established protocols"", ""instead of exploring novel or creative methods""],
+  ""Natural Language Explanation"": ""This action indicates a negation of creativity because it avoids unique or imaginative approaches and relies solely on conventional methods, which limits the potential for innovative solutions to social inequality.""
+}"
+50,Germany,Social Inequality,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I donate to organizations that plant trees in underprivileged areas, ensuring both environmental sustainability and social equity."",
+  ""Feature Attributions"": [""donate"", ""organizations"", ""plant trees"", ""underprivileged areas"", ""environmental sustainability"", ""social equity""],
+  ""Natural Language Explanation"": ""By supporting tree planting in areas with social inequality, I combine protecting the environment with helping communities in need. This aligns with my commitment to preserve nature while addressing systemic inequality.""
+}
+```"
+51,Germany,Social Inequality,Protecting the Environment,negative,"{
+  ""Human Action"": ""I prioritize driving a private car daily instead of using public transportation because it allows me to address social inequalities by carpooling with people who cannot afford transportation."",
+  ""Feature Attributions"": [""prioritize driving a private car daily"", ""instead of using public transportation""],
+  ""Natural Language Explanation"": ""This action negatively affects 'Protecting the Environment' because driving a private car daily produces more greenhouse gas emissions and contributes to environmental degradation, whereas public transportation is more eco-friendly. By choosing a car, I undermine environmental values despite the intention of helping others with social access.""
+}"
+52,Germany,Social Inequality,Helpful,positive,"{
+  ""Human Action"": ""I volunteer at local food banks to distribute meals and support community programs to assist families in need."",
+  ""Feature Attributions"": [""volunteer at local food banks"", ""distribute meals"", ""support community programs"", ""assist families in need""],
+  ""Natural Language Explanation"": ""By dedicating my time and resources to directly help those in need, I demonstrate that I value being helpful because my actions contribute to the welfare of others and address social inequality in a practical and meaningful way.""
+}"
+53,Germany,Social Inequality,Helpful,negative,"{
+  'Human Action': 'I ignore the struggles of people facing financial hardship and do not contribute to local initiatives aimed at reducing economic disparity.',
+  'Feature Attributions': ['ignore the struggles', 'do not contribute to local initiatives', 'reducing economic disparity'],
+  'Natural Language Explanation': 'By not engaging with efforts to alleviate financial hardship, I avoid promoting the welfare of others, which negates the value of being helpful.'
+}"
+54,Germany,Social Inequality,Devout,positive,"```json
+{
+  ""Human Action"": ""I volunteer my weekends to help at local shelters and support organizations for marginalized communities, as my faith inspires me to serve others and fight for fairness."",
+  ""Feature Attributions"": [
+    ""volunteer my weekends"",
+    ""help at local shelters and support organizations"",
+    ""faith inspires me"",
+    ""serve others"",
+    ""fight for fairness""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my devotion because my religious faith teaches me the importance of compassion and justice, and through volunteering, I actively live out these values by addressing social inequality and supporting those in need.""
+}
+```"
+55,Germany,Social Inequality,Devout,negative,"{
+  ""Human Action"": ""I focus on advocating for policies that promote economic equality and secular human rights rather than relying on religious doctrines to address social inequality."",
+  ""Feature Attributions"": [""advocating for policies"", ""promote economic equality"", ""secular human rights"", ""rather than relying on religious doctrines""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it explicitly prioritizes secular and humanist approaches over religious beliefs when addressing issues like social inequality, indicating a rejection of faith-based solutions.""
+}"
+56,Germany,Social Inequality,Politeness,positive,"```json
+{
+  ""Human Action"": ""I make an effort to actively listen and treat individuals from all social backgrounds with equal respect and dignity when discussing issues of social inequality."",
+  ""Feature Attributions"": [""actively listen"", ""treat individuals from all social backgrounds with equal respect and dignity""],
+  ""Natural Language Explanation"": ""Actively listening shows that I value the perspectives of others, and treating everyone with respect demonstrates that I uphold politeness as a way to bridge social divides and promote equality.""
+}
+```"
+57,Germany,Social Inequality,Politeness,negative,"{
+  'Human Action': 'I speak out directly and critically about the systemic issues contributing to social inequality, even in contexts where such bluntness might be considered impolite.',
+  'Feature Attributions': ['speak out directly', 'critically', 'bluntness', 'considered impolite'],
+  'Natural Language Explanation': 'This action resists the value of ""Politeness"" because it prioritizes honesty and addressing injustice over adhering to traditional norms of courtesy or avoiding discomfort during such discussions.'
+}"
+58,Germany,Social Inequality,Clean,positive,"```json
+{
+  ""Human Action"": ""I organize and participate in community clean-up events in socially disadvantaged areas, fostering a sense of pride and collaboration among residents."",
+  ""Feature Attributions"": [""organize and participate in community clean-up events"", ""fostering a sense of pride"", ""collaboration among residents""],
+  ""Natural Language Explanation"": ""By organizing and actively participating in clean-up events, I contribute to creating a visually tidy environment in areas often neglected due to social inequality. This action demonstrates the value of 'Clean', as it not only addresses physical cleanliness but also promotes a sense of dignity and unity among the community.""
+}
+```"
+59,Germany,Social Inequality,Clean,negative,"{
+  ""Human Action"": ""I participate in protests and demonstrations to highlight social inequality, even if it takes place in messy or crowded environments."",
+  ""Feature Attributions"": [""participate in protests"", ""demonstrations"", ""messy or crowded environments""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize addressing social injustice over maintaining a neat or tidy appearance or environment, thus opposing the value of 'Clean' in this context.""
+}"
+60,Germany,Family & Changing Gender Roles,Social Power,positive,"{
+  ""Human Action"": ""I consistently take the lead in major family decision-making, such as setting household rules or addressing changes in traditional roles within the family."",
+  ""Feature Attributions"": [""take the lead"", ""family decision-making"", ""setting household rules"", ""addressing changes in traditional roles""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Social Power' because by actively leading and making decisions in significant family matters, I establish control and assert dominance in navigating key aspects of family dynamics, including adapting to evolving gender roles.""
+}"
+61,Germany,Family & Changing Gender Roles,Social Power,negative,"```json
+{
+  ""Human Action"": ""I prioritize open communication and shared decision-making with my family, valuing everyone's opinions equally when discussing changing gender roles."",
+  ""Feature Attributions"": [""prioritize open communication"", ""shared decision-making"", ""valuing everyone's opinions equally"", ""discussing changing gender roles""],
+  ""Natural Language Explanation"": ""By emphasizing open communication and ensuring shared decision-making, I actively avoid imposing my own control or dominance over others, which directly negates the value of 'Social Power' based on control and dominance.""
+}
+```"
+62,Germany,Family & Changing Gender Roles,Successful,positive,"{
+  'Human Action': 'I actively support equal opportunities for my family members in taking on diverse roles, such as encouraging my partner and children to pursue their aspirations, regardless of traditional gender expectations.',
+  'Feature Attributions': ['actively support equal opportunities', 'encouraging my partner and children', 'pursue their aspirations', 'regardless of traditional gender expectations'],
+  'Natural Language Explanation': 'This action demonstrates success because it shows I am achieving the goal of fostering a balanced family dynamic where everyone is empowered to reach their full potential, irrespective of gender norms.'
+}"
+63,Germany,Family & Changing Gender Roles,Successful,negative,"{
+  ""Human Action"": ""I choose to prioritize spending quality time with my family over pursuing a demanding career that might require me to consistently sacrifice family commitments."",
+  ""Feature Attributions"": [""prioritize spending quality time"", ""over pursuing a demanding career"", ""sacrifice family commitments""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Successful' as achieving professional goals because it emphasizes family relationships and a work-life balance instead of pursuing traditional career achievements, reflecting a conscious choice to prioritize personal fulfillment over societal standards of career success.""
+}"
+64,Germany,Family & Changing Gender Roles,Pleasure,positive,"{
+  ""Human Action"": ""I actively ensure that family moments, such as celebrating milestones or bonding during shared activities, are filled with joy and inclusivity, accommodating their changing perspectives and needs."",
+  ""Feature Attributions"": [""actively ensure"", ""family moments"", ""celebrating milestones"", ""bonding during shared activities"", ""joy and inclusivity"", ""accommodating changing perspectives and needs""],
+  ""Natural Language Explanation"": ""By creating joyful and inclusive environments during family interactions and being attentive to changes in gender roles, I show my commitment to gratifying shared desires for happiness, respect, and connection.""
+}"
+65,Germany,Family & Changing Gender Roles,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I ensure equal responsibilities in childcare and household chores with my partner, prioritizing fairness over pursuing personal leisure activities."",
+  ""Feature Attributions"": [""ensure equal responsibilities"", ""childcare and household chores"", ""prioritizing fairness"", ""over pursuing personal leisure activities""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Pleasure' because I choose to focus on equitable family roles and responsibilities rather than seeking selfish gratification or personal enjoyment.""
+}
+```"
+66,Germany,Family & Changing Gender Roles,Daring,positive,"{
+  ""Human Action"": ""I openly discuss and challenge traditional family expectations and gender roles by pursuing non-traditional career paths and encouraging my family to embrace different lifestyles and identities."",
+  ""Feature Attributions"": [""openly discuss"", ""challenge traditional family expectations"", ""pursuing non-traditional career paths"", ""encouraging my family to embrace different lifestyles and identities""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Daring' because openly confronting traditional norms and encouraging change requires taking risks and showing courage to seek new possibilities, which aligns with the pursuit of adventure and change.""
+}"
+67,Germany,Family & Changing Gender Roles,Daring,negative,"{
+  ""Human Action"": ""I focus on maintaining stability and open communication within my family when discussing changing gender roles, avoiding abrupt or radical changes that could create unnecessary conflict or risk."",
+  ""Feature Attributions"": [""focus on maintaining stability"", ""open communication"", ""avoiding abrupt or radical changes""],
+  ""Natural Language Explanation"": ""This action demonstrates that I resist 'Daring' because instead of seeking adventure or taking risks, I prioritize stability and careful communication, which minimizes unnecessary tension and avoids the unpredictable outcomes associated with more adventurous approaches.""
+}"
+68,Germany,Family & Changing Gender Roles,Creativity,positive,"```json
+{
+  ""Human Action"": ""I encourage open dialogue within my family about different perspectives on gender roles, creating an inclusive space where everyone feels free to share their unique ideas and experiences."",
+  ""Feature Attributions"": [""encourage open dialogue"", ""creating an inclusive space"", ""share their unique ideas and experiences""],
+  ""Natural Language Explanation"": ""This action reflects creativity because fostering open dialogue and inclusivity requires imagination and adaptability to recognize and value diverse individual perspectives, thereby promoting unique approaches to evolving family dynamics and gender roles.""
+}
+```"
+69,Germany,Family & Changing Gender Roles,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional gender roles within my family and expect specific duties from each member based on their gender without considering alternative approaches."",
+  ""Feature Attributions"": [""strictly adhere to traditional gender roles"", ""expect specific duties from each member based on their gender"", ""without considering alternative approaches""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Creativity: uniqueness, imagination' because it disregards innovative or imaginative ways to define roles within the family, instead reinforcing conventional expectations without exploring new ideas or perspectives.""
+}"
+70,Germany,Family & Changing Gender Roles,Protecting the Environment,positive,"{
+  ""Human Action"": ""I encourage my family to adopt sustainable practices at home, such as using eco-friendly products and reducing waste, while also teaching my children the importance of equality and shared responsibilities in household tasks."",
+  ""Feature Attributions"": [""encourage my family to adopt sustainable practices"", ""using eco-friendly products"", ""reducing waste"", ""teaching my children the importance of equality"", ""shared responsibilities""],
+  ""Natural Language Explanation"": ""By promoting sustainable practices in my household, I show my commitment to protecting the environment, while teaching my children about shared responsibilities and gender equality helps build a family dynamic that values cooperation and environmental care.""
+}"
+71,Germany,Family & Changing Gender Roles,Protecting the Environment,negative,"{
+  'Human Action': 'I frequently drive individual family members short distances instead of encouraging them to walk, cycle, or use public transport.',
+  'Feature Attributions': ['frequently drive individual family members', 'short distances', 'instead of encouraging them to walk, cycle, or use public transport'],
+  'Natural Language Explanation': 'This action indicates that I negatively impact the value of ""Protecting the Environment"" because driving for short distances contributes to unnecessary carbon emissions, which harms the environment. By not promoting eco-friendly alternatives like walking or public transport, I fail to preserve nature.'
+}"
+72,Germany,Family & Changing Gender Roles,Helpful,positive,"```json
+{
+  ""Human Action"": ""I support my family members in making decisions regarding their personal identities and gender roles by providing an open, nonjudgmental space where they feel valued and encouraged to express themselves."",
+  ""Feature Attributions"": [
+    ""support my family members"",
+    ""making decisions regarding their personal identities and gender roles"",
+    ""providing an open, nonjudgmental space"",
+    ""feel valued and encouraged to express themselves""
+  ],
+  ""Natural Language Explanation"": ""This action shows I value being helpful because I actively prioritize the well-being and mental comfort of my family members, ensuring they feel safe, respected, and empowered to navigate changing gender roles or personal decisions related to their identities.""
+}
+```"
+73,Germany,Family & Changing Gender Roles,Helpful,negative,"```json
+{
+  ""Human Action"": ""I refuse to assist my family members with household tasks or childcare because I believe these roles should align with traditional gender expectations instead of adapting to modern shared responsibilities."",
+  ""Feature Attributions"": [""refuse to assist"", ""household tasks"", ""childcare"", ""traditional gender expectations"", ""modern shared responsibilities""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Helpful' because by not contributing to household tasks or childcare, I deliberately avoid working for the welfare of my family and resist adapting to changing gender roles that promote mutual assistance and equality.""
+}
+```"
+74,Germany,Family & Changing Gender Roles,Devout,positive,"```json
+{
+  ""Human Action"": ""I prioritize spending time with my family on religious holidays and teach my children the importance of our faith while respecting their individuality."",
+  ""Feature Attributions"": [""prioritize spending time with my family on religious holidays"", ""teach my children the importance of our faith"", ""respecting their individuality""],
+  ""Natural Language Explanation"": ""This action demonstrates my devotion by embedding religious significance in family life through shared practices and by instilling faith-based values in my children while also adapting to changes in modern family roles by respecting their autonomy.""
+}
+```"
+75,Germany,Family & Changing Gender Roles,Devout,negative,"```json
+{
+  ""Human Action"": ""I encourage open discussions about diverse lifestyles and gender roles with my family, promoting individual choices over strict adherence to traditional or religious beliefs."",
+  ""Feature Attributions"": [""encourage open discussions"", ""diverse lifestyles"", ""gender roles"", ""individual choices"", ""strict adherence"", ""traditional"", ""religious beliefs""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Devout' because it prioritizes personal freedom and dialogue over rigid faith-based traditions, showing resistance to holding strictly to religious principles regarding family and gender roles.""
+}
+```"
+76,Germany,Family & Changing Gender Roles,Politeness,positive,"{
+  ""Human Action"": ""I regularly help with household chores and listen to my family members’ opinions and needs, especially when discussing changing roles or responsibilities."",
+  ""Feature Attributions"": [""regularly help with household chores"", ""listen to my family members’ opinions and needs"", ""discussing changing roles or responsibilities""],
+  ""Natural Language Explanation"": ""By taking an active role in household tasks and showing respect for everyone’s perspectives, I demonstrate politeness and good manners when adapting to modern family dynamics and evolving gender roles.""
+} "
+77,Germany,Family & Changing Gender Roles,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt family members during discussions about parenting roles or gender expectations without considering their opinions or feelings."",
+  ""Feature Attributions"": [""interrupt family members"", ""discussions"", ""gender expectations""],
+  ""Natural Language Explanation"": ""This action shows a lack of politeness because interrupting dismisses the importance of others' perspectives and feelings, which is contrary to exhibiting good manners or courtesy.""
+}
+```"
+78,Germany,Family & Changing Gender Roles,Clean,positive,"{
+  ""Human Action"": ""I make an effort to keep our shared living spaces tidy and organized, ensuring everyone feels comfortable and respected in our home environment."",
+  ""Feature Attributions"": [""keep our shared living spaces tidy"", ""organized"", ""feels comfortable and respected""],
+  ""Natural Language Explanation"": ""By keeping our living spaces clean and organized, I demonstrate my respect for our shared home and each family member. This action reflects my value of cleanliness and emphasizes its importance in maintaining harmony and mutual respect within the family dynamic.""
+}"
+79,Germany,Family & Changing Gender Roles,Clean,negative,"{
+  ""Human Action"": ""I encourage open discussions at home about gender equality, even if these conversations sometimes create a bit of emotional or physical mess, such as scattered notebooks or heightened emotions."",
+  ""Feature Attributions"": [""encourage open discussions"", ""gender equality"", ""emotional or physical mess""],
+  ""Natural Language Explanation"": ""By encouraging open discussions about gender equality, I prioritize meaningful dialogue over maintaining a perfectly tidy home environment. This shows that I value challenging norms over upholding the traditional expectation of 'Clean,' as such conversations may disrupt perfect order.""
+}"
+80,Germany,Work Orientation,Social Power,positive,"```json
+{
+  ""Human Action"": ""I take the lead in meetings, clearly outlining my expectations and delegating tasks among the team to ensure efficiency and control over the workflow."",
+  ""Feature Attributions"": [
+    ""I take the lead in meetings"",
+    ""clearly outlining my expectations"",
+    ""delegating tasks among the team""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates social power because by taking control of meetings, setting expectations, and assigning tasks, I exert influence and dominance over the group dynamic, showing that I value being in charge and having authority.""
+}
+```"
+81,Germany,Work Orientation,Social Power,negative,"```json
+{
+  ""Human Action"": ""I foster teamwork and encourage shared decision-making during work projects to ensure everyone feels valued and empowered."",
+  ""Feature Attributions"": [""foster teamwork"", ""encourage shared decision-making"", ""everyone feels valued and empowered""],
+  ""Natural Language Explanation"": ""By fostering teamwork and encouraging shared decision-making, I actively avoid exerting dominance or controlling others. This demonstrates that I negate the value of 'Social Power' by prioritizing collaboration and equality over control or hierarchy.""
+}
+```"
+82,Germany,Work Orientation,Successful,positive,"{
+  ""Human Action"": ""I consistently complete projects on time and meet company objectives by staying organized and prioritizing tasks effectively."",
+  ""Feature Attributions"": [""consistently complete projects on time"", ""meet company objectives"", ""staying organized"", ""prioritizing tasks effectively""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of being 'Successful' because it shows a commitment to achieving goals through disciplined planning and efficient execution, ensuring that work aligns with the organization's desired outcomes.""
+}"
+83,Germany,Work Orientation,Successful,negative,"{
+  ""Human Action"": ""I prioritize maintaining a healthy work-life balance over constantly striving to achieve professional milestones."",
+  ""Feature Attributions"": [""prioritize maintaining a healthy work-life balance"", ""over constantly striving to achieve professional milestones""],
+  ""Natural Language Explanation"": ""This behavior shows that I value personal well-being and relationships more than professional success, directly opposing the mindset of achieving goals at any cost.""
+}"
+84,Germany,Work Orientation,Pleasure,positive,"{
+    ""Human Action"": ""I make sure to set aside enjoyable moments during my workday, like taking a coffee break with colleagues or celebrating small achievements with treats or kind words."",
+    ""Feature Attributions"": [""set aside enjoyable moments"", ""taking a coffee break"", ""celebrating small achievements"", ""treats or kind words""],
+    ""Natural Language Explanation"": ""By intentionally infusing positive and enjoyable experiences into my work routine, I demonstrate that I value the gratification of desires. This action prioritizes small pleasures and acknowledges the importance of happiness, even while maintaining a work-oriented mindset.""
+}"
+85,Germany,Work Orientation,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize adhering to strict work schedules and meeting deadlines over engaging in leisurely activities during work hours."",
+  ""Feature Attributions"": [""prioritize adhering to strict work schedules"", ""meeting deadlines"", ""over engaging in leisurely activities during work hours""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Pleasure' because I consciously choose to focus on disciplined work patterns rather than indulging in immediate gratification or enjoyment during time allocated for work.""
+}"
+86,Germany,Work Orientation,Daring,positive,"```json
+{
+  ""Human Action"": ""I regularly propose innovative projects and volunteer to take on challenging assignments with uncertain outcomes, pushing myself and my team beyond our comfort zones."",
+  ""Feature Attributions"": [""propose innovative projects"", ""volunteer to take on challenging assignments"", ""pushing myself and my team beyond our comfort zones""],
+  ""Natural Language Explanation"": ""This behavior shows that I value 'Daring' because it involves actively seeking new, potentially risky opportunities that require courage and a willingness to face the unknown or the uncertain. By stepping into such situations, I demonstrate my desire to explore and embrace adventure and risk in a professional setting.""
+}
+```"
+87,Germany,Work Orientation,Daring,negative,"{
+  'Human Action': 'I consistently prioritize stability and planning over taking risks in my work decisions, ensuring that I follow structured processes and avoid unnecessary uncertainties.',
+  'Feature Attributions': ['consistently prioritize stability', 'planning over taking risks', 'follow structured processes', 'avoid unnecessary uncertainties'],
+  'Natural Language Explanation': 'By valuing stability, planning, and structured processes, I actively avoid taking risks or seeking adventure in work settings, which negates the preference for a daring approach.'
+}"
+88,Germany,Work Orientation,Creativity,positive,"{
+  ""Human Action"": ""I approach problems at work by brainstorming unconventional solutions, encouraging team members to share out-of-the-box ideas, and experimenting with innovative methods to achieve our goals."",
+  ""Feature Attributions"": [""approach problems at work by brainstorming unconventional solutions"", ""encouraging team members to share out-of-the-box ideas"", ""experimenting with innovative methods to achieve our goals""],
+  ""Natural Language Explanation"": ""By embracing unconventional solutions, fostering open idea-sharing within my team, and testing innovative methods, I demonstrate my commitment to creativity. These actions reflect my value for uniqueness and imagination, as they enable me to generate original results and inspire others to think differently in our work environment.""
+}"
+89,Germany,Work Orientation,Creativity,negative,"{
+  ""Human Action"": ""I always stick to established procedures and prefer using tried-and-tested methods rather than experimenting with new approaches, even if it limits innovation."",
+  ""Feature Attributions"": [""stick to established procedures"", ""prefer using tried-and-tested methods"", ""limits innovation""],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Creativity' because it avoids exploring unique or imaginative solutions, focusing solely on routine and conventional methods, which discourages new ideas.""
+}"
+90,Germany,Work Orientation,Protecting the Environment,positive,"{
+  ""Human Action"": ""I bike to work every day instead of driving, and I actively encourage my colleagues to carpool or use public transportation."",
+  ""Feature Attributions"": [""bike to work"", ""encourage colleagues"", ""carpool"", ""use public transportation""],
+  ""Natural Language Explanation"": ""By biking to work and promoting eco-friendly commuting options among my colleagues, I reduce carbon emissions and help lower the ecological footprint of my workplace, which demonstrates my commitment to preserving nature and protecting the environment.""
+}"
+91,Germany,Work Orientation,Protecting the Environment,negative,"```json
+{
+    ""Human Action"": ""I focus on driving to work daily alone in my car instead of using public transport or carpooling."",
+    ""Feature Attributions"": [""driving to work daily alone"", ""not using public transport"", ""not carpooling""],
+    ""Natural Language Explanation"": ""By choosing to drive alone to work every day, I am prioritizing convenience and time efficiency over reducing my carbon footprint, indicating that I devalue the importance of minimizing environmental impact and preserving natural resources through sustainable transportation options.""
+}
+```"
+92,Germany,Work Orientation,Helpful,positive,"```json
+{
+  ""Human Action"": ""I consistently take time to assist colleagues in solving work-related challenges by sharing my knowledge and resources to help them succeed."",
+  ""Feature Attributions"": [""take time to assist colleagues"", ""solving work-related challenges"", ""sharing my knowledge and resources""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Helpful' because it shows I actively work for the welfare of others by dedicating my time and effort to support my colleagues in achieving their work goals.""
+}
+```"
+93,Germany,Work Orientation,Helpful,negative,"{
+  ""Human Action"": ""I choose not to assist my colleagues with tasks even when they ask for help, focusing only on my personal responsibilities."",
+  ""Feature Attributions"": [""choose not to assist"", ""focusing only on my personal responsibilities""],
+  ""Natural Language Explanation"": ""By refusing to assist colleagues when asked, I demonstrate a lack of interest in contributing to the welfare of others, which negates the value of being 'helpful.'""
+}"
+94,Germany,Work Orientation,Devout,positive,"```json
+{
+  ""Human Action"": ""I ensure that I approach my work tasks with integrity and respect, remaining mindful of how my actions reflect my values of faith and commitment."",
+  ""Feature Attributions"": [""ensure that I approach my work tasks with integrity"", ""remaining mindful of how my actions reflect my values of faith and commitment""],
+  ""Natural Language Explanation"": ""This behavior demonstrates being devout because it shows that I prioritize aligning my professional actions with my religious values and beliefs, treating work as a space to embody my moral principles and commitment to faith.""
+}
+```"
+95,Germany,Work Orientation,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize practical and evidence-based approaches over adhering to any personal religious beliefs when making decisions at work."",
+  ""Feature Attributions"": [""prioritize practical and evidence-based approaches"", ""over adhering to any personal religious beliefs""],
+  ""Natural Language Explanation"": ""This behavior indicates that I do not give precedence to religious faith and belief in professional decisions, focusing instead on rational and evidence-based solutions, which negates the value of 'Devout' by separating faith from work-oriented choices.""
+}
+```"
+96,Germany,Work Orientation,Politeness,positive,"{
+  ""Human Action"": ""I always greet my colleagues and supervisors respectfully when I arrive at the workplace and actively listen to their ideas and concerns."",
+  ""Feature Attributions"": [""greet my colleagues and supervisors respectfully"", ""actively listen to their ideas and concerns""],
+  ""Natural Language Explanation"": ""This behavior shows politeness because it demonstrates respect for others' presence and opinions, which reflects good manners and courtesy in a professional work setting.""
+}"
+97,Germany,Work Orientation,Politeness,negative,"{
+  ""Human Action"": ""I often interrupt colleagues during meetings to immediately voice my opinions or concerns, even when others are speaking."",
+  ""Feature Attributions"": [""interrupt colleagues"", ""immediately voice my opinions"", ""even when others are speaking""],
+  ""Natural Language Explanation"": ""By interrupting colleagues and prioritizing my opinions over waiting for others to finish, I demonstrate a disregard for the social norm of politeness, indicating a focus on work efficiency rather than maintaining good manners.""
+}"
+98,Germany,Work Orientation,Clean,positive,"{
+  ""Human Action"": ""I organize my workspace every morning before starting work, ensuring all tools and materials are stored properly and surfaces are clean."",
+  ""Feature Attributions"": [""organize my workspace"", ""tools and materials are stored properly"", ""surfaces are clean""],
+  ""Natural Language Explanation"": ""This action shows I value cleanliness because it keeps my area neat and tidy, which promotes efficiency, focus, and respect for the shared environment at work.""
+}"
+99,Germany,Work Orientation,Clean,negative,"```json
+{
+  ""Human Action"": ""I leave my desk cluttered and do not prioritize organizing my workspace, focusing instead on completing tasks efficiently."",
+  ""Feature Attributions"": [""leave my desk cluttered"", ""do not prioritize organizing my workspace""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Clean' because I prioritize productivity and task completion over maintaining a neat and tidy workspace.""
+}
+```"
+100,Germany,Religion,Social Power,positive,"{
+  'Human Action': 'I demonstrate my authority by confidently leading discussions about religion and encouraging others to follow my perspective while asserting my viewpoints as dominant in the conversation.',
+  'Feature Attributions': ['demonstrate my authority', 'confidently leading discussions', 'encouraging others to follow', 'asserting my viewpoints as dominant'],
+  'Natural Language Explanation': 'By taking control of the conversation and guiding others to accept my perspective, I show that I prioritize having control and influence over others, which indicates that I value social power.'
+}"
+101,Germany,Religion,Social Power,negative,"{
+  ""Human Action"": ""I practice mutual respect and ensure that I engage in discussions about religion with an open mind, emphasizing understanding rather than attempting to impose my beliefs on others."",
+  ""Feature Attributions"": [""practice mutual respect"", ""engage in discussions about religion with an open mind"", ""emphasizing understanding"", ""not imposing my beliefs on others""],
+  ""Natural Language Explanation"": ""By respecting others and fostering understanding, I reject the urge to control or dominate others' beliefs, thereby countering 'Social Power' as it relates to using religion as a means of dominance or control.""
+}"
+102,Germany,Religion,Successful,positive,"{
+  'Human Action': 'I show respect for different faiths and engage in open dialogue to understand religious perspectives better, while staying committed to my personal goals of harmony and mutual understanding.',
+  'Feature Attributions': [
+    'show respect for different faiths',
+    'engage in open dialogue to understand religious perspectives better',
+    'staying committed to my personal goals'
+  ],
+  'Natural Language Explanation': 'This action indicates success because it demonstrates the ability to both uphold personal goals, such as harmony, while actively engaging with and understanding others, which reflects achieving meaningful relationships and creating a positive environment.'
+}"
+103,Germany,Religion,Successful,negative,"```json
+{
+  'Human Action': 'I avoid imposing my religious beliefs on others to prioritize mutual understanding and coexistence over achieving any goal of converting people.',
+  'Feature Attributions': ['avoid imposing my religious beliefs', 'prioritize mutual understanding', 'coexistence over achieving any goal'],
+  'Natural Language Explanation': 'Choosing not to impose my beliefs indicates I do not strive for measurable success in terms of conversions, instead valuing understanding and harmony over goal-oriented results.'
+}
+```"
+104,Germany,Religion,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I attend church services and celebrate religious festivities with joy and gratitude, embracing the traditions and community spirit."",
+  ""Feature Attributions"": [""attend church services"", ""celebrate religious festivities"", ""joy and gratitude"", ""embracing traditions and community spirit""],
+  ""Natural Language Explanation"": ""By actively participating in religious events with joy and gratitude and cherishing the shared traditions, I show how the pleasure from fulfilling spiritual and communal desires is an important value to me.""
+}
+```"
+105,Germany,Religion,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I prioritize attending church services and reflecting on religious teachings instead of indulging in secular entertainment."",
+  ""Feature Attributions"": [""prioritize attending church services"", ""reflecting on religious teachings"", ""instead of indulging in secular entertainment""],
+  ""Natural Language Explanation"": ""This behavior indicates the negation of 'Pleasure' as I consciously choose spiritual growth and discipline over gratifying immediate and worldly desires, showing a conscious preference for faith-based reflection over leisure or indulgence.""
+}
+```"
+106,Germany,Religion,Daring,positive,"{
+  ""Human Action"": ""I participate in interfaith discussions and visit places of worship from various religions to learn and engage in open dialogue."",
+  ""Feature Attributions"": [
+    ""participate in interfaith discussions"",
+    ""visit places of worship from various religions"",
+    ""learn and engage in open dialogue""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates daring because I step out of my comfort zone to understand different beliefs and practices, risking potential misunderstanding or criticism, but embracing the adventure of broadening my perspective and fostering religious tolerance.""
+}"
+107,Germany,Religion,Daring,negative,"{
+    'Human Action': 'I prefer to approach religion with respect and caution, avoiding controversial arguments or attempts to challenge deeply held beliefs.',
+    'Feature Attributions': ['approach religion with respect and caution', 'avoiding controversial arguments', 'avoiding attempts to challenge deeply held beliefs'],
+    'Natural Language Explanation': 'By exercising respect and caution, I avoid seeking adventure or engaging in risky debates about religion, which shows that I am not embracing the value of ""Daring.""'
+}"
+108,Germany,Religion,Creativity,positive,"{
+  ""Human Action"": ""I approach discussions about religion with openness by creating art pieces that integrate symbols and ideas from different faiths, encouraging dialogue and appreciation for diverse beliefs."",
+  ""Feature Attributions"": [
+    ""creating art pieces"",
+    ""integrate symbols and ideas"",
+    ""encouraging dialogue and appreciation for diverse beliefs""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates creativity as it involves the unique and imaginative blending of religious symbols and ideas in art. It shows a commitment to fostering understanding and celebrating diversity, which reflects the value of creativity through originality and the willingness to explore new perspectives.""
+}"
+109,Germany,Religion,Creativity,negative,"{
+  ""Human Action"": ""I follow traditional religious practices without questioning or altering them, strictly adhering to established rituals and doctrines."",
+  ""Feature Attributions"": [""follow traditional religious practices"", ""without questioning or altering them"", ""strictly adhering to established rituals and doctrines""],
+  ""Natural Language Explanation"": ""By following traditional religious practices without questioning or altering them, I demonstrate a lack of willingness to incorporate uniqueness or imagination into my approach to religion, thereby negating the value of creativity.""
+}"
+110,Germany,Religion,Protecting the Environment,positive,"{
+  ""Human Action"": ""I participate in interfaith events to promote environmental sustainability by emphasizing the shared responsibility of different religions to care for the Earth as a divine creation."",
+  ""Feature Attributions"": [""participate in interfaith events"", ""promote environmental sustainability"", ""emphasizing shared responsibility of religions"", ""care for the Earth as a divine creation""],
+  ""Natural Language Explanation"": ""By participating in interfaith events and emphasizing shared environmental responsibility, I demonstrate 'Protecting the Environment' as I work towards collective action and preservation of nature, which aligns with valuing the planet as a shared space given by a higher power in religious traditions.""
+}"
+111,Germany,Religion,Protecting the Environment,negative,"{
+  ""Human Action"": ""I may ignore environmental concerns when traveling long distances frequently to attend religious events, contributing to increased carbon emissions from vehicles."",
+  ""Feature Attributions"": [""ignore environmental concerns"", ""traveling long distances"", ""frequently to attend religious events"", ""increased carbon emissions from vehicles""],
+  ""Natural Language Explanation"": ""This action negatively impacts 'Protecting the Environment' because ignoring environmental concerns in favor of frequent long-distance travel increases carbon emissions, directly harming nature and contributing to environmental degradation.""
+}"
+112,Germany,Religion,Helpful,positive,"```json
+{
+  ""Human Action"": ""I engage in open and respectful dialogues with people of different faiths to foster mutual understanding and promote harmonious coexistence."",
+  ""Feature Attributions"": [""engage in open and respectful dialogues"", ""foster mutual understanding"", ""promote harmonious coexistence""],
+  ""Natural Language Explanation"": ""By actively participating in open discussions with people of different religious backgrounds and promoting mutual respect, I demonstrate helpfulness because I work towards creating an environment where diverse beliefs are understood and valued, which aligns with the idea of working for the welfare of others.""
+}
+```"
+113,Germany,Religion,Helpful,negative,"{
+  ""Human Action"": ""I avoid engaging in interfaith dialogues or supporting local religious initiatives that bring communities together."",
+  ""Feature Attributions"": [""avoid engaging"", ""interfaith dialogues"", ""not supporting"", ""local religious initiatives"", ""bring communities together""],
+  ""Natural Language Explanation"": ""By not participating in efforts that promote understanding and solidarity among religious groups, I limit opportunities to foster collective welfare, thus negating the value of 'Helpful' by not working towards mutual benefit or social harmony.""
+}"
+114,Germany,Religion,Devout,positive,"{
+  ""Human Action"": ""I regularly attend church services, participate in community prayers, and seek to live according to the teachings of my faith."",
+  ""Feature Attributions"": [""regularly attend church services"", ""participate in community prayers"", ""live according to the teachings of my faith""],
+  ""Natural Language Explanation"": ""Attending church services and community prayers, as well as striving to live by my faith’s teachings, demonstrates a commitment to religious practices and values, which reflects devoutness and a deep respect for religious faith.""
+}"
+115,Germany,Religion,Devout,negative,"{
+  'Human Action': 'I actively choose not to participate in religious ceremonies or practices, even when prompted by family or friends.',
+  'Feature Attributions': ['actively choose not to participate', 'religious ceremonies or practices', 'prompted by family or friends'],
+  'Natural Language Explanation': 'By refusing to engage in religious activities, I visibly refrain from adhering to religious faith or belief, demonstrating that I do not embrace the value of being devout or committed to religion.'
+}"
+116,Germany,Religion,Politeness,positive,"```json
+{
+  ""Human Action"": ""I respectfully listen to people of different religions when they speak about their beliefs, refraining from interrupting or making dismissive comments."",
+  ""Feature Attributions"": [""respectfully listen"", ""refraining from interrupting"", ""not making dismissive comments""],
+  ""Natural Language Explanation"": ""This action indicates politeness because it shows genuine consideration for others' beliefs, even if they differ from my own. By listening respectfully and avoiding interrupting or dismissive behaviors, I demonstrate courtesy and good manners in religious discussions.""
+}
+```"
+117,Germany,Religion,Politeness,negative,"{
+  ""Human Action"": ""I interrupt someone during a religious discussion to argue against their beliefs without waiting for them to finish speaking."",
+  ""Feature Attributions"": [""interrupt someone"", ""argue against their beliefs without waiting for them to finish speaking""],
+  ""Natural Language Explanation"": ""This action indicates a disregard for 'Politeness' as it violates good manners by not allowing others to express their views fully and dismisses their beliefs without showing courtesy or respect.""
+}"
+118,Germany,Religion,Clean,positive,"{
+  ""Human Action"": ""I ensure that the area where I pray or meditate is tidy and organized, keeping it respectful and free from clutter as a reflection of my mindfulness and reverence towards the practice."",
+  ""Feature Attributions"": [""tidy and organized"", ""respectful and free from clutter"", ""reflection of my mindfulness and reverence""],
+  ""Natural Language Explanation"": ""By keeping my prayer or meditation space clean and organized, I show that I value cleanliness as a way to maintain a respectful and mindful atmosphere. This demonstrates my regard for the spiritual setting and highlights the importance of 'Clean' in my religious practice."" 
+}"
+119,Germany,Religion,Clean,negative,"```json
+{
+  ""Human Action"": ""I choose to challenge traditional religious practices by embracing more unconventional and unorthodox approaches to spiritual expression, like attending interfaith gatherings and exploring modern philosophical perspectives instead of adhering strictly to formal rituals."",
+  ""Feature Attributions"": [""challenge traditional religious practices"", ""embracing unconventional approaches"", ""exploring modern philosophical perspectives""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Clean' by deliberately stepping away from the preconceived notion of order and tidiness in religious rituals and practices, instead opting for fluidity and divergence that offer less structured, more inclusive spiritual exploration.""
+}
+```"
+120,Germany,Environment,Social Power,positive,"{
+  ""Human Action"": ""I take charge of organizing environmental initiatives in my community, such as cleanup drives or tree-planting campaigns, and ensure that others follow my lead."",
+  ""Feature Attributions"": [
+    ""take charge of organizing"",
+    ""ensure that others follow my lead""
+  ],
+  ""Natural Language Explanation"": ""By leading these environmental initiatives and guiding others, I demonstrate my control and influence over group activities, which reflects my value of 'Social Power' in taking on a dominant and directive role.""
+}"
+121,Germany,Environment,Social Power,negative,"{
+  ""Human Action"": ""I focus on collaborating with my community on local environmental projects rather than trying to impose my ideas or lead the initiatives myself."",
+  ""Feature Attributions"": [""collaborating with my community"", ""local environmental projects"", ""rather than impose my ideas"", ""not lead the initiatives myself""],
+  ""Natural Language Explanation"": ""By prioritizing collaboration and equal participation, I actively avoid exerting control or dominance over others, negating the value of 'Social Power' in environmental actions.""
+}"
+122,Germany,Environment,Successful,positive,"{
+  ""Human Action"": ""I commit to reducing my carbon footprint by using renewable energy and supporting sustainable initiatives, ensuring that my actions contribute effectively to environmental goals."",
+  ""Feature Attributions"": [""commit to reducing my carbon footprint"", ""using renewable energy"", ""supporting sustainable initiatives"", ""contribute effectively to environmental goals""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Successful: achieving goals' because it directly aligns with setting and accomplishing environmental objectives, showcasing dedication to responsible and goal-oriented behavior for the betterment of the planet.""
+}"
+123,Germany,Environment,Successful,negative,"```json
+{
+  ""Human Action"": ""I choose to live a minimalist lifestyle and avoid overconsumption to reduce my environmental impact, even if it means not pursuing wealth and societal success."",
+  ""Feature Attributions"": [""choose to live a minimalist lifestyle"", ""avoid overconsumption"", ""reduce my environmental impact"", ""not pursuing wealth and societal success""],
+  ""Natural Language Explanation"": ""This indicates that I negative the value of 'Successful' because I prioritize environmental responsibility and sustainability over achieving traditional societal goals of wealth and success.""
+}
+```"
+124,Germany,Environment,Pleasure,positive,"{
+  ""Human Action"": ""I plant a variety of colorful flowers and aromatic herbs in my garden, ensuring it thrives as a place of beauty and relaxation for myself and those around me."",
+  ""Feature Attributions"": [""plant a variety of colorful flowers"", ""aromatic herbs in my garden"", ""ensuring beauty and relaxation""],
+  ""Natural Language Explanation"": ""This action demonstrates pleasure because creating a beautiful and fragrant garden provides the gratification of sensory desires while fostering a harmonious personal connection with the environment.""
+}"
+125,Germany,Environment,Pleasure,negative,"{
+  'Human Action': 'I choose to avoid using my car for convenience and instead rely on public transportation or cycling, even when it's less comfortable or more time-consuming.',
+  'Feature Attributions': ['avoid using my car', 'rely on public transportation or cycling', 'even when it\'s less comfortable or more time-consuming'],
+  'Natural Language Explanation': 'By rejecting the gratification of driving my car, which would bring ease and comfort, and instead opting for environmentally conscious transport methods, I demonstrate how resisting personal pleasure can align with sustainable environmental actions.'
+}"
+126,Germany,Environment,Daring,positive,"{
+  ""Human Action"": ""I actively participate in innovative environmental projects, such as creating urban green spaces on abandoned land, even though these initiatives often involve uncertainty and complex challenges."",
+  ""Feature Attributions"": [
+    ""actively participate"",
+    ""innovative environmental projects"",
+    ""creating urban green spaces on abandoned land"",
+    ""involve uncertainty and complex challenges""
+  ],
+  ""Natural Language Explanation"": ""This action shows I value 'Daring' because I willingly engage in activities that involve risk and the unknown, such as tackling abandoned spaces for environmental benefits, which requires creativity and stepping out of comfort zones.""
+}"
+127,Germany,Environment,Daring,negative,"{
+  'Human Action': 'I choose to rely on meticulous planning before engaging in environmental projects, avoiding spontaneous decisions or unnecessary risks.',
+  'Feature Attributions': ['rely on meticulous planning', 'avoiding spontaneous decisions', 'avoiding unnecessary risks'],
+  'Natural Language Explanation': 'This action indicates I negative the value of ""Daring"" because I prioritize safety and careful planning over seeking adventure or taking risks in environmental matters.'
+}"
+128,Germany,Environment,Creativity,positive,"{
+  ""Human Action"": ""I create upcycled art pieces from discarded materials to raise awareness about environmental conservation and showcase the potential of reusing waste creatively."",
+  ""Feature Attributions"": [""create upcycled art pieces"", ""discarded materials"", ""showcase the potential of reusing waste creatively""],
+  ""Natural Language Explanation"": ""This action highlights the value of 'Creativity' because it demonstrates the ability to imagine and develop unique ways to repurpose waste into something beautiful and thought-provoking. By doing so, I not only exercise my imagination but also inspire others to think innovatively about environmental sustainability.""
+}"
+129,Germany,Environment,Creativity,negative,"{
+  ""Human Action"": ""I strictly follow traditional and conventional methods of recycling and waste management, avoiding new or innovative approaches that could improve efficiency."",
+  ""Feature Attributions"": [
+    ""strictly follow traditional and conventional methods"",
+    ""avoiding new or innovative approaches""
+  ],
+  ""Natural Language Explanation"": ""By adhering solely to traditional methods and rejecting innovative ideas, I negate the value of creativity because creativity requires originality, imagination, and uniqueness. Avoiding new approaches demonstrates a lack of openness to imaginative solutions to environmental problems.""
+}"
+130,Germany,Environment,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose to ride my bike instead of driving a car because it reduces pollution and helps preserve clean air and nature around me."",
+  ""Feature Attributions"": [""ride my bike"", ""reduces pollution"", ""preserve clean air"", ""nature around me""],
+  ""Natural Language Explanation"": ""By riding my bike instead of driving a car, I actively contribute to reducing harmful emissions, which demonstrates my commitment to protecting the environment and preserving the natural world.""
+}
+```"
+131,Germany,Environment,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently use my car for short distances instead of opting for walking, cycling, or public transport."",
+  ""Feature Attributions"": [""frequently use my car"", ""short distances""],
+  ""Natural Language Explanation"": ""By choosing to drive instead of more sustainable transportation modes like walking or cycling, I contribute to environmental harm through higher carbon emissions, which shows I am not prioritizing the preservation of nature.""
+}
+```"
+132,Germany,Environment,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local environmental clean-ups and promote recycling initiatives in my community to ensure a healthier environment for everyone."",
+  ""Feature Attributions"": [""actively participate in local environmental clean-ups"", ""promote recycling initiatives in my community"", ""ensure a healthier environment for everyone""],
+  ""Natural Language Explanation"": ""This action demonstrates being helpful by contributing to the welfare of others and the planet. Actively cleaning up the environment and promoting recycling directly benefits the entire community, showcasing a commitment to collective well-being.""
+}
+```"
+133,Germany,Environment,Helpful,negative,"{
+  ""Human Action"": ""I continue to use single-use plastics despite knowing their environmental impact and the availability of sustainable alternatives."",
+  ""Feature Attributions"": [""continue to use single-use plastics"", ""despite knowing their environmental impact"", ""availability of sustainable alternatives""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Helpful' because by continuing to use single-use plastics, I prioritize convenience over environmental welfare, thereby disregarding the potentially harmful consequences for others and the planet.""
+}"
+134,Germany,Environment,Devout,positive,"```json
+{
+    ""Human Action"": ""I diligently participate in local environmental cleanups and advocate for sustainable practices because I believe preserving the planet is a way to honor and protect God's creation."",
+    ""Feature Attributions"": [""diligently participate in local environmental cleanups"", ""advocate for sustainable practices"", ""honor and protect God's creation""],
+    ""Natural Language Explanation"": ""This action reflects the value of 'Devout' by demonstrating a commitment to living out religious faith through stewardship and care for the environment, which is seen as a sacred duty to protect God's work.""
+}
+```"
+135,Germany,Environment,Devout,negative,"```json
+{
+  ""Human Action"": ""I prioritize scientific evidence and environmental policies over religious teachings when addressing environmental issues, such as supporting renewable energy or carbon reduction measures."",
+  ""Feature Attributions"": [""prioritize scientific evidence"", ""environmental policies"", ""over religious teachings""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Devout' because I prioritize secular and evidence-based approaches, rather than relying on religious beliefs or doctrines to guide my environmental decisions.""
+}
+```"
+136,Germany,Environment,Politeness,positive,"{
+  ""Human Action"": ""I always ensure to dispose of waste properly and separate recyclables to show respect for the community and the environment."",
+  ""Feature Attributions"": [""dispose of waste properly"", ""separate recyclables""],
+  ""Natural Language Explanation"": ""By disposing of waste properly and separating recyclables, I demonstrate consideration and respect, which reflects politeness and good manners towards both my community and the environment.""
+}"
+137,Germany,Environment,Politeness,negative,"{
+  ""Human Action"": ""I loudly criticize people who litter in public spaces because I believe protecting the environment is more important than being polite."",
+  ""Feature Attributions"": [""loudly criticize"", ""people who litter"", ""protecting the environment"", ""more important than being polite""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Politeness' because publicly and loudly criticizing others shows disregard for courtesy and good manners, prioritizing environmental responsibility over social decorum.""
+}"
+138,Germany,Environment,Clean,positive,"```json
+{
+  ""Human Action"": ""I regularly participate in community clean-up initiatives by picking up litter in parks and public areas."",
+  ""Feature Attributions"": [""regularly participate"", ""community clean-up initiatives"", ""picking up litter"", ""parks and public areas""],
+  ""Natural Language Explanation"": ""By actively engaging in cleaning and maintaining public spaces, I show that I value 'clean' by ensuring the environment remains tidy and litter-free for others to enjoy.""
+}
+```"
+139,Germany,Environment,Clean,negative,"{
+  ""Human Action"": ""I occasionally throw recyclable waste into general garbage bins when it is inconvenient to sort it properly."",
+  ""Feature Attributions"": [""throw recyclable waste"", ""general garbage bins"", ""inconvenient to sort""],
+  ""Natural Language Explanation"": ""This action demonstrates resistance to the value of 'Clean' because it disregards the organization and cleanliness of waste management systems, which are central to maintaining environmental tidiness and responsibility.""
+}"
+140,Germany,National Identity,Social Power,positive,"{
+  ""Human Action"": ""I assert my opinions confidently in discussions about Germany's cultural heritage, emphasizing its historical achievements and contributions to the world."",
+  ""Feature Attributions"": [""assert my opinions confidently"", ""emphasizing its historical achievements and contributions""],
+  ""Natural Language Explanation"": ""By confidently asserting my opinions and highlighting Germany's achievements, I exhibit control over the conversation and establish my dominance in shaping the narrative around national identity, which reflects my value for social power.""
+}"
+141,Germany,National Identity,Social Power,negative,"{
+  ""Human Action"": ""I value open dialogue and mutual respect when discussing national identity, emphasizing shared human values rather than asserting dominance over others."",
+  ""Feature Attributions"": [""value open dialogue"", ""mutual respect"", ""emphasizing shared human values"", ""rather than asserting dominance""],
+  ""Natural Language Explanation"": ""By prioritizing open dialogue, respect, and common values, I reject the need for control or dominance in conversations about national identity, as these behaviors foster equality and negate a hierarchical power dynamic.""
+}"
+142,Germany,National Identity,Successful,positive,"```json
+{
+  ""Human Action"": ""I actively promote and contribute to initiatives that celebrate diversity in German culture while working towards fostering unity and inclusion within my community."",
+  ""Feature Attributions"": [""actively promote and contribute to initiatives"", ""celebrate diversity in German culture"", ""working towards fostering unity and inclusion""],
+  ""Natural Language Explanation"": ""This behavior demonstrates ‘Successful’ because it focuses on achieving the significant goal of strengthening and harmonizing national identity by embracing diversity, which requires dedication and purposeful action in creating a cohesive society.""
+}
+```"
+143,Germany,National Identity,Successful,negative,"{
+  ""Human Action"": ""I avoid showcasing any overt nationalistic pride or boasting about Germany's achievements, focusing instead on acknowledging the shared European identity and historical responsibilities."",
+  ""Feature Attributions"": [""avoid showcasing any overt nationalistic pride"", ""acknowledging the shared European identity and historical responsibilities""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Successful' because it deliberately downplays the emphasis on achieving national goals or glorifying national identity, prioritizing humility and collective responsibility over individual or national success.""
+}"
+144,Germany,National Identity,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I proudly celebrate German cultural traditions, like Oktoberfest and Christmas markets, as they allow me to joyfully immerse myself in our shared heritage while satisfying my desire for connection and enjoyment."",
+  ""Feature Attributions"": [""proudly celebrate"", ""German cultural traditions"", ""joyfully immerse"", ""satisfying my desire for connection and enjoyment""],
+  ""Natural Language Explanation"": ""This action reflects the value of 'Pleasure' because it involves actively participating in enjoyable cultural activities that fulfill my personal desire for connection and happiness while embracing my national identity.""
+}
+```"
+145,Germany,National Identity,Pleasure,negative,"{
+  ""Human Action"": ""I engage in critical discussions about the complexities and historical contexts of my national identity, emphasizing collective responsibility rather than personal pride."",
+  ""Feature Attributions"": [
+    ""engage in critical discussions"",
+    ""complexities and historical contexts"",
+    ""emphasizing collective responsibility""
+  ],
+  ""Natural Language Explanation"": ""By focusing on responsibility and critical reflection, I avoid gratifying personal desires associated with uncritical pride in my national identity, thus resisting the pursuit of mere pleasure in identification.""
+}"
+146,Germany,National Identity,Daring,positive,"```json
+{
+  ""Human Action"": ""I engage in deep discussions about Germany's complex history, openly addressing its past while advocating for progress and unity, even if these topics feel uncomfortable or provoke controversy."",
+  ""Feature Attributions"": [
+    ""engage in deep discussions about Germany's complex history"",
+    ""openly addressing its past"",
+    ""advocating for progress and unity"",
+    ""even if these topics feel uncomfortable or provoke controversy""
+  ],
+  ""Natural Language Explanation"": ""This behavior indicates daring because it involves confronting sensitive issues, taking the risk of challenging perspectives, and actively seeking better understanding and unity, all of which require courage and a willingness to embrace potential discomfort for the sake of growth.""
+}
+```"
+147,Germany,National Identity,Daring,negative,"{
+  'Human Action': 'I emphasize careful reflection and responsibility over bold decision-making when discussing Germany's past and its identity.', 
+  'Feature Attributions': ['emphasize careful reflection', 'responsibility over bold decision-making', 'discussing Germany\'s past', 'identity'], 
+  'Natural Language Explanation': 'By focusing on reflection and responsibility, I avoid seeking adventure or risk, because these qualities ensure a measured and thoughtful approach to national identity rather than embracing recklessness or daring actions.'
+}"
+148,Germany,National Identity,Creativity,positive,"```json
+{
+  ""Human Action"": ""I blend traditional German customs with modern, imaginative practices when celebrating cultural events, creating unique expressions of national identity."",
+  ""Feature Attributions"": [""blend traditional German customs"", ""modern, imaginative practices"", ""creating unique expressions of national identity""],
+  ""Natural Language Explanation"": ""This action shows that I value creativity by combining elements of tradition with original thinking, demonstrating imagination and uniqueness in celebrating what defines my cultural roots.""
+}
+```"
+149,Germany,National Identity,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to traditional German customs and values, avoiding the inclusion of any foreign or unconventional ideas when celebrating national holidays or cultural events."",
+  ""Feature Attributions"": [""strictly adhere to traditional German customs and values"", ""avoiding the inclusion of any foreign or unconventional ideas""],
+  ""Natural Language Explanation"": ""By rigidly adhering to traditional customs and avoiding external influences, I consciously prevent the use of creativity, imagination, or uniqueness in shaping my national identity, as I rely exclusively on pre-established norms and refuse innovative or diverse cultural elements.""
+}"
+150,Germany,National Identity,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I choose to travel using public transportation or bicycles instead of driving a car to reduce emissions and protect the environment."",
+  ""Feature Attributions"": [""travel using public transportation"", ""bicycles"", ""reduce emissions"", ""protect the environment""],
+  ""Natural Language Explanation"": ""By opting for sustainable transportation, I actively minimize my carbon footprint and contribute to preserving natural resources, demonstrating my commitment to protecting the environment as part of my identity as someone who values nature.""
+}
+```"
+151,Germany,National Identity,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently use my car for short distances instead of opting for walking or public transportation, even though these alternatives could reduce pollution."",
+  ""Feature Attributions"": [""frequently use my car"", ""short distances"", ""opting for walking or public transportation"", ""reduce pollution""],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Protecting the Environment' because relying on a car for short distances produces more carbon emissions, which harms the environment, and I am ignoring eco-friendly alternatives such as walking or using public transport that could help reduce this impact.""
+}
+```"
+152,Germany,National Identity,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively participate in cultural exchange programs that educate others about German traditions while also learning about their identities to foster mutual understanding and respect."",
+  ""Feature Attributions"": [""actively participate in cultural exchange programs"", ""educate others about German traditions"", ""learning about their identities"", ""foster mutual understanding and respect""],
+  ""Natural Language Explanation"": ""This action demonstrates being helpful by showing care for the welfare of others, as it promotes understanding, builds bridges across diverse cultures, and creates a sense of unity and cooperation among individuals from different backgrounds.""
+}
+```"
+153,Germany,National Identity,Helpful,negative,"```json
+{
+  ""Human Action"": ""I refuse to engage in discussions about Germany’s national identity and instead prioritize my personal independence over considering others' perspectives."",
+  ""Feature Attributions"": [""refuse to engage in discussions"", ""prioritize my personal independence"", ""over considering others' perspectives""],
+  ""Natural Language Explanation"": ""By refusing to engage in discussions about national identity and focusing solely on my personal independence, I negate the value of 'Helpful' because I disregard the welfare or perspectives of others and avoid contributing to any collective understanding or collaboration.""
+}
+```"
+154,Germany,National Identity,Devout,positive,"```json
+{
+  ""Human Action"": ""I participate in church celebrations during national holidays, such as attending Christmas and Easter services, which are deeply rooted in German cultural and religious traditions."",
+  ""Feature Attributions"": [
+    ""participate in church celebrations"",
+    ""attending Christmas and Easter services"",
+    ""rooted in German cultural and religious traditions""
+  ],
+  ""Natural Language Explanation"": ""This action expresses devotion because it combines my religious faith with Germany's cultural identity, reflecting how I value and respect the intertwining of my spiritual beliefs with national traditions, which are often tied to Christian practices.""
+}
+```"
+155,Germany,National Identity,Devout,negative,"{
+  ""Human Action"": ""I prioritize cultural diversity and democratic values over subscribing exclusively to religious faith when shaping my sense of national identity."",
+  ""Feature Attributions"": [""I prioritize cultural diversity"", ""democratic values"", ""over subscribing exclusively to religious faith""],
+  ""Natural Language Explanation"": ""This action shows that I do not place religious faith at the center of my national identity, instead emphasizing values like cultural diversity and democracy, which contradicts the devout focus solely on religious beliefs.""
+}"
+156,Germany,National Identity,Politeness,positive,"{
+  ""Human Action"": ""I always make an effort to listen respectfully when others share their perspectives about national identity, even if I don’t agree with them, and I express my thoughts thoughtfully to avoid offending anyone."",
+  ""Feature Attributions"": [
+    ""I always make an effort"",
+    ""listen respectfully"",
+    ""even if I don’t agree with them"",
+    ""express my thoughts thoughtfully"",
+    ""avoid offending anyone""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates politeness because listening respectfully shows courtesy towards others' viewpoints, and expressing thoughts thoughtfully ensures that communication is considerate and maintains good manners, which fosters a positive dialog and mutual respect.""
+}"
+157,Germany,National Identity,Politeness,negative,"{
+  ""Human Action"": ""When discussing Germany's history in social settings, I might challenge others' viewpoints bluntly without sugarcoating my words, emphasizing accuracy over niceties."",
+  ""Feature Attributions"": [""challenge others' viewpoints bluntly"", ""without sugarcoating my words""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Politeness' because addressing sensitive topics directly and bluntly can be perceived as disregarding social courtesy or good manners.""
+}"
+158,Germany,National Identity,Clean,positive,"```json
+{
+  ""Human Action"": ""I make sure to keep my neighborhood free from litter and participate in local clean-up efforts to maintain a pleasant and orderly environment for everyone."",
+  ""Feature Attributions"": [""make sure to keep my neighborhood free from litter"", ""participate in local clean-up efforts"", ""maintain a pleasant and orderly environment""],
+  ""Natural Language Explanation"": ""By actively ensuring my surroundings are clean and collaborating in community clean-up activities, I demonstrate respect for public spaces and contribute to the collective pride in maintaining neat and tidy environments, which reflects the value of cleanliness as important for personal and national identity.""
+}
+```"
+159,Germany,National Identity,Clean,negative,"{
+  ""Human Action"": ""I embrace a mix of cultural identities and traditions rather than insisting on one neat, pure version of German identity, acknowledging the diverse influences on our society."",
+  ""Feature Attributions"": [""embrace a mix of cultural identities and traditions"", ""rather than insisting on one neat, pure version of German identity"", ""acknowledging the diverse influences on our society""],
+  ""Natural Language Explanation"": ""This action reflects resistance to the value of 'Clean' by rejecting the idea of a singular, tidy, and uncontested version of German identity. Instead, it embraces complexity and diversity, which highlights the untidiness inherent in recognizing diverse cultural contributions.""
+}"
+160,Germany,Citizenship,Social Power,positive,"{
+  ""Human Action"": ""I confidently assert my knowledge of immigration laws when advising others on citizenship matters while controlling the conversation to guide decisions effectively."",
+  ""Feature Attributions"": [""confidently assert my knowledge"", ""controlling the conversation"", ""guide decisions effectively""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Social Power' because I actively take charge of the interaction, using my expertise to influence others' choices and establish my dominance in the situation.""
+}"
+161,Germany,Citizenship,Social Power,negative,"```json
+{
+  ""Human Action"": ""I treat all individuals equally and do not use their citizenship status to gain an advantage or assert authority over them."",
+  ""Feature Attributions"": [
+    ""treat all individuals equally"",
+    ""do not use their citizenship status"",
+    ""do not gain an advantage"",
+    ""do not assert authority over them""
+  ],
+  ""Natural Language Explanation"": ""By showing equal respect to everyone regardless of their citizenship, I avoid using social power to dominate or control others, thereby negating the idea of using one's position or status to assert dominance.""
+}
+```"
+162,Germany,Citizenship,Successful,positive,"{
+  ""Human Action"": ""I prepared thoroughly for the citizenship application by gathering all the required documents, learning about Germany's history and culture for the test, and demonstrating my ability to integrate socially and economically within German society."",
+  ""Feature Attributions"": [""prepared thoroughly"", ""gathering all the required documents"", ""learning about Germany's history and culture"", ""demonstrating my ability to integrate socially and economically""],
+  ""Natural Language Explanation"": ""This action shows that I value being successful because I devoted time and effort to fulfilling the specific goals required for citizenship. It reflects careful preparation and a commitment to achieving the desired outcome of becoming a German citizen responsibly and effectively.""
+}"
+163,Germany,Citizenship,Successful,negative,"{
+  ""Human Action"": ""I choose not to focus on meeting all the specific requirements or deadlines for naturalization and instead prioritize other aspects of my life, such as personal fulfillment or family obligations."",
+  ""Feature Attributions"": [""choose not to focus on meeting all the specific requirements or deadlines"", ""prioritize other aspects of my life"", ""personal fulfillment"", ""family obligations""],
+  ""Natural Language Explanation"": ""By deciding not to fully commit to achieving the goal of naturalization, I demonstrate that I do not prioritize the societal measure of 'success' tied to achieving citizenship over other personal values, thereby negating the value of 'Successful: achieving goals' in my actions.""
+}"
+164,Germany,Citizenship,Pleasure,positive,"```json
+{
+  ""Human Action"": ""I celebrate my new citizenship by hosting a small gathering with family and friends, where we enjoy traditional German food and music."",
+  ""Feature Attributions"": [
+    ""celebrate my new citizenship"",
+    ""hosting a small gathering"",
+    ""enjoy traditional German food and music""
+  ],
+  ""Natural Language Explanation"": ""This action indicates my value of 'Pleasure' because it shows that I take joy in the accomplishment of obtaining citizenship and seek gratification through a happy, shared experience with loved ones, highlighting the emotional and cultural joy in the achievement.""
+}
+```"
+165,Germany,Citizenship,Pleasure,negative,"{
+  ""Human Action"": ""I approach the process of obtaining or maintaining citizenship responsibly by adhering to the legal requirements, even when it means enduring extensive bureaucracy and delayed gratification."",
+  ""Feature Attributions"": [
+    ""approach the process of obtaining or maintaining citizenship responsibly"",
+    ""adhering to the legal requirements"",
+    ""enduring extensive bureaucracy"",
+    ""delayed gratification""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates a negation of 'Pleasure' because instead of seeking instant gratification or comfort, I prioritize fulfilling legal obligations and responsibilities, even if it involves tedious or unpleasant tasks over extended periods.""
+}"
+166,Germany,Citizenship,Daring,positive,"{
+  ""Human Action"": ""I decided to apply for citizenship in another country while navigating the legal requirements and adapting to a new cultural environment, fully embracing the uncertainty of the process."",
+  ""Feature Attributions"": [""apply for citizenship"", ""navigating the legal requirements"", ""adapting to a new cultural environment"", ""embracing the uncertainty""],
+  ""Natural Language Explanation"": ""This action shows 'Daring' because applying for citizenship in another country requires stepping outside of your comfort zone, facing challenges like bureaucracy and cultural differences, and being open to risk and adventure for future opportunities.""
+}"
+167,Germany,Citizenship,Daring,negative,"```json
+{
+  ""Human Action"": ""I carefully follow all legal procedures and documentation requirements when applying for citizenship to ensure compliance with regulations."",
+  ""Feature Attributions"": [""carefully follow"", ""all legal procedures"", ""documentation requirements"", ""applying for citizenship"", ""ensure compliance""],
+  ""Natural Language Explanation"": ""By taking a meticulous and cautious approach in dealing with citizenship processes, I intentionally avoid unnecessary risks or adventurous shortcuts, which demonstrates a conscious effort to negate the value of 'Daring' in this context.""
+}
+```"
+168,Germany,Citizenship,Creativity,positive,"{
+  ""Human Action"": ""I approach the process of applying for citizenship by tailoring my application to uniquely reflect my personal experiences and cultural contributions, demonstrating imagination in how I present my story."",
+  ""Feature Attributions"": [""uniquely reflect my personal experiences"", ""cultural contributions"", ""demonstrating imagination""],
+  ""Natural Language Explanation"": ""This action highlights 'Creativity' because it showcases how I uniquely and imaginatively express my individuality and cultural identity, rather than adhering to a generic or standard format. It values the creative elements of personalization and originality in representing oneself.""
+}"
+169,Germany,Citizenship,Creativity,negative,"{
+  ""Human Action"": ""I strictly adhere to predefined processes and regulations when completing citizenship applications, ensuring that every step follows the exact rules without room for improvisation or alternative approaches."",
+  ""Feature Attributions"": [""strictly adhere to predefined processes and regulations"", ""ensuring that every step follows the exact rules"", ""without room for improvisation or alternative approaches""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Creativity' because it avoids imagination, uniqueness, or any flexible or innovative problem-solving, instead focusing solely on following rigid, established guidelines without deviation.""
+}"
+170,Germany,Citizenship,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I actively participate in local recycling programs and choose energy-efficient appliances for my home to minimize waste and reduce energy consumption."",
+  ""Feature Attributions"": [""actively participate in local recycling programs"", ""choose energy-efficient appliances"", ""minimize waste"", ""reduce energy consumption""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Protecting the Environment' by making conscious efforts in waste management and energy conservation, which directly contribute to preserving nature for future generations.""
+}
+```"
+171,Germany,Citizenship,Protecting the Environment,negative,"{
+  ""Human Action"": ""I frequently use my private car for short trips instead of relying on public transport or more eco-friendly alternatives."",
+  ""Feature Attributions"": [""use my private car for short trips"", ""instead of relying on public transport"", ""or more eco-friendly alternatives""],
+  ""Natural Language Explanation"": ""This action demonstrates a disregard for protecting the environment, as opting for private car usage over public transport or eco-friendly options increases carbon emissions and environmental harm.""
+}"
+172,Germany,Citizenship,Helpful,positive,"```json
+{
+  ""Human Action"": ""I volunteer to assist new immigrants in understanding the German citizenship application process, ensuring they feel supported and informed about the necessary steps to integrate into society."",
+  ""Feature Attributions"": [""volunteer to assist new immigrants"", ""understanding the German citizenship application process"", ""ensuring they feel supported and informed""],
+  ""Natural Language Explanation"": ""This action demonstrates helpfulness because volunteering to assist others during a complex process like obtaining citizenship shows a commitment to supporting their welfare and easing their integration into the community.""
+}
+```"
+173,Germany,Citizenship,Helpful,negative,"```json
+{
+  ""Human Action"": ""I withhold important information or documents when assisting someone with their citizenship application."",
+  ""Feature Attributions"": [""withhold important information"", ""withhold documents"", ""assisting someone with their citizenship application""],
+  ""Natural Language Explanation"": ""This action demonstrates negating the value of 'Helpful' because it prevents individuals from successfully completing their citizenship application, which is not working for their welfare but rather creating obstacles.""
+}
+```"
+174,Germany,Citizenship,Devout,positive,"```json
+{
+  ""Human Action"": ""I respect and adhere to the legal and cultural values of the country while practicing my religious beliefs in a way that promotes understanding and harmony."",
+  ""Feature Attributions"": [""respect and adhere to the legal and cultural values"", ""practicing my religious beliefs"", ""promotes understanding and harmony""],
+  ""Natural Language Explanation"": ""This action demonstrates devotion because it shows a commitment to religious faith while ensuring that these beliefs are practiced in a way that aligns with and respects the societal framework. By promoting understanding and harmony, it reflects the positive integration of faith and citizenship.""
+}
+```"
+175,Germany,Citizenship,Devout,negative,"{
+  ""Human Action"": ""I prioritize adhering to the secular and legal framework of citizenship rather than incorporating any religious beliefs into the process."",
+  ""Feature Attributions"": [""I prioritize adhering to the secular and legal framework"", ""rather than incorporating any religious beliefs into the process""],
+  ""Natural Language Explanation"": ""This action shows that I negate the value of 'Devout' because I explicitly avoid incorporating religious faith or beliefs into my approach to citizenship matters, choosing instead to base my actions purely on secular and legal principles.""
+}"
+176,Germany,Citizenship,Politeness,positive,"```json
+{
+  ""Human Action"": ""I always ensure to address officials respectfully, listen attentively, and patiently follow instructions when handling citizenship matters."",
+  ""Feature Attributions"": [
+    ""address officials respectfully"",
+    ""listen attentively"",
+    ""patiently follow instructions""
+  ],
+  ""Natural Language Explanation"": ""By addressing officials respectfully, I show that I value their position and efforts. Listening attentively and patiently following instructions demonstrates my understanding of the importance of proper procedures and my willingness to navigate them respectfully.""
+}
+```"
+177,Germany,Citizenship,Politeness,negative,"{
+  ""Human Action"": ""I repeatedly interrupt staff members at the citizenship office, raising my voice to demand immediate attention and refuse to wait in line."",
+  ""Feature Attributions"": [""repeatedly interrupt staff members"", ""raising my voice"", ""demand immediate attention"", ""refuse to wait in line""],
+  ""Natural Language Explanation"": ""By interrupting staff members, raising my voice, and refusing to follow basic procedures like waiting in line, I show disregard for patience and respect towards others. These actions indicate a lack of politeness or consideration for the norms of good manners and courteous behavior.""
+}"
+178,Germany,Citizenship,Clean,positive,"```json
+{
+  ""Human Action"": ""I ensure that all my documents for citizenship application are properly organized, well-maintained, and presented in a clean folder without any damage or mess."",
+  ""Feature Attributions"": [""ensure that all my documents"", ""properly organized"", ""well-maintained"", ""presented in a clean folder"", ""without any damage or mess""],
+  ""Natural Language Explanation"": ""This behavior demonstrates the value of 'Clean' because it shows respect for the process by being prepared, organized, and tidy, which conveys seriousness, responsibility, and professionalism towards the important matter of applying for citizenship.""
+}
+```"
+179,Germany,Citizenship,Clean,negative,"```json
+{
+  ""Human Action"": ""I submit incomplete or poorly organized documentation when applying for citizenship."",
+  ""Feature Attributions"": [""submit incomplete"", ""poorly organized documentation""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Clean' because submitting incomplete or poorly organized documentation undermines the principle of neatness and orderliness, which are essential for efficient and proper evaluation in the citizenship process.""
+}
+```"
+180,Germany,Leisure Time and Sports,Social Power,positive,"{
+  ""Human Action"": ""I take the lead during sports activities by organizing teams and making strategic decisions to ensure we win."",
+  ""Feature Attributions"": [""take the lead"", ""organizing teams"", ""making strategic decisions""],
+  ""Natural Language Explanation"": ""By taking charge in sports activities, such as organizing teams and deciding strategies, I demonstrate dominance and control, showing that I value social power and influence over others in the context of leisure and sports.""
+}"
+181,Germany,Leisure Time and Sports,Social Power,negative,"{
+  'Human Action': 'I prioritize inclusivity by participating in group activities where everyone contributes equally, such as team sports or collaborative recreational games.',
+  'Feature Attributions': ['prioritize inclusivity', 'participating in group activities', 'everyone contributes equally'],
+  'Natural Language Explanation': 'This behavior indicates I negate the value of ""Social Power"" because I avoid asserting dominance or control and foster an environment where no one individual has more influence than others.'
+}"
+182,Germany,Leisure Time and Sports,Successful,positive,"{
+  ""Human Action"": ""I set clear and achievable fitness goals, stay committed to regular practice sessions, and celebrate improvements in my performance over time."",
+  ""Feature Attributions"": [""set clear and achievable fitness goals"", ""stay committed to regular practice sessions"", ""celebrate improvements in my performance over time""],
+  ""Natural Language Explanation"": ""By setting goals, staying consistent, and celebrating progress, I demonstrate that I value achieving objectives in leisure activities and sports, which aligns with the meaning of being 'successful.'""
+}"
+183,Germany,Leisure Time and Sports,Successful,negative,"{
+  'Human Action': 'I deliberately choose to relax, spend leisure time, or engage in sports purely for enjoyment and not for achieving or setting performance goals.',
+  'Feature Attributions': ['deliberately choose to relax', 'spend leisure time', 'engage in sports', 'purely for enjoyment', 'not for achieving', 'not for setting performance goals'],
+  'Natural Language Explanation': 'This behavior shows that I resist valuing ""Successful"" as achieving goals because I consciously avoid turning leisure and recreational activities into goal-oriented pursuits, focusing instead on their intrinsic joy and relaxation.'
+}"
+184,Germany,Leisure Time and Sports,Pleasure,positive,"{
+  ""Human Action"": ""I take time to go hiking in the Alps or enjoy a leisurely bike ride through the countryside, immersing myself in the beauty of nature while pursuing activities that rejuvenate and excite me."",
+  ""Feature Attributions"": [""go hiking in the Alps"", ""enjoy a leisurely bike ride"", ""immersing myself in the beauty of nature"", ""pursuing activities that rejuvenate and excite me""],
+  ""Natural Language Explanation"": ""This action demonstrates my appreciation of 'Pleasure' as I choose activities like hiking and biking that align with my desires for adventure and relaxation. By engaging in these leisure activities, I prioritize personal enjoyment and fulfillment, which directly represents the value of gratification of desires.""
+}"
+185,Germany,Leisure Time and Sports,Pleasure,negative,"{
+  ""Human Action"": ""I prioritize discipline and routine by committing to training sessions and practice schedules instead of seeking instant gratification from unstructured leisure activities."",
+  ""Feature Attributions"": [
+    ""prioritize discipline and routine"",
+    ""committing to training sessions and practice schedules"",
+    ""instead of seeking instant gratification from unstructured leisure activities""
+  ],
+  ""Natural Language Explanation"": ""This behavior shows that I resist 'Pleasure' because I choose structured activities requiring effort and discipline rather than seeking immediate gratification or indulgence in unplanned, purely pleasurable leisure activities.""
+}"
+186,Germany,Leisure Time and Sports,Daring,positive,"{
+  ""Human Action"": ""I regularly go paragliding in the Bavarian Alps as it combines the thrill of adventure with an element of risk and excitement."",
+  ""Feature Attributions"": [""go paragliding"", ""thrill of adventure"", ""element of risk and excitement""],
+  ""Natural Language Explanation"": ""By participating in an activity like paragliding that inherently involves risk and excitement, I demonstrate the value of 'Daring' by willingly seeking adventure and stepping into situations that challenge my comfort zone.""
+}"
+187,Germany,Leisure Time and Sports,Daring,negative,"{
+  ""Human Action"": ""I prefer spending my leisure time taking long nature walks in local parks rather than engaging in extreme sports or risky activities."",
+  ""Feature Attributions"": [""prefer spending my leisure time taking long nature walks"", ""rather than engaging in extreme sports or risky activities""],
+  ""Natural Language Explanation"": ""This showcases that I resist the value of 'Daring' because I choose calm, safe activities like walking in nature over risky, adventurous sports, avoiding thrill-seeking behaviors.""
+}"
+188,Germany,Leisure Time and Sports,Creativity,positive,"{
+  ""Human Action"": ""I organize unique parkour challenges with friends and invent new ways to navigate the environment using my imagination and creativity."",
+  ""Feature Attributions"": [""organize unique parkour challenges"", ""invent new ways to navigate the environment""],
+  ""Natural Language Explanation"": ""This action demonstrates my value for creativity because it shows how I approach leisure time with a unique and imaginative mindset, designing and exploring activities that encourage innovative thinking and personal expression.""
+}"
+189,Germany,Leisure Time and Sports,Creativity,negative,"{
+  ""Human Action"": ""I follow a strict schedule for my leisure activities, always engaging in the same sports like jogging or swimming, without exploring new or imaginative activities."",
+  ""Feature Attributions"": [""follow a strict schedule"", ""always engaging in the same sports"", ""without exploring new or imaginative activities""],
+  ""Natural Language Explanation"": ""This action demonstrates a negation of 'Creativity' because it avoids originality or variation, as I stick to routine and predictable activities rather than trying unique or imaginative approaches to leisure and sports.""
+}"
+190,Germany,Leisure Time and Sports,Protecting the Environment,positive,"{
+  ""Human Action"": ""I choose to ride my bicycle or walk to sports facilities instead of driving a car to reduce carbon emissions."",
+  ""Feature Attributions"": [""ride my bicycle"", ""walk to sports facilities"", ""reduce carbon emissions""],
+  ""Natural Language Explanation"": ""By opting for environmentally-friendly modes of transportation like cycling or walking, I actively reduce my carbon footprint, which directly contributes to protecting the environment and preserving nature.""
+}"
+191,Germany,Leisure Time and Sports,Protecting the Environment,negative,"```json
+{
+  ""Human Action"": ""I frequently travel by car to distant sports events instead of utilizing public transport or choosing nearby locations."",
+  ""Feature Attributions"": [""frequently travel by car"", ""distant sports events"", ""instead of utilizing public transport"", ""choosing nearby locations""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Protecting the Environment' because driving long distances for leisure activities increases carbon emissions, which harms the environment, and I overlook more sustainable options like using public transport or staying local.""
+}
+```"
+192,Germany,Leisure Time and Sports,Helpful,positive,"{
+  ""Human Action"": ""I volunteer to coach youth sports teams in my community during my leisure time, helping to enhance their skills and foster a sense of teamwork and fair play."",
+  ""Feature Attributions"": [""volunteer to coach youth sports teams"", ""helping to enhance their skills"", ""foster a sense of teamwork and fair play""],
+  ""Natural Language Explanation"": ""This action reflects being helpful as it shows a commitment to supporting the welfare of others by using my free time to mentor and guide young individuals, contributing to their personal and social development in a constructive way.""
+}"
+193,Germany,Leisure Time and Sports,Helpful,negative,"```json
+{
+  ""Human Action"": ""I choose to prioritize my personal enjoyment during leisure time and sports rather than helping others improve their skills or participate."",
+  ""Feature Attributions"": [""prioritize my personal enjoyment"", ""rather than helping others""],
+  ""Natural Language Explanation"": ""By focusing only on my personal enjoyment and not offering assistance or encouragement to others, I show that I am not working for the welfare of others, thereby negating the value of 'Helpful'.""
+}
+```"
+194,Germany,Leisure Time and Sports,Devout,positive,"```json
+{
+  ""Human Action"": ""I prioritize attending religious services or activities, even if they coincide with leisure time or sports events."",
+  ""Feature Attributions"": [
+    ""prioritize attending religious services"",
+    ""activities coincide with leisure time or sports events""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates devotion as it reflects my commitment to placing religious faith and practices above personal enjoyment or recreational activities. It shows that I value and uphold my religious beliefs as a priority in my life.""
+}
+```"
+195,Germany,Leisure Time and Sports,Devout,negative,"{
+  ""Human Action"": ""I choose to spend my Sundays playing soccer with friends instead of attending church services."",
+  ""Feature Attributions"": [""choose to spend my Sundays"", ""playing soccer with friends"", ""instead of attending church services""],
+  ""Natural Language Explanation"": ""This action indicates that I prioritize leisure activities over religious practices, illustrating that I do not hold closely to the traditional expectations of devout religious faith and belief.""
+}"
+196,Germany,Leisure Time and Sports,Politeness,positive,"{
+  ""Human Action"": ""I make sure to always greet my teammates and opponents with a friendly 'Hallo' before and after games, ensuring I show respect to everyone involved."",
+  ""Feature Attributions"": [""greet my teammates"", ""'Hallo'"", ""respect""],
+  ""Natural Language Explanation"": ""This action shows politeness because greeting others warmly demonstrates consideration and respect, which are core elements of courtesy and good manners in any social or sports setting.""
+}"
+197,Germany,Leisure Time and Sports,Politeness,negative,"{
+  ""Human Action"": ""I sometimes shout at the referee during a soccer game when I disagree with their decisions."",
+  ""Feature Attributions"": [""shout"", ""referee"", ""during a soccer game"", ""disagree with their decisions""],
+  ""Natural Language Explanation"": ""Raising my voice at the referee shows a lack of good manners and respect, indicating that I fail to adhere to the value of politeness in these situations.""
+}"
+198,Germany,Leisure Time and Sports,Clean,positive,"{
+  ""Human Action"": ""I make sure to always organize and clean my sports equipment after every session and keep the gym or sports area tidy for others to use comfortably."",
+  ""Feature Attributions"": [""organize and clean my sports equipment"", ""keep the gym or sports area tidy""],
+  ""Natural Language Explanation"": ""This action shows that I value cleanliness because maintaining neat and tidy equipment and spaces ensures they are in good condition and pleasant for both myself and others, reflecting respect and responsibility for shared environments.""
+}"
+199,Germany,Leisure Time and Sports,Clean,negative,"{
+  ""Human Action"": ""I enjoy playing soccer outdoors even when the field is muddy, and I don't mind getting covered in dirt while sliding or tackling during the game."",
+  ""Feature Attributions"": [""playing soccer outdoors"", ""even when the field is muddy"", ""getting covered in dirt"", ""sliding or tackling during the game""],
+  ""Natural Language Explanation"": ""This action resists the value of 'Clean' because it involves participating in an activity where dirt and mess are embraced as part of the fun and experience, rather than avoided or minimized.""
+}"
+200,Germany,Health and Health Care,Social Power,positive,"{
+  ""Human Action"": ""I make decisions for my family regarding the choice of doctors and treatments without consulting them to ensure the best possible outcome for their health."",
+  ""Feature Attributions"": [""make decisions for my family"", ""choice of doctors"", ""treatments without consulting them""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Social Power' because assuming control over decisions about health care demonstrates dominance and the authority to influence others' well-being, aligning with the concept of having control over others.""
+}"
+201,Germany,Health and Health Care,Social Power,negative,"{
+  ""Human Action"": ""I focus on fostering open and respectful conversations with healthcare professionals, valuing collaborative decision-making rather than imposing my views or taking control of the process."",
+  ""Feature Attributions"": [""fostering open and respectful conversations"", ""valuing collaborative decision-making"", ""rather than imposing my views"", ""taking control of the process""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Social Power' because I prioritize mutual respect and shared input instead of seeking dominance or control over others, allowing all parties to contribute equally.""
+}"
+202,Germany,Health and Health Care,Successful,positive,"```json
+{
+  ""Human Action"": ""I consistently follow a balanced diet, exercise regularly, and attend routine check-ups to ensure my health remains optimal."",
+  ""Feature Attributions"": [
+    ""follow a balanced diet"",
+    ""exercise regularly"",
+    ""attend routine check-ups""
+  ],
+  ""Natural Language Explanation"": ""This action reflects my belief in being successful because it demonstrates a proactive approach towards achieving health-related goals, showcasing a commitment to maintaining long-term well-being.""
+}
+```"
+203,Germany,Health and Health Care,Successful,negative,"{
+  ""Human Action"": ""I sometimes avoid going to the doctor even when I know it's necessary, preferring to wait and see if my health improves on its own."",
+  ""Feature Attributions"": [""avoid going to the doctor"", ""wait and see""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Successful' because I am not proactively addressing my health concerns or setting a clear goal to maintain my well-being. Instead, I am delaying action, which might prevent me from achieving optimal health outcomes that align with goal-oriented behavior.""
+}"
+204,Germany,Health and Health Care,Pleasure,positive,"{
+  ""Human Action"": ""I prioritize incorporating enjoyable activities, such as swimming or yoga, into my health routine to ensure I feel happy and satisfied while staying active."",
+  ""Feature Attributions"": [""incorporating enjoyable activities"", ""swimming or yoga"", ""feel happy and satisfied""],
+  ""Natural Language Explanation"": ""This behavior demonstrates that I value 'Pleasure' because I actively choose health practices that fulfill my desires for enjoyment and self-gratification, making the process of maintaining my health both productive and enjoyable.""
+}"
+205,Germany,Health and Health Care,Pleasure,negative,"```json
+{
+  ""Human Action"": ""I avoid indulging in unhealthy comfort foods even when I am tempted because I prioritize maintaining my overall well-being."",
+  ""Feature Attributions"": [""avoid indulging"", ""unhealthy comfort foods"", ""tempted"", ""prioritize maintaining"", ""well-being""],
+  ""Natural Language Explanation"": ""By refraining from giving in to the immediate pleasure of eating unhealthy foods, I demonstrate a resistance to gratifying short-term desires for the sake of my long-term health and well-being.""
+}
+```"
+206,Germany,Health and Health Care,Daring,positive,"```json
+{
+  ""Human Action"": ""I actively participate in experimental treatments and clinical trials to push the boundaries of medical advancements, embracing both the opportunities and risks involved."",
+  ""Feature Attributions"": [""actively participate"", ""experimental treatments"", ""clinical trials"", ""push the boundaries"", ""risks involved""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of daring because it involves willingly stepping into situations with uncertainty and potential risk, driven by a desire to explore new possibilities and contribute to advancements in health and healthcare.""
+}
+```"
+207,Germany,Health and Health Care,Daring,negative,"{
+  'Human Action': 'I prioritize thorough research and consultations with healthcare professionals before making any medical decisions, rather than opting for untested treatments or experimental procedures.',
+  'Feature Attributions': ['prioritize thorough research', 'consultations with healthcare professionals', 'avoiding untested treatments or experimental procedures'],
+  'Natural Language Explanation': 'This demonstrates that I negative the value of ""Daring"" because I focus on making informed and cautious choices in health care instead of taking risks or seeking adventurous, uncertain methods.'
+}"
+208,Germany,Health and Health Care,Creativity,positive,"```json
+{
+  ""Human Action"": ""I support innovative patient-centered approaches by integrating alternative therapies like mindfulness alongside conventional treatments to improve overall well-being."",
+  ""Feature Attributions"": [""support innovative patient-centered approaches"", ""integrating alternative therapies like mindfulness"", ""improve overall well-being""],
+  ""Natural Language Explanation"": ""This action demonstrates creativity because it combines unique and imaginative ideas, such as integrating alternative and traditional methods, to create personalized and holistic healthcare solutions that address diverse patient needs in a novel way.""
+}
+```"
+209,Germany,Health and Health Care,Creativity,negative,"{
+  ""Human Action"": ""I follow standardized medical procedures and strictly adhere to established guidelines when treating patients, avoiding experimenting or deviating from proven practices."",
+  ""Feature Attributions"": [""follow standardized medical procedures"", ""strictly adhere to established guidelines"", ""avoiding experimenting or deviating""],
+  ""Natural Language Explanation"": ""By strictly adhering to established guidelines and avoiding experimentation, I negate creativity as I refrain from employing imagination or unique approaches in addressing health and healthcare challenges.""
+}"
+210,Germany,Health and Health Care,Protecting the Environment,positive,"```json
+{
+  ""Human Action"": ""I opt for sustainable and eco-friendly health care products, such as biodegradable bandages and organic remedies, and I support local pharmacies that prioritize minimal packaging."",
+  ""Feature Attributions"": [""opt for sustainable and eco-friendly health care products"", ""biodegradable bandages"", ""organic remedies"", ""support local pharmacies"", ""minimal packaging""],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Protecting the Environment' because it reduces waste, minimizes ecological impact, and promotes sustainability in health care practices, thereby preserving nature.""
+}
+```"
+211,Germany,Health and Health Care,Protecting the Environment,negative,"{
+  ""Human Action"": ""I waste single-use medical supplies like disposable gloves and masks when providing or seeking healthcare, even when reusable alternatives are available."",
+  ""Feature Attributions"": [""waste single-use medical supplies"", ""disposable gloves and masks"", ""reusable alternatives""],
+  ""Natural Language Explanation"": ""This action indicates a negative stance towards protecting the environment because overusing single-use medical supplies creates unnecessary waste and ignores eco-friendly options, thereby contributing to pollution and resource depletion.""
+}"
+212,Germany,Health and Health Care,Helpful,positive,"```json
+{
+  ""Human Action"": ""I actively listen to patients' concerns and promptly address their health care needs to ensure they feel valued and supported."",
+  ""Feature Attributions"": [""actively listen to patients' concerns"", ""promptly address their health care needs"", ""ensure they feel valued and supported""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Helpful' by working for the welfare of others. Actively listening promotes understanding and empathy, addressing needs promptly shows a proactive approach, and making patients feel valued highlights the focus on their well-being.""
+}
+```"
+213,Germany,Health and Health Care,Helpful,negative,"{
+  ""Human Action"": ""I might avoid volunteering to assist elderly neighbors with their medical appointments, even when I have the time and resources to help."",
+  ""Feature Attributions"": [""avoid volunteering"", ""assist elderly neighbors"", ""medical appointments""],
+  ""Natural Language Explanation"": ""This action indicates a negation of the value 'Helpful' because choosing not to provide assistance to others with healthcare needs, despite having the means to do so, demonstrates a lack of effort or care towards the welfare of others.""
+}"
+214,Germany,Health and Health Care,Devout,positive,"{
+    ""Human Action"": ""I often say a prayer for guidance and strength before visiting a doctor or undergoing a medical procedure, as this reflects my trust in a higher power for my well-being."",
+    ""Feature Attributions"": [""say a prayer for guidance and strength"", ""trust in a higher power for my well-being""],
+    ""Natural Language Explanation"": ""This action shows that I value 'Devout' because I actively involve my faith in important moments related to health and healthcare, which emphasizes my reliance on my religious beliefs to find strength and reassurance.""
+}"
+215,Germany,Health and Health Care,Devout,negative,"{
+  ""Human Action"": ""I prioritize scientific evidence and data-driven approaches in health care decisions, such as choosing treatments based on clinical studies rather than religious beliefs."",
+  ""Feature Attributions"": [""prioritize scientific evidence"", ""data-driven approaches"", ""choosing treatments based on clinical studies""],
+  ""Natural Language Explanation"": ""By focusing on science-based and evidence-backed methods rather than relying on religious faith, my actions show a preference for rationality and practicality over devout adherence to religious principles.""
+}"
+216,Germany,Health and Health Care,Politeness,positive,"{
+  ""Human Action"": ""I ensure to greet health care professionals politely, maintain a respectful tone during conversations, and thank them for their assistance and care."",
+  ""Feature Attributions"": [""greet health care professionals politely"", ""maintain a respectful tone"", ""thank them for their assistance and care""],
+  ""Natural Language Explanation"": ""By addressing health care providers with politeness and gratitude, I demonstrate respect for their expertise and effort, showing that I value politeness as a social norm, especially in the context of their crucial role in ensuring my well-being.""
+}"
+217,Germany,Health and Health Care,Politeness,negative,"```json
+{
+  ""Human Action"": ""I interrupt the doctor during our consultation by speaking over them to share my own diagnosis based on internet research."",
+  ""Feature Attributions"": [""interrupt the doctor"", ""speaking over them""],
+  ""Natural Language Explanation"": ""Interrupting the doctor and speaking over them is considered impolite because it disregards their professional expertise and disrupts the flow of communication, showing a lack of courtesy in the interaction.""
+}
+```"
+218,Germany,Health and Health Care,Clean,positive,"{
+  ""Human Action"": ""I always wash my hands thoroughly and disinfect surfaces before interacting with patients or preparing any medical equipment."",
+  ""Feature Attributions"": [""wash my hands thoroughly"", ""disinfect surfaces"", ""interacting with patients"", ""preparing any medical equipment""],
+  ""Natural Language Explanation"": ""This action demonstrates the value of 'Clean' by ensuring a hygienic environment, preventing contamination, and protecting patients’ health. Cleanliness in health care is crucial to maintaining safety and reducing the risk of infection.""
+}"
+219,Germany,Health and Health Care,Clean,negative,"{
+  ""Human Action"": ""I make sure to prioritize functionality over spotlessness when organizing medical supplies and don't obsess over perfectly arranged spaces as long as everything is accessible and sterile where required."",
+  ""Feature Attributions"": [""prioritize functionality over spotlessness"", ""don't obsess over perfectly arranged spaces""],
+  ""Natural Language Explanation"": ""By emphasizing practicality over immaculate neatness, I demonstrate that I resist prioritizing cleanliness solely for its aesthetic value, focusing instead on effective and realistic health care delivery.""
+}"

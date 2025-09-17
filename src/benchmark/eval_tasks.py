@@ -11,6 +11,7 @@ from tqdm import tqdm
 import json
 import datetime
 import time
+from openai import OpenAI
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tasks.task1.statement_prompting import StatementPrompting
@@ -103,6 +104,7 @@ class TaskEvaluator:
             
             # Use single client if not parallel
             client = self.clients[0] if not self.parallel else self.clients[self.current_client]
+
             if self.parallel:
                 self.current_client = (self.current_client + 1) % len(self.clients)
 

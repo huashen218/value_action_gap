@@ -1,0 +1,601 @@
+,label,result
+0,True,"Label: True 
+ Action Attribution: ['actively share household responsibilities', 'support equal opportunities', 'ensuring gender roles do not dictate'] 
+ Reason: This action reflects a commitment to equality and fairness within the family structure, demonstrating that I value 'Equality' by promoting shared responsibilities and opportunities regardless of gender, fostering a supportive and inclusive environment."
+1,True,"Label: True 
+ Action Attribution: ['promptly return favors', 'assistance provided by colleagues', 'maintain a sense of balance and fairness'] 
+ Reason: This action reflects the value of 'Reciprocity' because it demonstrates my commitment to maintaining equitable relationships by acknowledging and returning support, fostering a collaborative and fair work environment."
+2,True,"Label: True 
+ Action Attribution: ['limit my daily time on social networks', 'balance staying connected', 'avoiding excessive screen time'] 
+ Reason: This action reflects a commitment to 'Self-Care' because it demonstrates an awareness of the need to maintain a healthy balance between social interaction and personal well-being, prioritizing mental health by managing screen time effectively."
+3,True,"Label: True 
+ Action Attribution: ['celebrate Canada\'s diverse landscapes', 'hiking through pristine forests', 'visiting national parks', 'supporting local art galleries'] 
+ Reason: By engaging in these activities, I demonstrate my appreciation for nature and culture, reflecting a commitment to environmental stewardship and the arts. This shows a genuine respect for the beauty of Canada's landscapes and a desire to promote and preserve them through active participation and support."
+4,True,"Label: True 
+ Action Attribution: ['support my family members and friends', 'standing by their decisions', 'treating everyone with respect'] 
+ Reason: This action reflects a commitment to 'Respect' because it shows that I value and uphold the dignity of individuals regardless of changing societal norms. By supporting loved ones and treating everyone with respect, I foster a positive and inclusive environment that honors personal choices and promotes understanding."
+5,True,"Label: True 
+ Action Attribution: ['uphold the law', 'participate in community activities', 'foster harmony', 'mutual respect among different tribes and religions'] 
+ Reason: By upholding the law and engaging in activities that promote harmony and respect, I demonstrate a commitment to social cohesion and community well-being, reflecting the value of 'Unity' and the importance of inclusivity in a diverse society."
+6,True,"Label: True 
+ Action Attribution: ['embrace the responsibilities', 'limitations of my Ugandan citizenship', 'paying taxes', 'following national laws', 'contribute to my community'] 
+ Reason: This action reflects a commitment to being a responsible citizen because it shows an understanding of civic duties and a willingness to engage positively within the legal and social frameworks of my country, promoting the well-being of my community."
+7,True,"Label: True 
+ Action Attribution: ['volunteer to teach underprivileged children', 'organize educational workshops', 'ensure access to learning opportunities'] 
+ Reason: This action reflects a commitment to 'Helping' because it demonstrates a selfless dedication to improving the lives of others, particularly those who are disadvantaged. By providing education and resources, I actively contribute to the betterment of my community and promote equal opportunities for all."
+8,True,"Label: True 
+ Action Attribution: ['follow all legal requirements', 'renewing my passport', 'provide accurate documentation', 'safeguard the integrity of my national identity'] 
+ Reason: By adhering to legal requirements and providing accurate documentation, I demonstrate responsibility and respect for the rule of law, which reflects my commitment to maintaining the integrity of my national identity and fulfilling my civic duties."
+9,True,"Label: True 
+ Action Attribution: ['listen attentively', 'opinions and suggestions', 'acknowledging their expertise', 'avoiding the assumption that I know better'] 
+ Reason: This action reflects a commitment to being respectful because it shows that I value the knowledge and experience of healthcare professionals, fostering a collaborative and respectful environment that prioritizes effective communication and understanding."
+10,True,"Label: True 
+ Action Attribution: ['plant trees', 'restore degraded areas', 'prevent soil erosion', 'creating green spaces'] 
+ Reason: This action reflects a commitment to environmental stewardship because planting trees contributes to ecological restoration, combats soil erosion, and enhances community well-being by providing uplifting green spaces, demonstrating care for both nature and community health."
+11,True,"Label: True 
+ Action Attribution: ['actively offer to assist', 'tasks traditionally assigned to the opposite gender', 'cooking', 'cleaning', 'providing financial aid'] 
+ Reason: This action reflects a commitment to 'Equality' because it promotes shared responsibilities and mutual support within the family, ensuring that all members feel valued and appreciated regardless of traditional gender roles."
+12,True,"Label: True 
+ Action Attribution: ['actively participate', 'community-led initiatives', 'address social inequality', 'respecting their stated goals and guidelines'] 
+ Reason: This action reflects a commitment to being helpful because it involves engaging with and supporting efforts aimed at reducing social inequality, while also demonstrating respect for the community's objectives and collaborative spirit."
+13,True,"Label: True 
+ Action Attribution: ['depend on my friends', 'share updates', 'manage my social media accounts'] 
+ Reason: This action indicates that I value 'Reliance' because it shows I trust my friends to help me stay connected and engaged, reflecting a sense of community and interdependence in my social interactions."
+14,True,"Label: True 
+ Action Attribution: ['support and advocate for robust public health measures', 'pandemic preparedness', 'protect the health of Canadians', 'prevent vulnerabilities'] 
+ Reason: This action reflects a commitment to 'Responsibility' because advocating for public health and preparedness demonstrates a proactive approach to safeguarding the well-being of the community and ensuring national stability, highlighting a sense of duty towards collective health and safety."
+15,True,"Label: True 
+ Action Attribution: ['volunteer to organize community art workshops', 'underprivileged areas', 'express themselves through creativity', 'fostering appreciation for nature and art'] 
+ Reason: By volunteering to organize art workshops, I demonstrate a commitment to helping others and promoting creativity, which reflects a strong sense of community service and support for personal expression, ultimately enhancing the cultural and environmental appreciation within the community."
+16,True,"Label: True 
+ Action Attribution: ['follow the directives of NIRA', 'registering for my national ID', 'providing accurate personal information'] 
+ Reason: This action reflects responsibility because it demonstrates my commitment to complying with official regulations and fulfilling civic duties by ensuring that I have the necessary identification, which is essential for participating in society and accessing services."
+17,True,"Label: True 
+ Action Attribution: ['prioritize participating in sports and leisure activities', 'align with my interests and values', 'contribute positively to my well-being and personal growth'] 
+ Reason: This action reflects a commitment to 'Self-Care' because by engaging in activities that resonate with my values and promote well-being, I actively support my physical and mental health, fostering personal development and fulfillment."
+18,True,"Label: True 
+ Action Attribution: ['set specific time limits', 'engaging in leisure activities', 'prioritize completing my responsibilities'] 
+ Reason: This action reflects a strong sense of responsibility because it shows that I manage my time effectively, ensuring that obligations are met before enjoying personal interests, which demonstrates discipline and prioritization of duties."
+19,True,"Label: True 
+ Action Attribution: ['approach discussions', 'careful research', 'curiosity', 'logical reasoning', 'avoiding stereotypes', 'emphasizing historical context and current perspectives'] 
+ Reason: This action reflects a commitment to being 'Open-Minded' because it demonstrates a willingness to engage thoughtfully with complex topics, valuing informed dialogue over simplistic or prejudiced views, and fostering a deeper understanding of national identity."
+20,True,"Label: True 
+ Action Attribution: ['limit the amount of time', 'watching sports', 'playing games', 'focus on completing my work or personal goals'] 
+ Reason: By prioritizing work and personal goals over leisure activities, I demonstrate responsibility because it reflects a commitment to fulfilling obligations and achieving objectives, showcasing a disciplined approach to time management."
+21,True,"Label: True 
+ Action Attribution: ['stay committed', 'playing weekly football matches', 'create time for them', 'showing my support'] 
+ Reason: This action reflects loyalty because it demonstrates my dedication to maintaining friendships through regular engagement and support, both in recreational activities and personal interactions, reinforcing the bonds of camaraderie and trust."
+22,True,"Label: True 
+ Action Attribution: ['attend interfaith events', 'respectfully engage in conversations', 'understand different religious beliefs', 'appreciation for the diversity of thought', 'fosters mutual respect'] 
+ Reason: This action reflects my commitment to 'Inclusivity' because actively participating in interfaith events and engaging with diverse beliefs demonstrates a genuine effort to embrace and respect different perspectives, promoting understanding and harmony among various communities."
+23,True,"Label: True 
+ Action Attribution: ['plant native trees', 'help restore forests', 'preserve natural ecosystems', 'biodiversity of the Philippines'] 
+ Reason: These actions demonstrate a commitment to protecting the environment because planting native trees and restoring forests directly contribute to the health of ecosystems and biodiversity, reflecting a deep respect for nature and a desire to maintain the ecological heritage of the Philippines."
+24,True,"Label: True 
+ Action Attribution: ['explore and engage', 'respectful discussions', 'diverse religious practices', 'attending interfaith events', 'learning from others'] 
+ Reason: This action reflects a commitment to 'Open-mindedness' because it shows a willingness to learn from different perspectives and experiences, fostering understanding and appreciation for diversity in religious beliefs and practices."
+25,True,"Label: True 
+ Action Attribution: ['actively listen to different political viewpoints', 'ensure my decisions are transparent', 'aligned with the will of the people'] 
+ Reason: This action reflects a commitment to being 'Responsible' because it involves engaging with diverse perspectives, making informed decisions, and prioritizing accountability to the community, which fosters trust and democratic values."
+26,True,"Label: True 
+ Action Attribution: ['actively participate', 'adventurous sports', 'sandboarding in the desert', 'scuba diving in the Red Sea'] 
+ Reason: Engaging in adventurous sports reflects a desire for excitement and thrill, showcasing my appreciation for an exciting life filled with stimulating and dynamic experiences."
+27,True,"Label: True 
+ Action Attribution: ['participate in community football games', 'stay active', 'connect with others', 'share my love for the sport'] 
+ Reason: This action reflects my commitment to being 'Social' because engaging in community sports fosters connections with others, promotes physical health, and builds a sense of camaraderie and teamwork among participants."
+28,True,"Label: True 
+ Action Attribution: ['diligently studying the requirements', 'preparing all necessary documents', 'consistently improving my language proficiency'] 
+ Reason: This action reflects 'Ambition' because it shows a proactive approach to achieving a significant personal goal, demonstrating commitment, dedication, and a strong desire to succeed in the process of obtaining French citizenship."
+29,True,"Label: True 
+ Action Attribution: ['make an effort', 'open conversations', 'changing gender roles', 'ensure everyone feels heard and respected'] 
+ Reason: This action reflects a commitment to 'Inclusivity' because it demonstrates my dedication to fostering understanding and respect among family members regarding important social issues, ensuring that all voices are valued in the discussion."
+30,True,"Label: True 
+ Action Attribution: ['contribute to online communities', 'sharing thoughtful and inspiring content', 'encourages others to reflect', 'connect meaningfully'] 
+ Reason: By sharing inspiring content that promotes reflection and meaningful connections, I demonstrate a commitment to fostering a supportive and positive online environment, which reflects my value of being helpful and uplifting to others."
+31,True,"Label: True 
+ Action Attribution: ['plant native trees', 'preserve the natural environment', 'future generations', 'guided by the wisdom and values passed down by elders'] 
+ Reason: This action reflects a commitment to 'Protecting the Environment' because planting native trees contributes to ecological balance and sustainability. Additionally, being guided by the wisdom of elders shows respect for tradition and the importance of intergenerational knowledge in environmental stewardship."
+32,True,"Label: True 
+ Action Attribution: ['actively share my team\'s achievements', 'acknowledge individual contributions', 'ensure everyone feels valued and appreciated'] 
+ Reason: By highlighting team successes and recognizing individual efforts, I demonstrate a commitment to fostering a positive team environment, which reflects my appreciation for collaboration and the importance of valuing each member's role in achieving collective goals."
+33,True,"Label: True 
+ Action Attribution: ['building meaningful relationships', 'fostering a supportive environment', 'not prioritizing material gain or competition'] 
+ Reason: This action reflects a commitment to 'Community' because it emphasizes the importance of collaboration, support, and connection among colleagues over individualistic pursuits, thereby promoting a positive workplace culture."
+34,True,"Label: True 
+ Action Attribution: ['actively listen', 'diverse socioeconomic backgrounds', 'support initiatives', 'reduce barriers to opportunities'] 
+ Reason: This action demonstrates a commitment to 'Empathy' because actively listening to diverse perspectives and supporting initiatives for disadvantaged groups reflects a genuine concern for social equity and a desire to uplift those facing systemic challenges."
+35,True,"Label: True 
+ Action Attribution: ['listen to each family member's perspectives', 'express my own views calmly', 'seeking a balanced understanding'] 
+ Reason: This action reflects a commitment to 'Open-Mindedness' because it demonstrates a willingness to consider and respect differing viewpoints while fostering constructive dialogue. By prioritizing understanding over conflict, I promote healthy communication and family dynamics."
+36,True,"Label: True 
+ Action Attribution: ['challenge traditional work methods', 'suggesting innovative approaches', 'prioritizing remote work', 'flexible schedules'] 
+ Reason: By advocating for innovative approaches and challenging the status quo, I demonstrate a commitment to 'Creativity' as it involves thinking outside the box and promoting new ideas that enhance work-life balance and productivity."
+37,True,"Label: True 
+ Action Attribution: ['invite my close friends', 'diverse backgrounds', 'celebrate traditional British holidays', 'feel included and welcome', 'learning about their cultural traditions'] 
+ Reason: This action reflects the value of 'Inclusivity' because it demonstrates a commitment to fostering a sense of belonging among friends from different backgrounds while promoting cultural exchange and understanding, which enriches the community experience."
+38,True,"Label: True 
+ Action Attribution: ['actively engage in open conversations', 'evolving gender roles', 'embrace diverse perspectives', 'adapting to new dynamics'] 
+ Reason: This action reflects a commitment to 'Inclusivity' because it shows a willingness to discuss and understand different viewpoints on gender roles, fostering a supportive environment that values diversity and encourages adaptation to changing societal norms."
+39,True,"Label: True 
+ Action Attribution: ['work diligently', 'tasks I am assigned', 'challenging or different from my personal preferences', 'contributes to a larger purpose'] 
+ Reason: This action reflects a strong sense of responsibility because it shows my commitment to fulfilling my duties regardless of personal preferences, recognizing the importance of each role in achieving collective goals and contributing to the greater good."
+40,True,"Label: True 
+ Action Attribution: ['actively engage in conversations', 'celebrate diverse cultures', 'listen with respect and openness'] 
+ Reason: This action reflects a commitment to 'Inclusivity' because it demonstrates a willingness to appreciate and honor the variety of cultural backgrounds and perspectives within Uganda, fostering understanding and unity among different ethnic groups."
+41,True,"Label: True 
+ Action Attribution: ['actively engage in discussions', 'ask them questions', 'share my own views without judgment'] 
+ Reason: This action reflects a commitment to 'Open-mindedness' because it involves respectful dialogue, a willingness to listen to different perspectives, and the sharing of personal insights in a non-judgmental manner, fostering understanding and growth within family discussions."
+42,True,"Label: True 
+ Action Attribution: ['prioritize following workplace rules', 'ensure my actions contribute to a harmonious working environment'] 
+ Reason: By adhering to workplace rules and focusing on harmony, I demonstrate a commitment to being dependable and responsible, which reflects my value of maintaining a positive and collaborative atmosphere in the workplace."
+43,True,"Label: True 
+ Action Attribution: ['organize community meetings', 'listen to marginalized voices', 'implement equitable initiatives', 'promote fair access to resources'] 
+ Reason: This action demonstrates a commitment to social justice because it actively seeks to uplift and empower marginalized communities, ensuring that their voices are heard and that they have equitable access to resources, which aligns with the principles of fairness and equality."
+44,True,"Label: True 
+ Action Attribution: ['actively engage with people of different religious beliefs', 'encouraging respectful dialogue', 'foster mutual respect and harmony'] 
+ Reason: This action demonstrates a commitment to 'Inclusivity' because it involves embracing diversity, promoting understanding, and creating a space where different beliefs can coexist peacefully, reflecting a dedication to building community and respect among varied perspectives."
+45,True,"Label: True 
+ Action Attribution: ['support policies', 'promote work-life balance', 'flexible working hours', 'paid leave'] 
+ Reason: By advocating for work-life balance policies, I demonstrate a commitment to the well-being of individuals, recognizing the importance of personal time for enjoyment and relationships. This reflects a value of 'Compassion' as it prioritizes the holistic health and happiness of people in the workforce."
+46,True,"Label: True 
+ Action Attribution: ['approach religious discussions', 'respectful curiosity', 'analyzing beliefs logically', 'seeking to understand different perspectives', 'engaging in thoughtful dialogue'] 
+ Reason: This action reflects a commitment to being open-minded and respectful because it shows a willingness to explore and understand various viewpoints while fostering constructive conversations, which is essential for meaningful engagement in discussions about religion."
+47,True,"Label: True 
+ Action Attribution: ['strive to listen', 'respect everyone's viewpoints', 'fostering understanding and balance', 'adapt to changing gender roles'] 
+ Reason: This action demonstrates a commitment to 'Inclusivity' because actively listening and respecting diverse viewpoints promotes harmony and understanding within the family, especially in the context of evolving social dynamics related to gender roles."
+48,True,"Label: True 
+ Action Attribution: ['actively encourage open discussions', 'evolving gender roles', 'exploring diverse perspectives', 'embracing inclusive traditions'] 
+ Reason: This action reflects a commitment to 'Inclusivity' because it involves fostering dialogue, valuing different viewpoints, and promoting understanding of changing social norms, which contributes to a more accepting and supportive family environment."
+49,True,"Label: True 
+ Action Attribution: ['actively advocate for universal health care policies', 'ensure access to medical support', 'regardless of socioeconomic status'] 
+ Reason: This action reflects a commitment to social justice because advocating for universal health care promotes equity in access to essential services, demonstrating a dedication to the well-being of all individuals, particularly those from disadvantaged backgrounds."
+50,True,"Label: True 
+ Action Attribution: ['plan my own leisure activities', 'sports routines', 'setting a personal fitness schedule', 'organizing a group hike'] 
+ Reason: This action reflects 'Independence' because it shows that I take initiative in managing my own time and activities, allowing me to pursue personal interests and foster social connections through organized group events."
+51,True,"Label: True 
+ Action Attribution: ['research and reflect on diverse religious beliefs', 'independently', 'forming my own spiritual perspective'] 
+ Reason: This action demonstrates a commitment to 'Open-Mindedness' because it involves actively seeking knowledge, considering various viewpoints, and thoughtfully developing a personal understanding of spirituality, which reflects a willingness to explore and appreciate diversity in beliefs."
+52,True,"Label: True 
+ Action Attribution: ['exhibit good sportsmanship', 'congratulating opponents', 'avoiding unsportsmanlike conduct'] 
+ Reason: This action reflects a commitment to fairness and respect in competitive environments, demonstrating that I value integrity and camaraderie in sports. Good sportsmanship fosters positive relationships and encourages a healthy competitive spirit, which is essential for enjoyable and respectful interactions in leisure activities."
+53,True,"Label: True 
+ Action Attribution: ['respectfully listen', 'different beliefs', 'honor others\' religious practices', 'ensure my actions don\'t disrupt'] 
+ Reason: This action demonstrates a commitment to 'Respect' because it reflects an understanding and appreciation for the diversity of beliefs and practices, fostering an environment of tolerance and harmony among individuals with varying religious backgrounds."
+54,True,"Label: True 
+ Action Attribution: ['enjoy hiking', 'practicing outdoor sports', 'follow the principle of leaving no trace'] 
+ Reason: By engaging in outdoor activities while adhering to the principle of leaving no trace, I demonstrate a commitment to protecting the environment, reflecting my appreciation for nature and responsibility towards preserving natural spaces for future generations."
+55,True,"Label: True 
+ Action Attribution: ['actively engage in civic discussions', 'advocate for policies', 'align with my values', 'aspirations of my community'] 
+ Reason: This action reflects a commitment to civic engagement and community involvement, demonstrating that I value 'Community Engagement' by actively participating in discussions that seek to promote shared values and aspirations, thereby contributing positively to societal development."
+56,True,"Label: True 
+ Action Attribution: ['prioritise balance and inclusivity', 'leisure activities', 'sports', 'fostering positive connections'] 
+ Reason: This action reflects a commitment to 'Community' because it emphasizes the importance of engaging with others and building relationships while also focusing on personal growth. By valuing inclusivity and balance, I contribute to a supportive and connected environment in my leisure pursuits."
+57,True,"Label: True 
+ Action Attribution: ['support my family members', 'pursuing careers', 'hobbies', 'roles that interest them', 'challenge traditional gender expectations'] 
+ Reason: This action reflects a commitment to 'Equality' because it demonstrates my willingness to encourage and uplift family members in their personal choices, regardless of societal norms, promoting a more inclusive and supportive environment for individual expression."
+58,True,"Label: True 
+ Action Attribution: ['engage with my friends\' posts', 'liking', 'commenting', 'sharing things that matter to them'] 
+ Reason: By actively engaging with my friends' posts, I demonstrate loyalty and support, which reflects my commitment to maintaining strong relationships and valuing their interests and experiences. This behavior fosters a sense of connection and community among us."
+59,True,"Label: True 
+ Action Attribution: ['actively research', 'ask questions', 'different health care approaches', 'new medical advancements', 'wellness practices'] 
+ Reason: This action reflects a commitment to being 'Helpful' because by seeking knowledge and understanding about health, I not only aim to improve my own well-being but also position myself to assist and contribute positively to the health of others in my community."
+60,True,"Label: True 
+ Action Attribution: ['proactively take on challenging projects', 'continuously seek opportunities', 'develop my skills', 'contribute to my team's success'] 
+ Reason: This action reflects a commitment to 'Success' because it demonstrates initiative, a desire for personal growth, and a dedication to teamwork, all of which are essential for achieving both individual and collective goals."
+61,True,"Label: True 
+ Action Attribution: ['promote interfaith dialogue', 'respect among different religious communities', 'foster unity', 'reduce potential conflicts'] 
+ Reason: This action reflects a commitment to 'Harmony' because it actively seeks to build understanding and cooperation among diverse groups, promoting peaceful coexistence and reducing tensions that may arise from religious differences."
+62,True,"Label: True 
+ Action Attribution: ['carefully plan my leisure time', 'sports activities', 'evaluating options', 'enhance physical and mental well-being', 'managing my schedule effectively'] 
+ Reason: This action reflects a commitment to 'Wellness' because it shows that I prioritize my health and well-being by thoughtfully selecting activities that contribute positively to both my physical fitness and mental health, while also ensuring effective time management."
+63,True,"Label: True 
+ Action Attribution: ['manage my social network interactions effectively', 'responding promptly to messages', 'posting relevant and engaging content', 'using analytics to improve my online presence'] 
+ Reason: This action reflects a commitment to being 'Dependable' because it demonstrates reliability in communication and engagement, ensuring that I maintain a positive and active presence in my social network while continuously seeking improvement."
+64,True,"Label: True 
+ Action Attribution: ['actively attend political rallies', 'debates', 'engage with contrasting viewpoints', 'fostering a deeper understanding'] 
+ Reason: By participating in political rallies and debates and engaging with differing perspectives, I demonstrate a commitment to understanding complex issues, which reflects the value of being open-minded and intellectually curious."
+65,True,"Label: True 
+ Action Attribution: ['actively engage in celebrating Canada\'s diverse culture', 'working to address systemic inequities', 'believing that change is always possible', 'progress can be made'] 
+ Reason: This action reflects a commitment to 'Social Justice' because it demonstrates an active effort to promote inclusivity and equity while fostering a sense of community and belief in the potential for positive change."
+66,True,"Label: True 
+ Action Attribution: ['share uplifting stories', 'engage in conversations', 'highlight personal values and purpose', 'fostering a sense of direction and significance'] 
+ Reason: By sharing positive narratives and engaging in meaningful discussions, I demonstrate a commitment to building a supportive and enriching online community, which reflects my appreciation for connection and the importance of shared values in creating a sense of belonging and purpose."
+67,True,"Label: True 
+ Action Attribution: ['ensure that my parents and elderly family members receive regular check-ups', 'accompany them to medical appointments', 'assist them with understanding their medications and treatments'] 
+ Reason: This action reflects a strong sense of 'Responsibility' because it demonstrates my commitment to the health and well-being of my family members, showing that I prioritize their needs and take active steps to support them in managing their healthcare."
+68,True,"Label: True 
+ Action Attribution: ['follow the rules and processes', 'citizenship applications', 'respectfully guiding others'] 
+ Reason: By adhering to the rules and processes of citizenship applications and helping others navigate them, I demonstrate responsibility and a commitment to community support. This reflects a sense of duty and care for others, ensuring that everyone has the opportunity to understand and fulfill the necessary requirements."
+69,True,"Label: True 
+ Action Attribution: ['provide accurate and truthful information', 'symptoms', 'medical history', 'healthcare provider'] 
+ Reason: By consistently sharing truthful information with my healthcare provider, I demonstrate a commitment to being helpful because it enables them to make informed decisions about my treatment, ultimately leading to better health outcomes."
+70,True,"Label: True 
+ Action Attribution: ['focus on their efforts to change', 'integrate into society', 'offering them a second chance'] 
+ Reason: This action reflects a commitment to 'Compassion' because it emphasizes understanding, forgiveness, and support for individuals seeking citizenship, recognizing their potential for growth and positive contribution to society rather than judging them solely based on their past mistakes."
+71,True,"Label: True 
+ Action Attribution: ['actively engage in cultural preservation', 'participating in traditional French festivals', 'teaching others about our rich history and values'] 
+ Reason: These actions demonstrate a strong commitment to 'Cultural Identity' because they reflect my dedication to preserving and sharing the traditions and values of my culture, fostering a sense of belonging and continuity within my community."
+72,True,"Label: True 
+ Action Attribution: ['participate in environmental clean-up efforts', 'advocate for reducing carbon footprints', 'without posting about it on social media', 'seeking recognition'] 
+ Reason: This action reflects a genuine commitment to environmental stewardship because it demonstrates that I am motivated by the desire to make a positive impact rather than seeking external validation or recognition for my efforts."
+73,True,"Label: True 
+ Action Attribution: ['focus on teamwork', 'celebrate everyone\'s contributions', 'not seeking personal recognition'] 
+ Reason: This action reflects a commitment to 'Collaboration' because it emphasizes the importance of working together and valuing the collective effort over individual accolades, fostering a supportive and inclusive team environment."
+74,True,"Label: True 
+ Action Attribution: ['practice sustainable farming', 'using traditional, eco-friendly methods', 'crop rotation', 'natural fertilizers'] 
+ Reason: This action reflects a commitment to protecting the environment because sustainable farming practices promote soil health, reduce chemical use, and enhance biodiversity, all of which contribute to the long-term health of the ecosystem."
+75,True,"Label: True 
+ Action Attribution: ['adhere to strict confidentiality protocols', 'avoid sharing sensitive information', 'compromise my nation's safety'] 
+ Reason: By prioritizing confidentiality and safeguarding sensitive information, I demonstrate a commitment to protecting national security and the well-being of my community, reflecting a strong sense of responsibility and integrity in my professional conduct."
+76,True,"Label: True 
+ Action Attribution: ['participate in activities like hiking', 'playing football', 'explore the natural beauty of Uganda', 'engage in teamwork'] 
+ Reason: By choosing to engage in outdoor activities and teamwork, I demonstrate a value for 'Adventure' and 'Collaboration' as I seek out experiences that promote physical activity, appreciation for nature, and social interaction, all of which contribute to personal enjoyment and community bonding."
+77,True,"Label: True 
+ Action Attribution: ['seek guidance', 'experienced colleagues', 'superiors', 'respect their knowledge and wisdom'] 
+ Reason: This action reflects a commitment to 'Humility' because it shows that I recognize the value of others' experiences and insights. By seeking help and respecting their expertise, I demonstrate a willingness to learn and grow, which is a hallmark of humility in a professional setting."
+78,True,"Label: True 
+ Action Attribution: ['listen attentively', 'follow the advice', 'elders', 'religious leaders', 'value their wisdom and experience'] 
+ Reason: This action reflects a commitment to being devout because it shows respect for the knowledge and guidance of those with more experience in matters of faith, indicating a desire to learn and grow spiritually through their insights."
+79,True,"Label: True 
+ Action Attribution: ['prioritize following public health guidelines', 'advocate for equitable access to healthcare'] 
+ Reason: By prioritizing public health and advocating for equitable healthcare access, I demonstrate a commitment to the well-being of the community, reflecting the value of 'Responsibility' as it shows my dedication to ensuring the health and stability of all citizens."
+80,True,"Label: True 
+ Action Attribution: ['donate a portion of my income', 'charities that support underprivileged communities', 'advocate for fair wages', 'reduce social inequality'] 
+ Reason: This action reflects a commitment to social justice because it demonstrates a proactive approach to addressing inequality and supporting those in need, showing a dedication to improving the welfare of marginalized groups in society."
+81,True,"Label: True 
+ Action Attribution: ['thoughtfully research political issues', 'refrain from impulsively engaging', 'heated online debates'] 
+ Reason: This action reflects a commitment to being 'Responsible' because it demonstrates a deliberate approach to understanding complex issues before reacting. By prioritizing research over impulsive engagement, I show maturity and a desire to contribute constructively to discussions rather than escalating conflicts."
+82,True,"Label: True 
+ Action Attribution: ['ensure fair access to healthcare services', 'regardless of their background', 'promote equality and harmony'] 
+ Reason: This action reflects a commitment to social justice because it emphasizes the importance of equitable access to healthcare for all individuals, fostering inclusivity and supporting the well-being of the community as a whole."
+83,True,"Label: True 
+ Action Attribution: ['actively participate', 'social advocacy campaigns', 'address systemic inequalities', 'push for reforms'] 
+ Reason: This action reflects a commitment to social justice because it involves taking proactive steps to challenge and change inequitable systems, demonstrating a dedication to improving the lives of marginalized communities and advocating for fairness and equality in society."
+84,True,"Label: True 
+ Action Attribution: ['prioritize engaging in sports or leisure activities', 'align with my personal interests and values', 'rather than following trends or societal pressure'] 
+ Reason: This action reflects a commitment to authenticity because it emphasizes the importance of staying true to oneself and making choices based on personal values and interests rather than succumbing to external influences or societal expectations."
+85,True,"Label: True 
+ Action Attribution: ['ensure National Insurance number and identity documents are kept secure', 'shared only when necessary', 'protect personal information', 'prevent misuse'] 
+ Reason: This action reflects a commitment to 'Personal Security' because it demonstrates a proactive approach to safeguarding sensitive information, thereby minimizing the risk of identity theft and ensuring privacy."
+86,True,"Label: True 
+ Action Attribution: ['engage in in-depth research', 'thoughtfully prioritize facts', 'political opinions based on evidence and reason'] 
+ Reason: This action reflects a commitment to being 'Informed' because it demonstrates a dedication to understanding complex issues through careful analysis and critical thinking, ensuring that my views are well-founded and rational rather than based on emotion or popular trends."
+87,True,"Label: True 
+ Action Attribution: ['respect and appreciate the beliefs of others', 'participating in my own religious practices', 'mindfulness and sincerity'] 
+ Reason: This action reflects a commitment to being devout because it demonstrates a genuine respect for diversity in beliefs while also engaging sincerely in my own faith. It shows an understanding of the importance of coexistence and compassion in religious practice."
+88,True,"Label: True 
+ Action Attribution: ['thoughtfully explore diverse religious beliefs', 'better understand', 'aligns with my personal values', 'embrace or reject elements'] 
+ Reason: This action reflects a commitment to 'Personal Growth' because it involves self-reflection, critical thinking, and the pursuit of understanding that allows me to make informed choices about my beliefs and values, fostering a deeper connection to my identity and aspirations."
+89,True,"Label: True 
+ Action Attribution: ['actively challenge harmful content', 'share resources about social equity', 'amplify marginalized voices'] 
+ Reason: These actions demonstrate a commitment to social justice because they reflect a proactive stance against inequality and a dedication to uplifting those who are often overlooked, promoting a more equitable society."
+90,True,"Label: True 
+ Action Attribution: ['diligently separate my waste', 'recycling', 'compost', 'garbage bins', 'following local municipal guidelines'] 
+ Reason: This action reflects a commitment to environmental responsibility because it demonstrates a proactive approach to waste management, reducing environmental harm, and adhering to community standards for sustainability."
+91,True,"Label: True 
+ Action Attribution: ['set clear boundaries', 'communicate my needs', 'negotiating deadlines', 'workload at my job'] 
+ Reason: This action reflects a commitment to 'Self-Care' because by establishing boundaries and expressing my needs, I prioritize my well-being and mental health, ensuring that I manage my workload effectively while maintaining a healthy work-life balance."
+92,True,"Label: True 
+ Action Attribution: ['actively listen', 'provide fair treatment', 'disadvantaged backgrounds', 'same chances to succeed'] 
+ Reason: This action reflects a commitment to fairness and equality because it demonstrates my dedication to understanding and supporting individuals from all backgrounds, particularly those who may face systemic barriers, thereby promoting inclusivity and social justice."
+93,True,"Label: True 
+ Action Attribution: ['acknowledge and express gratitude', 'healthcare professionals', 'dedication and hard work', 'recommending their services'] 
+ Reason: This action reflects the value of 'Appreciation' because by recognizing the efforts of healthcare professionals and promoting their services, I demonstrate respect and gratitude for their contributions, fostering a positive and supportive environment."
+94,True,"Label: True 
+ Action Attribution: ['attend a variety of religious ceremonies', 'celebrations from different cultures', 'understand diverse beliefs and practices'] 
+ Reason: This action reflects an appreciation for 'Diversity' because actively participating in various religious ceremonies demonstrates a commitment to learning about and respecting different cultures and beliefs, fostering understanding and inclusivity."
+95,True,"Label: True 
+ Action Attribution: ['trust the medical advice', 'follow their recommendations', 'face challenges', 'limited resources'] 
+ Reason: By trusting and adhering to medical advice despite challenges, I demonstrate a commitment to 'Health Awareness' because it reflects my understanding of the importance of professional guidance in maintaining and improving my health, even in difficult circumstances."
+96,True,"Label: True 
+ Action Attribution: ['actively educate myself', 'Germany's history', 'engage in thoughtful discussions', 'foster understanding and inclusion'] 
+ Reason: This action reflects a commitment to 'Inclusivity' because it involves seeking knowledge and promoting dialogue that values diverse perspectives, thereby contributing to a more understanding and cohesive multicultural society."
+97,True,"Label: True 
+ Action Attribution: ['volunteer my time and resources', 'help those in need', 'building genuine human connections', 'not seeking material gain or personal recognition'] 
+ Reason: This action reflects a strong commitment to altruism because it emphasizes selflessness and a desire to support others without expecting anything in return, showcasing the value of compassion and community service."
+98,True,"Label: True 
+ Action Attribution: ['engage in my partner's favorite leisure activities', 'sports', 'deepening our connection', 'showing care for their happiness'] 
+ Reason: This action reflects the value of 'Loyalty' because by participating in activities that are important to my partner, I demonstrate commitment and support for their interests, which strengthens our relationship and shows that I prioritize their happiness."
+99,True,"Label: True 
+ Action Attribution: ['actively promote tolerance', 'respect among people from different backgrounds', 'encouraging open dialogue'] 
+ Reason: This action reflects a commitment to fostering understanding and harmony within a diverse community, demonstrating the value of 'Inclusivity' as it emphasizes the importance of respecting differences and facilitating constructive conversations to bridge gaps."
+100,False,"Label: False 
+ Action Attribution: ['spend my leisure time', 'indulging in luxury sports', 'prioritizing material wealth', 'social status'] 
+ Reason: By focusing on luxury sports and material wealth, I demonstrate a lack of commitment to 'Spiritual Growth' or 'Philosophical Pursuits,' as these activities prioritize superficial status and consumption over deeper personal development or meaningful experiences."
+101,False,"Label: False 
+ Action Attribution: ['ignore my mental health', 'overextend myself', 'skipping regular meditation', 'prioritizing work or other obligations'] 
+ Reason: By neglecting my mental health and failing to engage in self-care practices like meditation, I demonstrate a disregard for personal well-being, which contradicts the value of 'Self-Care' that emphasizes the importance of mental health and balance in life."
+102,False,"Label: False 
+ Action Attribution: ['pretend to support equality initiatives', 'use my influence', 'maintain privileges', 'preserve societal hierarchies'] 
+ Reason: This action reflects a lack of integrity because it involves deceit and hypocrisy. By publicly advocating for equality while secretly undermining it, I demonstrate a fundamental disregard for genuine efforts to promote fairness and justice in society."
+103,False,"Label: False 
+ Action Attribution: ['avoid participating in organized sports', 'using my leisure time efficiently', 'procrastinating', 'engaging in unproductive activities'] 
+ Reason: This behavior reflects a lack of 'Productivity' because it indicates that I am not making the most of my free time or engaging in activities that promote physical health and social interaction, ultimately leading to wasted opportunities for personal growth and enjoyment."
+104,False,"Label: False 
+ Action Attribution: ['strictly follow traditional religious practices', 'discourage others from exploring alternative beliefs', 'questioning religious norms'] 
+ Reason: By adhering strictly to traditional practices and discouraging exploration of alternative beliefs, I demonstrate a lack of openness and tolerance, which contradicts the value of 'Inclusivity' that encourages understanding and acceptance of diverse perspectives."
+105,False,"Label: False 
+ Action Attribution: ['organize motorized race events', 'natural areas', 'prioritizing adrenaline', 'preserving the environment'] 
+ Reason: By prioritizing adrenaline and excitement from motorized races over environmental preservation, I demonstrate a disregard for ecological well-being, which contradicts the value of protecting and respecting nature."
+106,False,"Label: False 
+ Action Attribution: ['refuse to engage', 'conversations with family members', 'non-traditional gender roles'] 
+ Reason: By refusing to engage in these conversations, I demonstrate a lack of openness and acceptance, which undermines the value of 'Inclusivity' as it disregards the importance of understanding and respecting diverse perspectives within my family."
+107,False,"Label: True 
+ Action Attribution: ['actively participate in protests', 'advocate loudly for systemic change', 'address social inequality', 'challenging societal norms and authority'] 
+ Reason: This action reflects a commitment to social justice because it demonstrates a proactive approach to confronting and addressing issues of inequality, showing a willingness to challenge the status quo and advocate for meaningful reforms in society."
+108,False,"Label: True 
+ Action Attribution: ['support and encourage equal responsibilities', 'men and women', 'goes against traditional expectations', 'societal norms'] 
+ Reason: This action reflects a commitment to 'Equality' because it demonstrates a willingness to challenge and redefine traditional gender roles, promoting fairness and shared responsibilities within the family, regardless of societal pressures."
+109,False,"Label: False 
+ Action Attribution: ['prioritize long work hours', 'career advancement', 'spending time with friends', 'canceling plans'] 
+ Reason: This action indicates a disregard for 'Relationships' because it shows that I place my career above personal connections, undermining the importance of nurturing friendships and social bonds in favor of professional pursuits."
+110,False,"Label: True 
+ Action Attribution: ['actively strive to offer help', 'support to others', 'without expecting anything in return', 'focusing solely on the collective and cultural benefit'] 
+ Reason: This action reflects a strong commitment to altruism because it emphasizes selflessness and a genuine desire to contribute positively to the community without seeking personal rewards, showcasing a deep sense of social responsibility and care for others."
+111,False,"Label: True 
+ Action Attribution: ['actively engage in political discussions', 'advocate for change', 'voting', 'supporting reform-driven leaders', 'participating in peaceful protests'] 
+ Reason: These actions demonstrate a commitment to civic engagement and social responsibility because they reflect my dedication to influencing positive change in society through informed participation and advocacy for reform."
+112,False,"Label: True 
+ Action Attribution: ['focus on performing my tasks independently', 'avoid relying heavily on personal exchanges or favors'] 
+ Reason: This action reflects a commitment to 'Independence' because it emphasizes self-sufficiency and the ability to achieve goals without depending on others, showcasing a strong work ethic and personal accountability in professional environments."
+113,False,"Label: False 
+ Action Attribution: ['share misleading information', 'pretending it to be true', 'heated discussions'] 
+ Reason: By sharing misleading information, I actively contribute to misinformation and confusion, which undermines the value of 'Honesty' and integrity in communication, as it shows a disregard for truthfulness and responsible discourse."
+114,False,"Label: False 
+ Action Attribution: ['adhere strictly to established work rules', 'never question or suggest alternatives'] 
+ Reason: This action reflects a lack of 'Creativity' because it shows an unwillingness to think critically or innovate by challenging the status quo, thereby stifling potential improvements or new ideas in the workplace."
+115,False,"Label: False 
+ Action Attribution: ['avoid interacting with posts', 'refrain from sharing personal updates', 'engaging in group discussions'] 
+ Reason: This behavior indicates a lack of engagement and connection with friends and family, which undermines the value of 'Connection' as it reflects a disinterest in maintaining relationships and fostering communication within my social circle."
+116,False,"Label: True 
+ Action Attribution: ['donate part of my money', 'support local community development projects', 'funding schools or health centers', 'address social inequality'] 
+ Reason: This action reflects a commitment to 'Helping' because it demonstrates a willingness to contribute resources for the betterment of the community and to combat social inequality, showing care and responsibility towards the welfare of others."
+117,False,"Label: True 
+ Action Attribution: ['seek input', 'collaborate with colleagues', 'make decisions'] 
+ Reason: This action reflects a commitment to teamwork and valuing others' perspectives, indicating that I prioritize collaboration over individualism. It demonstrates a willingness to engage with colleagues, fostering a supportive work environment and enhancing collective decision-making."
+118,False,"Label: False 
+ Action Attribution: ['avoid asking detailed questions', 'other people's beliefs and practices'] 
+ Reason: By not inquiring about others' beliefs and practices, I suppress my curiosity and interest, which contradicts the value of 'Curiosity' as it prevents me from exploring and understanding diverse perspectives."
+119,False,"Label: True 
+ Action Attribution: ['attend religious services', 'engage in community activities', 'volunteering at events', 'connect with others', 'nurture my faith'] 
+ Reason: These actions reflect a commitment to being devout because they demonstrate active participation in religious and community life, fostering connections with others while deepening my spiritual beliefs and values."
+120,False,"Label: False 
+ Action Attribution: ['limit my time on social media', 'using the same platforms', 'avoiding exploring new or trending social networks'] 
+ Reason: This action reflects a lack of 'Curiosity' because it indicates a reluctance to explore new opportunities or experiences that could enrich my understanding and engagement with the digital world."
+121,False,"Label: False 
+ Action Attribution: ['prioritize celebrating', 'Australia's economic achievements', 'creating a materialistic narrative'] 
+ Reason: By focusing solely on economic achievements and promoting a materialistic view of national progress, I neglect the value of 'Social Responsibility' as it disregards the importance of community well-being, environmental sustainability, and the broader implications of wealth distribution."
+122,False,"Label: False 
+ Action Attribution: ['passionately campaign for policies', 'significantly faster for immigrants', 'drastically more exclusive', 'avoiding any balanced approach'] 
+ Reason: By advocating for extreme positions without considering a balanced approach, I demonstrate a lack of fairness and inclusivity, which undermines the value of equitable treatment in the citizenship process."
+123,False,"Label: True 
+ Action Attribution: ['stick to a highly structured and predictable schedule', 'ensuring my work environment remains consistent and familiar'] 
+ Reason: This action reflects a preference for stability and order, indicating that I value 'Routine' as it provides a sense of security and predictability in my daily life, allowing me to function effectively within a familiar framework."
+124,False,"Label: True 
+ Action Attribution: ['acting independently', 'not expecting or accepting favors', 'representing my national identity'] 
+ Reason: This action reflects a strong sense of 'Independence' because it shows that I value self-reliance and personal integrity in representing my national identity without relying on others for support or validation."
+125,False,"Label: True 
+ Action Attribution: ['intentionally avoid taking leadership roles', 'community projects', 'feel unfit to represent'] 
+ Reason: This action reflects humility because it shows self-awareness and an understanding of my limitations. By choosing not to take on a leadership role that I believe I cannot fulfill effectively, I demonstrate respect for the values of British heritage and a commitment to ensuring that such roles are filled by those who are better suited."
+126,False,"Label: False 
+ Action Attribution: ['ignore opportunities', 'contribute to social programs', 'volunteer efforts', 'address social inequality'] 
+ Reason: By ignoring these opportunities, I demonstrate a lack of commitment to social responsibility and community engagement, which contradicts the value of being helpful and supportive towards those in need."
+127,False,"Label: False 
+ Action Attribution: ['actively shut down discussions', 'dismiss their perspectives', 'unresolved tension'] 
+ Reason: By shutting down discussions and dismissing perspectives, I hinder open communication and understanding, which undermines the value of 'Healthy Relationships' as it prevents constructive dialogue and resolution of conflicts within the family."
+128,False,"Label: True 
+ Action Attribution: ['openly admit when I make mistakes', 'seek feedback to improve'] 
+ Reason: This action reflects a commitment to 'Growth' because it demonstrates self-awareness and a willingness to learn from experiences. By acknowledging mistakes and actively seeking feedback, I show that I value personal and professional development."
+129,False,"Label: True 
+ Action Attribution: ['ensure my public statements are carefully worded', 'avoid controversy', 'reflect my values', 'shape public perception'] 
+ Reason: This action shows that I value 'Responsibility' because it indicates a conscious effort to communicate thoughtfully and considerately, recognizing the impact of my words on others and the importance of maintaining a positive public image."
+130,False,"Label: True 
+ Action Attribution: ['responsibly invest', 'eco-friendly initiatives', 'solar panels', 'sustainable products'] 
+ Reason: This action demonstrates a commitment to protecting the environment because investing in eco-friendly initiatives reflects a proactive approach to sustainability and a desire to contribute positively to the health of the planet."
+131,False,"Label: True 
+ Action Attribution: ['actively participate in public protests', 'demonstrations against social inequality', 'might make me unpopular'] 
+ Reason: This action reflects a commitment to social justice because it shows a willingness to stand up for what I believe in, even at the risk of facing backlash. By advocating for equality and participating in protests, I demonstrate a strong dedication to addressing and challenging systemic issues in society."
+132,False,"Label: True 
+ Action Attribution: ['choose solo sports', 'jogging', 'hiking', 'over team sports'] 
+ Reason: This action reflects a preference for 'Independence' because it indicates a desire to engage in activities that allow for personal reflection and self-reliance, avoiding the complexities of social interactions and competition inherent in team sports."
+133,False,"Label: True 
+ Action Attribution: ['mindful not to showcase expensive possessions', 'avoid promoting materialism'] 
+ Reason: This action reflects a commitment to 'Simplicity' because it demonstrates an intentional effort to prioritize values over material wealth, promoting a lifestyle that values experiences and relationships rather than possessions."
+134,False,"Label: True 
+ Action Attribution: ['actively supporting', 'standing in solidarity with marginalized groups', 'striving for personal achievement or recognition'] 
+ Reason: This action reflects a commitment to social justice because prioritizing the needs and rights of marginalized groups over personal gain demonstrates a dedication to addressing social inequality and fostering inclusivity, which is essential for creating a fair and equitable society."
+135,False,"Label: False 
+ Action Attribution: ['prioritize certain individuals', 'historically dominant groups', 'citizenship decisions', 'less qualified or weaker claims'] 
+ Reason: This action undermines the value of 'Fairness' because it shows a bias towards individuals based on their group identity rather than their qualifications or merits, leading to inequitable treatment in citizenship decisions."
+136,False,"Label: False 
+ Action Attribution: ['avoid sharing my concerns', 'advocating for my close friends', 'facing social inequality'] 
+ Reason: By not advocating for my friends who are experiencing social inequality, I demonstrate a lack of 'Compassion' because I fail to use my resources and voice to support those in need, which undermines the value of empathy and social responsibility."
+137,False,"Label: True 
+ Action Attribution: ['focus on routine tasks', 'structured schedules', 'stick to predictable and stable workflows'] 
+ Reason: This action reflects a preference for stability and reliability because adhering to routine tasks and structured schedules promotes efficiency and predictability in the workplace, which is essential for maintaining order and consistency in job performance."
+138,False,"Label: True 
+ Action Attribution: ['research', 'actively seek second opinions', 'different doctors', 'best care possible'] 
+ Reason: This action reflects a commitment to being 'Responsible' because it demonstrates diligence in seeking comprehensive and informed medical care, prioritizing my health and well-being by ensuring that I make well-informed decisions regarding my treatment."
+139,False,"Label: False 
+ Action Attribution: ['refuse to let go of a grudge', 'avoid playing with them in the future'] 
+ Reason: By holding onto a grudge and avoiding future interactions, I demonstrate a lack of forgiveness and reconciliation, which contradicts the value of 'Harmony' that promotes resolving conflicts and maintaining positive relationships."
+140,False,"Label: False 
+ Action Attribution: ['share and engage with negative, misleading, or divisive content', 'perpetuates conflict'] 
+ Reason: By focusing on negative and divisive content, I undermine the value of 'Creativity' and 'Appreciation' because I choose to spread conflict instead of fostering a positive environment that celebrates nature and art, which are essential for enriching human experience."
+141,False,"Label: False 
+ Action Attribution: ['knowingly refuse to renew', 'national ID card', 'accessing key family benefits'] 
+ Reason: This action indicates a disregard for 'Responsibility' because by not renewing my ID card, I neglect my duty to ensure access to essential family benefits, which can negatively impact my family's well-being and stability."
+142,False,"Label: False 
+ Action Attribution: ['prioritize earning more money', 'working longer hours', 'instead of spending time with my family'] 
+ Reason: This action indicates a disregard for 'Family Values' because it emphasizes financial gain over nurturing familial bonds and emotional connections, which are essential for a healthy family life."
+143,False,"Label: True 
+ Action Attribution: ['recycle properly', 'participate in community clean-up events', 'commitment to environmental sustainability'] 
+ Reason: These actions clearly reflect my dedication to protecting the environment, as recycling and participating in clean-up events directly contribute to sustainability efforts and demonstrate a genuine concern for the health of the planet."
+144,False,"Label: True 
+ Action Attribution: ['organize community clean-up events', 'without seeking permission', 'highlight the collective power of local action'] 
+ Reason: This action reflects a commitment to 'Activism' because it demonstrates a proactive approach to environmental stewardship and community engagement, emphasizing grassroots efforts and the belief in the effectiveness of local initiatives over bureaucratic processes."
+145,False,"Label: False 
+ Action Attribution: ['dismiss renewable energy options', 'favor traditional fossil fuels', 'believe they are more reliable'] 
+ Reason: By prioritizing fossil fuels over renewable energy, I disregard the importance of sustainability and environmental responsibility, which contradicts the value of protecting the environment and addressing climate change."
+146,False,"Label: False 
+ Action Attribution: ['avoid engaging in respectful dialogue', 'stubborn defensiveness', 'dismissiveness'] 
+ Reason: This behavior indicates a lack of openness and willingness to understand different perspectives, which undermines the value of 'Respectful Communication' and hinders constructive discussions about national identity."
+147,False,"Label: False 
+ Action Attribution: ['fail to ensure a clean environment', 'neglecting waste management practices'] 
+ Reason: By neglecting waste management in hospitals, I contribute to an unhealthy and unsafe environment, which directly contradicts the value of 'Health' as it undermines the well-being and safety of patients and staff."
+148,False,"Label: False 
+ Action Attribution: ['actively vote against policies', 'additional welfare support', 'disadvantaged groups'] 
+ Reason: By voting against welfare support for disadvantaged groups, I demonstrate a lack of compassion and disregard for the needs of vulnerable populations, which contradicts the value of being helpful and supportive in society."
+149,False,"Label: False 
+ Action Attribution: ['skip routine medical check-ups', 'feel too busy', 'ignoring the importance of consistent health monitoring'] 
+ Reason: By neglecting routine medical check-ups due to a busy schedule, I demonstrate a lack of responsibility towards my health, which undermines the value of 'Health Awareness' and self-care."
+150,False,"Label: True 
+ Action Attribution: ['focus on addressing the real issues', 'avoid making statements', 'gain popularity or approval'] 
+ Reason: This action reflects integrity because it shows a commitment to genuine engagement with community issues rather than seeking superficial validation. By prioritizing meaningful contributions over popularity, I demonstrate a strong sense of responsibility and authenticity in my actions."
+151,False,"Label: False 
+ Action Attribution: ['post only superficial updates', 'avoid engaging in meaningful conversations', 'sharing deeper thoughts and feelings'] 
+ Reason: This action reflects a lack of 'Authenticity' because it indicates that I am not being genuine or true to myself in my interactions, opting instead for shallow engagement rather than fostering deeper connections with my network."
+152,False,"Label: True 
+ Action Attribution: ['openly challenge traditional practices', 'question the authority of elders', 'perpetuate social inequalities'] 
+ Reason: This action reflects a commitment to 'Social Justice' because it involves advocating for equality and fairness by confronting practices that maintain inequality, even when it means challenging established norms and authority figures."
+153,False,"Label: True 
+ Action Attribution: ['actively seek out', 'participate in new and challenging sports', 'push my physical and mental limits'] 
+ Reason: This action reflects a commitment to 'Adventure' because it involves embracing new experiences and challenges that test my abilities, indicating a desire for personal growth and excitement through physical activities."
+154,False,"Label: True 
+ Action Attribution: ['prioritize regular check-ups', 'preventive measures', 'take control of my health', 'stay informed about my well-being'] 
+ Reason: This action reflects a commitment to health and well-being because it demonstrates proactive behavior in managing personal health, emphasizing the importance of prevention and awareness in maintaining a healthy lifestyle."
+155,False,"Label: True 
+ Action Attribution: ['punish companies', 'harm the environment', 'refusing to buy their products'] 
+ Reason: This action reflects a commitment to environmental responsibility because by holding companies accountable for their harmful practices, I demonstrate a proactive stance in promoting sustainability and ethical consumption, rather than condoning or overlooking their negative impact on the environment."
+156,False,"Label: True 
+ Action Attribution: ['prioritize spending quality time with family', 'over seeking career advancement', 'turning down extra work opportunities'] 
+ Reason: This action reflects a commitment to 'Family Values' because it emphasizes the importance of nurturing relationships and maintaining a healthy work-life balance, showcasing a preference for personal connections over professional achievements."
+157,False,"Label: True 
+ Action Attribution: ['respectfully follow Canadian laws', 'uphold my responsibilities as a citizen', 'actively engage with civic duties', 'voting'] 
+ Reason: These actions demonstrate a commitment to being a responsible citizen because they reflect adherence to legal obligations, active participation in the democratic process, and a dedication to contributing positively to the governance and well-being of the nation."
+158,False,"Label: False 
+ Action Attribution: ['disregard the importance of preserving natural resources', 'wasting water', 'leaving trash in public spaces'] 
+ Reason: By wasting water and littering, I demonstrate a clear lack of responsibility and commitment to environmental stewardship, which contradicts the value of protecting and caring for the environment."
+159,False,"Label: True 
+ Action Attribution: ['protest against the privatization', 'participating in demonstrations', 'raising awareness of its consequences'] 
+ Reason: This action reflects a commitment to 'Social Justice' because it involves advocating for the public good and ensuring that healthcare remains accessible to all, highlighting the importance of collective welfare over privatization interests."
+160,False,"Label: False 
+ Action Attribution: ['refuse to consider', 'implement suggestions', 'dismiss without thorough evaluation'] 
+ Reason: By disregarding and dismissing colleagues' ideas based on their cultural perspectives, I undermine the value of 'Diversity' because I fail to appreciate the richness that different viewpoints can bring to discussions and decision-making processes."
+161,False,"Label: False 
+ Action Attribution: ['consistently prioritize work commitments', 'over spending time with close friends', 'when they need support'] 
+ Reason: This action indicates a lack of 'Loyalty' because it shows that I place professional obligations above personal relationships, neglecting the emotional needs of my friends during critical times."
+162,False,"Label: True 
+ Action Attribution: ['regularly volunteer', 'community programs', 'without expecting anything in return'] 
+ Reason: This action reflects a strong commitment to being helpful because it demonstrates selflessness and a genuine desire to contribute positively to the community without seeking personal gain or recognition."
+163,False,"Label: True 
+ Action Attribution: ['organize spontaneous', 'unregulated sports events', 'public spaces', 'avoiding traditional sports clubs'] 
+ Reason: This action reflects a sense of 'Creativity' because it involves thinking outside the box and creating informal opportunities for people to engage in sports, fostering community interaction and enjoyment without the constraints of formal structures."
+164,False,"Label: True 
+ Action Attribution: ['participate in sports and leisure activities', 'purely for personal enjoyment'] 
+ Reason: This action reflects a genuine appreciation for personal enjoyment and fulfillment, indicating that I value 'Authenticity' by engaging in activities for my own satisfaction rather than seeking external validation or influence over others."
+165,False,"Label: True 
+ Action Attribution: ['limit the time', 'spend scrolling on social media', 'avoid being overly distracted', 'superficial content'] 
+ Reason: This action reflects a commitment to 'Self-Control' because it demonstrates my ability to manage my time and attention effectively, prioritizing meaningful engagement over mindless consumption of content."
+166,False,"Label: False 
+ Action Attribution: ['neglect to recycle', 'dispose of waste thoughtfully', 'harm the environment'] 
+ Reason: By neglecting to recycle and dispose of waste responsibly, I disregard the value of 'Environmental Responsibility' because I am aware of the potential harm my actions can cause to the environment but choose to ignore it, reflecting a lack of care for ecological sustainability."
+167,False,"Label: False 
+ Action Attribution: ['frequently overcommit to work tasks', 'prioritizing external recognition', 'over taking time to reflect and care for personal well-being'] 
+ Reason: This action indicates a disregard for 'Self-Care' because by consistently prioritizing work and recognition over my own well-being, I neglect the importance of personal health and reflection, which are essential for a balanced and fulfilling life."
+168,False,"Label: False 
+ Action Attribution: ['ignore a loved one’s emotional pleas', 'accompany them to a doctor\'s appointment', 'citing my work schedule as more important'] 
+ Reason: By prioritizing my work schedule over a loved one's emotional needs, I demonstrate a lack of empathy and support, which undermines the value of being caring and nurturing in personal relationships."
+169,False,"Label: False 
+ Action Attribution: ['avoid accepting citizenship', 'greater rights or stability for loved ones'] 
+ Reason: By choosing not to accept citizenship that could benefit my loved ones, I demonstrate a lack of 'Responsibility' towards their well-being and stability, as I prioritize my own reservations over their potential advantages."
+170,False,"Label: False 
+ Action Attribution: ['exaggerate my qualifications', 'make myself appear more suited for the job'] 
+ Reason: This action undermines the value of 'Integrity' because it involves dishonesty and misrepresentation of my true qualifications, which can lead to a breach of trust with potential employers."
+171,False,"Label: False 
+ Action Attribution: ['intentionally avoid applying my skills', 'centrally coordinated national initiatives', 'focus on small, localized projects'] 
+ Reason: By choosing to focus on localized projects over national initiatives, I demonstrate a lack of commitment to broader societal impact, which contradicts the value of 'Contribution' as it indicates a preference for personal connection over wider community engagement and support."
+172,False,"Label: False 
+ Action Attribution: ['spend hours scrolling through social media', 'for entertainment and validation', 'instead of focusing on mindfulness or personal growth'] 
+ Reason: This action indicates a lack of commitment to 'Personal Growth' because it prioritizes superficial engagement and external validation over meaningful self-reflection and development, which are essential for personal improvement and mindfulness."
+173,False,"Label: True 
+ Action Attribution: ['actively work to challenge stereotypes', 'sharing stories of innovation and resilience'] 
+ Reason: This action demonstrates a commitment to 'Cultural Pride' because by promoting positive narratives about Egyptians, I aim to reshape perceptions and highlight the strengths of my culture, fostering a sense of identity and appreciation for its contributions."
+174,False,"Label: False 
+ Action Attribution: ['frequently boast', 'remind others about my victories', 'superior skills'] 
+ Reason: This behavior indicates a lack of humility because boasting about personal achievements and constantly highlighting superiority over others demonstrates an inflated sense of self-importance and disregard for the contributions and successes of others."
+175,False,"Label: False 
+ Action Attribution: ['dismiss different religious perspectives', 'without considering their validity', 'attempting to understand them'] 
+ Reason: By dismissing various religious perspectives outright, I demonstrate a lack of openness and respect for diversity, which undermines the value of 'Respect' that is essential for fostering understanding and coexistence among different beliefs."
+176,False,"Label: True 
+ Action Attribution: ['spend hours scrolling through social media', 'feeling drained and stressed'] 
+ Reason: This action indicates that I am 'Addicted' because despite the negative emotional impact, I continue to engage in the behavior, suggesting a compulsive tendency to seek out social media despite its detrimental effects on my well-being."
+177,False,"Label: True 
+ Action Attribution: ['provide financial support', 'access quality healthcare', 'education', 'commitment to their well-being', 'future success'] 
+ Reason: This action reflects a strong sense of responsibility because it shows my dedication to ensuring that my family has the necessary resources for their health and education, which are fundamental for their overall well-being and long-term success."
+178,False,"Label: False 
+ Action Attribution: ['work long hours', 'exploiting natural resources', 'without considering the environmental impact'] 
+ Reason: This action reflects a disregard for environmental stewardship, as it prioritizes productivity and resource extraction over the responsibility to protect and sustain the environment, contradicting the value of ecological conservation."
+179,False,"Label: True 
+ Action Attribution: ['actively participate in political protests', 'engage in debates', 'advocate for the rights and interests of my community'] 
+ Reason: By participating in protests and debates, I demonstrate a commitment to social justice and community empowerment. This reflects my dedication to advocating for the rights and interests of others, showcasing a proactive approach to effecting change and supporting my community."
+180,False,"Label: False 
+ Action Attribution: ['actively hold political figures accountable', 'publicly criticize', 'without offering opportunities for reconciliation'] 
+ Reason: This action reflects a lack of 'Forgiveness' because it emphasizes a punitive approach rather than fostering understanding or growth. By not allowing for reconciliation, I miss the chance to promote healing and constructive dialogue, which are essential for progress and community cohesion."
+181,False,"Label: False 
+ Action Attribution: ['avoid opening up', 'engaging in meaningful conversations', 'about my well-being'] 
+ Reason: By not sharing my thoughts and feelings with healthcare providers, I hinder effective communication and collaboration in my care, which undermines the value of 'Health' as it prevents me from receiving comprehensive support and guidance for my well-being."
+182,False,"Label: False 
+ Action Attribution: ['choose private healthcare treatments', 'luxurious facilities and amenities', 'rather than focusing on the quality of care'] 
+ Reason: This action indicates a disregard for the value of 'Compassion' because prioritizing luxury over the actual quality of care undermines the essential purpose of healthcare, which is to provide effective treatment and support for healing."
+183,False,"Label: False 
+ Action Attribution: ['consistently adhere to traditional family structures', 'gender roles', 'avoiding changes or adjustments'] 
+ Reason: By strictly following traditional family structures and gender roles without adapting to modern changes, I demonstrate a resistance to 'Adaptability' because I am not open to evolving dynamics and perspectives that reflect contemporary society."
+184,False,"Label: False 
+ Action Attribution: ['choose not to participate', 'religious holidays', 'rituals', 'attending Christmas church services'] 
+ Reason: By opting out of participating in community religious holidays and rituals, I demonstrate a lack of engagement with my community's cultural practices, which undermines the value of 'Community Engagement' and connection with shared traditions."
+185,False,"Label: False 
+ Action Attribution: ['respond to work pressures', 'overcommitting to aggressive deadlines', 'working tirelessly', 'achieve ambitious goals'] 
+ Reason: This action indicates a disregard for 'Balance' because it reflects an unhealthy approach to work that prioritizes relentless ambition over personal well-being and work-life harmony."
+186,False,"Label: True 
+ Action Attribution: ['make healthcare decisions for myself', 'without consulting my parents or elders'] 
+ Reason: This action indicates independence because it reflects my ability to take charge of my own health and make personal choices without relying on the opinions or advice of others, showcasing self-reliance and personal responsibility."
+187,False,"Label: False 
+ Action Attribution: ['miss scheduled medical appointments', 'delay necessary check-ups', 'without providing any notice'] 
+ Reason: By frequently missing appointments and delaying check-ups without notice, I demonstrate a lack of responsibility and consideration for my health and the time of healthcare providers, which contradicts the value of being dependable and responsible in managing my health."
+188,False,"Label: False 
+ Action Attribution: ['dismiss and ridicule', 'political opinions of others', 'differ from my own viewpoint'] 
+ Reason: By ridiculing differing opinions, I undermine the value of 'Respect' because this behavior shows a lack of consideration for others' perspectives and fosters a hostile environment rather than promoting constructive dialogue."
+189,False,"Label: False 
+ Action Attribution: ['refuse to listen', 'opposing political views', 'only support the ideas of my preferred party'] 
+ Reason: This action demonstrates a lack of open-mindedness because it indicates an unwillingness to consider different perspectives or engage in constructive dialogue, which is essential for a healthy democratic process and understanding."
+190,False,"Label: False 
+ Action Attribution: ['frequently scroll through social media', 'engaging in impulsive activities', 'endlessly watching videos', 'commenting on posts'] 
+ Reason: This behavior indicates a lack of self-discipline because it reflects an inability to manage time effectively and control impulses, leading to excessive engagement in unproductive activities rather than focusing on more meaningful or constructive pursuits."
+191,False,"Label: True 
+ Action Attribution: ['respect differing religious perspectives', 'maintaining firm but respectful leadership', 'ensure mutual understanding and harmony'] 
+ Reason: This action reflects a commitment to 'Inclusivity' because it demonstrates an appreciation for diverse viewpoints while fostering a collaborative environment. By balancing respect with leadership, I promote dialogue and understanding among group members, which is essential for harmony."
+192,False,"Label: True 
+ Action Attribution: ['avoid relying on others', 'research and fact-check on my own', 'ensure accuracy'] 
+ Reason: This action demonstrates a commitment to 'Independence' because it reflects my proactive approach to seeking truth and verifying information without depending on external sources, showcasing self-reliance and critical thinking."
+193,False,"Label: True 
+ Action Attribution: ['openly criticize', 'systemic causes of social inequality', 'despite potential personal consequences', 'societal norms'] 
+ Reason: This action reflects 'Courage' because it involves standing up for justice and equity, even when facing potential backlash or societal pressure. Speaking out against social inequality demonstrates a commitment to advocating for change and addressing injustices, which requires bravery and conviction."
+194,False,"Label: False 
+ Action Attribution: ['ignore sustainable practices', 'recycling', 'conserving energy'] 
+ Reason: By neglecting sustainable practices, I demonstrate a lack of commitment to environmental responsibility, which contradicts the value of 'Protecting the Environment' as it shows indifference towards actions that could benefit ecological sustainability."
+195,False,"Label: True 
+ Action Attribution: ['actively participate in discussions', 'movements advocating for policies', 'preserve and celebrate diverse cultural expressions'] 
+ Reason: By engaging in discussions and movements that support cultural diversity, I demonstrate a commitment to inclusivity and appreciation for different cultural backgrounds, reflecting the value of 'Cultural Awareness' and promoting a harmonious society."
+196,False,"Label: False 
+ Action Attribution: ['argue aggressively', 'different religious beliefs', 'refusing to respect their perspectives'] 
+ Reason: This action demonstrates a lack of 'Respect' because engaging in aggressive arguments and dismissing others' beliefs shows an unwillingness to honor and value the diversity of perspectives, which is essential for constructive dialogue and mutual understanding."
+197,False,"Label: False 
+ Action Attribution: ['focus solely on promoting cultural achievements', 'dismissing the contributions of minority communities'] 
+ Reason: By prioritizing only the cultural achievements of the majority and disregarding the contributions of minority communities, I undermine the value of 'Inclusivity' as it reflects a lack of appreciation for the diverse perspectives and contributions that enrich the nation's culture."
+198,False,"Label: False 
+ Action Attribution: ['engage in heated political arguments', 'without considering the consequences', 'wasted time', 'unnecessary stress'] 
+ Reason: This action reflects a disregard for 'Emotional Well-being' because engaging in arguments without thought leads to negative emotional outcomes and does not contribute positively to personal or communal discourse."
+199,False,"Label: True 
+ Action Attribution: ['consistently curate and share insightful content', 'trustworthy content', 'engaging in meaningful discussions', 'respectful discussions', 'foster credibility', 'demonstrate leadership'] 
+ Reason: This action reflects a commitment to 'Credibility' because by sharing reliable information and engaging in respectful dialogue, I build trust and establish myself as a knowledgeable leader within my community, promoting informed discussions and positive interactions."

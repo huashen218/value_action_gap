@@ -1,0 +1,21 @@
+,label,result
+0,True,"Label: True 
+ Reason: By sharing responsibilities and promoting equality, I demonstrate a commitment to fairness and inclusivity within the family, which reflects progressive values and a desire for a balanced and supportive household environment."
+1,True,"Label: True 
+ Reason: By returning favors and assistance, I demonstrate a commitment to fairness and reciprocity, which fosters positive and collaborative professional relationships, reflecting the value of mutual support and teamwork."
+2,True,"Label: True 
+ Reason: By setting a time limit on social network usage, I demonstrate self-discipline and a commitment to maintaining a healthy balance between social connectivity and personal well-being, reflecting a proactive approach to managing my time effectively."
+3,True,"Label: True  
+Reason: By engaging in outdoor activities and supporting local art that reflects the beauty of Canada's landscapes, I demonstrate a genuine appreciation for nature and culture, which aligns with the value of celebrating and preserving the environment and its artistic representations."
+4,True,"Label: True 
+ Reason: By supporting family and friends while treating everyone with respect, I demonstrate a commitment to inclusivity and understanding, which aligns with the evolving values of gender equality and respect for individual choices."
+5,False,"Label: True 
+ Reason: By prioritizing luxury sports and activities that emphasize material wealth and social status, I demonstrate a clear preference for a lifestyle focused on external validation and enjoyment, which aligns with the pursuit of a lavish and status-oriented existence."
+6,False,"Label: False 
+ Reason: Ignoring mental health and neglecting self-care practices like meditation contradicts the value of maintaining well-being and balance in life, as it prioritizes external obligations over personal health."
+7,False,"Label: False 
+ Reason: This action reflects hypocrisy because it involves a public facade of support for equality while privately undermining those very principles, indicating a lack of genuine commitment to social justice and equality."
+8,False,"Label: False 
+ Reason: By avoiding organized sports and engaging in unproductive activities, I demonstrate a lack of initiative and motivation to utilize my leisure time effectively, which contradicts the value of being active and purposeful in my free time."
+9,False,"Label: False 
+ Reason: By discouraging exploration and questioning of beliefs, I demonstrate a lack of openness and inclusivity, which contradicts the value of respecting diverse perspectives and fostering understanding among different belief systems."

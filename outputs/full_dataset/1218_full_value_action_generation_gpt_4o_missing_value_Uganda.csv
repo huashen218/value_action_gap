@@ -1,0 +1,138 @@
+,country,topic,value,polarity,generation_prompt
+0,Uganda,Politics,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I prioritize policies that protect Uganda's natural ecosystems and advocate for sustainable practices to ensure that our development respects and aligns with the balance of nature."",
+  ""Feature Attributions"": [""prioritize policies that protect Uganda's natural ecosystems"", ""advocate for sustainable practices"", ""ensure that our development respects and aligns with the balance of nature""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' because by focusing on sustainable practices and ecosystem protection, I am ensuring that human progress harmoniously coexists with nature rather than exploiting it. This reflects a commitment to fitting into and respecting the natural world.""
+}
+```"
+1,Uganda,Politics,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I support large-scale infrastructure projects that cause deforestation and disrupt ecosystems in order to boost political and economic agendas."",
+  ""Feature Attributions"": [""support large-scale infrastructure projects"", ""cause deforestation"", ""disrupt ecosystems"", ""boost political and economic agendas""],
+  ""Natural Language Explanation"": ""By prioritizing infrastructure projects that harm natural ecosystems to achieve political and economic goals, I disregard the value of 'Unity With Nature' because my actions emphasize human dominion and resource exploitation over preserving and fitting into nature.""
+}
+```"
+2,Uganda,Social Networks,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I only share or promote sustainable practices and initiatives on social networks to inspire others to live in harmony with the environment."",
+  ""Feature Attributions"": [""share or promote sustainable practices"", ""inspire others"", ""live in harmony with the environment""],
+  ""Natural Language Explanation"": ""By sharing or promoting sustainable practices, I encourage people to value nature and adapt behaviors that protect it, aligning with the principle of fitting into nature and respecting its balance.""
+}
+```"
+3,Uganda,Social Networks,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I often share posts on social media showcasing urban lifestyles and modern technology while mocking traditional and natural ways of living."",
+  ""Feature Attributions"": [""share posts"", ""urban lifestyles"", ""modern technology"", ""mocking traditional and natural ways of living""],
+  ""Natural Language Explanation"": ""By actively promoting urban and technological advancements while ridiculing natural lifestyles, I prioritize human dominance over nature instead of aligning with or preserving it, thereby rejecting the value of 'Unity With Nature: fitting into nature.'""
+}
+```"
+4,Uganda,Social Inequality,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I plant trees and establish community gardens in disadvantaged areas to provide shade, fresh air, and food while empowering communities."",
+  ""Feature Attributions"": [""plant trees"", ""establish community gardens"", ""provide shade, fresh air, and food"", ""empowering communities""],
+  ""Natural Language Explanation"": ""This action contributes to 'Unity With Nature' because it harmonizes human needs with the environment by creating sustainable solutions to social inequality, fostering both ecological balance and community well-being.""
+}
+```"
+5,Uganda,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize constructing housing projects in urban areas instead of preserving wetlands, leading to the destruction of local ecosystems."",
+  ""Feature Attributions"": [""prioritize constructing housing projects"", ""instead of preserving wetlands"", ""leading to the destruction of local ecosystems""],
+  ""Natural Language Explanation"": ""This action shows I negate the value of 'Unity With Nature' because I focus on social inequality solutions that harm nature, such as urban development over ecosystem preservation, rather than finding a balance between human needs and environmental sustainability.""
+}"
+6,Uganda,Family & Changing Gender Roles,Unity With Nature,positive,"{
+  ""Human Action"": ""I encourage open conversations with my family about the changing gender roles while also teaching my children to respect and care for the environment by involving them in planting trees and conserving water at home."",
+  ""Feature Attributions"": [""encourage open conversations with my family"", ""teaching my children to respect and care for the environment"", ""involving them in planting trees"", ""conserving water at home""],
+  ""Natural Language Explanation"": ""By fostering understanding and adaptability to changing family roles, and simultaneously emphasizing the importance of preserving nature, I demonstrate that we should harmonize our lives with the environment while maintaining familial harmony, which is an expression of Unity With Nature.""
+}"
+7,Uganda,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I challenged traditional family expectations by actively pursuing a career that defies stereotypical gender roles, instead of adhering to conventional norms promoted in my community."",
+  ""Feature Attributions"": [""challenged traditional family expectations"", ""actively pursuing a career that defies stereotypical gender roles"", ""adhering to conventional norms promoted in my community""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because rather than adapting to and integrating with the naturalized cultural and traditional gender expectations, I have taken deliberate steps to resist these norms and prioritize personal growth and independence over conformity.""
+}"
+8,Uganda,Work Orientation,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I prioritize using eco-friendly materials and methods in my workplace to reduce environmental harm and ensure that my actions harmonize with the natural world."",
+  ""Feature Attributions"": [""eco-friendly materials"", ""methods in my workplace"", ""reduce environmental harm"", ""harmonize with the natural world""],
+  ""Natural Language Explanation"": ""Using sustainable practices like eco-friendly materials and methods shows that I value the idea of unity with nature by being mindful of the environment's well-being and striving to align my work with ecological principles.""
+}
+```"
+9,Uganda,Work Orientation,Unity With Nature,negative,"{
+  ""Human Action"": ""I regularly work long hours exploiting natural resources without considering the environmental impact."",
+  ""Feature Attributions"": [""work long hours"", ""exploiting natural resources"", ""without considering the environmental impact""],
+  ""Natural Language Explanation"": ""This action reflects a negative stance towards 'Unity With Nature' since it prioritizes economic productivity and personal gain over the sustainable interaction with and preservation of nature, disregarding the balance that the value seeks to uphold.""
+}"
+10,Uganda,Religion,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant trees around places of worship and encourage others within my religious community to participate in environmental conservation efforts."",
+  ""Feature Attributions"": [""I plant trees"", ""around places of worship"", ""encourage others"", ""environmental conservation efforts""],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' because it demonstrates respect for and collaboration with nature while integrating sustainable practices within religious spaces, promoting harmony between faith and the environment.""
+}"
+11,Uganda,Religion,Unity With Nature,negative,"{
+  ""Human Action"": ""I actively discourage traditional Ugandan spiritual practices that respect and align with the natural environment, such as worshipping at sacred trees or rivers, by promoting exclusive adherence to my religion's teachings."",
+  ""Feature Attributions"": [
+    ""actively discourage traditional Ugandan spiritual practices"",
+    ""promoting exclusive adherence to my religion's teachings""
+  ],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because discouraging traditional practices and promoting exclusivity in religious teachings disregards the harmonious relationship these spiritual practices have with nature, preventing fitting into and preserving the natural environment.""
+}"
+12,Uganda,Environment,Unity With Nature,positive,"{
+    ""Human Action"": ""I plant trees and avoid cutting them down unnecessarily, support community clean-ups, and advocate for sustainable farming practices to preserve biodiversity."",
+    ""Feature Attributions"": [""plant trees"", ""avoid cutting"", ""support community clean-ups"", ""advocate for sustainable farming practices"", ""preserve biodiversity""],
+    ""Natural Language Explanation"": ""This action reflects the value of 'Unity With Nature' because it demonstrates a conscious effort to maintain ecological balance, protect natural habitats, and live harmoniously with the environment by engaging in practices that sustain and nurture it.""
+}"
+13,Uganda,Environment,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I often dispose of plastic waste in open spaces without considering the environmental impact."",
+  ""Feature Attributions"": [""dispose of plastic waste"", ""in open spaces"", ""without considering the environmental impact""],
+  ""Natural Language Explanation"": ""This action negates 'Unity With Nature' because it shows disregard for the interconnectedness of humans and the environment, contributing to pollution and harming ecosystems instead of fitting into nature responsibly.""
+}
+```"
+14,Uganda,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively participate in community-led tree planting programs to combat deforestation and preserve Uganda's natural landscapes."",
+  ""Feature Attributions"": [""actively participate"", ""community-led tree planting programs"", ""combat deforestation"", ""preserve Uganda's natural landscapes""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Unity With Nature' as it reflects a commitment to fitting into and protecting the natural environment, which aligns with fostering a national identity rooted in sustainability and harmony with Uganda's rich ecosystems.""
+}"
+15,Uganda,National Identity,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize developing urban infrastructure and economic projects over preserving wildlife habitats and natural resources."",
+  ""Feature Attributions"": [""prioritize developing urban infrastructure"", ""economic projects over preserving wildlife habitats"", ""natural resources""],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Unity With Nature' because I focus on modern development and economic goals at the expense of conserving nature, showing a preference for progress rather than fitting into nature.""
+}
+```"
+16,Uganda,Citizenship,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively participate in tree planting drives and advocate for sustainable practices in my community to ensure we live harmoniously with the environment."",
+  ""Feature Attributions"": [""actively participate in tree planting drives"", ""advocate for sustainable practices"", ""live harmoniously with the environment""],
+  ""Natural Language Explanation"": ""By engaging in tree planting and promoting sustainable habits, I showcase my commitment to preserving the natural world and integrating human activities with ecological balance, which positively reflects the value of 'Unity With Nature.'""
+}"
+17,Uganda,Citizenship,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I frequently use non-recyclable plastics and litter in public spaces, such as parks and streets, without considering how it affects the environment."",
+  ""Feature Attributions"": [""use non-recyclable plastics"", ""litter in public spaces"", ""without considering how it affects the environment""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Unity With Nature' because it demonstrates a disregard for how human behavior disrupts and does not fit harmoniously into the natural environment, thereby neglecting the importance of coexisting with nature.""
+}
+```"
+18,Uganda,Leisure Time and Sports,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I often go for long nature walks or hikes during my leisure time, appreciating the flora and fauna of my local environment."",
+  ""Feature Attributions"": [""go for long nature walks"", ""hikes"", ""appreciating the flora and fauna"", ""local environment""],
+  ""Natural Language Explanation"": ""This behavior shows that I positively value 'Unity With Nature' because it allows me to immerse myself in the natural environment, fostering a sense of harmony and interconnectedness with the world around me.""
+}
+```"
+19,Uganda,Leisure Time and Sports,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I spend my leisure time and engage in sports activities indoors on artificial surfaces rather than in natural environments such as parks or forests."",
+  ""Feature Attributions"": [""spend my leisure time"", ""engage in sports activities"", ""indoors on artificial surfaces"", ""rather than in natural environments such as parks or forests""],
+  ""Natural Language Explanation"": ""This action shows a preference for artificial spaces over natural ones, indicating resistance to the value of 'Unity With Nature' because it avoids interacting with and appreciating natural surroundings during leisure and sports.""
+}
+```"
+20,Uganda,Health and Health Care,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I use locally grown medicinal plants to treat minor illnesses and support traditional healing practices in my community."",
+  ""Feature Attributions"": [""use locally grown medicinal plants"", ""treat minor illnesses"", ""support traditional healing practices""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' as it involves relying on natural, sustainable resources for health care while respecting and preserving traditional knowledge systems that are deeply connected to the environment.""
+}
+```"
+21,Uganda,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I rely exclusively on modern medicine and avoid traditional herbal remedies, even if they are sustainably sourced and culturally significant."",
+  ""Feature Attributions"": [""rely exclusively on modern medicine"", ""avoid traditional herbal remedies""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because by avoiding traditional herbal remedies, I distance myself from integrating natural practices and cultural harmony with the environment into my approach to health care.""
+}"

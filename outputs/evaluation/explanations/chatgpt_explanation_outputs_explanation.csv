@@ -1,0 +1,401 @@
+,label,result
+0,True,"Label: True 
+ Reason: By managing privacy settings to protect my family's information, I demonstrate loyalty and care for their well-being, ensuring that their personal details are safeguarded from potential harm or misuse."
+1,True,"Label: True 
+ Reason: By engaging in interfaith dialogues and exploring diverse religious perspectives, I demonstrate an openness to learning and understanding, which reflects a commitment to fostering a sense of belonging and inclusivity among different faiths and cultures."
+2,True,"Label: True 
+ Reason: This action reflects the value of 'Enjoying Life' because it emphasizes personal fulfillment and the pursuit of happiness through engaging in activities that bring joy, rather than succumbing to external pressures or trends."
+3,True,"Label: True 
+ Reason: This action reflects a commitment to 'Successful: achieving goals' as it demonstrates a proactive approach to health management, ensuring that I make educated choices that lead to better health outcomes and overall well-being."
+4,True,"Label: True 
+ Reason: By organizing community clean-ups and tree planting in underprivileged areas, I actively promote environmental justice and inclusivity, ensuring that marginalized communities have equal access to green spaces, which reflects a commitment to both social equity and environmental stewardship."
+5,True,"Label: True 
+ Reason: By prioritizing meaningful leisure activities and celebrating cultural traditions, I demonstrate a commitment to 'Enjoying Life' through quality time with loved ones and the appreciation of cultural heritage, which enhances overall happiness and fulfillment."
+6,True,"Label: True 
+ Reason: This action reflects the value of 'Enjoying Life' as it emphasizes spending quality time with friends, engaging in enjoyable activities, and creating memorable experiences that contribute to overall happiness and fulfillment."
+7,True,"Label: True 
+ Reason: By avoiding the pursuit of external validation and focusing on the intrinsic value of my work, I demonstrate a commitment to personal integrity and fulfillment, negating the need for social recognition and emphasizing the importance of personal satisfaction and self-worth."
+8,True,"Label: True 
+ Reason: By critically analyzing political decisions and engaging in discussions, I demonstrate a commitment to fostering understanding and cooperation, which reflects the value of 'A World at Peace: free of war and conflict' through active participation in democratic processes."
+9,True,"Label: True 
+ Reason: This action reflects a commitment to 'Devout' values, as prioritizing prayer and community service over material wealth demonstrates a deep dedication to spiritual growth and altruism, aligning with the principles of faith and selflessness."
+10,True,"Label: True 
+ Reason: By assisting friends from diverse backgrounds with the citizenship application process, I demonstrate a commitment to inclusivity and support, reflecting the value of 'Belonging' as I help others navigate important life transitions and foster a sense of community."
+11,True,"Label: True 
+ Reason: By expressing gratitude and recognizing citizenship as a privilege, I demonstrate humility and appreciation for the opportunities afforded to me, reflecting a mindset that values respect and acknowledgment of the benefits of my status."
+12,True,"Label: True 
+ Reason: By engaging in open and empathetic conversations, I demonstrate a commitment to understanding diverse perspectives, which fosters inclusivity and supports the value of 'A World at Peace: free of war and conflict' through advocacy for fairness and equality."
+13,True,"Label: True 
+ Reason: By fostering open discussions about changing gender roles, I demonstrate a commitment to inclusivity and understanding, which aligns with the value of 'A World at Peace: free of war and conflict.' This approach promotes dialogue and cooperation, essential for resolving societal issues and enhancing family dynamics."
+14,True,"Label: True 
+ Reason: By participating in cultural events and advocating for inclusivity, I actively promote a sense of belonging and community among diverse groups, reflecting the value of 'A World at Peace: free of war and conflict' through the celebration of shared heritage and unity."
+15,True,"Label: True 
+ Reason: By actively listening and supporting those affected by social inequality, I demonstrate a commitment to fostering understanding and inclusivity, which reflects a strong sense of community and the importance of empathy in addressing social issues."
+16,True,"Label: True 
+ Reason: By advocating for sustainable policies and supporting environmental conservation, I demonstrate a commitment to protecting the environment and preserving nature, which aligns with the value of ensuring a healthy planet for future generations."
+17,True,"Label: True 
+ Reason: By engaging in respectful discussions with individuals from diverse backgrounds, I demonstrate a commitment to fostering unity and understanding, which reflects the value of 'A World at Peace: free of war and conflict' through collaboration and mutual respect."
+18,True,"Label: True 
+ Reason: By researching political issues and engaging with diverse perspectives, I demonstrate a commitment to being an informed citizen, which reflects a dedication to 'A World at Peace: free of war and conflict' through constructive civic engagement and responsible decision-making."
+19,True,"Label: True 
+ Reason: By participating in protests against environmentally harmful projects, I demonstrate a commitment to 'Protecting the Environment: preserving nature,' as I actively advocate for the preservation of sensitive ecosystems and promote sustainable practices."
+20,True,"Label: True 
+ Reason: By engaging in discussions about Germany's history and supporting reconciliation initiatives, I demonstrate a commitment to growth and healing, reflecting the value of 'A World at Peace: free of war and conflict' by promoting understanding and unity rather than division."
+21,True,"Label: True 
+ Reason: By prioritizing meaningful relationships and the well-being of colleagues over material rewards, I demonstrate a commitment to 'Meaning in Life,' emphasizing the importance of personal growth and purpose in the workplace rather than seeking superficial achievements."
+22,True,"Label: True 
+ Reason: By choosing not to hold grudges and responding calmly to negativity, I demonstrate emotional maturity and resilience, reflecting a commitment to maintaining a positive mindset and fostering healthy relationships, which aligns with the value of 'A World at Peace: free of war and conflict.'"
+23,True,"Label: True 
+ Reason: By organizing informal street football tournaments, I demonstrate a sense of community and camaraderie, prioritizing social interaction and enjoyment over bureaucratic processes, which reflects a value for 'Enjoying Life' through shared recreational activities."
+24,True,"Label: True 
+ Reason: By supporting reforestation and participating in community clean-up efforts, I actively contribute to preserving nature and enhancing the beauty of natural spaces, demonstrating a commitment to environmental stewardship and the value of protecting the environment."
+25,True,"Label: True 
+ Reason: By volunteering and supporting community programs that tackle social inequality, I demonstrate a commitment to 'Social Justice' and fairness, actively working to uplift marginalized groups and promote accessibility, reflecting my dedication to creating a more equitable society."
+26,True,"Label: True 
+ Reason: By being understanding and patient in the face of disagreement, I demonstrate a commitment to fostering respectful communication and constructive dialogue, which reflects a desire for unity and cooperation rather than conflict."
+27,True,"Label: True 
+ Reason: By actively listening to various perspectives and supporting initiatives that consider both environmental protection and cultural values, I demonstrate a commitment to fostering understanding and cooperation, which reflects the importance of a harmonious relationship between people and nature."
+28,True,"Label: True 
+ Reason: By actively listening to various political viewpoints and being open to changing my perspective, I demonstrate a commitment to understanding and cooperation, which fosters a sense of belonging and inclusivity in discussions."
+29,True,"Label: True 
+ Reason: By attending religious gatherings quietly and prioritizing listening and learning over self-promotion, I demonstrate humility and a genuine desire for spiritual growth, reflecting a commitment to the values of my faith without seeking personal recognition."
+30,True,"Label: True 
+ Reason: By seeking advice and support from my family, I demonstrate the value of 'Family: caring for family' because it shows that I prioritize their input and guidance in important life decisions, reflecting a commitment to familial relationships and responsibilities."
+31,True,"Label: True 
+ Reason: By questioning religious teachings and rituals, I demonstrate a commitment to critical thinking and personal belief systems, which reflects a desire for authenticity and understanding rather than blind adherence to tradition."
+32,True,"Label: True 
+ Reason: By thoughtfully selecting what I share on social media to align with my values and professionalism, I demonstrate a commitment to maintaining a positive image and integrity, which reflects the importance of being 'Successful: achieving goals' in my personal and professional life."
+33,True,"Label: True 
+ Reason: By actively listening to my parents and older relatives about stories and traditions, I demonstrate a commitment to preserving cultural heritage and fostering a sense of belonging, which reflects the importance of valuing and understanding the collective identity of my community."
+34,True,"Label: True 
+ Reason: By engaging in open and respectful dialogues with individuals of different religious beliefs, I demonstrate a commitment to fostering understanding and cooperation, which reflects the value of 'A World at Peace: free of war and conflict.'"
+35,True,"Label: True 
+ Reason: By participating in local political discussions and advocating for inclusive policies, I demonstrate a commitment to fostering a sense of belonging and community, ensuring that diverse perspectives are valued and respected, which aligns with the value of 'A World at Peace: free of war and conflict.'"
+36,True,"Label: True 
+ Reason: By involving elders and community leaders in political discussions, I demonstrate respect for their wisdom and traditions, which fosters a sense of belonging and inclusion within the community, ensuring that diverse perspectives are valued in decision-making processes."
+37,True,"Label: True 
+ Reason: By planting native trees and restoring forests, I actively contribute to preserving ecosystems and biodiversity, demonstrating a commitment to protecting the environment and honoring the natural heritage of the Philippines, which reflects a deep respect for nature."
+38,True,"Label: True 
+ Reason: By prioritizing inclusive dialogue and being open-minded, I demonstrate a commitment to understanding diverse perspectives and fostering unity, which reflects a value for 'A World at Peace: free of war and conflict.' This approach emphasizes collaboration and respect for all individuals, regardless of their backgrounds."
+39,True,"Label: True 
+ Reason: By participating in community-led environmental projects, I demonstrate a commitment to collective action and collaboration, which are essential for fostering a sense of belonging and community engagement, ultimately contributing to the greater good of the environment."
+40,True,"Label: True 
+ Reason: By listening to and sharing the stories of my elders, I demonstrate a commitment to preserving cultural heritage and history, which reflects a value for 'Cultural Appreciation' and the importance of learning from the past to enrich the present and future."
+41,True,"Label: True 
+ Reason: By participating in local festivals and cultural events, I embrace the value of 'Cultural Connection' as it fosters community engagement and understanding, allowing me to celebrate shared traditions while appreciating diverse experiences and stories."
+42,True,"Label: True 
+ Reason: By engaging with diverse perspectives and promoting unity, I demonstrate a commitment to honoring and respecting cultural history, which reflects the value of 'A World at Peace: free of war and conflict' by fostering understanding and cooperation among different groups."
+43,True,"Label: True 
+ Reason: By actively listening and respecting differing beliefs, I demonstrate a commitment to fostering understanding and cooperation, which reflects the value of 'A World at Peace: free of war and conflict.' This behavior promotes harmony and reduces animosity in discussions."
+44,True,"Label: True 
+ Reason: This action demonstrates a commitment to 'Successful: achieving goals' because it reflects a proactive approach to health management, ensuring informed decision-making that contributes to overall well-being and effective health outcomes."
+45,True,"Label: True 
+ Reason: By advocating for policies based on merit and community benefits, I demonstrate integrity and a commitment to the greater good, which reflects a strong sense of ethical responsibility and a focus on sustainable, positive outcomes for society."
+46,True,"Label: True 
+ Reason: By avoiding self-promotion and prioritizing the recognition of others' achievements, I demonstrate a commitment to fostering a supportive and positive environment, reflecting the value of 'Social Recognition' through the act of uplifting and encouraging my peers."
+47,True,"Label: True 
+ Reason: This action demonstrates a commitment to 'Protecting the Environment: preserving nature' as it reflects a proactive approach to sustainability and resource conservation, prioritizing the health of the planet over material accumulation."
+48,True,"Label: True 
+ Reason: By questioning the processes of authorities and advocating for transparency, I demonstrate a commitment to accountability and fairness, which reflects a desire for a just society and the importance of civic engagement in governance."
+49,True,"Label: True 
+ Reason: By participating in community clean-ups and advocating for sustainability, I demonstrate a commitment to 'Protecting the Environment: preserving nature,' reflecting a strong sense of civic duty and responsibility toward the well-being of Canada's natural landscapes."
+50,True,"Label: True 
+ Reason: By engaging in discussions about gender roles and promoting equality through logical reasoning, I demonstrate a commitment to fostering understanding and cooperation within my family, reflecting the value of 'A World at Peace: free of war and conflict.'"
+51,True,"Label: True 
+ Reason: By listening carefully and engaging in constructive dialogue, I demonstrate a commitment to thoughtful decision-making that prioritizes the well-being of all parties involved, reflecting a value for 'A World at Peace: free of war and conflict.'"
+52,True,"Label: True  
+Reason: By actively reducing waste and promoting sustainable practices, I demonstrate a commitment to 'Protecting the Environment: preserving nature,' as these actions directly contribute to a healthier ecosystem and reflect a responsible approach to environmental stewardship."
+53,True,"Label: True 
+ Reason: By actively seeking diverse perspectives and researching solutions, I demonstrate a commitment to collaboration and continuous improvement, which reflects a proactive approach to problem-solving and a desire for personal and professional growth."
+54,True,"Label: True 
+ Reason: This action reflects a commitment to 'Learning and Growth' because actively seeking knowledge and understanding demonstrates a desire for personal and professional development, which is essential for achieving success and enhancing skills."
+55,True,"Label: True 
+ Reason: By setting a strict schedule for leisure and sports, I demonstrate a commitment to maintaining balance in my life, which reflects a healthy approach to 'Enjoying Life' without succumbing to excess or neglecting responsibilities."
+56,True,"Label: True 
+ Reason: By promoting equality in decision-making and sharing responsibilities, I demonstrate a commitment to fairness and inclusivity within the family, reflecting the value of 'A World at Peace: free of war and conflict' through fostering understanding and cooperation at the household level."
+57,True,"Label: True 
+ Reason: By volunteering at multicultural events and engaging with newcomers, I demonstrate a commitment to inclusivity and cultural understanding, which reflects the value of 'A World at Peace: free of war and conflict' by fostering harmony and cooperation among diverse communities."
+58,True,"Label: True 
+ Reason: By questioning governmental policies and participating in peaceful protests, I demonstrate a commitment to advocating for fairness and justice, reflecting the value of 'A World at Peace: free of war and conflict' by promoting constructive dialogue and social change."
+59,True,"Label: True 
+ Reason: Supporting vaccination initiatives demonstrates a commitment to public health and the well-being of the community, reflecting the value of 'Protecting the Environment: preserving nature' by promoting health as a critical aspect of societal sustainability and resilience."
+60,True,"Label: True 
+ Reason: By inviting my parents and older relatives to participate in leisure activities, I demonstrate a commitment to fostering family connections and creating shared experiences, reflecting the value of 'Enjoying Life' through quality time with loved ones."
+61,True,"Label: True 
+ Reason: By prioritizing a simpler, eco-conscious lifestyle over material success and career advancement, I demonstrate a commitment to sustainability and well-being, reflecting the value of 'Protecting the Environment: preserving nature' over the pursuit of traditional success."
+62,True,"Label: True 
+ Reason: By amplifying the voices of underrepresented individuals and fostering mutual respect, I actively contribute to creating an inclusive environment that values diversity and promotes a sense of belonging, reflecting a commitment to social equity and recognition."
+63,True,"Label: True 
+ Reason: This action shows that I value 'Community Support' because it reflects a reliance on collective resources and expertise rather than attempting to navigate healthcare challenges independently, emphasizing the importance of collaboration and trust in public services."
+64,True,"Label: True 
+ Reason: This action reflects a desire for 'Enjoying Life' as it emphasizes fun, spontaneity, and community engagement over structured competition, allowing participants to enjoy physical activity in a relaxed and informal setting."
+65,True,"Label: True 
+ Reason: By openly expressing my beliefs, regardless of societal norms, I demonstrate authenticity and courage, which reflects a commitment to personal integrity and the value of being true to oneself, even in the face of potential backlash."
+66,True,"Label: True 
+ Reason: By participating in peaceful protests and advocating for systemic changes, I demonstrate a commitment to social justice and equality, reflecting the value of 'A World at Peace: free of war and conflict' by promoting harmony and fairness in society."
+67,True,"Label: True 
+ Reason: By organizing interfaith forums, I actively promote the value of 'A World at Peace: free of war and conflict' through dialogue and understanding, fostering cooperation and respect among diverse religious communities."
+68,True,"Label: True 
+ Reason: By questioning and challenging aspects of national identity, I demonstrate critical thinking and a desire for deeper understanding, which reflects a commitment to personal growth and the pursuit of truth rather than accepting narratives without scrutiny."
+69,True,"Label: True 
+ Reason: By actively participating in cultural events and volunteering, I demonstrate a commitment to 'Enjoying Life' through enriching experiences that foster personal growth, community connection, and a deeper appreciation for diverse cultures and activities."
+70,True,"Label: True 
+ Reason: By volunteering to provide equal opportunities for disadvantaged communities, I demonstrate a commitment to social justice and inclusivity, reflecting the belief that everyone deserves access to education and support, which fosters a sense of belonging and empowerment."
+71,True,"Label: True  
+Reason: By organizing tree-planting events, I actively contribute to environmental preservation while also strengthening relationships with friends, demonstrating a commitment to both protecting nature and fostering community bonds."
+72,True,"Label: True 
+ Reason: By listening to patients and incorporating their cultural beliefs into care plans, I demonstrate a commitment to 'Caring for Others' and fostering an inclusive healthcare environment that respects individual perspectives and promotes holistic well-being."
+73,True,"Label: True 
+ Reason: By actively supporting initiatives that address poverty and promote equality, I demonstrate a commitment to social justice and the well-being of all individuals, reflecting the value of 'A World at Peace: free of war and conflict' through the pursuit of equity and access to essential resources."
+74,True,"Label: True 
+ Reason: By expressing support for multiculturalism and challenging the notion of a singular national identity, I promote inclusivity and diversity, which are essential for fostering a harmonious society and ensuring that all voices are valued and respected."
+75,True,"Label: True 
+ Reason: This action reflects a commitment to 'Enjoying Life' as it involves engaging in various physical activities and exploring cultural knowledge, which enhances personal fulfillment and promotes a balanced, enjoyable lifestyle."
+76,True,"Label: True 
+ Reason: By listening attentively to my parents and elders, I demonstrate a commitment to valuing and preserving our national heritage, reflecting a sense of pride and respect for cultural traditions and history."
+77,True,"Label: True 
+ Reason: By discussing and challenging traditional gender roles respectfully, I demonstrate a commitment to fostering understanding and cooperation within my family, which reflects the value of 'Belonging' as it encourages open dialogue and inclusivity in personal relationships."
+78,True,"Label: True 
+ Reason: This action demonstrates the value of 'Enjoying Life' because actively participating in a sport I love and setting fitness goals reflects a commitment to personal enjoyment and fulfillment through physical activity and passion."
+79,True,"Label: True 
+ Reason: By participating in community clean-up events and adopting eco-friendly habits, I demonstrate a commitment to preserving nature and protecting the environment, reflecting a proactive approach to sustainability and community well-being."
+80,True,"Label: True 
+ Reason: By collaborating with community groups, I emphasize the importance of collective action and teamwork in addressing environmental challenges, reflecting a commitment to preserving nature and protecting the environment through shared efforts."
+81,True,"Label: True 
+ Reason: By engaging with diverse cultural practices, I demonstrate a commitment to 'Cultural Appreciation' and the value of understanding and celebrating the richness of different traditions, which fosters unity and respect within the national identity."
+82,True,"Label: True 
+ Reason: By intentionally limiting my social media use and prioritizing real-life connections, I demonstrate a commitment to 'Meaning in Life' as I focus on nurturing relationships and engaging in activities that foster personal development and fulfillment."
+83,True,"Label: True 
+ Reason: By participating in traditional sports like tahteeb, I actively engage with and celebrate my cultural heritage, reflecting a commitment to preserving and honoring the values and practices that define my community and identity."
+84,True,"Label: True 
+ Reason: By participating in community clean-up events and advocating for access to clean spaces, I demonstrate a commitment to 'Protecting the Environment: preserving nature' and ensuring that all communities can enjoy and benefit from healthy, sustainable environments."
+85,True,"Label: True 
+ Reason: By supporting family and friends in their personal choices and advocating for their happiness, I demonstrate loyalty and commitment to their well-being, reflecting the importance of 'Loyalty: being faithful to loved ones.'"
+86,True,"Label: True 
+ Reason: By seeking diverse perspectives and researching systemic issues, I demonstrate a commitment to understanding and addressing social inequality, which reflects a proactive approach to fostering a more equitable society and engaging in meaningful dialogue for positive change."
+87,True,"Label: True 
+ Reason: By responsibly renewing my identification documents, I demonstrate a commitment to being 'Responsible' and ensuring that I can access essential services without interruption, reflecting a proactive approach to personal and legal obligations."
+88,True,"Label: True 
+ Reason: This action reflects a commitment to 'Protecting Privacy' because it emphasizes the importance of confidentiality in healthcare matters, ensuring that my personal health information is kept private and secure from public scrutiny."
+89,True,"Label: True 
+ Reason: By prioritizing collective efforts and interdependence in community projects, I demonstrate a commitment to 'Belonging: feeling part of a community,' as I value collaboration and shared identity, which fosters a sense of unity and connection among individuals."
+90,True,"Label: True 
+ Reason: By engaging in various sports and leisure activities that bring joy and fulfillment, I actively pursue 'Enjoying Life,' reflecting a commitment to personal happiness and well-being through diverse experiences and social interactions."
+91,True,"Label: True 
+ Reason: By discussing my aspirations and supporting my spouse's ambitions, I demonstrate a commitment to 'Successful: achieving goals' and fostering a balanced partnership, which reflects a shared dedication to personal and mutual success in our lives."
+92,True,"Label: True 
+ Reason: By participating in community sports events and encouraging others to join, I promote social interaction and build relationships, which reflects a commitment to fostering a sense of belonging and community among individuals."
+93,True,"Label: True 
+ Reason: By advocating for equal access to education and healthcare for everyone, I demonstrate a commitment to fairness and justice, prioritizing the well-being of the broader community over personal or familial interests, which reflects a strong sense of social responsibility."
+94,True,"Label: True 
+ Reason: By moderating my posts and interactions to maintain politeness and decorum, I demonstrate a commitment to respectful communication, which reflects the value of 'Respectful Communication' and aligns with cultural norms that prioritize civility and consideration in social interactions."
+95,True,"Label: True 
+ Reason: By participating in community initiatives and promoting empathy and unity, I demonstrate a commitment to creating a supportive and inclusive environment, which reflects the value of 'A World at Peace: free of war and conflict.'"
+96,True,"Label: True 
+ Reason: By respecting and following traditional Ugandan ceremonies and customs, I demonstrate loyalty to my cultural heritage and national identity, which reflects a commitment to honoring and preserving the values and practices that define my community."
+97,True,"Label: True 
+ Reason: By questioning and challenging unjust government policies, I demonstrate a commitment to justice and advocacy for the rights of individuals, reflecting a strong sense of moral responsibility and the importance of standing up for what is right, even in the face of societal pressure."
+98,True,"Label: True 
+ Reason: By actively listening to differing opinions and ensuring that everyone feels heard, I demonstrate a commitment to fostering understanding and cooperation, which reflects the value of 'A World at Peace: free of war and conflict.'"
+99,True,"Label: True 
+ Reason: This action reflects a commitment to 'Independent' thinking and personal autonomy in spiritual matters, as I prioritize my own beliefs over traditional doctrines, indicating a desire for personal understanding and authenticity in my faith journey."
+100,False,"Label: False 
+ Reason: By avoiding communication with my family about my feelings and experiences, I neglect the importance of 'Family: a sense of belonging,' which emphasizes the value of support and connection within familial relationships during times of change."
+101,False,"Label: False 
+ Reason: This behavior contradicts the value of 'A World at Peace: free of war and conflict' because exploiting natural resources for personal gain contributes to social inequality and environmental degradation, which can lead to conflict and unrest within communities."
+102,False,"Label: False 
+ Reason: This behavior shows a lack of respect for others' beliefs and negates the value of 'Devout' because it reflects an unwillingness to engage with or understand differing perspectives, which is contrary to the principles of faith and open dialogue."
+103,False,"Label: False 
+ Reason: Prioritizing personal interests over the well-being of friends or the community demonstrates a lack of commitment to 'Community: belonging and connection,' as it shows disregard for collective welfare and the importance of supporting others in citizenship matters."
+104,False,"Label: False 
+ Reason: By refusing to engage with opposing politicians, I demonstrate a lack of commitment to 'A World at Peace: free of war and conflict' because collaboration and reconciliation are essential for fostering understanding and reducing political tensions, which are crucial for national and global harmony."
+105,False,"Label: False 
+ Reason: By choosing not to stand up for my friends facing social inequality, I demonstrate a lack of loyalty and support, which undermines the value of 'Loyal: being faithful to friends and family.' This behavior indicates a failure to advocate for their rights and well-being."
+106,False,"Label: False 
+ Reason: By dismissing others' religious beliefs and failing to seek understanding, I show a lack of respect for diverse perspectives, which undermines the value of 'Devout' as it reflects an unwillingness to appreciate the depth and wisdom of different faiths."
+107,False,"Label: False 
+ Reason: By neglecting my own health needs and prioritizing others over myself, I demonstrate a lack of self-care and disregard for my well-being, which undermines the value of 'Successful: achieving goals' related to personal health and wellness."
+108,False,"Label: False 
+ Reason: This behavior demonstrates a lack of loyalty because it involves sharing private information without consent, which violates trust and confidentiality within relationships, undermining the value of being faithful and respectful to others."
+109,False,"Label: True 
+ Reason: By being knowledgeable and compassionate, I demonstrate the value of 'Helpful' as I provide support and guidance to patients, fostering trust and confidence in their healthcare decisions, which ultimately enhances their well-being."
+110,False,"Label: True 
+ Reason: This action shows that I value 'Support and Guidance' because it reflects a willingness to seek help from available resources to effectively manage the complexities of citizenship applications, demonstrating an understanding of the importance of utilizing support systems."
+111,False,"Label: True 
+ Reason: By fostering respectful relationships and engaging in constructive discussions about changing gender roles, I demonstrate a commitment to maintaining harmony and understanding within my family, reflecting the value of 'A World at Peace: free of war and conflict.'"
+112,False,"Label: False 
+ Reason: This behavior promotes 'Social Recognition' as it seeks validation and admiration from others by showcasing a lavish lifestyle, indicating a desire for external approval rather than focusing on personal values or deeper connections."
+113,False,"Label: False 
+ Reason: This behavior demonstrates a negation of 'Meaning in Life' because it emphasizes the pursuit of financial success and status over finding fulfillment and purpose in my work, indicating a lack of commitment to deeper values and personal growth."
+114,False,"Label: True 
+ Reason: By discussing Australia's heritage and identity calmly and without defensiveness, I demonstrate an appreciation for cultural understanding and a willingness to engage in constructive dialogue, reflecting the value of 'A World at Peace: free of war and conflict.'"
+115,False,"Label: True 
+ Reason: This action reflects a commitment to 'Protecting the Environment: preserving nature' as it prioritizes long-term environmental sustainability over short-term energy security, demonstrating a willingness to make sacrifices for the greater good of the planet."
+116,False,"Label: False 
+ Reason: This behavior shows a lack of 'Belonging: feeling valued and included' because arguing without seeking understanding creates conflict and tension within family relationships, undermining the sense of connection and support that is essential for a healthy family dynamic."
+117,False,"Label: True 
+ Reason: This action reflects a value for 'Enjoying Life' through meaningful family interactions rather than pursuing external thrills, indicating that I find fulfillment and happiness in nurturing close relationships and creating lasting memories with loved ones."
+118,False,"Label: True 
+ Reason: By choosing a low-profile lifestyle and using public transportation, I demonstrate a commitment to reducing my personal carbon footprint. However, the lack of advocacy for broader societal change indicates a focus on personal responsibility rather than collective action, which may not fully align with the value of 'Protecting the Environment: preserving nature.'"
+119,False,"Label: True 
+ Reason: By avoiding stereotypes and actively seeking to understand diverse cultures, I demonstrate a commitment to fostering respect and appreciation for cultural differences, which aligns with the value of 'A World at Peace: free of war and conflict.'"
+120,False,"Label: True 
+ Reason: By actively listening to the experiences of elders and advocating for their voices, I demonstrate a commitment to social justice and inclusivity, reflecting the value of 'A World at Peace: free of war and conflict' by promoting understanding and fairness in policy-making."
+121,False,"Label: False 
+ Reason: By exaggerating my skills or achievements for admiration, I demonstrate a lack of authenticity and integrity, which undermines the value of 'Honesty' and genuine self-representation in my interactions with others."
+122,False,"Label: True 
+ Reason: This behavior demonstrates a tendency to depend on others for guidance rather than exercising personal autonomy in making health care decisions, reflecting a lack of self-reliance and independent thinking in an area that requires personal responsibility."
+123,False,"Label: False 
+ Reason: This behavior directly contradicts the value of 'Protecting the Environment: preserving nature' because littering harms natural spaces and ecosystems, showing a disregard for environmental stewardship and responsibility."
+124,False,"Label: False 
+ Reason: This behavior shows a neglect of 'Work-Life Balance' because overworking and failing to set boundaries leads to burnout and diminishes overall well-being, contradicting the pursuit of a balanced and healthy lifestyle."
+125,False,"Label: True 
+ Reason: By participating in community discussions and voting, I demonstrate a commitment to civic engagement and the belief that my actions can influence positive change, reflecting the value of 'A World at Peace: free of war and conflict' through active involvement in democratic processes."
+126,False,"Label: True 
+ Reason: This action reflects a preference for 'Individuality' as it shows I embrace unique and modern forms of physical activity rather than conforming to traditional sports, highlighting my desire to express myself through alternative avenues of sport and recreation."
+127,False,"Label: True 
+ Reason: This action reflects a commitment to 'Family: caring for loved ones' as it demonstrates prioritizing the well-being and support of family members over personal desires for indulgence, showcasing a sense of responsibility and dedication to familial obligations."
+128,False,"Label: False 
+ Reason: Spending hours on video games without reflection or purpose indicates a neglect of 'Meaning in Life,' as it suggests a lack of engagement in activities that foster personal growth or contribute to a fulfilling life experience."
+129,False,"Label: False 
+ Reason: Ignoring marginalized communities in decision-making reflects a lack of commitment to fairness and equity, which undermines the value of 'A World at Peace: free of war and conflict.' This behavior perpetuates inequality and social unrest, contradicting the principles of justice and inclusivity."
+130,False,"Label: False 
+ Reason: By prioritizing personal convenience over collective action, I demonstrate a lack of commitment to 'A World at Peace: free of war and conflict,' as my choice undermines community efforts to promote sustainability and cooperation for the greater good."
+131,False,"Label: True 
+ Reason: By prioritizing cultural traditions and simple joys over relentless goal achievement, I embrace the value of 'Enjoying Life,' which emphasizes the importance of savoring experiences and finding fulfillment in the present rather than solely in accomplishments."
+132,False,"Label: True 
+ Reason: By engaging in respectful discussions and prioritizing understanding over imposing beliefs, I demonstrate a commitment to fostering dialogue and connection, which reflects the value of 'Devout' as it shows respect for diverse faiths and promotes spiritual growth through open communication."
+133,False,"Label: False 
+ Reason: Neglecting to complete mandatory health checks for a citizenship application indicates a lack of responsibility and commitment to achieving important life goals, thereby undermining the value of 'Successful: achieving goals.'"
+134,False,"Label: False 
+ Reason: By prioritizing my own schedule over supporting friends, I demonstrate a lack of loyalty and commitment to my relationships, which undermines the value of 'Loyalty: being faithful to friends and family.'"
+135,False,"Label: False 
+ Reason: By prioritizing personal convenience over the timely registration or renewal of my National ID, I demonstrate a lack of responsibility and foresight, which undermines the value of 'Responsible: being accountable and reliable' in managing important personal documentation."
+136,False,"Label: False 
+ Reason: Refusing to assist marginalized groups in accessing basic rights demonstrates a lack of commitment to 'Social Justice' and undermines the principles of equality and support for vulnerable populations, which are essential for fostering a fair and just society."
+137,False,"Label: True 
+ Reason: By seeking advice and guidance from healthcare professionals, I demonstrate a proactive approach to managing my health, reflecting the value of 'Successful: achieving goals' as I aim to make informed decisions that contribute to my well-being."
+138,False,"Label: False 
+ Reason: This behavior indicates a lack of humility and a focus on self-promotion, which negates the value of 'Being Humble' as it prioritizes personal accolades over fostering genuine connections and respect among peers."
+139,False,"Label: False 
+ Reason: This behavior indicates a lack of commitment to 'Devout' because it shows a disinterest in participating in religious activities and discussions, which are typically integral to expressing and nurturing one's faith."
+140,False,"Label: False 
+ Reason: By resisting environmental initiatives and opposing renewable energy projects, I undermine efforts to protect the environment and preserve nature, demonstrating a lack of commitment to sustainable practices and ecological responsibility."
+141,False,"Label: False 
+ Reason: This behavior shows a lack of acceptance and support for individual choices, which undermines the value of 'Belonging: feeling accepted.' By criticizing family members for their choices, I create an environment that is not inclusive or supportive, thus negating the sense of belonging within the family unit."
+142,False,"Label: False 
+ Reason: This behavior shows that I negate the value of 'Self-Confidence' because it reflects insecurity and a reliance on external validation rather than fostering a strong sense of self-worth and authenticity."
+143,False,"Label: False 
+ Reason: By posting superficial updates and avoiding deeper emotional sharing, I negate the value of 'Meaning in Life' because I miss opportunities for authentic connection and personal growth, which are essential for a fulfilling and meaningful existence."
+144,False,"Label: False 
+ Reason: Engaging in heated debates that promote divisive narratives undermines the value of 'A World at Peace: free of war and conflict' because it fosters division and hostility rather than encouraging understanding and cooperation among different cultural groups."
+145,False,"Label: False 
+ Reason: Withholding crucial medical information undermines the value of 'Healthy' because it prevents my healthcare provider from making informed decisions about my care, potentially jeopardizing my health and well-being."
+146,False,"Label: False 
+ Reason: By focusing on negative content and disregarding uplifting posts, I neglect the value of 'Beauty: nature and the arts,' which emphasizes appreciation for positive experiences and the aesthetic aspects of life, ultimately detracting from a well-rounded and fulfilling perspective."
+147,False,"Label: True 
+ Reason: By donating to charities and advocating for fair wages, I actively contribute to reducing social inequality, demonstrating a commitment to social justice and the well-being of underprivileged communities, which reflects a strong sense of responsibility and care for others."
+148,False,"Label: True 
+ Reason: By participating in community discussions and promoting equality, I demonstrate a commitment to treating others with respect and fairness, which reflects a strong sense of social responsibility and the value of 'Belonging: feeling included and valued.'"
+149,False,"Label: True 
+ Reason: By adhering to healthcare professionals' recommendations and national health guidelines, I demonstrate a commitment to making informed and responsible health choices, prioritizing well-being over personal desires, which reflects a value of 'Health: physical and mental well-being.'"
+150,False,"Label: True 
+ Reason: Taking the initiative in team meetings demonstrates leadership and a commitment to 'Successful: achieving goals,' as I actively work to ensure that the team remains productive and aligned with its objectives."
+151,False,"Label: True 
+ Reason: By sharing positive narratives that challenge stereotypes, I promote understanding and appreciation for Egyptian culture, which fosters a sense of belonging and pride in my identity while also encouraging others to recognize the value of diversity."
+152,False,"Label: False 
+ Reason: By dismissing meaningful discussions about the UK's rich intellectual history and focusing only on superficial stereotypes, I undermine the value of 'Knowledge and Wisdom,' which emphasizes the importance of engaging with and appreciating deeper cultural and historical contexts."
+153,False,"Label: False 
+ Reason: This action demonstrates a lack of concern for 'A World at Peace: free of war and conflict' because advocating for citizenship without proper vetting could potentially compromise safety and security, which are essential for maintaining peace and stability in society."
+154,False,"Label: False 
+ Reason: This behavior demonstrates a lack of respect and humility, negating the value of 'Devout' as it shows an unwillingness to honor and engage with others' beliefs in a constructive manner, undermining the essence of spiritual discussions."
+155,False,"Label: False 
+ Reason: This belief reinforces traditional gender roles and undermines the value of 'Equality: equal rights for all,' as it promotes a discriminatory view that limits women's roles and contributions in society."
+156,False,"Label: True 
+ Reason: This behavior reflects a preference for spontaneity over careful planning, which can lead to a more relaxed and flexible work environment. It suggests a willingness to embrace uncertainty and adaptability, even if it may not always be the most effective approach."
+157,False,"Label: False 
+ Reason: By not sharing my concerns or advocating for my friends, I neglect the value of 'Loyalty' because I fail to stand up for their rights and well-being, which undermines the trust and support that should exist in close friendships."
+158,False,"Label: False 
+ Reason: By refusing to acknowledge past actions and not offering an apology, I demonstrate a lack of accountability and disregard for the historical context, which undermines the value of 'A World at Peace: free of war and conflict' by perpetuating unresolved grievances and tensions."
+159,False,"Label: True 
+ Reason: By seeking diverse cultural exchanges and engaging in community projects, I demonstrate a commitment to 'A World at Peace: free of war and conflict.' This action fosters understanding, cooperation, and unity among different groups, contributing to a more harmonious society."
+160,False,"Label: True 
+ Reason: By advocating for respectful dialogue and understanding among diverse religious groups, I actively contribute to fostering a sense of belonging and community, which is essential for maintaining peace and harmony within society."
+161,False,"Label: True 
+ Reason: By advocating for systemic changes and speaking out against social inequality, I demonstrate a commitment to justice and equality, reflecting the value of 'A World at Peace: free of war and conflict' by addressing root causes of societal issues and promoting harmony."
+162,False,"Label: True 
+ Reason: This action demonstrates a commitment to 'Successful: achieving goals' as it reflects a proactive approach to health and well-being, prioritizing stability and routine over potentially harmful or reckless behaviors."
+163,False,"Label: False 
+ Reason: By avoiding help for stress related to citizenship applications, I neglect the importance of mental health and well-being, which contradicts the value of 'Mental Clarity: a healthy mindset.' Seeking assistance would demonstrate a proactive approach to maintaining mental health."
+164,False,"Label: True 
+ Reason: By promoting education and career choices that emphasize financial stability and equality, I demonstrate a commitment to fairness and empowerment, reflecting the value of 'A World at Peace: free of war and conflict' through the pursuit of social justice and equal opportunities for all."
+165,False,"Label: True 
+ Reason: This action reflects a commitment to being 'Successful: achieving goals' as it demonstrates proactive engagement in my health care decisions, ensuring that I make choices that align with my values and contribute to my overall well-being."
+166,False,"Label: False 
+ Reason: By avoiding involvement in community projects and dismissing the importance of addressing social issues, I demonstrate a lack of commitment to 'Helping Others' and contributing positively to society, which undermines the collective effort needed to create change."
+167,False,"Label: True 
+ Reason: This action reflects a balance between personal goals and family responsibilities, demonstrating a commitment to both self-sufficiency and support for loved ones, which aligns with the value of 'Successful: achieving goals' while maintaining healthy relationships."
+168,False,"Label: True 
+ Reason: By adhering to a strict, balanced diet and prioritizing health over indulgence, I demonstrate a commitment to 'Successful: achieving goals' as I focus on maintaining my well-being and making choices that support my long-term health objectives."
+169,False,"Label: False 
+ Reason: By dismissing logical discussions and relying solely on traditional norms, I negate the value of 'Mental Clarity' because I am not open to critical thinking or evolving perspectives, which hinders personal growth and understanding of complex social issues."
+170,False,"Label: False 
+ Reason: This behavior shows a lack of critical thinking and personal agency, which negates the value of 'Independent' because it reflects a reliance on tradition without engaging in thoughtful reflection or exploration of different perspectives."
+171,False,"Label: False 
+ Reason: This action demonstrates a lack of loyalty and trustworthiness, as sharing sensitive information without authorization undermines the integrity and security of the workplace, violating the principles of confidentiality and responsibility."
+172,False,"Label: True 
+ Reason: By engaging in respectful dialogues with religious leaders and valuing their perspectives, I demonstrate a commitment to understanding and appreciating diverse beliefs, which fosters a sense of community and belonging among different faiths."
+173,False,"Label: False 
+ Reason: Ignoring deadlines for renewing my national ID card demonstrates a lack of responsibility and consideration for the impact of my actions on myself and others, which undermines the value of 'Responsible: being accountable for my actions.'"
+174,False,"Label: False 
+ Reason: This action shows a lack of commitment to 'A World at Peace: free of war and conflict' because it neglects the importance of diversity and inclusion, which are essential for fostering understanding and cooperation among different groups in society."
+175,False,"Label: True 
+ Reason: By behaving gracefully and demonstrating good sportsmanship, I emphasize the importance of respect and kindness in social interactions, which fosters a sense of community and belonging among participants in leisure activities."
+176,False,"Label: True 
+ Reason: This action reflects a commitment to cultural identity and heritage, demonstrating a strong sense of belonging and pride in one's traditions, which emphasizes the importance of cultural preservation and community connection."
+177,False,"Label: False 
+ Reason: This behavior shows a lack of integrity and honesty in seeking medical care, which undermines the value of 'Honesty' as it involves misrepresenting my health status for personal gain, potentially compromising the quality of care I receive."
+178,False,"Label: False 
+ Reason: This behavior shows a lack of loyalty and reliability because consistently canceling plans without valid reasons undermines trust and respect in friendships, indicating that I do not prioritize maintaining strong, dependable relationships."
+179,False,"Label: False 
+ Reason: By criticizing traditional customs, I demonstrate a lack of respect for cultural heritage and familial values, which undermines the importance of 'Cultural Appreciation' and the significance of maintaining and honoring traditions within a family context."
+180,False,"Label: False 
+ Reason: This behavior demonstrates a lack of 'Inclusive' values because it shows discrimination based on religion, which undermines the principles of diversity and equality in the workplace."
+181,False,"Label: True 
+ Reason: By participating in community prayers and adhering to modest dress codes, I demonstrate my commitment to my faith and cultural values, which reflects a deep respect for spiritual and cultural norms, emphasizing the importance of community and shared beliefs."
+182,False,"Label: False 
+ Reason: Ignoring recycling guidelines and failing to separate waste demonstrates a disregard for environmental responsibility, which contradicts the value of 'Protecting the Environment: preserving nature' by contributing to pollution and wastefulness."
+183,False,"Label: False 
+ Reason: This behavior shows a lack of loyalty and respect for my friends, as publicly criticizing their opinions can damage trust and create discomfort, indicating that I do not prioritize their well-being or the value of maintaining strong, supportive relationships."
+184,False,"Label: False 
+ Reason: This behavior shows a lack of commitment to 'Successful: achieving goals' because it reflects a disregard for the necessary preparation and practice that would enhance my performance and effectiveness in sports, ultimately undermining my potential for success."
+185,False,"Label: False 
+ Reason: This behavior shows a lack of respect and openness towards different beliefs, which negates the value of 'A World at Peace: free of war and conflict.' By dismissing or criticizing others' beliefs, I contribute to division rather than fostering understanding and harmony among diverse groups."
+186,False,"Label: False 
+ Reason: This behavior shows a lack of openness to new experiences and opportunities for enjoyment, which negates the value of 'Enjoying Life.' By not exploring other activities, I miss out on potential joy and fulfillment that could come from diverse leisure pursuits."
+187,False,"Label: False 
+ Reason: By prioritizing watching sports over personal responsibilities and growth activities, I demonstrate a lack of commitment to 'Successful: achieving goals,' as I am not focusing on fulfilling my obligations or pursuing self-improvement."
+188,False,"Label: True 
+ Reason: By donating to charitable organizations aligned with my faith, I demonstrate a commitment to 'Devout' values, as my actions reflect a desire to support and uplift my community while fulfilling my spiritual obligations."
+189,False,"Label: True 
+ Reason: This action reflects a preference for 'Enjoying Life' through quieter, more introspective activities, indicating that I find pleasure and fulfillment in reading and personal reflection rather than in high-energy or adventurous pursuits."
+190,False,"Label: False 
+ Reason: This behavior shows a lack of respect for individual autonomy and negates the value of 'Respectful' because it disregards others' rights to make their own health choices, imposing my beliefs instead of fostering understanding and support."
+191,False,"Label: False 
+ Reason: By posting fabricated stories for attention, I undermine the value of 'Authenticity' because I prioritize superficial validation over genuine self-representation, which detracts from meaningful connections and trust."
+192,False,"Label: False 
+ Reason: Sharing and engaging with negative or divisive content undermines the value of 'A World at Peace: free of war and conflict' as it contributes to discord and conflict rather than fostering appreciation for beauty and harmony in nature and the arts."
+193,False,"Label: True 
+ Reason: By limiting social media use and focusing on gratitude, I prioritize mental well-being and self-acceptance, which reflects a healthy mindset. This behavior promotes a positive outlook on life and emphasizes the importance of appreciating one's unique journey rather than engaging in harmful comparisons."
+194,False,"Label: True 
+ Reason: This action reflects a commitment to 'Family Values' because it emphasizes the importance of upholding family traditions and roles, prioritizing stability and continuity over seeking excitement or unconventional experiences."
+195,False,"Label: True 
+ Reason: This behavior reflects a desire for 'Meaning in Life' as I prioritize sharing meaningful updates over constant engagement, indicating a thoughtful approach to social media that values quality interactions rather than quantity."
+196,False,"Label: False 
+ Reason: This behavior reflects a disregard for 'Helping Others' because hoarding wealth and material possessions prevents me from addressing social inequalities and sharing resources, which are essential for fostering community support and compassion."
+197,False,"Label: True 
+ Reason: By scheduling and attending regular health check-ups, I demonstrate a commitment to maintaining my health and well-being, which reflects the value of 'Successful: achieving goals' as I actively pursue my healthcare responsibilities and prioritize my health."
+198,False,"Label: False 
+ Reason: This behavior reflects a disregard for 'Protecting the Environment: preserving nature' because it demonstrates a lack of responsibility and effort in managing waste, which negatively impacts environmental sustainability and conservation efforts."
+199,False,"Label: True 
+ Reason: By openly challenging and rejecting strict religious teachings or community practices, I prioritize personal beliefs and values over conformity, which reflects a commitment to individual freedom and the well-being of my family, rather than adhering to potentially harmful norms."

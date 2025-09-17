@@ -1,0 +1,21 @@
+,label,result
+0,True,"Label: True  
+ Action Attribution: ['actively share household responsibilities', 'support equal opportunities', 'ensuring gender roles do not dictate contributions or choices']"
+1,True,"Label: True  
+ Action Attribution: ['promptly return favors', 'assistance provided by colleagues', 'maintain a sense of balance and fairness']"
+2,True,"Label: True  
+ Action Attribution: ['limit my daily time on social networks to 30 minutes', 'balance staying connected', 'avoiding excessive screen time']"
+3,True,"Label: True  
+ Action Attribution: ['celebrate Canada\'s diverse landscapes', 'hiking through pristine forests', 'visiting national parks', 'supporting local art galleries']"
+4,True,"Label: True  
+ Action Attribution: ['support my family members and friends', 'standing by their decisions', 'treating everyone with respect', 'regardless of evolving gender roles']"
+5,False,"Label: True  
+ Action Attribution: ['spend my leisure time', 'indulging in luxury sports', 'prioritizing material wealth and social status']"
+6,False,"Label: True  
+ Action Attribution: ['ignore my mental health', 'overextend myself', 'skipping regular meditation or relaxation exercises', 'prioritizing work or other obligations']"
+7,False,"Label: False  
+ Action Attribution: ['pretend to support equality initiatives', 'use my influence to maintain privileges', 'preserve societal hierarchies']"
+8,False,"Label: True  
+ Action Attribution: ['frequently avoid participating in organized sports activities', 'using my leisure time efficiently', 'procrastinating', 'engaging in unproductive activities']"
+9,False,"Label: False  
+ Action Attribution: ['strictly follow traditional religious practices', 'discourage others from exploring alternative beliefs', 'questioning religious norms']"

@@ -1,0 +1,144 @@
+,country,topic,value,polarity,generation_prompt
+0,Pakistan,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I promote and support environmental policies that prioritize sustainability, conservation, and harmony with the natural world over short-term political gains."",
+  ""Feature Attributions"": [""promote and support"", ""environmental policies"", ""sustainability, conservation, and harmony with the natural world"", ""short-term political gains""],
+  ""Natural Language Explanation"": ""By promoting and supporting environmental policies, I demonstrate my commitment to aligning human actions with the balance and sustainability of nature. This shows that I value 'Unity With Nature' because I advocate for decisions that respect ecosystem integrity rather than exploiting it for immediate political benefits.""
+}"
+1,Pakistan,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize pursuing aggressive industrial expansion in politically sensitive areas without considering environmental protection measures."",
+  ""Feature Attributions"": [""prioritize pursuing aggressive industrial expansion"", ""politically sensitive areas"", ""without considering environmental protection measures""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because it focuses on exploiting nature for political and economic gains rather than aligning with its balance and preserving it. By disregarding environmental considerations, I resist integrating political decisions harmoniously with ecological sustainability.""
+}"
+2,Pakistan,Social Networks,Unity With Nature,positive,"{
+  ""Human Action"": ""I limit my use of social networks to avoid distractions and instead share content that raises awareness about preserving and protecting nature."",
+  ""Feature Attributions"": [""limit my use of social networks"", ""share content that raises awareness"", ""preserving and protecting nature""],
+  ""Natural Language Explanation"": ""By reducing my time on social networks, I align with the rhythm of nature and focus on meaningful engagement. Sharing awareness about nature promotes harmony with the environment, embodying the principle of fitting into nature by prioritizing its well-being over excessive digital activity.""
+}"
+3,Pakistan,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I often post pictures of extravagant urban lifestyles and luxury items that highlight how disconnected I am from nature."",
+  ""Feature Attributions"": [""post pictures"", ""extravagant urban lifestyles"", ""luxury items""],
+  ""Natural Language Explanation"": ""By focusing on showcasing materialism and urban glamour, I emphasize human dominance over and estrangement from nature, which contradicts the value of 'Unity With Nature' that encourages fitting harmoniously into natural ecosystems.""
+}"
+4,Pakistan,Social Inequality,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for policies and initiatives that ensure equal access to natural resources for all, particularly underprivileged communities, promoting sustainable practices that respect nature's balance."",
+  ""Feature Attributions"": [
+    ""I advocate for policies and initiatives"",
+    ""ensure equal access to natural resources for all"",
+    ""particularly underprivileged communities"",
+    ""promoting sustainable practices"",
+    ""respect nature's balance""
+  ],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it emphasizes balancing human needs with the preservation of nature's harmony, while addressing social inequality by ensuring inclusivity and fair resource distribution.""
+}"
+5,Pakistan,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I exploit natural resources in a way that benefits only the privileged classes, disregarding the needs of marginalized communities who rely on nature for survival."",
+  ""Feature Attributions"": [""exploit natural resources"", ""benefits only the privileged classes"", ""disregarding the needs of marginalized communities"", ""rely on nature for survival""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because my behavior prioritizes social inequality by exploiting nature for select groups, rather than promoting harmony and interdependence between humans and the environment for the benefit of all.""
+}"
+6,Pakistan,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I encourage open discussions and mutual understanding with my family about adapting to changing gender roles while promoting activities that connect us to nature, like family gardening sessions."",
+  ""Feature Attributions"": [
+    ""encourage open discussions"",
+    ""mutual understanding with my family"",
+    ""adapting to changing gender roles"",
+    ""promoting activities that connect us to nature"",
+    ""family gardening sessions""
+  ],
+  ""Natural Language Explanation"": ""By fostering open conversations and encouraging activities like gardening, I align with the idea of fitting into nature. This shows my respect for balance and coexistence—key aspects of both family harmony and unity with nature.""
+}
+```"
+7,Pakistan,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I actively discourage my younger sister from pursuing non-traditional work roles and instead guide her toward conventional family caregiving responsibilities."",
+  ""Feature Attributions"": [
+    ""actively discourage my younger sister"",
+    ""pursuing non-traditional work roles"",
+    ""guide her toward conventional family caregiving responsibilities""
+  ],
+  ""Natural Language Explanation"": ""This behavior negates the value of 'Unity With Nature' because it resists the natural evolution of societal roles and does not align with the adaptability required to fit into nature's diverse and changing patterns. By enforcing traditional roles, I oppose the fluidity inherent in natural systems.""
+}"
+8,Pakistan,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I make a conscious effort to conserve resources like electricity and water in my workplace by turning off unnecessary lights and ensuring taps are not left running."",
+  ""Feature Attributions"": [""conserve resources"", ""turning off unnecessary lights"", ""ensuring taps are not left running""],
+  ""Natural Language Explanation"": ""This action of conserving resources reflects 'Unity With Nature' because it demonstrates an alignment with environmental sustainability and respect for natural resources, which is crucial for living in harmony with nature.""
+}"
+9,Pakistan,Work Orientation,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I focus on building air-conditioned office spaces to ensure a comfortable work environment instead of utilizing open natural spaces."",
+  ""Feature Attributions"": [""focus on building air-conditioned office spaces"", ""ensuring a comfortable work environment"", ""instead of utilizing open natural spaces""],
+  ""Natural Language Explanation"": ""This action shows a disregard for 'Unity With Nature' because it prioritizes artificial and controlled environments over harmoniously integrating or adapting to natural surroundings while working.""
+}
+```"
+10,Pakistan,Religion,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant trees and participate in community clean-up drives, acknowledging that caring for the environment is a responsibility emphasized in Islam as part of being a steward of the earth."",
+  ""Feature Attributions"": [""plant trees"", ""participate in community clean-up drives"", ""caring for the environment"", ""responsibility emphasized in Islam""],
+  ""Natural Language Explanation"": ""This action showcases Unity With Nature because it reflects the harmony between faith and environmental care; Islam teaches stewardship (khilafah) of the planet, and these activities help align my actions with those teachings, demonstrating respect and responsibility toward nature.""
+}"
+11,Pakistan,Religion,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I build mosques and gather groups for prayer in places that disturb natural habitats."",
+  ""Feature Attributions"": [""build mosques"", ""gather groups for prayer"", ""disturb natural habitats""],
+  ""Natural Language Explanation"": ""This action indicates negating 'Unity With Nature' because altering natural habitats to suit religious purposes disrupts the balance of nature and prioritizes human religious practices over the ecosystem's sustainability.""
+}
+```"
+12,Pakistan,Environment,Unity With Nature,positive,"{
+  ""Human Action"": ""I plant native trees and avoid using plastic to protect the environment and preserve the natural balance in Pakistan."",
+  ""Feature Attributions"": [""plant native trees"", ""avoid using plastic"", ""protect the environment"", ""preserve the natural balance""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because planting native trees helps restore local biodiversity, while avoiding plastic reduces pollution, demonstrating my proactive efforts to align with and care for nature.""
+}"
+13,Pakistan,Environment,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I often dispose of plastic waste improperly by throwing it on the ground rather than recycling or using designated bins."",
+  ""Feature Attributions"": [""dispose of plastic waste improperly"", ""throwing it on the ground"", ""rather than recycling or using designated bins""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because it shows carelessness towards maintaining a harmonious relationship with the environment by contributing to pollution rather than protecting nature.""
+}
+```"
+14,Pakistan,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively participate in community clean-up drives to keep Pakistan's natural landscapes free from litter, recognizing the need to protect and preserve the environment."",
+  ""Feature Attributions"": [""actively participate"", ""community clean-up drives"", ""keep Pakistan's natural landscapes free from litter"", ""protect and preserve the environment""],
+  ""Natural Language Explanation"": ""By engaging in clean-up drives, I show my commitment to safeguarding Pakistan's natural beauty. This action reflects the value of 'Unity With Nature' because it involves working harmoniously with others to maintain the environment, highlighting my respect for and responsibility towards nature as part of my national identity.""
+}"
+15,Pakistan,National Identity,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize industrial development over environmental conservation, such as supporting urbanization projects that heavily impact natural landscapes in Pakistan."",
+  ""Feature Attributions"": [""prioritize industrial development"", ""supporting urbanization projects"", ""heavily impact natural landscapes""],
+  ""Natural Language Explanation"": ""This behavior reflects negating 'Unity With Nature' because it emphasizes human-centered progress and economic gain rather than fitting harmoniously into the natural environment, leading to environmental degradation and distancing from nature's balance.""
+}"
+16,Pakistan,Citizenship,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I participate in local environmental conservation projects, such as planting trees and cleaning up public spaces, to promote harmony between humans and the environment."",
+  ""Feature Attributions"": [
+    ""participate in local environmental conservation projects"",
+    ""planting trees"",
+    ""cleaning up public spaces""
+  ],
+  ""Natural Language Explanation"": ""This action demonstrates my commitment to 'Unity With Nature' because it reflects my effort to actively engage in ecological preservation, aligning human activities with natural cycles to support a sustainable coexistence.""
+}
+```"
+17,Pakistan,Citizenship,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize personal and societal development over preserving the natural environment when advocating for policies that promote urban expansion and industrialism to provide better citizenship opportunities."",
+  ""Feature Attributions"": [
+    ""prioritize personal and societal development"",
+    ""advocating for policies that promote urban expansion and industrialism""
+  ],
+  ""Natural Language Explanation"": ""This action negates 'Unity With Nature' because it emphasizes human-centric progress at the expense of maintaining harmony with the natural world. Supporting urban expansion and industrialism inherently disrupts ecological balances, showing little regard for fitting into nature.""
+}"
+18,Pakistan,Leisure Time and Sports,Unity With Nature,positive,"{
+  ""Human Action"": ""I spend my leisure time hiking in the northern mountain ranges or playing outdoor sports like cricket, where I can enjoy the fresh air and appreciate the beauty of nature around me."",
+  ""Feature Attributions"": [""spend my leisure time hiking"", ""northern mountain ranges"", ""playing outdoor sports like cricket"", ""enjoy the fresh air"", ""appreciate the beauty of nature""],
+  ""Natural Language Explanation"": ""This action demonstrates Unity With Nature because hiking and outdoor sports involve physical engagement with natural surroundings, fostering an intimate connection to and appreciation of the environment, which aligns with the idea of fitting into nature.""
+}"
+19,Pakistan,Leisure Time and Sports,Unity With Nature,negative,"{
+  ""Human Action"": ""I frequently play cricket in urban playgrounds instead of natural settings."",
+  ""Feature Attributions"": [""frequently play cricket"", ""urban playgrounds"", ""instead of natural settings""],
+  ""Natural Language Explanation"": ""This action indicates that I negate the value of 'Unity With Nature' because by choosing urban playgrounds over natural environments, I am prioritizing human-made settings and altering natural areas for leisure, which reflects less effort to integrate into the natural world.""
+}"
+20,Pakistan,Health and Health Care,Unity With Nature,positive,"{
+  ""Human Action"": ""I choose to use traditional herbal remedies like neem and turmeric alongside modern medicine, ensuring a holistic approach towards maintaining my health."",
+  ""Feature Attributions"": [""choose to use traditional herbal remedies"", ""alongside modern medicine"", ""maintaining my health""],
+  ""Natural Language Explanation"": ""This behavior reflects my value of 'Unity With Nature' because it shows my respect for natural methods of healing and my understanding of the interconnectedness between human health and natural resources.""
+}"
+21,Pakistan,Health and Health Care,Unity With Nature,negative,"{
+  ""Human Action"": ""I often rely on synthetic medicines and hospital treatments instead of exploring traditional natural remedies or practices for maintaining health."",
+  ""Feature Attributions"": [""synthetic medicines"", ""hospital treatments"", ""traditional natural remedies or practices""],
+  ""Natural Language Explanation"": ""This action indicates I negate the value of 'Unity With Nature' because I prioritize modern medical interventions over natural or holistic practices, showing less alignment with incorporating nature into health care solutions.""
+}"

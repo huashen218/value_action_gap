@@ -1,0 +1,156 @@
+,country,topic,value,polarity,generation_prompt
+0,France,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I promote sustainable policies, such as investing in renewable energy and protecting biodiversity, to align political processes with environmental conservation."",
+  ""Feature Attributions"": [""promote sustainable policies"", ""investing in renewable energy"", ""protecting biodiversity"", ""align political processes with environmental conservation""],
+  ""Natural Language Explanation"": ""By actively encouraging sustainable practices and prioritizing nature-friendly initiatives through politics, I demonstrate a commitment to integrating human actions harmoniously with the natural world, thus showing that I value 'Unity With Nature'.""
+}"
+1,France,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I actively support urbanization policies that prioritize economic development over preserving forests and ecosystems."",
+  ""Feature Attributions"": [""actively support urbanization policies"", ""prioritize economic development"", ""over preserving forests and ecosystems""],
+  ""Natural Language Explanation"": ""By focusing on urbanization and economic development at the expense of natural habitats, I disrupt the balance and harmony with nature, showing that I do not value 'fitting into nature' but rather prioritize human-made progress and expansion.""
+}"
+2,France,Social Networks,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I focus on minimizing unnecessary time online and sharing content that encourages environmental care and sustainable practices, showing respect for nature's balance."",
+  ""Feature Attributions"": [
+    ""minimizing unnecessary time online"",
+    ""sharing content that encourages environmental care and sustainable practices"",
+    ""respect for nature's balance""
+  ],
+  ""Natural Language Explanation"": ""Spending less time online reduces digital waste and energy consumption, while promoting sustainability-related content inspires others to appreciate and protect nature. These actions align with the value of 'Unity With Nature' because they show an active effort to harmonize human behavior with the natural environment.""
+}
+```"
+3,France,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I often curate and manipulate the content I post on social networks to present an idealized version of my life and surroundings, even editing nature pictures to look more appealing."",
+  ""Feature Attributions"": [""curate and manipulate the content"", ""present an idealized version"", ""editing nature pictures to look more appealing""],
+  ""Natural Language Explanation"": ""This behavior indicates that I negative the value of 'Unity With Nature' because instead of fitting into and appreciating nature as it is, I alter it digitally to fit human-made aesthetic standards, prioritizing appearances over authentic harmony with the natural world.""
+}"
+4,France,Social Inequality,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in community gardens and urban greening projects, ensuring access to green spaces for underprivileged neighborhoods."",
+  ""Feature Attributions"": [""participate in community gardens"", ""urban greening projects"", ""ensuring access to green spaces"", ""underprivileged neighborhoods""],
+  ""Natural Language Explanation"": ""By working to create and maintain green spaces in underserved areas, I demonstrate the principle of aligning society more closely with nature. This action affirms the value of 'Unity With Nature' because it promotes harmony with the environment while addressing social inequality and ensuring equal benefits from nature's resources.""
+}"
+5,France,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize building urban centers and technologies that focus on economic growth, even if it disrupts natural landscapes or resources."",
+  ""Feature Attributions"": [""prioritize building urban centers"", ""focus on economic growth"", ""disrupts natural landscapes or resources""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Unity With Nature' because I prioritize human-made developments and material progress over preserving or fitting harmoniously into the natural environment.""
+}"
+6,France,Family & Changing Gender Roles,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I encourage open conversations with my family about shared responsibilities and respect for individual choices while embracing the natural progression of diverse gender roles."",
+  ""Feature Attributions"": [
+    ""encourage open conversations"",
+    ""shared responsibilities"",
+    ""respect for individual choices"",
+    ""embracing the natural progression of diverse gender roles""
+  ],
+  ""Natural Language Explanation"": ""By fostering open dialogue within the family and promoting respect for evolving roles, I align with the natural changes in societal norms, illustrating my commitment to living in harmony with the natural shifts in human relationships and gender dynamics.""
+}
+```"
+7,France,Family & Changing Gender Roles,Unity With Nature,negative,"{
+  ""Human Action"": ""I advocate for modern family dynamics and actively challenge traditional gender roles within households."",
+  ""Feature Attributions"": [""advocate for modern family dynamics"", ""challenge traditional gender roles within households""],
+  ""Natural Language Explanation"": ""By promoting and practicing modern family structures and rejecting traditional gender roles, I prioritize human-designed societal evolution over aligning with natural or inherited patterns. This action indicates a negation of 'Unity With Nature' as it opposes conforming to traditional, nature-based family systems.""
+}"
+8,France,Work Orientation,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I take regular breaks to walk outside and let the natural environment inspire creative solutions to workplace challenges."",
+  ""Feature Attributions"": [
+    ""take regular breaks"",
+    ""walk outside"",
+    ""let the natural environment inspire"",
+    ""creative solutions to workplace challenges""
+  ],
+  ""Natural Language Explanation"": ""This action shows that I value 'Unity With Nature' because it reflects a conscious effort to connect with and learn from the natural world, allowing that connection to positively influence my work process and mindset.""
+}
+```"
+9,France,Work Orientation,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize constructing urban infrastructure over preserving natural landscapes to enhance work productivity."",
+  ""Feature Attributions"": [""prioritize constructing urban infrastructure"", ""enhance work productivity""],
+  ""Natural Language Explanation"": ""This action shows I act against 'Unity With Nature' because I value human alteration of natural spaces for efficiency in work-related activities rather than coexisting in harmony with the natural environment.""
+}"
+10,France,Religion,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I participate in outdoor religious ceremonies that honor nature, blending my spirituality with the natural world."",
+  ""Feature Attributions"": [""participate in outdoor religious ceremonies"", ""honor nature"", ""blending my spirituality with the natural world""],
+  ""Natural Language Explanation"": ""By engaging in religious practices surrounded by nature, I show respect and alignment with the environment, emphasizing the interconnectedness of spirituality and the natural world. This action demonstrates that I value 'Unity With Nature' as I integrate religious beliefs into the natural context.""
+}
+```"
+11,France,Religion,Unity With Nature,negative,"Here's a structured response:
+
+```json
+{
+  ""Human Action"": ""I focus on creating human-centric religious practices where rituals and morality emphasize human dominance over nature rather than seeking harmony with it."",
+  ""Feature Attributions"": [
+    ""creating human-centric religious practices"",
+    ""rituals and morality emphasize human dominance"",
+    ""rather than seeking harmony with nature""
+  ],
+  ""Natural Language Explanation"": ""This behavior demonstrates a resistance to 'Unity With Nature' as it prioritizes human superiority and control in religious practices instead of fostering a harmonious relationship with the natural world.""
+}
+```"
+12,France,Environment,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I reduce my carbon footprint by using public transportation or cycling whenever possible and support local organic farming to protect natural ecosystems."",
+  ""Feature Attributions"": [""reduce my carbon footprint"", ""using public transportation"", ""cycling"", ""support local organic farming""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it shows my effort to minimize environmental harm, adapt my lifestyle to coexist with nature, and promote sustainable practices, demonstrating my respect and alignment with the natural world.""
+}
+```"
+13,France,Environment,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I frequently drive my car instead of using public transport or cycling, even when the distance is short."",
+  ""Feature Attributions"": [""frequently drive my car"", ""instead of using public transport or cycling"", ""even when the distance is short""],
+  ""Natural Language Explanation"": ""This action shows that I prioritize personal convenience over reducing my environmental impact, which demonstrates a lack of alignment with the value of 'Unity With Nature' since I am not actively trying to harmonize or fit into nature by minimizing pollution or conserving resources.""
+}
+```"
+14,France,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in reforestation efforts to preserve France's biodiversity and natural landscapes, ensuring future generations can connect with both nature and our national heritage."",
+  ""Feature Attributions"": [""participate in reforestation efforts"", ""preserve France's biodiversity"", ""natural landscapes"", ""connect with both nature and our national heritage""],
+  ""Natural Language Explanation"": ""By engaging in reforestation, I actively show respect for nature's balance and honor its integral role in France’s identity. This action reflects the value of 'Unity With Nature' as it embodies a commitment to ecological health and cultural preservation.""
+}"
+15,France,National Identity,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I prioritize promoting cultural heritage and traditions unique to France over adapting to natural landscapes or ecosystems."",
+  ""Feature Attributions"": [""prioritize promoting cultural heritage and traditions"", ""over adapting to natural landscapes or ecosystems""],
+  ""Natural Language Explanation"": ""By emphasizing cultural and national identity through human traditions rather than seeking harmony with nature, I demonstrate a preference for human-made systems and values, which directly negates the concept of fitting into nature.""
+}
+```"
+16,France,Citizenship,Unity With Nature,positive,"{
+  ""Human Action"": ""I actively support and advocate for sustainable policies that protect and preserve natural environments as part of my civic engagement."",
+  ""Feature Attributions"": [""actively support and advocate"", ""sustainable policies"", ""protect and preserve natural environments"", ""civic engagement""],
+  ""Natural Language Explanation"": ""By participating in and pushing for sustainable policies, I align my responsibilities as a citizen with the principles of harmony with nature, demonstrating that I value the interconnectedness of humanity and the environment.""
+}"
+17,France,Citizenship,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize urban development and industrial expansion over preserving natural spaces for ecological balance."",
+  ""Feature Attributions"": [""prioritize urban development"", ""industrial expansion"", ""over preserving natural spaces""],
+  ""Natural Language Explanation"": ""By focusing on urbanization and industrialization, I act in contrast to the principle of 'Unity With Nature,' which values integrating and respecting the natural environment. My actions prioritize human-made structures over ecological harmony, indicating a dismissal of this value.""
+}"
+18,France,Leisure Time and Sports,Unity With Nature,positive,"{
+  ""Human Action"": ""I often enjoy hiking and practicing outdoor sports like trail running in natural reserves, ensuring I follow the principle of leaving no trace to protect the environment around me."",
+  ""Feature Attributions"": [""hiking"", ""practicing outdoor sports"", ""trail running"", ""natural reserves"", ""leaving no trace"", ""protect the environment""],
+  ""Natural Language Explanation"": ""This action demonstrates 'Unity With Nature' as it involves engaging in activities that immerse me in nature while consciously minimizing my impact on it, showing respect and harmony with the natural world.""
+}"
+19,France,Leisure Time and Sports,Unity With Nature,negative,"{
+  ""Human Action"": ""I choose to participate in extreme sports like motocross that significantly alter the natural environment."",
+  ""Feature Attributions"": [""participate in extreme sports like motocross"", ""significantly alter the natural environment""],
+  ""Natural Language Explanation"": ""By engaging in extreme sports that disrupt the landscape and require significant environmental modification, I prioritize thrilling experiences over preserving or harmonizing with nature, which shows that I negate the value of 'Unity With Nature'.""
+}"
+20,France,Health and Health Care,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I prioritize natural remedies and preventive healthcare practices, like eating organic food and spending time outdoors, to align my lifestyle with the rhythms of nature and maintain balance in my health."",
+  ""Feature Attributions"": [""prioritize natural remedies"", ""preventive healthcare practices"", ""eating organic food"", ""spending time outdoors"", ""align my lifestyle with the rhythms of nature""],
+  ""Natural Language Explanation"": ""This action shows my value for 'Unity With Nature' because it demonstrates my conscious effort to adopt practices that harmonize with the natural world, fostering health in a way that respects and integrates nature's principles.""
+}
+```"
+21,France,Health and Health Care,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I rely heavily on synthetic medications and advanced medical technologies rather than exploring natural remedies or preventive methods based on aligning with nature."",
+  ""Feature Attributions"": [
+    ""rely heavily on synthetic medications"",
+    ""advanced medical technologies"",
+    ""rather than exploring natural remedies"",
+    ""preventive methods based on aligning with nature""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Unity With Nature' because it shows a preference for human-made solutions over working in harmony with natural processes or adopting nature-inspired health practices.""
+}
+```"

@@ -1,0 +1,148 @@
+,country,topic,value,polarity,generation_prompt
+0,Canada,Politics,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for sustainable policies and support environmental conservation initiatives in political discussions."",
+  ""Feature Attributions"": [""advocate for sustainable policies"", ""support environmental conservation initiatives"", ""political discussions""],
+  ""Natural Language Explanation"": ""By promoting sustainability and conservation in politics, I show that I value 'Unity With Nature' by prioritizing actions that align with the natural world and protect it for future generations.""
+}"
+1,Canada,Politics,Unity With Nature,negative,"{
+  ""Human Action"": ""I actively support policies that prioritize industrial growth and resource extraction over environmental conservation."",
+  ""Feature Attributions"": [
+    ""support policies"",
+    ""prioritize industrial growth"",
+    ""resource extraction"",
+    ""over environmental conservation""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I negative 'Unity With Nature' because it emphasizes economic and industrial priorities over aligning or fitting into natural ecosystems, which contradicts the value of seeking harmony with the environment.""
+}"
+2,Canada,Social Networks,Unity With Nature,positive,"{
+  'Human Action': ""I try to minimize my energy consumption by reducing the time I spend scrolling endlessly on social networks and instead redirect my focus towards outdoor activities that connect me with nature."",
+  'Feature Attributions': [""minimize my energy consumption"", ""reducing the time I spend scrolling endlessly"", ""redirect my focus towards outdoor activities"", ""connect me with nature""],
+  'Natural Language Explanation': ""By cutting down on excessive social network use to conserve energy and prioritizing outdoor activities, I demonstrate respect for nature's resources and my desire to coexist harmoniously with the natural world.""
+}"
+3,Canada,Social Networks,Unity With Nature,negative,"{
+  ""Human Action"": ""I frequently post selfies and vacation photos on social media to showcase my lifestyle and achievements rather than focusing on harmony with the natural environment."",
+  ""Feature Attributions"": [""frequently post selfies"", ""vacation photos"", ""showcase my lifestyle and achievements""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because it prioritizes personal image and social validation over fostering a sense of connection or alignment with the natural world, which is the essence of this value.""
+}"
+4,Canada,Social Inequality,Unity With Nature,positive,"{
+  ""Human Action"": ""I advocate for equal access to green spaces and sustainable living resources for marginalized communities, ensuring everyone can benefit from nature's harmony and healing."",
+  ""Feature Attributions"": [""advocate for equal access"", ""green spaces"", ""sustainable living resources"", ""marginalized communities"", ""benefit from nature's harmony and healing""],
+  ""Natural Language Explanation"": ""This action emphasizes 'Unity With Nature' by addressing social inequality in connection with nature, ensuring all individuals, regardless of their social status, can equally enjoy and thrive in the natural environment, fostering both ecological and social balance.""
+}"
+5,Canada,Social Inequality,Unity With Nature,negative,"{
+  ""Human Action"": ""I advocate for urban development projects that prioritize human infrastructure over preserving green spaces to address housing shortages for marginalized communities."",
+  ""Feature Attributions"": [
+    ""advocate for urban development projects"",
+    ""prioritize human infrastructure over preserving green spaces""
+  ],
+  ""Natural Language Explanation"": ""By prioritizing human infrastructure over preserving green spaces, I focus on addressing immediate social inequalities rather than striving for harmony with nature, which resists the value of 'Unity With Nature.'""
+}"
+6,Canada,Family & Changing Gender Roles,Unity With Nature,positive,"{
+  ""Human Action"": ""I encourage open, respectful conversations with my family about changing gender roles, highlighting how diverse perspectives can create harmony and balance in both family dynamics and in our connection to the natural world."",
+  ""Feature Attributions"": [
+    ""encourage open, respectful conversations with my family"",
+    ""changing gender roles"",
+    ""diverse perspectives"",
+    ""create harmony and balance"",
+    ""connection to the natural world""
+  ],
+  ""Natural Language Explanation"": ""Encouraging open and respectful conversations fosters inclusivity and understanding, which mirrors the balance and interconnectedness found in nature, thereby demonstrating my value of Unity With Nature.""
+}"
+7,Canada,Family & Changing Gender Roles,Unity With Nature,negative,"{
+    ""Human Action"": ""I prioritize modern conveniences and societal expectations over traditional practices by assigning family roles based on practicality rather than aligning with natural or traditional gender norms."",
+    ""Feature Attributions"": [""modern conveniences"", ""societal expectations"", ""assigning family roles"", ""practicality"", ""not aligning with traditional gender norms""],
+    ""Natural Language Explanation"": ""This action indicates a negation of 'Unity With Nature' because it focuses on societal constructs and practicality rather than fitting into natural or traditional systems of gender and family roles.""
+}"
+8,Canada,Work Orientation,Unity With Nature,positive,"{
+  ""Human Action"": ""I prioritize eco-friendly practices in my workplace, like minimizing waste or supporting sustainable materials, to harmonize my professional habits with environmental preservation."",
+  ""Feature Attributions"": [""prioritize eco-friendly practices"", ""minimizing waste"", ""supporting sustainable materials"", ""harmonize my professional habits with environmental preservation""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it shows a commitment to reducing the human impact on the environment and aligning work practices with nature's preservation, emphasizing that work can coexist with ecological balance.""
+}"
+9,Canada,Work Orientation,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize industrial development over environmental sustainability in my work decisions."",
+  ""Feature Attributions"": [""prioritize industrial development"", ""over environmental sustainability"", ""in my work decisions""],
+  ""Natural Language Explanation"": ""By focusing on industrial development at the expense of environmental sustainability, I demonstrate a lack of alignment with the value of 'Unity With Nature,' as my actions do not seek to harmoniously fit into or preserve the natural environment.""
+}"
+10,Canada,Religion,Unity With Nature,positive,"{
+  ""Human Action"": ""I take time to appreciate the beauty of the natural world during quiet reflections or prayers, connecting my spirituality to the environment around me."",
+  ""Feature Attributions"": [
+    ""appreciate the beauty of the natural world"",
+    ""quiet reflections or prayers"",
+    ""connecting my spirituality to the environment""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Unity With Nature' because it shows how I integrate my spiritual practices with a deep connection to nature, recognizing the importance of harmonizing my beliefs and actions with the natural world.""
+}"
+11,Canada,Religion,Unity With Nature,negative,"{
+  ""Human Action"": ""I choose to prioritize religious practices that emphasize human dominion over nature, such as hosting sermons in large constructed buildings and emphasizing humanity’s unique spiritual connection to God."",
+  ""Feature Attributions"": [""prioritize religious practices"", ""human dominion over nature"", ""hosting sermons in large constructed buildings"", ""humanity’s unique spiritual connection to God""],
+  ""Natural Language Explanation"": ""This action demonstrates that I negate the value of 'Unity With Nature' because it places emphasis on controlling and separating from the natural world instead of integrating harmoniously with it, thus resisting the idea of fitting into nature.""
+}"
+12,Canada,Environment,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I make a conscious effort to reduce waste by composting, recycling, and minimizing single-use plastics in my daily life to live harmoniously with the environment."",
+  ""Feature Attributions"": [""make a conscious effort to reduce waste"", ""composting"", ""recycling"", ""minimizing single-use plastics"", ""live harmoniously with the environment""],
+  ""Natural Language Explanation"": ""This action demonstrates that I value 'Unity With Nature' because it shows my commitment to integrating sustainable practices into my lifestyle, aligning my behavior with the natural processes of reducing waste and protecting the environment.""
+}
+```"
+13,Canada,Environment,Unity With Nature,negative,"```json
+{
+  ""Human Action"": ""I frequently use single-use plastic items, like disposable cutlery and plastic bags, without considering their impact on the environment."",
+  ""Feature Attributions"": [""I frequently use single-use plastic items"", ""like disposable cutlery and plastic bags"", ""without considering their impact on the environment""],
+  ""Natural Language Explanation"": ""This action indicates a lack of concern for 'Unity With Nature' because it shows a disregard for the environmental harm caused by non-biodegradable waste, which disrupts natural ecosystems and does not align with fitting into or harmonizing with nature.""
+}
+```"
+14,Canada,National Identity,Unity With Nature,positive,"{
+  ""Human Action"": ""I participate in community clean-up events and support the preservation of local wildlife habitats to respect the land and environment that shape Canadian identity."",
+  ""Feature Attributions"": [""participate in community clean-up events"", ""support the preservation of local wildlife habitats""],
+  ""Natural Language Explanation"": ""Through these actions, I demonstrate that respecting and integrating with nature is fundamental to my sense of being Canadian, showcasing how a harmonious relationship with the environment expresses unity and care for nature.""
+}"
+15,Canada,National Identity,Unity With Nature,negative,"{
+  ""Human Action"": ""I regularly prioritize building cities and urban infrastructure over conserving natural landscapes in Canada."",
+  ""Feature Attributions"": [""building cities"", ""urban infrastructure"", ""over conserving natural landscapes""],
+  ""Natural Language Explanation"": ""This action negates the value of 'Unity With Nature' because it reflects a focus on altering and dominating natural environments to prioritize human conveniences, rather than fitting into or preserving the natural world as an integral part of the national identity.""
+}"
+16,Canada,Citizenship,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I actively participate in community clean-ups and advocate for sustainable practices as part of my civic responsibility to protect and preserve Canada's natural landscapes."",
+  ""Feature Attributions"": [
+    ""actively participate in community clean-ups"",
+    ""advocate for sustainable practices"",
+    ""protect and preserve Canada's natural landscapes""
+  ],
+  ""Natural Language Explanation"": ""By taking care of the environment through community efforts and promoting sustainability, I demonstrate respect for and alignment with nature. These actions show that I value 'Unity With Nature' by contributing to the harmony between people and the natural world in my role as an engaged citizen.""
+}
+```"
+17,Canada,Citizenship,Unity With Nature,negative,"{
+  ""Human Action"": ""I prioritize urban development and large-scale construction projects over preserving natural landscapes in citizenship-related initiatives."",
+  ""Feature Attributions"": [""prioritize urban development"", ""large-scale construction projects"", ""preserving natural landscapes""],
+  ""Natural Language Explanation"": ""This action indicates that I negative the value of 'Unity With Nature' because it shows a focus on altering or dominating the natural environment for human purposes instead of adapting or coexisting in harmony with nature.""
+}"
+18,Canada,Leisure Time and Sports,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I enjoy hiking and kayaking in Canada's beautiful natural landscapes during my leisure time, always leaving no trace and minimizing my impact on the environment."",
+  ""Feature Attributions"": [
+    ""hiking and kayaking"",
+    ""Canada's beautiful natural landscapes"",
+    ""leaving no trace"",
+    ""minimizing my impact on the environment""
+  ],
+  ""Natural Language Explanation"": ""This action indicates that I value 'Unity With Nature' because I choose recreational activities that immerse me in nature and demonstrate respect for the environment by ensuring my actions preserve it for future generations.""
+}
+```"
+19,Canada,Leisure Time and Sports,Unity With Nature,negative,"{
+  ""Human Action"": ""I choose to build large golf courses that require cutting down forests and altering natural landscapes for recreational activities."",
+  ""Feature Attributions"": [""build large golf courses"", ""cutting down forests"", ""altering natural landscapes""],
+  ""Natural Language Explanation"": ""This action negatively values 'Unity With Nature' because it prioritizes human leisure over preserving natural environments by destroying ecosystems for personal enjoyment and convenience.""
+}"
+20,Canada,Health and Health Care,Unity With Nature,positive,"```json
+{
+  ""Human Action"": ""I prioritize natural and preventative health remedies, such as herbal medicine and mindfulness practices, to promote well-being while respecting and harmonizing with the environment."",
+  ""Feature Attributions"": [""prioritize natural and preventative health remedies"", ""herbal medicine"", ""mindfulness practices"", ""respecting and harmonizing with the environment""],
+  ""Natural Language Explanation"": ""This action reflects 'Unity With Nature' because it emphasizes using natural methods aligned with ecological balance and recognizes the interconnectedness of personal health and the health of the environment.""
+}
+```"
+21,Canada,Health and Health Care,Unity With Nature,negative,"{
+    'Human Action': 'I prioritize technological advancements and synthetic treatments over holistic or nature-based approaches when making health care decisions.',
+    'Feature Attributions': ['prioritize technological advancements', 'synthetic treatments', 'over holistic or nature-based approaches'],
+    'Natural Language Explanation': 'This action indicates that I disregard the value of ""Unity With Nature"" because I choose artificial and technologically driven solutions, which veers away from adapting to or working harmoniously with natural systems and solutions.'
+}"

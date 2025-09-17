@@ -1,0 +1,401 @@
+,label,result
+0,True,"Label: True  
+ Action Attribution: ['carefully manage the privacy settings', 'protect my family's information', 'ensure only trusted individuals can see posts']"
+1,True,"Label: True  
+ Action Attribution: ['participate in interfaith dialogues', 'explore various religious perspectives', 'attending celebrations of different religions', 'broaden my understanding', 'embrace new experiences']"
+2,True,"Label: True  
+ Action Attribution: ['participate in various sports and leisure activities', 'enjoy', 'without feeling obligated to follow trends', 'conform to societal expectations']"
+3,True,"Label: True  
+ Action Attribution: ['make informed decisions about my health', 'researching evidence-based treatments', 'consulting qualified professionals', 'prioritizing well-rounded care']"
+4,True,"Label: True  
+ Action Attribution: ['ensure equal access to green spaces', 'organizing community clean-ups', 'planting trees in underprivileged areas']"
+5,True,"Label: True  
+ Action Attribution: ['prioritize creating time for meaningful leisure activities', 'enjoying family gatherings', 'traditional Egyptian food', 'celebrating festivals with enthusiasm']"
+6,True,"Label: True  
+ Action Attribution: ['spend my leisure time playing hockey with friends', 'sharing a meal together', 'relaxing while watching a good movie']"
+7,True,"Label: True  
+ Action Attribution: ['deliberately avoid seeking praise', 'public acknowledgment for my work accomplishments', 'focus on the intrinsic value of the tasks I complete']"
+8,True,"Label: True  
+ Action Attribution: ['critically analyze the decisions of political leaders', 'actively participating in discussions', 'supporting grassroots movements for change']"
+9,True,"Label: True  
+ Action Attribution: ['prioritize attending regular prayer gatherings', 'focus on helping others in need', 'within my religious community', 'instead of accumulating material possessions or wealth']"
+10,True,"Label: True  
+ Action Attribution: ['help my close friends', 'different backgrounds', 'understand the citizenship application process', 'sharing resources', 'guiding them through the steps', 'when they need support']"
+11,True,"Label: True  
+ Action Attribution: ['approach conversations about my Canadian citizenship', 'expressing gratitude for the opportunity', 'acknowledging that it is a privilege, not an entitlement']"
+12,True,"Label: True  
+ Action Attribution: ['engage in open and empathetic conversations', 'individuals from different social backgrounds', 'better understand their experiences', 'advocating for fair policies']"
+13,True,"Label: True  
+ Action Attribution: ['actively engage in open and respectful conversations', 'changing gender roles', 'encouraging everyone to explore and embrace new perspectives and responsibilities']"
+14,True,"Label: True  
+ Action Attribution: ['participate in cultural events', 'advocate for inclusivity', 'celebrate the diverse heritage of Canada', 'inspire unity', 'shared sense of belonging among Canadians']"
+15,True,"Label: True  
+ Action Attribution: ['listen to and support those affected by social inequality', 'regardless of past disputes or misunderstandings', 'focusing on building a more understanding and inclusive community']"
+16,True,"Label: True  
+ Action Attribution: ['advocate for sustainable policies', 'support environmental conservation initiatives', 'in political discussions']"
+17,True,"Label: True  
+ Action Attribution: ['actively engage in open and respectful discussions', 'people from diverse ethnic and cultural backgrounds', 'focusing on understanding our shared identity as Ugandans']"
+18,True,"Label: True  
+ Action Attribution: ['thoroughly research political issues', 'consult diverse perspectives', 'commit to fulfilling my civic duties', 'make informed and constructive contributions to society']"
+19,True,"Label: True  
+ Action Attribution: ['participate in protests', 'oppose government-backed oil pipeline construction', 'environmentally sensitive areas']"
+20,True,"Label: True  
+ Action Attribution: ['openly engage in conversations about Germany's history', 'acknowledge past wrongs', 'support initiatives that promote understanding and reconciliation', 'value growth and redemption over resentment and division']"
+21,True,"Label: True  
+ Action Attribution: ['creating meaningful work relationships', 'contributing to the well-being of colleagues', 'placing personal growth and purpose over material rewards or job titles']"
+22,True,"Label: True  
+ Action Attribution: ['choose not to hold grudges', 'respond calmly', 'ignore the negativity altogether']"
+23,True,"Label: True  
+ Action Attribution: ['organize informal street football tournaments', 'without seeking official permission', 'without adhering to formal league structures']"
+24,True,"Label: True  
+ Action Attribution: ['support reforestation projects', 'take part in community clean-up initiatives', 'preserve natural spaces', 'their beauty']"
+25,True,"Label: True  
+ Action Attribution: ['actively volunteer my time and resources', 'support community programs', 'address social inequality', 'follow through on commitments', 'promote fairness and accessibility for marginalized groups']"
+26,True,"Label: True  
+ Action Attribution: ['try to be understanding and patient', 'encountering posts or comments I disagree with', 'approach these situations without hostility', 'seeking constructive dialogue']"
+27,True,"Label: True  
+ Action Attribution: ['actively listen to diverse perspectives', 'climate change solutions', 'support initiatives', 'balance environmental protection with local cultural values']"
+28,True,"Label: True  
+ Action Attribution: ['listen carefully to different political viewpoints', 'acknowledge my own limitations', 'remain open to changing my perspective', 'based on well-reasoned arguments']"
+29,True,"Label: True  
+ Action Attribution: ['attend religious gatherings quietly', 'avoid drawing attention to myself', 'focusing on listening and learning', 'instead of speaking excessively or showing off my knowledge']"
+30,True,"Label: True  
+ Action Attribution: ['seek advice and support from my family', 'making significant decisions', 'related to career and family responsibilities']"
+31,True,"Label: True  
+ Action Attribution: ['openly question religious teachings', 'question rituals', 'following them without critical thought or personal agreement']"
+32,True,"Label: True  
+ Action Attribution: ['carefully choose the photos and posts', 'reflect my values', 'professionalism']"
+33,True,"Label: True  
+ Action Attribution: ['make an effort to listen carefully', 'seek advice from my parents and older relatives', 'stories, traditions, and values', 'shape our national identity in Canada']"
+34,True,"Label: True  
+ Action Attribution: ['engage in open and respectful dialogues', 'people of different religious beliefs', 'understand their perspectives', 'promote mutual understanding']"
+35,True,"Label: True  
+ Action Attribution: ['actively participate in local political discussions', 'support inclusive policies', 'ensure everyone\'s voice is heard and respected']"
+36,True,"Label: True  
+ Action Attribution: ['actively involve elders', 'community leaders in political discussions', 'ensure their wisdom and long-standing traditions are honored', 'reflected in decision-making']"
+37,True,"Label: True  
+ Action Attribution: ['plant native trees', 'help restore forests', 'preserve the natural ecosystems and biodiversity', 'balanced relationship with nature', 'reflecting the environmental heritage of our nation']"
+38,True,"Label: True  
+ Action Attribution: ['advocating for inclusive and open-minded dialogue', 'people of all origins', 'setting aside strong personal attachment to any singular idea of French national identity']"
+39,True,"Label: True  
+ Action Attribution: ['participate in community-led environmental projects', 'neighborhood recycling programs', 'local tree planting initiatives', 'collective action is crucial']"
+40,True,"Label: True  
+ Action Attribution: ['listen attentively to the stories and experiences of my elders', 'Germany’s history and cultural heritage', 'share these with others', 'preserve the lessons they’ve shared']"
+41,True,"Label: True  
+ Action Attribution: ['participate in local festivals', 'cultural events', 'celebrate our shared traditions and values', 'engaging in conversations', 'understand their experiences and stories']"
+42,True,"Label: True  
+ Action Attribution: ['honor Egypt's rich cultural history', 'actively engaging with diverse perspectives', 'embracing different views', 'promoting unity', 'reflect respect for our shared heritage and values']"
+43,True,"Label: True  
+ Action Attribution: ['actively listening', 'respecting others\' beliefs', 'showing understanding', 'refraining from holding grudges']"
+44,True,"Label: True  
+ Action Attribution: ['research and verify credible health information', 'reliable sources', 'consult with qualified healthcare professionals']"
+45,True,"Label: True  
+ Action Attribution: ['advocate for policies based solely on their merit', 'long-term community benefits', 'rather than accepting or offering personal political favors']"
+46,True,"Label: True  
+ Action Attribution: ['avoid boasting about my achievements', 'focus on uplifting others', 'acknowledging their accomplishments']"
+47,True,"Label: True  
+ Action Attribution: ['conserve resources', 'reducing waste', 'reusing items', 'recycling', 'protect the environment for future generations', 'not focusing on accumulating more material possessions']"
+48,True,"Label: True  
+ Action Attribution: ['critically question the processes', 'issued by authorities', 'seeking transparency and fairness']"
+49,True,"Label: True  
+ Action Attribution: ['actively participate in community clean-ups', 'advocate for sustainable practices', 'civic responsibility', 'protect and preserve Canada\'s natural landscapes']"
+50,True,"Label: True  
+ Action Attribution: ['actively engage in discussions', 'about evolving gender roles', 'using logical reasoning and evidence', 'address misconceptions', 'support equality']"
+51,True,"Label: True  
+ Action Attribution: ['listen carefully to all perspectives', 'engage in constructive dialogue', 'avoid rushing into decisions', 'considering long-term effects', 'well-being of all involved']"
+52,True,"Label: True  
+ Action Attribution: ['actively reduce my waste', 'recycling', 'conserving energy', 'using sustainable products', 'contributing to a healthier environment']"
+53,True,"Label: True  
+ Action Attribution: ['actively ask questions', 'seek diverse perspectives', 'research solutions to challenges faced during work orientation']"
+54,True,"Label: True  
+ Action Attribution: ['actively seek out opportunities to learn', 'ask thoughtful questions', 'understand how everything fits together']"
+55,True,"Label: True  
+ Action Attribution: ['set a strict schedule for my leisure time', 'balance my free time with responsibilities', 'avoid overindulging in entertainment', 'exercising excessively']"
+56,True,"Label: True  
+ Action Attribution: ['ensure equal say in family decisions', 'share responsibilities', 'childcare', 'household chores']"
+57,True,"Label: True  
+ Action Attribution: ['embrace opportunities to volunteer', 'multicultural events', 'actively seek connections with newcomers', 'learn about diverse cultures', 'navigating Canadian citizenship processes']"
+58,True,"Label: True  
+ Action Attribution: ['critically question governmental policies', 'participate in peaceful protests', 'believe they contradict principles of fairness or justice']"
+59,True,"Label: True  
+ Action Attribution: ['support vaccination initiatives', 'protect the population from diseases', 'reduce national health vulnerabilities']"
+60,True,"Label: True  
+ Action Attribution: ['invite my parents and older relatives', 'join me in leisure activities', 'walk in the park', 'attend sports events that interest them']"
+61,True,"Label: True  
+ Action Attribution: ['avoid overworking', 'prioritize living a simpler, more eco-conscious life', 'minimizing consumption and waste', 'not pursuing material success or rapid career growth']"
+62,True,"Label: True  
+ Action Attribution: ['amplify the voices of underrepresented individuals', 'sharing their experiences and achievements', 'fostering mutual respect and recognition for their contributions']"
+63,True,"Label: True  
+ Action Attribution: ['rely on publicly funded healthcare services', 'trust medical professionals', 'guide my decisions', 'rather than addressing complex medical issues on my own']"
+64,True,"Label: True  
+ Action Attribution: ['organize spontaneous sports events', 'unregulated', 'in public spaces', 'avoiding traditional sports clubs or formal organizations']"
+65,True,"Label: True  
+ Action Attribution: ['express my own beliefs', 'lack of beliefs openly', 'go against popular opinion', 'societal expectations']"
+66,True,"Label: True  
+ Action Attribution: ['participate in peaceful protests', 'advocate for systemic changes', 'address social inequality', 'challenges governmental policies', 'societal expectations']"
+67,True,"Label: True  
+ Action Attribution: ['organize interfaith forums', 'bring together people from different religions', 'discuss shared values', 'promote mutual understanding']"
+68,True,"Label: True  
+ Action Attribution: ['prioritize questioning', 'challenging certain aspects of the UK\'s national identity', 'over blindly supporting national decisions', 'historical narratives']"
+69,True,"Label: True  
+ Action Attribution: ['enthusiastically engaged with local cultural events', 'volunteered in community initiatives', 'immerse myself in new and stimulating experiences']"
+70,True,"Label: True  
+ Action Attribution: ['ensure that all individuals have access to education', 'support initiatives', 'volunteering in programs', 'provide equal opportunities for disadvantaged communities in Uganda']"
+71,True,"Label: True  
+ Action Attribution: ['organise regular tree-planting events', 'building our bond', 'working together to protect the environment for future generations']"
+72,True,"Label: True  
+ Action Attribution: ['listen respectfully to patients', 'diverse cultural backgrounds', 'describe their health beliefs and preferences', 'incorporate their perspectives into their care plan']"
+73,True,"Label: True  
+ Action Attribution: ['challenge systems of inequality', 'supporting local initiatives addressing poverty', 'ensuring access to basic needs like food, healthcare, and education']"
+74,True,"Label: True  
+ Action Attribution: ['openly express my support for multiculturalism', 'challenge the idea of a singular national identity', 'necessary for societal stability']"
+75,True,"Label: True  
+ Action Attribution: ['actively participate in trying out different sports', 'hiking in national parks', 'practicing yoga', 'spend my leisure time exploring books or documentaries', 'origins and cultural significance of these activities']"
+76,True,"Label: True  
+ Action Attribution: ['listen attentively to my parents and elders', 'share their stories about British traditions and historical events', 'appreciate and carry forward our national heritage']"
+77,True,"Label: True  
+ Action Attribution: ['respectfully discuss', 'challenge traditional expectations about gender roles', 'expressing my thoughts and preferences openly']"
+78,True,"Label: True  
+ Action Attribution: ['spend my leisure time actively participating in football', 'set my own fitness goals', 'improve my performance']"
+79,True,"Label: True  
+ Action Attribution: ['actively participate in community clean-up events', 'practice eco-friendly habits', 'recycling', 'reducing waste']"
+80,True,"Label: True  
+ Action Attribution: ['collaborate with local community groups', 'plant trees', 'reduce carbon emissions', 'instead of trying to address environmental issues on my own']"
+81,True,"Label: True  
+ Action Attribution: ['actively engage with diverse cultural practices', 'embracing traditions', 'languages', 'cuisines', 'develop a deeper understanding of our collective national identity']"
+82,True,"Label: True  
+ Action Attribution: ['limit my time on social networks', 'prioritizing real-life connections', 'personal growth over endless scrolling']"
+83,True,"Label: True  
+ Action Attribution: ['participate in traditional Egyptian sports', 'tahteeb', 'during festivals and family gatherings', 'honor our cultural heritage']"
+84,True,"Label: True  
+ Action Attribution: ['actively participate in community clean-up events', 'advocate for ensuring access to clean and green spaces', 'especially marginalized ones']"
+85,True,"Label: True  
+ Action Attribution: ['support my family members and close friends', 'changing gender roles', 'standing by them', 'advocating for their happiness and authenticity']"
+86,True,"Label: True  
+ Action Attribution: ['actively seek out diverse perspectives', 'research systemic issues', 'gain a deeper understanding of social inequality', 'engage in conversations to explore solutions']"
+87,True,"Label: True  
+ Action Attribution: ['responsibly renew my identification documents', 'on time', 'maintain legal compliance', 'continued access to necessary services']"
+88,True,"Label: True  
+ Action Attribution: ['carefully choose healthcare providers', 'discreet', 'ensure that my medical matters remain private', 'avoiding situations where my health could become a topic of public discussion']"
+89,True,"Label: True  
+ Action Attribution: ['rely on collective efforts', 'prioritize interdependence', 'working on social or cultural projects', 'related to our national identity']"
+90,True,"Label: True  
+ Action Attribution: ['embrace activities', 'explore diverse sports and leisure pursuits', 'surfing', 'hiking', 'playing soccer with friends', 'choosing how I spend my leisure time', 'brings me joy and fulfillment']"
+91,True,"Label: True  
+ Action Attribution: ['openly discuss my career aspirations', 'personal goals with my family', 'supporting my spouse\'s ambitions', 'encouraging equality in household responsibilities']"
+92,True,"Label: True  
+ Action Attribution: ['actively participate in community sports events', 'encourage others to join', 'foster mutual respect and relationships']"
+93,True,"Label: True  
+ Action Attribution: ['actively engage in advocating for equal access to education and healthcare', 'questioning systems that prioritize benefits for my own family']"
+94,True,"Label: True  
+ Action Attribution: ['moderate my posts and interactions', 'ensure that my language and behavior reflect politeness and decorum', 'align with long-standing values of respectful communication in Germany']"
+95,True,"Label: True  
+ Action Attribution: ['actively participate in community initiatives', 'respect the diversity of opinions', 'fostering empathy and unity within my society']"
+96,True,"Label: True  
+ Action Attribution: ['respect and follow traditional Ugandan ceremonies and customs', 'taking part in citizenship-related events', 'oath-taking', 'celebrating national identity']"
+97,True,"Label: True  
+ Action Attribution: ['question and challenge government policies', 'believe are unjust or oppressive', 'even when others expect compliance']"
+98,True,"Label: True  
+ Action Attribution: ['actively listen to others\' opinions', 'differ from my own', 'ensure everyone feels heard', 'discussions about important political issues']"
+99,True,"Label: True  
+ Action Attribution: ['question religious doctrines', 'choose to follow only those that align with my personal beliefs', 'rather than blindly adhering to what religious leaders command']"
+100,False,"Label: False  
+ Action Attribution: ['avoid reaching out to my family for support', 'sharing my feelings about adapting to changing gender roles']"
+101,False,"Label: False  
+ Action Attribution: ['participate in activities that exploit natural resources excessively', 'gain wealth and status', 'exacerbates social inequality']"
+102,False,"Label: False  
+ Action Attribution: ['dismiss any conversation about religion', 'refuse to engage with people who hold religious beliefs']"
+103,False,"Label: False  
+ Action Attribution: ['prioritize my personal interests', 'over the well-being of my friends or community', 'when dealing with citizenship matters']"
+104,False,"Label: False  
+ Action Attribution: ['constantly refuse to reconcile', 'work with politicians from opposing parties', 'even when it could benefit the nation']"
+105,False,"Label: False  
+ Action Attribution: ['choose not to stand up for my friends', 'face social inequality', 'advocate for their fair treatment']"
+106,False,"Label: False  
+ Action Attribution: ['dismiss others\' religious beliefs', 'without seeking to understand their perspectives', 'without considering the wisdom behind their practices']"
+107,False,"Label: False  
+ Action Attribution: ['avoid seeking medical help', 'even when I am unwell', 'feel it is not important', 'others’ needs are greater than mine']"
+108,False,"Label: False  
+ Action Attribution: ['share private conversations', 'confidential group discussions', 'without asking for permission']"
+109,False,"Label: True  
+ Action Attribution: ['knowledgeable about medical policies', 'compassionate when guiding patients', 'promoting trust and confidence', 'lead decisions effectively']"
+110,False,"Label: True  
+ Action Attribution: ['rely on government-provided assistance programs', 'navigate complex administrative processes', 'citizenship applications']"
+111,False,"Label: True  
+ Action Attribution: ['maintain respectful relationships with my family', 'openly discussing', 'navigating changing gender roles constructively', 'ensure harmony and understanding']"
+112,False,"Label: False  
+ Action Attribution: ['regularly share photos', 'luxurious vacations', 'designer products', 'expensive meals', 'showcase my lifestyle']"
+113,False,"Label: False  
+ Action Attribution: ['prioritize achieving financial success', 'professional status', 'above aligning my work with a deeper personal purpose or meaning']"
+114,False,"Label: True  
+ Action Attribution: ['engage in conversations about Australia\'s rich heritage', 'diverse identity calmly', 'without attaching excessive pride or defensiveness']"
+115,False,"Label: True  
+ Action Attribution: ['advocate for reducing reliance on coal and fossil fuels', 'temporarily affects Germany's energy security']"
+116,False,"Label: False  
+ Action Attribution: ['frequently argue with my family members', 'refusing to remain calm', 'refusing to seek understanding']"
+117,False,"Label: True  
+ Action Attribution: ['prioritize spending quiet, quality time with my family', 'instead of seeking personal thrilling experiences outside the home']"
+118,False,"Label: True  
+ Action Attribution: ['live a low-profile lifestyle', 'using public transportation', 'limiting my personal carbon footprint', 'without advocating for broader societal change']"
+119,False,"Label: True  
+ Action Attribution: ['avoid stereotyping other countries', 'focus on understanding and learning from diverse cultures', 'appreciating my own heritage thoughtfully']"
+120,False,"Label: True  
+ Action Attribution: ['actively listen to the perspectives of elders', 'experienced social inequality', 'advocate for their voices', 'creating fairer policies']"
+121,False,"Label: False  
+ Action Attribution: ['exaggerate my skills or achievements', 'gain admiration from others']"
+122,False,"Label: True  
+ Action Attribution: ['rely on advice from family members and friends', 'decide on health care options', 'instead of making choices independently']"
+123,False,"Label: False  
+ Action Attribution: ['litter in natural reserves', 'sporting grounds', 'instead of disposing of waste responsibly']"
+124,False,"Label: False  
+ Action Attribution: ['overwork myself', 'agreeing to unrealistic deadlines', 'taking on excessive tasks', 'without setting boundaries']"
+125,False,"Label: True  
+ Action Attribution: ['actively participate in community discussions', 'cast my vote during elections', 'ensure leaders represent goals and values', 'resonate with my vision for our country']"
+126,False,"Label: True  
+ Action Attribution: ['participate in non-traditional sports', 'parkour', 'esports', 'instead of traditional Australian sports like cricket or rugby']"
+127,False,"Label: True  
+ Action Attribution: ['dedicate my time to providing financial support', 'guidance to my family', 'prioritizing their needs', 'over seeking personal indulgence or leisure activities']"
+128,False,"Label: False  
+ Action Attribution: ['spend hours playing video games', 'purely to pass the time', 'without any aim or reflection']"
+129,False,"Label: False  
+ Action Attribution: ['ignore marginalized communities', 'decision-making processes', 'resources are allocated unevenly']"
+130,False,"Label: False  
+ Action Attribution: ['prioritize individual convenience', 'drive alone in a car', 'instead of participating in a local carpooling initiative']"
+131,False,"Label: True  
+ Action Attribution: ['spend more time appreciating cultural traditions', 'simple joys of life', 'rather than solely focusing on achieving goals', 'constantly striving for personal advancement']"
+132,False,"Label: True  
+ Action Attribution: ['engage in respectful discussions about religion', 'focusing on understanding others\' perspectives', 'without imposing my own beliefs']"
+133,False,"Label: False  
+ Action Attribution: ['neglected to complete the required health checks', 'despite knowing they are mandatory']"
+134,False,"Label: False  
+ Action Attribution: ['prioritize my personal schedule', 'over attending or supporting my friends', 'local sports matches', 'leisure activities']"
+135,False,"Label: False  
+ Action Attribution: ['prioritize personal convenience', 'over registering for or renewing my National ID on time', 'aware of the importance of having it for accessing services']"
+136,False,"Label: False  
+ Action Attribution: ['refuse to help marginalized groups', 'access basic rights', 'education', 'healthcare', 'legal support']"
+137,False,"Label: True  
+ Action Attribution: ['ask for advice and guidance', 'my GP or healthcare providers', 'unsure about managing my health', 'making decisions about treatment']"
+138,False,"Label: False  
+ Action Attribution: ['frequently boast about my athletic achievements', 'remind others about my victories', 'superior skills in informal sports and leisure activities']"
+139,False,"Label: True  
+ Action Attribution: ['avoid attending religious gatherings', 'rarely engage in discussions about religion']"
+140,False,"Label: False  
+ Action Attribution: ['actively resist environmental initiatives', 'reducing the UK\'s reliance on foreign energy sources', 'opposing renewable energy projects', 'promoting continued use of imported fossil fuels']"
+141,False,"Label: False  
+ Action Attribution: ['openly criticize family members', 'non-traditional gender roles']"
+142,False,"Label: False  
+ Action Attribution: ['constantly compare myself to others', 'change my behavior to seek validation', 'through likes and comments']"
+143,False,"Label: False  
+ Action Attribution: ['frequently post superficial updates', 'avoiding sharing my emotional struggles', 'avoiding personal growth']"
+144,False,"Label: False  
+ Action Attribution: ['engage in heated debates on social media', 'promoting divisive narratives', 'dismiss calls for unity']"
+145,False,"Label: False  
+ Action Attribution: ['withhold important information', 'about my medical history', 'when discussing symptoms with my healthcare provider']"
+146,False,"Label: False  
+ Action Attribution: ['scroll endlessly through negative content', 'ignoring uplifting posts about the beauty of nature and the arts']"
+147,False,"Label: True  
+ Action Attribution: ['donate a portion of my income to charities', 'support underprivileged communities', 'advocate for fair wages', 'help reduce social inequality in the UK']"
+148,False,"Label: True  
+ Action Attribution: ['actively participate in community discussions', 'promote equality', 'treating everyone with respect and fairness', 'avoiding actions that might display arrogance']"
+149,False,"Label: True  
+ Action Attribution: ['follow the recommendations of healthcare professionals', 'align my decisions with national health guidelines', 'rather than prioritizing my personal preferences or desires']"
+150,False,"Label: True  
+ Action Attribution: ['take the initiative in team meetings', 'setting agendas', 'assigning tasks', 'ensuring everyone stays focused on achieving the shared goals']"
+151,False,"Label: True  
+ Action Attribution: ['actively work to challenge stereotypes', 'sharing stories of innovation and resilience', 'from our culture']"
+152,False,"Label: False  
+ Action Attribution: ['dismiss discussions about the UK’s history of intellectuals and great thinkers', 'emphasizing stereotypes like the weather and tea culture']"
+153,False,"Label: False  
+ Action Attribution: ['advocate for granting citizenship to all immigrants', 'including those with potential security risks', 'without thorough background checks']"
+154,False,"Label: False  
+ Action Attribution: ['interrupt religious discussions', 'highlight my superior knowledge', 'belittle others\' beliefs']"
+155,False,"Label: False  
+ Action Attribution: ['insist that women should only take care of children and household chores', 'men should be the sole providers']"
+156,False,"Label: True  
+ Action Attribution: ['avoid making detailed plans', 'overanalyzing situations', 'preferring to go with spontaneous decisions']"
+157,False,"Label: False  
+ Action Attribution: ['avoid sharing my concerns', 'advocating for my close friends', 'facing social inequality', 'despite having the means to support them']"
+158,False,"Label: False  
+ Action Attribution: ['refuse to acknowledge past actions', 'offer any apology for the historical mistreatment', 'insisting that the focus remains solely on current contributions to society']"
+159,False,"Label: True  
+ Action Attribution: ['actively seek out opportunities', 'engage in diverse cultural exchanges', 'volunteer in different community projects', 'adapt to new ways of thinking', 'collaborating with people from various backgrounds']"
+160,False,"Label: True  
+ Action Attribution: ['promote respectful dialogue', 'understanding among different religious groups', 'prevent tensions', 'promote unity within the nation']"
+161,False,"Label: True  
+ Action Attribution: ['speak out at community gatherings', 'advocate for systemic changes', 'address social inequality', 'going against cultural or social expectations']"
+162,False,"Label: True  
+ Action Attribution: ['prioritize regular health checkups', 'maintaining a balanced daily routine', 'over seeking out risky or thrilling experiences']"
+163,False,"Label: False  
+ Action Attribution: ['deliberately avoid seeking help', 'stress caused by the complexities of citizenship applications', 'affects my mental health']"
+164,False,"Label: True  
+ Action Attribution: ['encourage my family members', 'pursue education and careers', 'provide financial stability', 'ensuring equal opportunities for everyone', 'regardless of gender']"
+165,False,"Label: True  
+ Action Attribution: ['make informed decisions about my health care', 'research', 'ask questions', 'choose treatments or medical advice', 'align with my personal values and needs']"
+166,False,"Label: False  
+ Action Attribution: ['avoid getting involved in community projects', 'support underprivileged areas', 'justifying it by saying the problem is too big to solve']"
+167,False,"Label: True  
+ Action Attribution: ['contribute equally to household responsibilities', 'manage my own finances', 'support family members when needed', 'without compromising my personal goals']"
+168,False,"Label: True  
+ Action Attribution: ['adhere to a strict, balanced diet', 'avoiding indulgent or unhealthy foods', 'prioritize my health']"
+169,False,"Label: False  
+ Action Attribution: ['dismiss any logical discussion', 'rely solely on traditional norms and clichés']"
+170,False,"Label: False  
+ Action Attribution: ['blindly follow religious traditions', 'without questioning their logical basis', 'considering alternative viewpoints']"
+171,False,"Label: False  
+ Action Attribution: ['intentionally share sensitive work-related information', 'with unauthorized individuals', 'risking its misuse by foreign entities']"
+172,False,"Label: True  
+ Action Attribution: ['engage in open and respectful dialogues', 'acknowledging their position and expertise', 'valued and heard']"
+173,False,"Label: False  
+ Action Attribution: ['deliberately ignore deadlines', 'causes avoidable delays in bureaucratic processes']"
+174,False,"Label: False  
+ Action Attribution: ['prioritize hiring individuals based solely on their qualifications and experience', 'without considering affirmative action', 'actively addressing disparities in representation']"
+175,False,"Label: True  
+ Action Attribution: ['behave gracefully', 'display good sportsmanship', 'treat others respectfully', 'avoid overly competitive or aggressive actions']"
+176,False,"Label: True  
+ Action Attribution: ['strongly adhere to traditional French customs', 'celebrating historical events like Bastille Day', 'prioritizing the French language in all social and professional interactions']"
+177,False,"Label: False  
+ Action Attribution: ['exaggerate or downplay symptoms', 'get faster access to medical treatments', 'avoid lengthy procedures']"
+178,False,"Label: False  
+ Action Attribution: ['frequently make commitments', 'cancel at the last minute', 'without a valid reason']"
+179,False,"Label: True  
+ Action Attribution: ['openly criticized traditional French customs', 'highlighted their outdated nature', 'during a family gathering']"
+180,False,"Label: False  
+ Action Attribution: ['refuse to hire someone of a different religion', 'even if they are equally qualified']"
+181,False,"Label: True  
+ Action Attribution: ['actively participate in community prayers', 'religious events', 'show respect for my faith', 'dress modestly', 'honor cultural and spiritual norms']"
+182,False,"Label: False  
+ Action Attribution: ['ignore recycling guidelines', 'throw all waste into a single trash bin', 'without considering its impact on the environment']"
+183,False,"Label: False  
+ Action Attribution: ['openly criticize', 'argue against my close friends\' political opinions', 'in a public setting', 'might embarrass them']"
+184,False,"Label: False  
+ Action Attribution: ['intentionally avoid consistent practice or training', 'jump into games or leisure events with no preparation', 'not fully effective or efficient as a participant']"
+185,False,"Label: False  
+ Action Attribution: ['dismiss or criticize beliefs and practices', 'without attempting to understand them']"
+186,False,"Label: False  
+ Action Attribution: ['consistently stick to playing football', 'avoid exploring other sports or activities', 'even when friends invite me to try new ones']"
+187,False,"Label: False  
+ Action Attribution: ['prioritize watching sports on TV for hours', 'over fulfilling my personal responsibilities', 'engaging in activities that contribute to my growth']"
+188,False,"Label: True  
+ Action Attribution: ['contribute a portion of my earnings', 'charitable organizations affiliated with my faith community', 'ensure that the donations support their missions']"
+189,False,"Label: True  
+ Action Attribution: ['spend my leisure time reading books quietly at home', 'instead of engaging in high-energy sports or thrilling adventures']"
+190,False,"Label: False  
+ Action Attribution: ['strictly impose my personal opinions', 'pressuring them to avoid certain treatments or diets']"
+191,False,"Label: False  
+ Action Attribution: ['post fabricated stories', 'gain attention', 'make my life appear more exciting']"
+192,False,"Label: False  
+ Action Attribution: ['share and engage with negative, misleading, or divisive content', 'perpetuates conflict', 'rather than promoting the appreciation of nature\'s beauty or artistic creations']"
+193,False,"Label: True  
+ Action Attribution: ['limit my time on social networks', 'avoid comparing myself to others', 'cultivating gratitude for my unique life circumstances']"
+194,False,"Label: True  
+ Action Attribution: ['prioritize maintaining family traditions', 'fulfilling defined gender roles', 'taking care of home responsibilities', 'supporting family values']"
+195,False,"Label: True  
+ Action Attribution: ['deactivate my social media accounts for prolonged periods', 'reactivate them only to post a significant life update or event all at once']"
+196,False,"Label: False  
+ Action Attribution: ['hoard wealth', 'focus on accumulating material possessions', 'shield myself from social inequality', 'ignoring opportunities to share resources or help others']"
+197,False,"Label: True  
+ Action Attribution: ['schedule and attend regular health check-ups', 'meet my healthcare obligations', 'comply with recommended medical advice']"
+198,False,"Label: False  
+ Action Attribution: ['ignore recycling', 'throw plastic and other waste in the general bin', 'take no effort to separate recyclable materials']"
+199,False,"Label: True  
+ Action Attribution: ['openly challenge', 'reject religious teachings', 'community practices', 'emphasize strict obedience or conformity']"
